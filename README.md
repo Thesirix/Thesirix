@@ -202,13 +202,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
+
 1. ⭐ Starred [OstinUA/Site-Analyzer](https://github.com/OstinUA/Site-Analyzer) - _just now_
 2. ⭐ Starred [OstinUA/OstinUA](https://github.com/OstinUA/OstinUA) - _just now_
 3. ⭐ Starred [Patrickson2/my-late-show-codechallenge](https://github.com/Patrickson2/my-late-show-codechallenge) - _just now_
 4. ⭐ Starred [Patrickson2/MY-DUKA-Project](https://github.com/Patrickson2/MY-DUKA-Project) - _just now_
 5. ⭐ Starred [l-Spook-l/golfSim-mobile](https://github.com/l-Spook-l/golfSim-mobile) - _just now_
 <!-- ACTIVITY_END -->
-
 
 ## 🗣️ Languages I Speak
 
@@ -225,13 +225,16 @@ Do you have a technical challenge or an app idea? Let's talk.
 ## 🧮 Equation of the Day
 
 <!-- EQUATION_START -->
+
 $$
 \large \frac{\kappa}{\sigma} = L T
 $$
 
 Gustav Wiedemann & Rudolph Franz - **Wiedemann-Franz Law** (1853)
+
 > [!NOTE]
 > States that the ratio of the thermal conductivity to the electrical conductivity of a metal is proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wiedemann%E2%80%93Franz_law)
+
 <!-- EQUATION_END -->
 
 <br>
@@ -619,40 +622,40 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 <img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                1331 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 % 
-🌆 Daytime                2242 commits        ████████████░░░░░░░░░░░░░   46.40 % 
-🌃 Evening                1034 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-🌙 Night                  225 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
+🌞 Morning                1331 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 %
+🌆 Daytime                2242 commits        ████████████░░░░░░░░░░░░░   46.40 %
+🌃 Evening                1034 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 %
+🌙 Night                  225 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
-Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   35.95 % 
-Wednesday                660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Thursday                 660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
-Friday                   370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 % 
-Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 %
+Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   35.95 %
+Wednesday                660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Thursday                 660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
+Friday                   370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
+Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages: 
-Markdown                 23 hrs 29 mins      ██████████████░░░░░░░░░░░   55.76 % 
-YAML                     6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
-Other                    5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
-Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-JSON                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+💬 Programming Languages:
+Markdown                 23 hrs 29 mins      ██████████████░░░░░░░░░░░   55.76 %
+YAML                     6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
+Other                    5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
+Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
+JSON                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
 ```
-
 
 <!--END_SECTION:waka-->
 
