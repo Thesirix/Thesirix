@@ -1,7 +1,7 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: '41 * * * *'
+    - cron: '44 * * * *'
 
 jobs:
   update-weather:
