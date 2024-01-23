@@ -22,19 +22,19 @@ J'ai une boîte à outils colorée comprenant :
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain possible</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly cloudy</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.2 -  13.2 °C</td><td>9.3 -  17.2 °C</td><td>10 -  16.5 °C</td><td>10 -  16.9 °C</td><td>9.7 -  13.7 °C</td><td>10.4 -  13.8 °C</td><td>10.2 -  13.1 °C</td>
+        <td>9.5 -  13.4 °C</td><td>9.4 -  17.7 °C</td><td>10.2 -  16.6 °C</td><td>10.3 -  16.8 °C</td><td>9.6 -  14.3 °C</td><td>10.3 -  14.6 °C</td><td>10.9 -  13.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>43.9 kph</td><td>38.9 kph</td><td>27.7 kph</td><td>34.6 kph</td><td>18.7 kph</td><td>7.6 kph</td><td>6.8 kph</td>
+        <td>42.8 kph</td><td>42.5 kph</td><td>30.6 kph</td><td>40 kph</td><td>23.4 kph</td><td>23.4 kph</td><td>10.4 kph</td>
     </tr>
 </table>
 
