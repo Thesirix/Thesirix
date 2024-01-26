@@ -18,23 +18,23 @@ J'ai une boîte à outils colorée comprenant :
 <table>
     <tr>
         <th>Date</th>
-        <td>26/01/2024</td><td>27/01/2024</td><td>28/01/2024</td><td>29/01/2024</td><td>30/01/2024</td><td>31/01/2024</td><td>01/02/2024</td>
+        <td>27/01/2024</td><td>28/01/2024</td><td>29/01/2024</td><td>30/01/2024</td><td>31/01/2024</td><td>01/02/2024</td><td>02/02/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.7 -  16.6 °C</td><td>10.3 -  14.6 °C</td><td>10.8 -  15.3 °C</td><td>9.8 -  14.2 °C</td><td>10.2 -  14.3 °C</td><td>9.9 -  13.4 °C</td><td>9.1 -  12.8 °C</td>
+        <td>10.3 -  14.7 °C</td><td>10.7 -  15.2 °C</td><td>10.1 -  14.1 °C</td><td>9.5 -  13.5 °C</td><td>9.9 -  13.4 °C</td><td>9.6 -  13.5 °C</td><td>9.2 -  12.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>38.9 kph</td><td>30.6 kph</td><td>21.2 kph</td><td>15.1 kph</td><td>14 kph</td><td>9 kph</td><td>6.5 kph</td>
+        <td>33.1 kph</td><td>22.7 kph</td><td>15.5 kph</td><td>10.4 kph</td><td>6.1 kph</td><td>10.4 kph</td><td>9.4 kph</td>
     </tr>
 </table>
 
