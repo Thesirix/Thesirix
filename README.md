@@ -22,19 +22,19 @@ J'ai une boîte à outils colorée comprenant :
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.6 -  14 °C</td><td>9.7 -  14.1 °C</td><td>9.8 -  14.2 °C</td><td>8.4 -  14.4 °C</td><td>9.4 -  13.6 °C</td><td>10.2 -  14.7 °C</td><td>10 -  15.3 °C</td>
+        <td>8.5 -  14.1 °C</td><td>9.8 -  13.7 °C</td><td>10.1 -  14.4 °C</td><td>8.6 -  15.2 °C</td><td>9.2 -  14.1 °C</td><td>10 -  13.7 °C</td><td>10.4 -  14.6 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>41.8 kph</td><td>15.1 kph</td><td>17.3 kph</td><td>19.4 kph</td><td>9.7 kph</td><td>16.9 kph</td><td>30.6 kph</td>
+        <td>37.8 kph</td><td>12.6 kph</td><td>15.5 kph</td><td>23.4 kph</td><td>8.3 kph</td><td>7.9 kph</td><td>25.9 kph</td>
     </tr>
 </table>
 
