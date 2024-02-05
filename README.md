@@ -18,23 +18,23 @@ J'ai une boîte à outils colorée comprenant :
 <table>
     <tr>
         <th>Date</th>
-        <td>05/02/2024</td><td>06/02/2024</td><td>07/02/2024</td><td>08/02/2024</td><td>09/02/2024</td><td>10/02/2024</td><td>11/02/2024</td>
+        <td>05/02/2024</td><td>06/02/2024</td><td>07/02/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Sunny</td><td width="200px">Overcast </td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.1 -  15.6 °C</td><td>10.5 -  14 °C</td><td>9.5 -  15.3 °C</td><td>11.6 -  15.4 °C</td><td>12.1 -  14 °C</td><td>10.7 -  11.7 °C</td><td>6.5 -  10.3 °C</td>
+        <td>9.1 -  15.6 °C</td><td>10.5 -  14 °C</td><td>9.5 -  15.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>18.7 kph</td><td>12.2 kph</td><td>23.4 kph</td><td>37.1 kph</td><td>40.3 kph</td><td>52.6 kph</td><td>50.8 kph</td>
+        <td>18.7 kph</td><td>12.2 kph</td><td>23.4 kph</td>
     </tr>
 </table>
 
