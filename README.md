@@ -30,11 +30,11 @@ J'ai une boîte à outils colorée comprenant :
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>12.3 -  14.8 °C</td><td>11.7 -  13.9 °C</td><td>7.4 -  11.5 °C</td>
+        <td>11.8 -  14.4 °C</td><td>12.1 -  13.7 °C</td><td>9 -  11.1 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>33.5 kph</td><td>40.7 kph</td>
+        <td>11.5 kph</td><td>33.1 kph</td><td>42.1 kph</td>
     </tr>
 </table>
 
