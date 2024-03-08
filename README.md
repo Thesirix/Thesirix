@@ -18,23 +18,23 @@ J'ai une boîte à outils colorée comprenant :
 <table>
     <tr>
         <th>Date</th>
-        <td>08/03/2024</td><td>09/03/2024</td><td>10/03/2024</td>
+        <td>09/03/2024</td><td>10/03/2024</td><td>11/03/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Heavy rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.2 -  12.9 °C</td><td>10 -  12.6 °C</td><td>9.8 -  11.7 °C</td>
+        <td>10 -  12.6 °C</td><td>9.8 -  11.7 °C</td><td>9.5 -  13.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>55.8 kph</td><td>52.6 kph</td><td>53.6 kph</td>
+        <td>52.6 kph</td><td>53.6 kph</td><td>37.8 kph</td>
     </tr>
 </table>
 
