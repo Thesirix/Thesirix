@@ -22,19 +22,19 @@ J'ai une boîte à outils colorée comprenant :
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/308.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Heavy rain</td><td width="200px">Moderate rain</td><td width="200px">Partly Cloudy </td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10 -  12.9 °C</td><td>10.6 -  12.4 °C</td><td>8.4 -  12.8 °C</td>
+        <td>10.1 -  12.7 °C</td><td>10.7 -  12.7 °C</td><td>9.1 -  13.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>54.4 kph</td><td>55.8 kph</td><td>39.6 kph</td>
+        <td>55.1 kph</td><td>55.1 kph</td><td>37.1 kph</td>
     </tr>
 </table>
 
