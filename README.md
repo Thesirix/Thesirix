@@ -18,7 +18,7 @@ J'ai une boîte à outils colorée comprenant :
 <table>
     <tr>
         <th>Date</th>
-        <td>13/03/2024</td><td>14/03/2024</td><td>15/03/2024</td>
+        <td>14/03/2024</td><td>15/03/2024</td><td>16/03/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -30,11 +30,11 @@ J'ai une boîte à outils colorée comprenant :
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 -  14.9 °C</td><td>10.2 -  14.6 °C</td><td>11.3 -  15.5 °C</td>
+        <td>10.2 -  14.6 °C</td><td>11.3 -  15.5 °C</td><td>12.5 -  17.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>23 kph</td><td>16.2 kph</td><td>13.3 kph</td>
+        <td>16.2 kph</td><td>13.3 kph</td><td>39.2 kph</td>
     </tr>
 </table>
 
