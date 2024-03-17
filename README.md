@@ -2,19 +2,24 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;" />
-</h1>
-<div style="display: flex; align-items: center;">
-    <div style="flex: 1;">
-        <p>Hey les devs et les curieux, je suis thesirix, un passionné de code basé à Simplon! Prêt à explorer le monde excitant du développement web avec moi ? 🚀</p>
-    </div>
-    <div style="flex: 1;">
-        <img align="right" alt="Coding" width="500" height="280" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif">
-    </div>
-</div>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;" /></h1>
 
-## <h2 align="center">Mon Univers Techno 🌐</h2>
+    
+ <img align="right" alt="Coding" width="400" height="250" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif">
+
+
+
+  <p>
+      <br><br><br><br>
+    Hey les devs et les curieux,<br> je suis thesirix,<br> un passionné de code basé à Simplon!<br> Prêt à explorer le monde excitant <br>du développement web avec moi ?
+  </p>
+
+
+<br><br>
+
+<h2 align="center">Mon Univers Techno 🌐</h2>
 J'ai une boîte à outils colorée comprenant :
+<br><br>
 
 - Python : Mon super-héros pour créer des applications géniales.
 - HTML : La base solide sur laquelle je construis mes sites web.
@@ -33,7 +38,7 @@ J'ai une boîte à outils colorée comprenant :
 
  Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
 
-## <h2 align="center">La Météo  ☀️</h2>
+<h2 align="center">La Météo  ☀️</h2>
 
 
 <table>
@@ -61,7 +66,7 @@ J'ai une boîte à outils colorée comprenant :
 
 
 
-## <h2 align="center">Let's Connect! 🚀</h2>
+<h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
 <p align="center"><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="50" width="50" /></a>
 </p>
@@ -92,7 +97,6 @@ Si vous êtes partants pour coder ensemble, discuter de formations ou simplement
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
 </div>
-
 
 
 
