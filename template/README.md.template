@@ -5,7 +5,7 @@
 
 Hey les devs et les curieux, je suis thesirix, un(e) passionné(e) de code basé(e) à Simplon! Prêt(e) à explorer le monde excitant du développement web avec moi ? 🚀
 
-## Mon Univers Techno 🌐
+## <h2 align="center">Mon Univers Techno 🌐</h2>
 J'ai une boîte à outils colorée comprenant :
 
 - Python : Mon super-héros pour créer des applications géniales.
@@ -16,20 +16,21 @@ J'ai une boîte à outils colorée comprenant :
 - Adobe : Pour ajouter une touche créative à mes projets et exprimer ma vision artistique.
 
 
-## ToolBox 🛠
+#### <h2 align="center">ToolBox 🛠</h2> 
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,figma,photoshop,illustrator,premiere,ae,ableton"/>
 
 
-## Trop Cool d'Apprendre! 🎓
+##<h2 align="center">Trop Cool d'Apprendre! 🎓</h2> 
+
  Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
 
-## La Météo  ☀️
+## <h2 align="center">La Météo  ☀️</h2>
 
 {{ template "daily-table" .Weathers }}
 
 
-## Let's Connect! 🚀
+## <h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant(e) ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
 <p align="left">
 <a href="https://instagram.com/art_trip_adventure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="30" width="40" /></a>
