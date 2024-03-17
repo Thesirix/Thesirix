@@ -1,10 +1,11 @@
-# Salut à tous, c'est Thesirix! 👋 <img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
-
-
+<img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;" />
+</h1>
 
 Hey les devs et les curieux, je suis thesirix, un(e) passionné(e) de code basé(e) à Simplon! Prêt(e) à explorer le monde excitant du développement web avec moi ? 🚀
 
-## Mon Univers Techno 🌐
+## <h2 align="center">Mon Univers Techno 🌐</h2>
 J'ai une boîte à outils colorée comprenant :
 
 - Python : Mon super-héros pour créer des applications géniales.
@@ -15,16 +16,16 @@ J'ai une boîte à outils colorée comprenant :
 - Adobe : Pour ajouter une touche créative à mes projets et exprimer ma vision artistique.
 
 
-## ToolBox 🛠
+#### <h2 align="center">ToolBox 🛠</h2> 
 
-<div style="text-align:center;">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>&nbsp;&nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> &nbsp;&nbsp;&nbsp;   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> &nbsp;&nbsp;&nbsp;<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>&nbsp;&nbsp;&nbsp;<img src="https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white"/>
-</div>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,figma,photoshop,illustrator,premiere,ae,ableton"/>
 
-## Trop Cool d'Apprendre! 🎓
+
+##<h2 align="center">Trop Cool d'Apprendre! 🎓</h2> 
+
  Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
 
-## La Météo  ☀️
+## <h2 align="center">La Météo  ☀️</h2>
 
 
 <table>
@@ -52,7 +53,7 @@ J'ai une boîte à outils colorée comprenant :
 
 
 
-## Let's Connect! 🚀
+## <h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant(e) ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
 <p align="left">
 <a href="https://instagram.com/art_trip_adventure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="30" width="40" /></a>
@@ -64,11 +65,14 @@ Si vous êtes partants pour coder ensemble, discuter de formations ou simplement
 ![Gif](gift.gif)
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesirix&theme=dark" alt="thesirix" /></p>
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
+</div>
 
 
 
