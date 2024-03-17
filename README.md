@@ -21,7 +21,7 @@ J'ai une boîte à outils colorée comprenant :
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,figma,photoshop,illustrator,premiere,ae,ableton"/>
 
 
-##<h2 align="center">Trop Cool d'Apprendre! 🎓</h2> 
+<h2 align="center">Trop Cool d'Apprendre! 🎓</h2> 
 
  Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
 
