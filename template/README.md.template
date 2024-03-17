@@ -1,9 +1,17 @@
+![Bannière](hacker.jpg)
+
 <img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;" />
 </h1>
-
-Hey les devs et les curieux, je suis thesirix, un(e) passionné(e) de code basé(e) à Simplon! Prêt à explorer le monde excitant du développement web avec moi ? 🚀
+<div style="display: flex; align-items: center;">
+    <div style="flex: 1;">
+        <p>Hey les devs et les curieux, je suis thesirix, un(e) passionné(e) de code basé(e) à Simplon! Prêt à explorer le monde excitant du développement web avec moi ? 🚀</p>
+    </div>
+    <div style="flex: 1;">
+        <img align="right" alt="Coding" width="500" height="280" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif">
+    </div>
+</div>
 
 ## <h2 align="center">Mon Univers Techno 🌐</h2>
 J'ai une boîte à outils colorée comprenant :
@@ -32,20 +40,22 @@ J'ai une boîte à outils colorée comprenant :
 
 ## <h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant(e) ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
-<p align="left">
-<a href="https://instagram.com/art_trip_adventure" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="30" width="40" /></a>
+<p align="center"><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="50" width="50" /></a>
 </p>
+
 
 <br>
 
 
-![Gif](gift.gif)
+<p align="center">
+  <img src="gift.gif" alt="Gif">
+</p>
 
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
@@ -54,8 +64,8 @@ Si vous êtes partants pour coder ensemble, discuter de formations ou simplement
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=390 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
-  <img width=390 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
+  <img width=413 height=163 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
+  <img width=390 height=163 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
 </div>
