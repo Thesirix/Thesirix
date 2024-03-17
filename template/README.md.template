@@ -38,12 +38,35 @@ J'ai une boîte à outils colorée comprenant :
 
  Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
 
-## <h2 align="center">La Météo  ☀️</h2>
-
-{{ template "daily-table" .Weathers }}
+<h2 align="center">La Météo  ☀️</h2>
 
 
-## <h2 align="center">Let's Connect! 🚀</h2>
+<table>
+    <tr>
+        <th>Date</th>
+        <td>17/03/2024</td><td>18/03/2024</td><td>19/03/2024</td>
+    </tr>
+    <tr>
+        <th>Weather</th>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+    </tr>
+    <tr>
+        <th>Condition</th>
+        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
+    </tr>
+    <tr>
+        <th>Temperature</th>
+        <td>12.6 -  16.2 °C</td><td>13.3 -  19.4 °C</td><td>12.7 -  16 °C</td>
+    </tr>
+    <tr>
+        <th>Wind</th>
+        <td>10.8 kph</td><td>29.9 kph</td><td>11.9 kph</td>
+    </tr>
+</table>
+
+
+
+<h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
 <p align="center"><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="50" width="50" /></a>
 </p>
@@ -69,12 +92,11 @@ Si vous êtes partants pour coder ensemble, discuter de formations ou simplement
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=412 height=163 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
-  <img width=391 height=163 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
+  <img width=413 height=163 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
+  <img width=390 height=163 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
 </div>
-
 
 
 
