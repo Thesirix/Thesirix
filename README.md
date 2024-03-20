@@ -68,6 +68,7 @@ J'ai une boîte à outils colorée comprenant :
 
 <h2 align="center">Let's Connect! 🚀</h2>
 Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
+<br><br>
 <p align="center"><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="50" width="50" /></a>
 </p>
 
