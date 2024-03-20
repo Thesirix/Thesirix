@@ -93,7 +93,7 @@ Si vous êtes partants pour coder ensemble, discuter de formations ou simplement
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-[![GitHub Streak](https://streak-stats.demolab.com?user=thesirix&theme=tokyonight){width=413px height=163px}](https://git.io/streak-stats)
+  <img width=413 height=163 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
   <img width=390 height=163 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
