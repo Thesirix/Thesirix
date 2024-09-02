@@ -29,7 +29,7 @@ Mon arsenal technologique comprend : :
 - **JavaScript** : L'ingrédient clé pour rendre mes sites interactifs et dynamiques.
 - **React** : Mon framework  pour concevoir des interfaces utilisateur modernes et réactives.
 - **Node.js & Express** : Mes outils pour bâtir des backends performants et évolutifs.
-- **Adobe ** : Pour intégrer créativité et design dans chacun de mes projets.
+- **Adobe** : Pour intégrer créativité et design dans chacun de mes projets.
 
 #### <h2 align="center">ToolBox 🛠</h2> 
 
