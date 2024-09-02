@@ -9,34 +9,40 @@
 
 
 
-  <p>
-      <br><br><br><br>
-    Hey les devs et les curieux,<br> je suis thesirix,<br> un passionné de code basé à Simplon!<br> Prêt à explorer le monde excitant <br>du développement web avec moi ?
-  </p>
+<p>
+<br><br>
+    Bonjour à tous,<br> <br>Je suis Renaud, un développeur passionné par développement web. <br>
+    Je suis dédié à créer des solutions innovantes et à améliorer constamment mes compétences techniques.<br>
+    Ensemble, nous pouvons transformer vos idées en projets concrets et réussis.
+</p>
 
 
 <br><br>
 
 <h2 align="center">Mon Univers Techno 🌐</h2>
-J'ai une boîte à outils colorée comprenant :
+Mon arsenal technologique comprend : :
 <br><br>
 
-- Python : Mon super-héros pour créer des applications géniales.
-- HTML : La base solide sur laquelle je construis mes sites web.
-- CSS : Pour ajouter une touche de style et faire danser mes pages.
-- JavaScript : Ma baguette magique pour rendre mes sites interactifs et dynamiques.
-- React : Mon framework préféré pour construire des interfaces utilisateur modernes et réactives.
-- Adobe : Pour ajouter une touche créative à mes projets et exprimer ma vision artistique.
-
+- **Python** : Mon allié pour développer des applications puissantes et robustes.
+- **HTML** : La base sur laquelle reposent toutes mes créations web.
+- **CSS** : L'outil qui me permet de styliser et de donner vie à mes pages.
+- **JavaScript** : L'ingrédient clé pour rendre mes sites interactifs et dynamiques.
+- **React** : Mon framework  pour concevoir des interfaces utilisateur modernes et réactives.
+- **Node.js & Express** : Mes outils pour bâtir des backends performants et évolutifs.
+- **Adobe Suite** : Pour intégrer créativité et design dans chacun de mes projets.
 
 #### <h2 align="center">ToolBox 🛠</h2> 
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,figma,photoshop,illustrator,premiere,ae,ableton"/>
 
 
-<h2 align="center">Trop Cool d'Apprendre! 🎓</h2> 
+<h2 align="center">Projets  🚧</h2>
 
- Je partage l'amour du code à travers des ateliers fun et des sessions de livecoding. C'est le genre de truc qui me fait sauter du lit chaque matin! 🌈
+Je travaille constamment sur de nouveaux projets pour mettre en pratique mes compétences et explorer de nouvelles technologies. 
+
+- **Application Web** : Développement d'une application full-stack pour gérer les tâches avec une interface utilisateur intuitive et un backend performant utilisant Node.js et Express.
+- **Site Vitrine** : Création d'un site web responsive pour une petite entreprise, avec un design personnalisé et des animations interactives en JavaScript.
+- **Outil de Visualisation de Données** : Conception d'un outil en Python pour analyser et visualiser des données complexes, facilitant ainsi la prise de décisions basée sur les données
 
 <h2 align="center">La Météo  ☀️</h2>
 
@@ -67,10 +73,11 @@ J'ai une boîte à outils colorée comprenant :
 
 
 <h2 align="center">Let's Connect! 🚀</h2>
-Si vous êtes partants pour coder ensemble, discuter de formations ou simplement échanger des idées, je suis toujours partant ! Contactez-moi. On va créer quelque chose de génial ensemble! 🌟
+Vous avez un projet en tête, envie de collaborer, ou simplement discuter de nouvelles idées ? Je serais ravi d'échanger avec vous ! N'hésitez pas à me contacter pour explorer ensemble de nouvelles opportunités et créer quelque chose. 🌟
 <br><br>
-<p align="center"><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="art_trip_adventure" height="50" width="50" /></a>
+<p align="center"><a href="https://www.linkedin.com/in/renaud-mercier/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </p>
+
 
 
 <br>
