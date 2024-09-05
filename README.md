@@ -62,11 +62,11 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.4 -  23.3 °C</td><td>20.6 -  25.4 °C</td><td>22.4 -  27.7 °C</td>
+        <td>19.6 -  22.8 °C</td><td>20.6 -  25.1 °C</td><td>21.5 -  27.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>29.5 kph</td><td>26.6 kph</td><td>43.2 kph</td>
+        <td>34.9 kph</td><td>27 kph</td><td>45 kph</td>
     </tr>
 </table>
 
