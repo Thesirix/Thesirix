@@ -54,19 +54,19 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>18.3 -  25.2 °C</td><td>18 -  24.4 °C</td><td>14.2 -  19.9 °C</td>
+        <td>18.2 -  24.8 °C</td><td>17.7 -  24.8 °C</td><td>14.5 -  19.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>49.3 kph</td><td>42.1 kph</td><td>60.5 kph</td>
+        <td>49.7 kph</td><td>40.3 kph</td><td>58.7 kph</td>
     </tr>
 </table>
 
