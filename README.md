@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>19/10/2024</td><td>20/10/2024</td><td>21/10/2024</td>
+        <td>20/10/2024</td><td>21/10/2024</td><td>22/10/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>16.7 -  21.4 °C</td><td>16.7 -  20.3 °C</td><td>17.9 -  21.9 °C</td>
+        <td>16.7 -  20.3 °C</td><td>17.9 -  21.9 °C</td><td>18.2 -  21.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>19.4 kph</td><td>17.3 kph</td><td>20.5 kph</td>
+        <td>17.3 kph</td><td>20.5 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
