@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>13/12/2024</td><td>14/12/2024</td><td>15/12/2024</td>
+        <td>14/12/2024</td><td>15/12/2024</td><td>16/12/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>9.4 -  12 °C</td><td>8.4 -  11.5 °C</td><td>7.2 -  10.2 °C</td>
+        <td>8.4 -  11.5 °C</td><td>7.2 -  10.2 °C</td><td>7.4 -  12.5 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>34.2 kph</td><td>36.4 kph</td><td>41.8 kph</td>
+        <td>36.4 kph</td><td>41.8 kph</td><td>11.9 kph</td>
     </tr>
 </table>
 
