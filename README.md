@@ -50,7 +50,7 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>23/12/2024</td><td>24/12/2024</td><td>25/12/2024</td>
+        <td>24/12/2024</td><td>25/12/2024</td><td>26/12/2024</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -62,11 +62,11 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>6.7 -  9.4 °C</td><td>6.3 -  9.8 °C</td><td>5.7 -  11.1 °C</td>
+        <td>6.3 -  9.8 °C</td><td>5.7 -  11.1 °C</td><td>8 -  11.7 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>69.1 kph</td><td>67.7 kph</td><td>13.7 kph</td>
+        <td>67.7 kph</td><td>13.7 kph</td><td>8.3 kph</td>
     </tr>
 </table>
 
