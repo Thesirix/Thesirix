@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>17/02/2025</td><td>18/02/2025</td><td>19/02/2025</td>
+        <td>18/02/2025</td><td>19/02/2025</td><td>20/02/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Partly Cloudy </td><td width="200px">Sunny</td><td width="200px">Overcast </td>
+        <td width="200px">Sunny</td><td width="200px">Overcast </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>8.8 -  12.4 °C</td><td>8.6 -  12.2 °C</td><td>8.9 -  12.3 °C</td>
+        <td>8.6 -  12.2 °C</td><td>8.9 -  12.3 °C</td><td>8 -  11.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14.8 kph</td><td>16.9 kph</td><td>20.9 kph</td>
+        <td>16.9 kph</td><td>20.9 kph</td><td>7.9 kph</td>
     </tr>
 </table>
 
