@@ -101,7 +101,7 @@ Vous avez un projet en tête, envie de collaborer, ou simplement discuter de nou
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-  <img width=413 height=163 src="https://streak-stats.demolab.com?user=thesirix&theme=tokyonight" alt="streak stats"/>
+  <img width=413 height=163 src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" alt="streak stats"/>
   <img width=390 height=163 src="https://github-readme-stats.vercel.app/api?username=thesirix&show_icons=true&theme=tokyonight&locale=en" alt="thesirix" />
   <br/>
   <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
