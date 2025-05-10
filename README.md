@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>10/05/2025</td><td>11/05/2025</td><td>12/05/2025</td>
+        <td>11/05/2025</td><td>12/05/2025</td><td>13/05/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>15 -  18.9 °C</td><td>14.8 -  17.8 °C</td><td>14.8 -  19.7 °C</td>
+        <td>14.8 -  17.8 °C</td><td>14.8 -  19.7 °C</td><td>14.1 -  21.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>27 kph</td><td>36.7 kph</td><td>25.6 kph</td>
+        <td>36.7 kph</td><td>25.6 kph</td><td>25.6 kph</td>
     </tr>
 </table>
 
