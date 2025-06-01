@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>01/06/2025</td><td>02/06/2025</td><td>03/06/2025</td>
+        <td>02/06/2025</td><td>03/06/2025</td><td>04/06/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.2 -  24 °C</td><td>19.5 -  23 °C</td><td>19.7 -  25.1 °C</td>
+        <td>19.5 -  23 °C</td><td>19.7 -  25.1 °C</td><td>18.6 -  22.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>15.8 kph</td><td>11.9 kph</td><td>29.9 kph</td>
+        <td>11.9 kph</td><td>29.9 kph</td><td>36.7 kph</td>
     </tr>
 </table>
 
