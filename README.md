@@ -50,7 +50,7 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>28/07/2025</td><td>29/07/2025</td><td>30/07/2025</td>
+        <td>29/07/2025</td><td>30/07/2025</td><td>31/07/2025</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -62,11 +62,11 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>19.7 -  26.6 °C</td><td>19 -  26.5 °C</td><td>20.2 -  27.3 °C</td>
+        <td>19 -  26.5 °C</td><td>20.2 -  27.3 °C</td><td>20.4 -  26.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>55.8 kph</td><td>31.7 kph</td><td>30.2 kph</td>
+        <td>31.7 kph</td><td>30.2 kph</td><td>32.4 kph</td>
     </tr>
 </table>
 
