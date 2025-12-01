@@ -33,7 +33,7 @@ Mon arsenal technologique comprend : :
 
 #### <h2 align="center">ToolBox 🛠</h2> 
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,figma,photoshop,illustrator,premiere,ae,ableton"/>
+<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,github,md,docker,mysql,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
 
 
 <h2 align="center">Projets  🚧</h2>
