@@ -1,7 +1,8 @@
 name: "Cronjob"
 on:
   schedule:
-    - cron: '27 * * * *'
+    - cron: "27 * * * *"
+  workflow_dispatch:
 
 jobs:
   update-weather:
@@ -15,9 +16,9 @@ jobs:
           city: Marseille
           days: 7
           weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: 'template/README.md.template'
-          out-file: 'README.md'
-        
+          template-file: "template/README.md.template"
+          out-file: "README.md"
+
       - name: Commit
         run: |
           if git diff --exit-code; then
