@@ -50,23 +50,23 @@ Je travaille constamment sur de nouveaux projets pour mettre en pratique mes com
 <table>
     <tr>
         <th>Date</th>
-        <td>01/01/2026</td><td>02/01/2026</td><td>03/01/2026</td>
+        <td>02/01/2026</td><td>03/01/2026</td><td>04/01/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/122.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Partly Cloudy </td><td width="200px">Overcast </td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Overcast </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>6.7 -  9 °C</td><td>6.4 -  8.9 °C</td><td>2.6 -  6.3 °C</td>
+        <td>6.4 -  8.9 °C</td><td>2.6 -  6.3 °C</td><td>1.2 -  5.9 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9.7 kph</td><td>19.8 kph</td><td>37.1 kph</td>
+        <td>19.8 kph</td><td>37.1 kph</td><td>27.7 kph</td>
     </tr>
 </table>
 
