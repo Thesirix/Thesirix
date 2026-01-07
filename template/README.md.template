@@ -79,7 +79,9 @@ Vous avez un projet en tête, envie de collaborer, ou simplement discuter de nou
 <br>
 <div align=center>
   <img width=413 height=163 src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" alt="streak stats"/>
-  <img width="390" height="163" src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg" alt="Thesirix" />
+   <img width="390" height="163"
+       src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg?sanitize=true"
+       alt="Thesirix" />
 
   <br/>
   <img width="325" align="center" src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
