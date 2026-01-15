@@ -2,9 +2,12 @@
 
 <img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" /></h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;"  /></h1>
 
+    
   <img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+
+
 
 <p>
 <br><br>
@@ -12,6 +15,7 @@
     Au-delà du code, je m'attache à concevoir des écosystèmes logiciels cohérents et performants.<br>
     Ensemble, transformons vos ambitions techniques en solutions concrètes, scalables et durables.
 </p>
+
 
 <br><br>
 
@@ -27,9 +31,10 @@ Mon arsenal technologique s'articule autour de la performance et de la mobilité
 - 🐳 **Docker & CI/CD** : L'infrastructure pour des déploiements fiables et automatisés.
 - 🎨 **Adobe** : Pour garder une exigence visuelle et ergonomique forte dans mes projets techniques.
 
-#### <h2 align="center">ToolBox 🛠</h2>
+#### <h2 align="center">ToolBox 🛠</h2> 
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,github,md,docker,mysql,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
+
 
 <h2 align="center">Projets  🚧</h2>
 
@@ -41,6 +46,7 @@ Pour moi, le code est un terrain de jeu créatif. J'aime quand les choses tourne
 - 📊 **Data & Outils** : J'utilise Python comme un couteau suisse, que ce soit pour analyser de la data ou créer des scripts qui me facilitent la vie au quotidien.
 
 <h2 align="center">La Météo  ☀️</h2>
+
 
 <table>
     <tr>
@@ -65,17 +71,24 @@ Pour moi, le code est un terrain de jeu créatif. J'aime quand les choses tourne
     </tr>
 </table>
 
+
+
+
 <h2 align="center">Let's Connect! 🚀</h2>
 Vous avez un défi technique, un besoin en architecture logicielle ou une idée d'application ? Je serais ravi d'échanger avec vous ! N'hésitez pas à me contacter pour explorer ensemble comment concrétiser votre vision. 🌟
 <br><br>
 <p align="center"><a href="https://www.linkedin.com/in/renaud-mercier/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
 </p>
 
+
+
 <br>
+
 
 <p align="center">
   <img src="gift.gif" alt="Gif">
 </p>
+
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
@@ -84,6 +97,7 @@ Vous avez un défi technique, un besoin en architecture logicielle ou une idée 
   
   <br/><br/><br/>
 </div>
+
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
@@ -96,3 +110,6 @@ Vous avez un défi technique, un besoin en architecture logicielle ou une idée 
   <br/>
   <img width="325" align="center" src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
 </div>
+
+
+
