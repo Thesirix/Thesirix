@@ -51,23 +51,23 @@ Pour moi, le code est un terrain de jeu créatif. J'aime quand les choses tourne
 <table>
     <tr>
         <th>Date</th>
-        <td>15/01/2026</td><td>16/01/2026</td><td>17/01/2026</td>
+        <td>16/01/2026</td><td>17/01/2026</td><td>18/01/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Patchy rain nearby</td><td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td>
+        <td width="200px">Patchy rain nearby</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10.2 -  13.9 °C</td><td>10.9 -  13.9 °C</td><td>11.1 -  12.2 °C</td>
+        <td>10.9 -  13.9 °C</td><td>11.1 -  12.2 °C</td><td>10.7 -  11.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>32.8 kph</td><td>33.8 kph</td><td>38.9 kph</td>
+        <td>33.8 kph</td><td>38.9 kph</td><td>53.6 kph</td>
     </tr>
 </table>
 
