@@ -51,23 +51,23 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 <table>
     <tr>
         <th>Date</th>
-        <td>06/02/2026</td><td>07/02/2026</td><td>08/02/2026</td>
+        <td>07/02/2026</td><td>08/02/2026</td><td>09/02/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/302.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Moderate rain</td><td width="200px">Moderate rain</td>
+        <td width="200px">Moderate rain</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>10.5 -  13.5 °C</td><td>8.5 -  10.2 °C</td><td>8.9 -  11.1 °C</td>
+        <td>8.6 -  10.4 °C</td><td>9.1 -  12.1 °C</td><td>7.8 -  11.2 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>33.8 kph</td><td>23.8 kph</td><td>21.2 kph</td>
+        <td>18 kph</td><td>16.9 kph</td><td>15.5 kph</td>
     </tr>
 </table>
 
