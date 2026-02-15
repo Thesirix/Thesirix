@@ -55,19 +55,19 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/176.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
+        <td width="200px">Partly Cloudy </td><td width="200px">Patchy rain nearby</td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>3.9 -  9.8 °C</td><td>10 -  13.5 °C</td><td>9.4 -  13.2 °C</td>
+        <td>4 -  9.9 °C</td><td>10.7 -  13.6 °C</td><td>8.2 -  12.3 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>57.2 kph</td><td>38.9 kph</td><td>43.9 kph</td>
+        <td>58.3 kph</td><td>41.4 kph</td><td>40.7 kph</td>
     </tr>
 </table>
 
