@@ -51,23 +51,23 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 <table>
     <tr>
         <th>Date</th>
-        <td>26/02/2026</td><td>27/02/2026</td><td>28/02/2026</td>
+        <td>27/02/2026</td><td>28/02/2026</td><td>01/03/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
-        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td>
+        <td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/116.png"/></td><td><img src="https://cdn.weatherapi.com/weather/64x64/day/113.png"/></td>
     </tr>
     <tr>
         <th>Condition</th>
-        <td width="200px">Sunny</td><td width="200px">Sunny</td><td width="200px">Partly Cloudy </td>
+        <td width="200px">Sunny</td><td width="200px">Partly Cloudy </td><td width="200px">Sunny</td>
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11.7 -  15.2 °C</td><td>11.3 -  14.8 °C</td><td>11.7 -  14.8 °C</td>
+        <td>11.3 -  14.8 °C</td><td>11.7 -  14.8 °C</td><td>11.5 -  14.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>9 kph</td><td>13 kph</td><td>14.8 kph</td>
+        <td>13 kph</td><td>14.8 kph</td><td>15.8 kph</td>
     </tr>
 </table>
 
