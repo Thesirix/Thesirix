@@ -63,11 +63,11 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>11 -  14.5 °C</td><td>9.6 -  15.5 °C</td><td>10.6 -  14.5 °C</td>
+        <td>11 -  14.5 °C</td><td>9.5 -  15.7 °C</td><td>10.8 -  14.4 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>43.9 kph</td><td>26.6 kph</td><td>11.5 kph</td>
+        <td>43.9 kph</td><td>25.6 kph</td><td>10.8 kph</td>
     </tr>
 </table>
 
