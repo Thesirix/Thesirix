@@ -67,7 +67,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
     <tr>
         <th>Wind</th>
-        <td>14.8 kph</td><td>34.6 kph</td><td>22 kph</td>
+        <td>14.8 kph</td><td>34.6 kph</td><td>23.8 kph</td>
     </tr>
 </table>
 
