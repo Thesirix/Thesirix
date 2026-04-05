@@ -51,7 +51,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 <table>
     <tr>
         <th>Date</th>
-        <td>05/04/2026</td><td>06/04/2026</td><td>07/04/2026</td>
+        <td>06/04/2026</td><td>07/04/2026</td><td>08/04/2026</td>
     </tr>
     <tr>
         <th>Weather</th>
@@ -63,11 +63,11 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>13.2 -  18.1 °C</td><td>13.5 -  18 °C</td><td>13.6 -  17.8 °C</td>
+        <td>13.5 -  18 °C</td><td>13.6 -  17.8 °C</td><td>13.8 -  19 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
-        <td>10.8 kph</td><td>10.4 kph</td><td>11.2 kph</td>
+        <td>10.4 kph</td><td>11.2 kph</td><td>9.7 kph</td>
     </tr>
 </table>
 
