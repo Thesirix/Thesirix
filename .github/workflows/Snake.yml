@@ -27,7 +27,7 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add github-contribution-grid-snake.svg github-contribution-grid-snake-dark.svg
+          git add github-contribution-grid-snake.svg
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
