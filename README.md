@@ -42,6 +42,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 
 <h2 align="center">Weather Forecast ☀️</h2>
 
+
 <table>
     <tr>
         <th>Date</th>
@@ -65,6 +66,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
 </table>
 
+
 <h2 align="center">Let's Connect! 🚀</h2>
 Do you have a technical challenge, a need for software architecture, or an app idea? I would love to chat with you! Don't hesitate to contact me to explore together how to make your vision a reality. 🌟
 <br><br>
@@ -80,23 +82,19 @@ Do you have a technical challenge, a need for software architecture, or an app i
 </p>
 
 <div align="center">
-  <h2>🐍 Snake &amp; Contributions 🐍</h2>
+  <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
 
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/output/github-contribution-grid-snake.svg" />
   <br><br>
 
-![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
-<br><br>
+  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+  <br><br>
 
-![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-<br><br>
+  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+  <br><br>
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-night-rainbow.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-green-animate.svg" />
-    <img src="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Contributions" />
-  </picture>
+  ![3D City](https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-night-rainbow.svg)
   <br><br><br>
 </div>
 
@@ -119,5 +117,5 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <a href="https://donate.stripe.com/bJe8wPgZf71W0kz6sSfw400" target="_blank">
     <img src="coffee_soutien.png" width="250" alt="Offre-moi un café">
   </a>
-  <p><i>a beer to feed Bender and the code ! 🍺</i></p>
+  <p><i>Un petit café pour nourrir Bender et le code ! ☕</i></p>
 </div>
