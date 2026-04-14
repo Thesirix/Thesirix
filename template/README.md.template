@@ -1,10 +1,10 @@
-![Banner](hacker.jpg)
+![Banner](assets/hacker.jpg)
 
 <img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" /></h1>
 
-<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+<img align="right" alt="Coding" src="assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
 
 <p>
 <br><br>
@@ -55,14 +55,14 @@ Do you have a technical challenge, a need for software architecture, or an app i
 <br>
 
 <p align="center">
-  <img src="gift.gif" alt="Gif">
+  <img src="assets/gift.gif" alt="Gif">
 </p>
 <!-- [![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/thesirix.png)](https://tryhackme.com/p/thesirix) -->
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/main/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
   ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
@@ -92,7 +92,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
 <br>
 <div align="center">
   <a href="https://donate.stripe.com/bJe8wPgZf71W0kz6sSfw400" target="_blank">
-    <img src="coffee_soutien.png" width="250" alt="Offre-moi un café">
+    <img src="assets/coffee_soutien.png" width="250" alt="Offre-moi un café">
   </a>
-  <p><i>Un petit café pour nourrir Bender et le code ! ☕</i></p>
+  <p><i>A little beer to feed Bender and the code ! 🍺</i></p>
 </div>
