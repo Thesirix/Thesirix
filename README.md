@@ -4,7 +4,7 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" /></h1>
 
-  <img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
+<img align="right" alt="Coding" src="https://cdn.shopify.com/s/files/1/0578/3696/1997/t/9/assets/lofiboy.gif" style="width: 400px; height: 250; max-width: 100%; object-fit: contain;">
 
 <p>
 <br><br>
@@ -27,11 +27,11 @@ My technological arsenal revolves around performance and mobility:
 - 🐳 **Docker & CI/CD** : The infrastructure for reliable and automated deployments.
 - 🎨 **Adobe** : To maintain strong visual and ergonomic standards in my technical projects.
 
-#### <h2 align="center">ToolBox 🛠</h2>
+<h2 align="center">ToolBox 🛠</h2>
 
 <img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,github,md,docker,mysql,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
 
-<h2 align="center">Projects  🚧</h2>
+<h2 align="center">Projects 🚧</h2>
 
 For me, code is a creative playground. I love when things run smoothly, are automated, and the user has a fluid experience.
 
@@ -41,6 +41,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 - 📊 **Data & Tools** : I use Python as a Swiss Army knife, whether to analyze data or create scripts that make my daily life easier.
 
 <h2 align="center">Weather Forecast ☀️</h2>
+
 
 <table>
     <tr>
@@ -65,10 +66,13 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
 </table>
 
+
 <h2 align="center">Let's Connect! 🚀</h2>
 Do you have a technical challenge, a need for software architecture, or an app idea? I would love to chat with you! Don't hesitate to contact me to explore together how to make your vision a reality. 🌟
 <br><br>
-<p align="center"><a href="https://www.linkedin.com/in/renaud-mercier/" target="blank">  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  /></a><a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  /></a>
+<p align="center">
+  <a href="https://www.linkedin.com/in/renaud-mercier/" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" /></a>
+  <a href="https://instagram.com/art_trip_adventure" target="blank"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" /></a>
 </p>
 
 <br>
@@ -77,31 +81,43 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img src="gift.gif" alt="Gif">
 </p>
 
-<!-- [![TryHackMeBadge](https://tryhackme-badges.s3.amazonaws.com/thesirix.png)](https://tryhackme.com/p/thesirix) -->
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
+  <h2>🐍 Snake &amp; Contributions 🐍</h2>
   <br>
+
+  
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/output/github-contribution-grid-snake.svg" />
+  <br><br>
 
-![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+  
+  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+  <br><br>
 
-![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-<br/><br/><br/>
+  
+  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+  <br><br>
 
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)"  srcset="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-night-rainbow.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-green-animate.svg" />
+    <img src="https://raw.githubusercontent.com/thesirix/thesirix/generated/profile-3d-contrib/profile-night-rainbow.svg" alt="3D City Contributions" />
+  </picture>
+  <br><br><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 
-[![Star History Chart](https://api.star-history.com/svg?repos=thesirix/thesirix&type=date&theme=dark&legend=bottom-right)](https://star-history.com/#Ashutosh00710/github-readme-activity-graph&Timeline)
+
+[![Star History Chart](https://api.star-history.com/svg?repos=thesirix/thesirix&type=date&theme=dark&legend=bottom-right)](https://star-history.com/#thesirix/thesirix&Timeline)
 <br>
 
-<div align=center>
-  <img width=413 height=163 src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" alt="streak stats"/>
-   <img width="390" height="163"
+<div align="center">
+  <img width="413" height="163" src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight" alt="streak stats"/>
+  <img width="390" height="163"
        src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg?sanitize=true"
        alt="Thesirix" />
-
   <br/>
   <img width="325" align="center" src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
 </div>
