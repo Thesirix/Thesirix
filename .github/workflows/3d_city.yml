@@ -1,0 +1,30 @@
+name: "🏙️ 3D City Contributions"
+
+on:
+  schedule:
+    - cron: "0 18 * * *"
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  generate-3d-city:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate 3D contribution city
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+
+      - name: Push to orphan branch `generated`
+        run: |
+          git config user.email "action@github.com"
+          git config user.name "GitHub Action"
+          git checkout --orphan generated-new
+          git rm -rf . --quiet
+          cp -r profile-3d-contrib/ .
+          git add profile-3d-contrib/
+          git commit -m "🏙️ Update 3D city"
+          git push origin HEAD:generated --force
