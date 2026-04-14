@@ -18,13 +18,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push to orphan branch `generated`
-        run: |
-          git config user.email "action@github.com"
-          git config user.name "GitHub Action"
-          git checkout --orphan generated-new
-          git rm -rf . --quiet
-          cp -r profile-3d-contrib/ .
-          git add profile-3d-contrib/
-          git commit -m "🏙️ Update 3D city"
-          git push origin HEAD:generated --force
+      - name: Push to branch `generated`
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: generated
+          publish_dir: ./profile-3d-contrib
+          destination_dir: profile-3d-contrib
+          commit_message: "🏙️ Update 3D city"
