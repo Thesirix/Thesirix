@@ -16,5 +16,5 @@ jobs:
 
   city-3d:
     name: "🏙️ 3D City"
-    uses: ./.github/workflows/3d-city.yml
+    uses: ./.github/workflows/3d_city.yml
     secrets: inherit
