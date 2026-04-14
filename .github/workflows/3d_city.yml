@@ -18,11 +18,11 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
 
-      - name: Push to branch `generated`
+      - name: Push to branch `city-3d`
         uses: peaceiris/actions-gh-pages@v3
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: generated
+          publish_branch: city-3d
           publish_dir: ./profile-3d-contrib
           destination_dir: profile-3d-contrib
           commit_message: "🏙️ Update 3D city"
