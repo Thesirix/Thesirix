@@ -6,12 +6,12 @@ on:
 jobs:
   snake:
     name: "🐍 Snake"
-    uses: ./.github/workflows/snake.yml
+    uses: ./.github/workflows/Snake.yml
     secrets: inherit
 
   weather:
     name: "🌤️ Weather"
-    uses: ./.github/workflows/weather.yml
+    uses: ./.github/workflows/Weather.yml
     secrets: inherit
 
   city-3d:
