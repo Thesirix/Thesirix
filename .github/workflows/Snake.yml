@@ -1,10 +1,12 @@
-name: "🐍 Snake Contributions"
+name: Generate Snake
 
 on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  workflow_call:
+  push:
+    branches:
+      - main
 
 jobs:
   build:
@@ -18,8 +20,7 @@ jobs:
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
-            github-contribution-grid-snake.svg
-
+            assets/snake.svg
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,11 +28,11 @@ jobs:
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add github-contribution-grid-snake.svg
+          git add assets/snake.svg
           if git diff --cached --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "🐍 Update snake animations"
+            git commit -m "🐍 Update snake"
             git pull --rebase origin main
             git push origin main
           fi
