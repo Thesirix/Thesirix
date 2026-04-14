@@ -85,7 +85,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/main/dist/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/thesirix/thesirix/main/github-contribution-grid-snake.svg" />
   <br><br>
 
   ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)

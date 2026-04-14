@@ -32,5 +32,6 @@ jobs:
             git config user.email "github-actions@github.com"
             git add README.md
             git commit -m "🌤️ Update weather forecast"
+            git pull --rebase origin main
             git push origin main
           fi
