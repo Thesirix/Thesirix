@@ -13,4 +13,5 @@ jobs:
         with:
           username: "thesirix"
           use_static_image: false
+          user_public_id: "69de1facc23d0ac598079f59"
           GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
