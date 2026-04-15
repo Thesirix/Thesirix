@@ -79,10 +79,23 @@ Do you have a technical challenge, a need for software architecture, or an app i
 
 <p align="center">
   <img src="assets/gift.gif" alt="Gif">
+
+<p align="center">
+  <img src="assets/gift.gif" alt="Gif">
+
+<p align="center">
+  <img src="assets/gift.gif" alt="Gif">
 </p>
 
 <div align="center">
-  <h2>🐍 Snake & Contributions 🐍</h2>
+  <a href="https://tryhackme.com/p/thesirix" target="_blank">
+    <img src="https://raw.githubusercontent.com/thesirix/thesirix/main/assets/thm_propic.png" alt="TryHackMe Stats">
+  </a>
+  <br><br>
+</div>
+
+<div align="center">
+  <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
 
   <img alt="snake eating my contributions" src="assets/snake.svg" />
