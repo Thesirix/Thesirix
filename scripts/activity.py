@@ -137,7 +137,7 @@ if not lines:
 # ── Patch README.md ───────────────────────────────────────────────────────────
 HEADING      = '<h2 align="center">⚡ Recent Activity</h2>'
 NEXT_SECTION = '\n<div align="center">'
-new_block    = "\n" + "\n".join(lines) + "\n"
+new_block    = "\n\n" + "\n".join(lines) + "\n"
 
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
