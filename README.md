@@ -81,33 +81,40 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img src="assets/gift.gif" alt="Gif">
 </p>
 
+<!-- TryHackMe badge -- decommente quand THM supporte le badge (rank suffisant)
 <div align="center">
+  <a href="https://tryhackme.com/p/thesirix" target="_blank">
+    <img src="https://raw.githubusercontent.com/thesirix/thesirix/main/assets/thm_propic.png" alt="TryHackMe Stats">
+  </a>
+  <br><br>
+</div>
+-->
 
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. ⭐ Starred [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - _just now_
-2. 🔨 Pushed [`b24e3f9`](https://github.com/Thesirix/Thesirix/commit/b24e3f9d8d376ce03ea9246a66fc6e8103624320) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-3. 🔨 Pushed [`43d69fa`](https://github.com/Thesirix/Thesirix/commit/43d69fac410b468bfe1d161b19413a58fc9b80c8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-4. 🔨 Pushed [`db4ea92`](https://github.com/Thesirix/Thesirix/commit/db4ea92d807635496b50669447fe054d353e9498) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-5. 🔨 Pushed [`20fcd10`](https://github.com/Thesirix/Thesirix/commit/20fcd10b790df8a7e52a4b037c9ccb3acc8380e2) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
+1. 🔨 Pushed [`4f581a9`](https://github.com/Thesirix/Thesirix/commit/4f581a945fc5ef06e4662855c4336edc26875d87) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. ⭐ Starred [DenverCoder1/minimalistic-wallpaper-collection](https://github.com/DenverCoder1/minimalistic-wallpaper-collection) - _1h ago_
+3. 🔨 Pushed [`b24e3f9`](https://github.com/Thesirix/Thesirix/commit/b24e3f9d8d376ce03ea9246a66fc6e8103624320) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+4. 🔨 Pushed [`43d69fa`](https://github.com/Thesirix/Thesirix/commit/43d69fac410b468bfe1d161b19413a58fc9b80c8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
+5. 🔨 Pushed [`db4ea92`](https://github.com/Thesirix/Thesirix/commit/db4ea92d807635496b50669447fe054d353e9498) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
 <!--END_SECTION:activity-->
 
+<div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
-<br>
+  <br>
 
   <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
-![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
-<br><br>
+  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+  <br><br>
 
-![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-<br><br>
+  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+  <br><br>
 
-![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
-<br><br><br>
-
+  ![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+  <br><br><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
