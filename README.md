@@ -47,6 +47,8 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 <h2 align="center">Weather Forecast ☀️</h2>
 
 
+<!-- WEATHER_START -->
+
 <table>
     <tr>
         <th>Date</th>
@@ -69,6 +71,8 @@ For me, code is a creative playground. I love when things run smoothly, are auto
         <td>11.5 kph</td><td>8.6 kph</td><td>10.1 kph</td>
     </tr>
 </table>
+
+<!-- WEATHER_END -->
 
 
 <h2 align="center">Let's Connect! 🚀</h2>
