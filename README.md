@@ -91,7 +91,11 @@ Do you have a technical challenge, a need for software architecture, or an app i
 -->
 
 <h2 align="center">⚡ Recent Activity</h2>
-
+1. 🔨 Pushed [`8f50cdb`](https://github.com/Thesirix/Thesirix/commit/8f50cdb314cade4d09c1154ee7948714dc88e8dd) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`0e0f4fe`](https://github.com/Thesirix/Thesirix/commit/0e0f4fe5b686d061fd0322ce95c98b811adcd30f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`1ef46ac`](https://github.com/Thesirix/Thesirix/commit/1ef46ac5384c3b6647419ae77cb8eec9093fae83) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`5887109`](https://github.com/Thesirix/Thesirix/commit/58871092e4dfdc0f8732d2350f73ba7c02dca509) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
+5. 🗑️ Deleted branch `snake-output` in [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _1h ago_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
