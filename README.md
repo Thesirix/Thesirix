@@ -82,12 +82,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
 
 
 
-<div align="center">
-  <a href="https://tryhackme.com/p/thesirix" target="_blank">
-    <img src="https://raw.githubusercontent.com/thesirix/thesirix/main/assets/thm_propic.png" alt="TryHackMe Stats">
-  </a>
-  <br><br>
-</div>
+
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
