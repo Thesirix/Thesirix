@@ -4,10 +4,13 @@ snake.py — Animated snake SVG from GitHub contribution calendar.
 Self-hosted, no Docker / Node.js required.
 Inspired by Platane/snk (https://github.com/Platane/snk).
 
-Algorithm:
+Algorithm (matches original snk behaviour):
   1. Fetch contribution grid via GitHub GraphQL API.
-  2. Visit colored cells level by level (lightest first) using BFS +
-     nearest-neighbour — reproduces the organic wandering of the original snk.
+  2. Visit colored cells level by level (lightest first).
+     For each level: BFS from current head toward the NEAREST reachable
+     colored cell (nearest in grid-steps, not Manhattan distance).
+     The BFS direction order biases exploration rightward then downward,
+     reproducing the organic wandering of the original.
   3. Build the full snake-body chain at each step.
   4. Emit CSS keyframe animations for the grid cells and snake parts.
 """
@@ -78,89 +81,101 @@ for wx, week in enumerate(weeks):
     for day in week["contributionDays"]:
         grid[(wx, day["weekday"])] = LEVEL_MAP[day["contributionLevel"]]
 
-# ── 2. Build path visiting colored cells level by level ──────────────────────────
-# Like the original snk: lightest (level-1) cells first, then 2, 3, 4.
-# Within each level, nearest-neighbour greedy + BFS navigation.
-# This produces the characteristic "wandering" movement — not a simple zigzag.
+# ── 2. Build path  — BFS-to-any, level by level ──────────────────────────────
+#
+# Key: instead of picking the nearest target by Manhattan distance (which
+# degenerates into column-by-column on a rectangular grid), we BFS outward
+# from the current head and take the FIRST colored cell we encounter.
+# Direction order: right → down → left → up  (matches snk's around4 bias).
+# This creates the organic, wandering movement of the original.
 
-def bfs_path(start, target, can_pass_fn):
-    """Shortest path from start → target using parent-pointer BFS."""
-    if start == target:
-        return [start]
-    parent = {start: None}
-    q = deque([start])
-    while q:
-        x, y = q.popleft()
-        for dx, dy in ((-1, 0), (1, 0), (0, -1), (0, 1)):
-            nxt = (x + dx, y + dy)
-            if nxt in parent:
-                continue
-            if nxt == target:
-                parent[nxt] = (x, y)
-                # Reconstruct path
-                p, result = nxt, []
-                while p is not None:
-                    result.append(p)
-                    p = parent[p]
-                result.reverse()
-                return result
-            if can_pass_fn(nxt[0], nxt[1]):
-                parent[nxt] = (x, y)
-                q.append(nxt)
-    return None  # no path found (should not happen on a well-formed grid)
-
+# Directions in the same order as snk's around4: right, down, left, up
+DIRS = ((1, 0), (0, 1), (-1, 0), (0, -1))
 
 eaten: set = set()   # cells already consumed
 
 
-def passable(x, y, max_lv):
-    """A cell is traversable if it's in-bounds AND (empty | already eaten | color ≤ max_lv)."""
+def is_traversable(x: int, y: int, max_lv: int) -> bool:
+    """True if the cell can be crossed when hunting cells of level max_lv."""
     if not (0 <= x < GRID_W and 0 <= y < GRID_H):
         return False
     c = grid.get((x, y), 0)
     return c == 0 or (x, y) in eaten or c <= max_lv
 
 
+def bfs_to_nearest_target(start: tuple, targets: set, max_lv: int):
+    """
+    BFS from `start` using DIRS order.
+    Returns (target, path_to_target) for the FIRST cell in `targets` found.
+    Path includes start and target.
+    """
+    if start in targets:
+        return start, [start]
+
+    parent: dict = {start: None}
+    q = deque([start])
+
+    while q:
+        pos = q.popleft()
+        x, y = pos
+        for dx, dy in DIRS:
+            nxt = (x + dx, y + dy)
+            if nxt in parent:
+                continue
+            if nxt in targets:
+                # Found — reconstruct path
+                parent[nxt] = pos
+                node, path = nxt, []
+                while node is not None:
+                    path.append(node)
+                    node = parent[node]
+                path.reverse()
+                return nxt, path
+            if is_traversable(nxt[0], nxt[1], max_lv):
+                parent[nxt] = pos
+                q.append(nxt)
+
+    return None, None   # no reachable target
+
+
+# Entry: top-left corner of the grid
 head = (0, 0)
 path = [head]
 
 for lv in range(1, 5):
-    pending = [(x, y) for (x, y), c in grid.items() if c == lv]
+    # All unvisited cells of this level
+    remaining: set = {(x, y) for (x, y), c in grid.items() if c == lv}
 
-    while pending:
-        # Drop cells eaten en-route by previous BFS segments
-        pending = [t for t in pending if t not in eaten]
-        if not pending:
+    while True:
+        reachable = remaining - eaten
+        if not reachable:
             break
 
-        cx, cy = head
-        # Nearest-neighbour: pick the closest remaining target
-        pending.sort(key=lambda p: abs(p[0] - cx) + abs(p[1] - cy))
-        tx, ty = pending.pop(0)
+        target, seg = bfs_to_nearest_target(head, reachable, lv)
 
-        seg = bfs_path((cx, cy), (tx, ty),
-                       lambda x, y, lv=lv: passable(x, y, lv))
-        if seg:
-            for pos in seg[1:]:
+        if target is None:
+            # Grid is disconnected at this level — force-eat the unreachable cells
+            for pos in list(reachable):
                 path.append(pos)
-                if grid.get(pos, 0) > 0:
-                    eaten.add(pos)
-            head = path[-1]
-        else:
-            # Fallback (should be unreachable on a connected grid)
-            path.append((tx, ty))
-            eaten.add((tx, ty))
-            head = (tx, ty)
+                eaten.add(pos)
+            break
+
+        # Walk along the BFS path; eat every colored cell we cross
+        for pos in seg[1:]:
+            path.append(pos)
+            if grid.get(pos, 0) > 0:
+                eaten.add(pos)
+
+        head = path[-1]
 
 N = len(path)
 
 # ── 3. Snake body positions at each step ──────────────────────────────────────
-# Lead-in: SNAKE_LEN-1 off-screen positions so the body starts fully hidden.
 sx, sy = path[0]
 lead = [(sx - SNAKE_LEN + k, sy) for k in range(SNAKE_LEN - 1)]
-full = lead + path   # extended trajectory
+full = lead + path   # extended trajectory (off-screen lead-in + grid path)
 
-# chain[step][part] = (px, py)   (part 0 = head)
+# chain[step][part] = (px, py)   part 0 = head, SNAKE_LEN-1 = tail
 chain = [
     [full[SNAKE_LEN - 1 + step - part] for part in range(SNAKE_LEN)]
     for step in range(N)
@@ -178,7 +193,6 @@ def pct(t: float) -> str:
 
 
 def keyframes(name: str, kfs: list) -> str:
-    """Generate @keyframes CSS block. kfs = list of (t_float, style_str)."""
     by_s: dict = {}
     for t, s in kfs:
         by_s.setdefault(s, []).append(t)
@@ -190,19 +204,15 @@ def keyframes(name: str, kfs: list) -> str:
 
 
 def no_interp(pts: list) -> list:
-    """
-    Remove points that lie exactly on the straight line between their neighbours.
-    Mirrors Platane/snk's removeInterpolatedPositions — reduces CSS keyframe count.
-    Returns list of (original_index, (x, y)).
-    """
+    """Remove points collinear with their neighbours (reduces keyframe count)."""
     out = []
     for i, p in enumerate(pts):
         if i == 0 or i == len(pts) - 1:
             out.append((i, p))
             continue
-        (px, py) = pts[i - 1]
-        (nx, ny) = pts[i + 1]
-        (x,  y)  = p
+        px, py = pts[i - 1]
+        nx, ny = pts[i + 1]
+        x, y   = p
         if abs((px + nx) / 2 - x) > 0.01 or abs((py + ny) / 2 - y) > 0.01:
             out.append((i, p))
     return out
@@ -217,13 +227,11 @@ vb = f"{-CELL} {-CELL * 2} {W} {H}"
 css: list = []
 els: list = []
 
-# CSS color variables (light default + dark-mode override)
 dv_l = "".join(f"--c{i}:{c};" for i, c in enumerate(DOTS_L))
 dv_d = "".join(f"--c{i}:{c};" for i, c in enumerate(DOTS_D))
 css.append(f":root{{--cb:{C_BORDER};--cs:{C_SNAKE};--ce:{CE_L};{dv_l}}}")
 css.append(f"@media(prefers-color-scheme:dark){{:root{{--ce:{CE_D};{dv_d}}}}}")
 
-# Grid cell base style
 m_dot = (CELL - DOT) / 2
 css.append(
     f".c{{shape-rendering:geometricPrecision;fill:var(--ce);"
@@ -241,7 +249,6 @@ for y in range(GRID_H):
         t  = eat_t.get((x, y))
 
         if lv > 0 and t is not None:
-            # Animated: cell disappears when the snake eats it
             cid = f"c{ci:x}"
             ci += 1
             css.append(keyframes(cid, [
@@ -265,7 +272,6 @@ for y in range(GRID_H):
                 f' rx="{DOT_R}" ry="{DOT_R}"/>'
             )
 
-# Snake body parts (head = part 0, largest; tail = part SNAKE_LEN-1, smallest)
 css.append(
     f".s{{shape-rendering:geometricPrecision;fill:var(--cs);"
     f"animation:none linear {duration}ms infinite}}"
@@ -296,7 +302,6 @@ for pi in range(SNAKE_LEN):
         f' rx="{rv:.1f}" ry="{rv:.1f}"/>'
     )
 
-# Assemble final SVG
 style_block = "".join(css)
 svg = (
     f'<svg viewBox="{vb}" width="{W}" height="{H}"'
