@@ -60,9 +60,9 @@ col_x = [PAD, PAD + H_COL, PAD + H_COL + D_COL, PAD + H_COL + D_COL * 2]
 # ── Tokyo Night palette ───────────────────────────────────────────────────────
 C_CARD    = "#1a1b2e"   # card background  — same as streak card
 C_HEADER  = "#13131f"   # label column bg  — darker
-C_LABEL   = "#7aa2f7"   # blue   — row labels
-C_DATE    = "#38bdae"   # teal   — dates   (TN accent)
-C_DATA    = "#38bdae"   # teal   — all data values
+C_LABEL   = "#7aa2f7"   # blue   — row labels (Date, Weather…)
+C_DATE    = "#bb9af7"   # purple — dates (comme avant, c'était bon)
+C_DATA    = "#38bdae"   # teal   — Condition/Temp/Wind values
 C_SEP     = "#292e42"   # separator lines
 
 F_SANS    = "Segoe UI, Arial, sans-serif"
@@ -83,10 +83,10 @@ L.append(
 # width="120%" → extends only to the right to catch the offset shadow.
 L.append(f"""\
   <defs>
-    <filter id="sh" x="0%" y="-2%" width="120%" height="104%">
-      <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="blur"/>
-      <feOffset in="blur" dx="12" dy="3" result="shifted"/>
-      <feFlood flood-color="#000000" flood-opacity="0.6" result="color"/>
+    <filter id="sh" x="0%" y="-6%" width="114%" height="112%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
+      <feOffset in="blur" dx="5" dy="3" result="shifted"/>
+      <feFlood flood-color="#000000" flood-opacity="0.35" result="color"/>
       <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
       <feMerge>
         <feMergeNode in="shadow"/>
@@ -145,21 +145,22 @@ for i, date in enumerate(dates):
     )
 
 # Row 1 — Weather icons with floating animation
+# animate attributeName="y" directly — most reliable SMIL approach for <image>
 for i, b64 in enumerate(icons_b64):
-    sz   = 46
-    cx   = col_x[i + 1] + D_COL // 2
-    cy   = row_y[1] + ROW_H[1] // 2
-    # Each icon floats with a different phase offset (0s, 0.9s, 1.8s)
+    sz    = 46
+    cx    = col_x[i + 1] + D_COL // 2
+    cy    = row_y[1] + ROW_H[1] // 2
+    ix    = cx - sz // 2
+    iy    = cy - sz // 2
     begin = f"{i * 0.9:.1f}s"
     L.append(
-        f'  <g transform="translate({cx},{cy})">\n'
-        f'    <image x="{-sz // 2}" y="{-sz // 2}" width="{sz}" height="{sz}" '
-        f'href="{b64}" clip-path="url(#card)"/>\n'
-        f'    <animateTransform attributeName="transform" type="translate" '
-        f'additive="sum" values="0,0; 0,-5; 0,0" '
+        f'  <image x="{ix}" y="{iy}" width="{sz}" height="{sz}" '
+        f'href="{b64}" clip-path="url(#card)">\n'
+        f'    <animate attributeName="y" '
+        f'values="{iy};{iy - 6};{iy}" '
         f'dur="2.7s" begin="{begin}" repeatCount="indefinite" '
-        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
-        f'  </g>'
+        f'calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'  </image>'
     )
 
 # Row 2 — Condition
@@ -172,35 +173,35 @@ for i, cond in enumerate(conditions):
         f'font-family="{F_SANS}" font-size="13" fill="{C_DATA}">{cond}</text>'
     )
 
-# Row 3 — Temperature (🌡️ with subtle pulse on the emoji)
+# Row 3 — Temperature — subtle vertical float on the whole cell
 for i, temp in enumerate(temps):
-    cx = col_x[i + 1] + D_COL // 2
-    cy = row_y[3] + ROW_H[3] // 2
-    # Split emoji from the rest so we can animate only the emoji
-    # temp format: "🌡️ 14.3–20.0 °C"
+    cx  = col_x[i + 1] + D_COL // 2
+    cy  = row_y[3] + ROW_H[3] // 2
+    b   = f"{i * 0.7:.1f}s"
     L.append(
-        f'  <g transform="translate({cx},{cy})">\n'
-        f'    <text text-anchor="middle" dominant-baseline="central" '
+        f'  <g>\n'
+        f'    <animateTransform attributeName="transform" type="translate" '
+        f'values="{cx},{cy}; {cx},{cy - 3}; {cx},{cy}" '
+        f'dur="2.5s" begin="{b}" repeatCount="indefinite" '
+        f'calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" '
         f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{temp}</text>\n'
-        f'    <animateTransform attributeName="transform" type="scale" '
-        f'additive="sum" values="1; 1.04; 1" '
-        f'dur="2s" begin="{i * 0.6:.1f}s" repeatCount="indefinite" '
-        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
         f'  </g>'
     )
 
-# Row 4 — Wind (↗️ with rightward nudge)
+# Row 4 — Wind — rightward nudge on each cell
 for i, wind in enumerate(winds):
-    cx = col_x[i + 1] + D_COL // 2
-    cy = row_y[4] + ROW_H[4] // 2
+    cx  = col_x[i + 1] + D_COL // 2
+    cy  = row_y[4] + ROW_H[4] // 2
+    b   = f"{i * 0.5:.1f}s"
     L.append(
-        f'  <g transform="translate({cx},{cy})">\n'
-        f'    <text text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{wind}</text>\n'
+        f'  <g>\n'
         f'    <animateTransform attributeName="transform" type="translate" '
-        f'additive="sum" values="0,0; 3,0; 0,0" '
-        f'dur="1.8s" begin="{i * 0.5:.1f}s" repeatCount="indefinite" '
-        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'values="{cx},{cy}; {cx + 4},{cy}; {cx},{cy}" '
+        f'dur="1.8s" begin="{b}" repeatCount="indefinite" '
+        f'calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{wind}</text>\n'
         f'  </g>'
     )
 
