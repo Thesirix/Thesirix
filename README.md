@@ -73,11 +73,11 @@ Do you have a technical challenge, a need for software architecture, or an app i
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
-2. 🔨 Pushed to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
-3. 🔨 Pushed to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
-4. 🔨 Pushed to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
-5. 🔨 Pushed to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _1h ago_
+1. 🔨 Pushed [`dfd00ec`](https://github.com/Thesirix/Thesirix/commit/dfd00ec3990fe144a4b000ab579ca2c82479c697) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
+2. 🔨 Pushed [`79ed97e`](https://github.com/Thesirix/Thesirix/commit/79ed97e94d105186d75b1d8923f077555354e560) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
+3. 🔨 Pushed [`5756ec7`](https://github.com/Thesirix/Thesirix/commit/5756ec7b19bbe6a6440bee3804237e21076a0283) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
+4. 🔨 Pushed [`facc07d`](https://github.com/Thesirix/Thesirix/commit/facc07d345c1941742ee798862845e7b16698325) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
+5. 🔨 Pushed [`04b097b`](https://github.com/Thesirix/Thesirix/commit/04b097b11e02f05dba4c28ce2a81bf2625c97301) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` — _just now_
 <!--END_SECTION:activity-->
 
   <h2>🐍 Snake & Contributions 🐍</h2>
