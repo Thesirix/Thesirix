@@ -33,20 +33,7 @@ My technological arsenal revolves around performance and mobility:
 
 <h2 align="center">ToolBox 🛠</h2>
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
-</div>
-
-<br>
-
-<img src="https://skillicons.dev/icons?i=html,css,express,dart,flutter,laravel,bootstrap,materialui,tailwind,git,md,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
+<img src="https://skillicons.dev/icons?i=py,django,js,react,jest,docker,mysql,github,html,css,express,dart,flutter,laravel,bootstrap,materialui,tailwind,git,md,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
 
 <h2 align="center">Projects 🚧</h2>
 
@@ -92,11 +79,6 @@ Do you have a technical challenge, a need for software architecture, or an app i
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`757362f`](https://github.com/Thesirix/Thesirix/commit/757362f8519dd608bd3e47fb6a0afc8dd97fb8cb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`cf8c7bd`](https://github.com/Thesirix/Thesirix/commit/cf8c7bdbd111a7b4d4253b8ff016de341de1ae13) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`49065be`](https://github.com/Thesirix/Thesirix/commit/49065beefd1b390b1f7394256dfe43fb6e976a2f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `widget` - _just now_
-4. 🔨 Pushed [`ce37e0d`](https://github.com/Thesirix/Thesirix/commit/ce37e0d55c8d5629db85ca97f7684b2358e21ca3) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`501df75`](https://github.com/Thesirix/Thesirix/commit/501df75f43ca69da24d60cf259ccb039af2e5db7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
