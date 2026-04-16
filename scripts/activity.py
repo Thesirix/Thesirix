@@ -121,11 +121,11 @@ for event in events:
     msg = fmt_event(event)
     if msg:
         ago    = time_ago(event.get("created_at", ""))
-        suffix = f" — _{ago}_" if ago else ""
+        suffix = f" - _{ago}_" if ago else ""
         lines.append(f"{len(lines) + 1}. {msg}{suffix}")
 
 if not lines:
-    print("No recent activity found — README unchanged.")
+    print("No recent activity found - README unchanged.")
     sys.exit(0)
 
 # ── Patch README.md ───────────────────────────────────────────────────────────
