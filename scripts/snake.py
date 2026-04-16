@@ -141,6 +141,10 @@ def bfs_to_nearest_target(start: tuple, targets: set, max_lv: int):
 # Entry: top-left corner of the grid
 head = (0, 0)
 path = [head]
+# Eat the starting cell immediately if it's colored (prevents infinite loop
+# where head==target causes seg=[head] with nothing added to eaten).
+if grid.get(head, 0) > 0:
+    eaten.add(head)
 
 for lv in range(1, 5):
     # All unvisited cells of this level
@@ -165,6 +169,11 @@ for lv in range(1, 5):
             path.append(pos)
             if grid.get(pos, 0) > 0:
                 eaten.add(pos)
+
+        # CRITICAL: always mark target eaten, even when seg=[head] (head==target).
+        # Without this, if the snake is already on a colored cell, seg has only
+        # the start position, seg[1:] is empty, nothing gets eaten → infinite loop.
+        eaten.add(target)
 
         head = path[-1]
 
