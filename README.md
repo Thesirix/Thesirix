@@ -1,6 +1,10 @@
 ![Banner](assets/hacker.jpg)
 
-<img align="right" src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
+<div align="right">
+  <img src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
+  &nbsp;&nbsp;
+  <a href="https://donate.stripe.com/bJe8wPgZf71W0kz6sSfw400" target="_blank"><img src="assets/coffee_soutien.png" height="20" alt="☕ Support"></a>
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" /></h1>
 
@@ -79,9 +83,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
 
 <p align="center">
   <img src="assets/gift.gif" alt="Gif">
-
-
-
+</p>
 
 
 <div align="center">
