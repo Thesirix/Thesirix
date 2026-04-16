@@ -33,6 +33,7 @@ jobs:
   activity:
     name: "⚡ Recent Activity"
     needs: [rebuild]
+    continue-on-error: true
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
@@ -62,6 +63,7 @@ jobs:
   weather:
     name: "🌤️ Weather Forecast"
     needs: [activity]
+    continue-on-error: true
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
