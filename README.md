@@ -83,11 +83,6 @@ Do you have a technical challenge, a need for software architecture, or an app i
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`a2b4ed1`](https://github.com/Thesirix/Thesirix/commit/a2b4ed152cfad2c4e9cbfef167a127a8e5c20b13) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`ec420af`](https://github.com/Thesirix/Thesirix/commit/ec420af29b309bbdf5e713fcce547b5157bd470b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`757362f`](https://github.com/Thesirix/Thesirix/commit/757362f8519dd608bd3e47fb6a0afc8dd97fb8cb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`cf8c7bd`](https://github.com/Thesirix/Thesirix/commit/cf8c7bdbd111a7b4d4253b8ff016de341de1ae13) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`49065be`](https://github.com/Thesirix/Thesirix/commit/49065beefd1b390b1f7394256dfe43fb6e976a2f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `widget` - _just now_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
@@ -96,15 +91,14 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
-![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
-<br><br>
+  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+  <br><br>
 
-![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-<br><br>
+  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+  <br><br>
 
-![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
-<br><br><br>
-
+  ![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+  <br><br><br>
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
