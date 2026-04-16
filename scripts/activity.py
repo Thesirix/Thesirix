@@ -135,20 +135,22 @@ if not lines:
     sys.exit(0)
 
 # ── Patch README.md ───────────────────────────────────────────────────────────
-block = "\n" + "\n".join(lines) + "\n"
+HEADING      = '<h2 align="center">⚡ Recent Activity</h2>'
+NEXT_SECTION = '\n<div align="center">'
+new_block    = "\n" + "\n".join(lines) + "\n"
 
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
 updated = re.sub(
-    r"<!--START_SECTION:activity-->.*?<!--END_SECTION:activity-->",
-    f"<!--START_SECTION:activity-->{block}<!--END_SECTION:activity-->",
+    re.escape(HEADING) + r".*?" + re.escape(NEXT_SECTION),
+    HEADING + new_block + NEXT_SECTION,
     readme,
     flags=re.DOTALL,
 )
 
 if updated == readme:
-    sys.exit("ERROR: markers <!--START_SECTION:activity--> not found in README.md")
+    sys.exit(f"ERROR: heading '{HEADING}' not found in README.md")
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)

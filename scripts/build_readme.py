@@ -17,8 +17,7 @@ README   = "README.md"
 # Each tuple: (start_marker, end_marker)
 # Content between these markers is preserved from the current README.
 DYNAMIC_SECTIONS = [
-    ("<!-- WEATHER_START -->",        "<!-- WEATHER_END -->"),
-    ("<!--START_SECTION:activity-->", "<!--END_SECTION:activity-->"),
+    ("<!-- WEATHER_START -->", "<!-- WEATHER_END -->"),
 ]
 
 # ── Read template ──────────────────────────────────────────────────────────────
