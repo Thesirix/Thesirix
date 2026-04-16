@@ -1,4 +1,4 @@
-name: "🚀 Update All"
+name: "🚀 0 - Update All"
 
 on:
   workflow_dispatch:

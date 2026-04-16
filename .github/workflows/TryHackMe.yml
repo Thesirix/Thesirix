@@ -29,7 +29,6 @@ jobs:
           from playwright.sync_api import sync_playwright
 
           USER_PUBLIC_ID = "69de1facc23d0ac598079f59"
-          BADGE_URL = f"https://tryhackme.com/api/v2/badges/public-profile?userPublicId={USER_PUBLIC_ID}"
 
           with sync_playwright() as p:
               browser = p.chromium.launch()
@@ -37,21 +36,71 @@ jobs:
                   user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
               )
 
-              # Visit homepage first to get cookies
               page = context.new_page()
+              # Land on THM first — sets cookies + same-origin context
               page.goto("https://tryhackme.com", wait_until="domcontentloaded")
-              page.wait_for_timeout(1000)
+              page.wait_for_timeout(2000)
 
-              # THM returns an HTML badge card (not JSON) for real browser requests
-              page.set_viewport_size({"width": 400, "height": 160})
-              page.goto(BADGE_URL, wait_until="networkidle")
-              page.wait_for_timeout(4000)  # wait for Font Awesome + Google Fonts
+              # Fetch profile data via browser fetch() — same origin, cookies included, not blocked
+              result = page.evaluate(f"""async () => {{
+                  const r = await fetch('/api/v2/badges/public-profile?userPublicId={USER_PUBLIC_ID}');
+                  return await r.json();
+              }}""")
+
+              data     = result["data"]
+              username = data["username"]
+              points   = data["totalPoints"]
+              rank     = data["rank"]
+              badges   = data["badgesNumber"]
+              rooms    = data["completedRoomsNumber"]
+              avatar   = data["avatar"]
+              league   = data.get("leagueTier", "").capitalize()
+
+              print(f"[OK] {username} | {points} pts | {rank} | {league}")
+
+              html = f"""<!DOCTYPE html>
+          <html><head><meta charset="utf-8"><style>
+            * {{ margin:0; padding:0; box-sizing:border-box; }}
+            body {{ width:329px; height:88px; overflow:hidden; background:#1a1a2e; font-family:'Segoe UI',Arial,sans-serif; }}
+            .card {{
+              width:329px; height:88px;
+              background:#1a1a2e;
+              border-radius:10px;
+              display:flex; align-items:center;
+              padding:10px 14px; gap:12px;
+              border:1px solid #2d2d44;
+            }}
+            .avatar {{ width:58px; height:58px; border-radius:50%; object-fit:cover; flex-shrink:0; }}
+            .info {{ flex:1; color:white; overflow:hidden; }}
+            .username {{ font-size:15px; font-weight:700; color:#7ec891; white-space:nowrap; }}
+            .rank     {{ font-size:11px; color:#6fa8dc; margin-top:4px; }}
+            .stats    {{ font-size:11px; color:#9aa0aa; margin-top:3px; }}
+            .logo     {{ font-size:10px; color:#88cc00; font-weight:700; margin-top:4px; letter-spacing:.5px; }}
+          </style></head><body>
+          <div class="card">
+            <img class="avatar" src="{avatar}" />
+            <div class="info">
+              <div class="username">{username}</div>
+              <div class="rank">{rank} &nbsp;·&nbsp; {league} League</div>
+              <div class="stats">{points} pts &nbsp;·&nbsp; {badges} badges &nbsp;·&nbsp; {rooms} rooms</div>
+              <div class="logo">TryHackMe</div>
+            </div>
+          </div>
+          </body></html>"""
+
+              badge_page = context.new_page()
+              badge_page.set_viewport_size({"width": 329, "height": 88})
+              badge_page.set_content(html, wait_until="networkidle")
+              badge_page.wait_for_timeout(2000)
 
               os.makedirs("assets", exist_ok=True)
-              page.screenshot(path="assets/thm_propic.png", full_page=True)
+              badge_page.screenshot(
+                  path="assets/thm_propic.png",
+                  clip={"x": 0, "y": 0, "width": 329, "height": 88}
+              )
               browser.close()
 
-          print("Badge generated successfully!")
+          print("Badge saved to assets/thm_propic.png")
           EOF
 
       - name: Commit and push
