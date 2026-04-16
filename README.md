@@ -46,7 +46,6 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 
 <h2 align="center">Weather Forecast ☀️</h2>
 
-
 <!-- WEATHER_START -->
 
 <div align="center">
@@ -54,7 +53,6 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 </div>
 
 <!-- WEATHER_END -->
-
 
 <h2 align="center">Let's Connect! 🚀</h2>
 Do you have a technical challenge, a need for software architecture, or an app idea? I would love to chat with you! Don't hesitate to contact me to explore together how to make your vision a reality. 🌟
@@ -70,23 +68,26 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img src="assets/gift.gif" alt="Gif">
 </p>
 
-
-
 <div align="center">
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
   <h2>🐍 Snake & Contributions 🐍</h2>
-  <br>
+<br>
 
   <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
-  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
-  <br><br>
+![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+<br><br>
 
-  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-  <br><br>
+![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+<br><br>
 
-  ![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
-  <br><br><br>
+![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+<br><br><br>
+
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
