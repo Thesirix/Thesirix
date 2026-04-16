@@ -29,18 +29,33 @@ jobs:
           from playwright.sync_api import sync_playwright
 
           USER_PUBLIC_ID = "69de1facc23d0ac598079f59"
+          API_URL = f"https://tryhackme.com/api/v2/badges/public-profile?userPublicId={USER_PUBLIC_ID}"
 
           with sync_playwright() as p:
               browser = p.chromium.launch()
               context = browser.new_context(
-                  user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+                  user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36",
+                  extra_http_headers={
+                      "Accept": "application/json, text/plain, */*",
+                      "Accept-Language": "en-US,en;q=0.9",
+                      "Referer": "https://tryhackme.com/",
+                  }
               )
 
-              # Fetch API data via real browser (bypass bot detection)
+              # Visit homepage first to get cookies
               page = context.new_page()
-              page.goto(f"https://tryhackme.com/api/v2/badges/public-profile?userPublicId={USER_PUBLIC_ID}", wait_until="networkidle")
-              raw = page.evaluate("() => document.body.innerText")
-              data = json.loads(raw)["data"]
+              page.goto("https://tryhackme.com", wait_until="domcontentloaded")
+              page.wait_for_timeout(2000)
+
+              # Now fetch the API
+              response = page.goto(API_URL, wait_until="load")
+              print(f"[DEBUG] Status: {response.status}")
+              print(f"[DEBUG] Final URL: {page.url}")
+              body = response.text()
+              print(f"[DEBUG] Body length: {len(body)}")
+              print(f"[DEBUG] Body preview: {body[:300]}")
+
+              data = json.loads(body)["data"]
 
               username = data["username"]
               points   = data["totalPoints"]
@@ -49,6 +64,8 @@ jobs:
               rooms    = data["completedRoomsNumber"]
               avatar   = data["avatar"]
               league   = data.get("leagueTier", "").capitalize()
+
+              print(f"[OK] User: {username} | {points} pts | {rank}")
 
               html = f"""<!DOCTYPE html>
           <html><head><style>
@@ -80,7 +97,6 @@ jobs:
           </div>
           </body></html>"""
 
-              # Screenshot the badge card
               badge_page = context.new_page()
               badge_page.set_viewport_size({"width": 329, "height": 88})
               badge_page.set_content(html)
