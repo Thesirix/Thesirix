@@ -127,6 +127,8 @@ Do you have a technical challenge, a need for software architecture, or an app i
        alt="Thesirix" />
   <br/>
   <img width="325" align="center" src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="thesirix" />
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/Thesirix/Thesirix/widget/contrib-card/contrib-card.svg" alt="Top Repos by Commits" />
 </div>
 
 <br>
