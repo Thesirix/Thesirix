@@ -13,14 +13,19 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Generate snake SVG
-        uses: Platane/snk@v3
+      - uses: actions/setup-node@v4
         with:
-          github_user_name: ${{ github.repository_owner }}
-          outputs: |
-            snake-output/snake.svg
+          node-version: '20'
+
+      - name: Generate snake SVG
+        run: |
+          mkdir -p snake-output
+          curl -fsSL https://raw.githubusercontent.com/Platane/snk/master/svg-only/dist/index.js -o /tmp/snk.js
+          node /tmp/snk.js
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          INPUT_GITHUB_USER_NAME: ${{ github.repository_owner }}
+          INPUT_SVG_OUT_PATH: snake-output/snake.svg
 
       - name: Push to branch snake-output
         uses: peaceiris/actions-gh-pages@v3
