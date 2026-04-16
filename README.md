@@ -73,6 +73,11 @@ Do you have a technical challenge, a need for software architecture, or an app i
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
+1. ⭐ Starred [nomi-sec/PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) — _14h ago_
+2. ⭐ Starred [marek-jakub/SharedSolutions](https://github.com/marek-jakub/SharedSolutions) — _1d ago_
+3. ⭐ Starred [marek-jakub/tdd](https://github.com/marek-jakub/tdd) — _1d ago_
+4. ⭐ Starred [Wei-1/js-visualization-100-days-challenge](https://github.com/Wei-1/js-visualization-100-days-challenge) — _1d ago_
+5. ⭐ Starred [Wei-1/Wei-1.github.io](https://github.com/Wei-1/Wei-1.github.io) — _1d ago_
 <!--END_SECTION:activity-->
 
   <h2>🐍 Snake & Contributions 🐍</h2>
