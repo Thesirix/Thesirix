@@ -8,21 +8,6 @@ from datetime import datetime
 CITY = "Marseille"
 DAYS = 3
 
-CONDITION_EMOJI = {
-    1000: "☀️",  1003: "⛅",  1006: "☁️",  1009: "☁️",
-    1030: "🌫️", 1063: "🌦️", 1066: "🌨️", 1069: "🌨️",
-    1072: "🌧️", 1087: "⛈️", 1114: "❄️",  1117: "❄️",
-    1135: "🌫️", 1147: "🌫️",
-}
-for c in (1150,1153,1168,1171,1180,1183,1186,1189,1192,1195,1198,1201,1240,1243,1246):
-    CONDITION_EMOJI[c] = "🌧️"
-for c in (1204,1207,1237,1249,1252,1261,1264):
-    CONDITION_EMOJI[c] = "🌨️"
-for c in (1210,1213,1216,1219,1222,1225,1255,1258):
-    CONDITION_EMOJI[c] = "❄️"
-for c in (1273,1276,1279,1282):
-    CONDITION_EMOJI[c] = "⛈️"
-
 # ── Fetch weather ─────────────────────────────────────────────────────────────
 api_key = os.environ.get("WEATHER_API_KEY")
 if not api_key:
@@ -45,66 +30,75 @@ def fetch_icon_b64(path: str) -> str:
 
 icons_b64 = [fetch_icon_b64(d["day"]["condition"]["icon"]) for d in forecast]
 
-# ── Prepare cell content ──────────────────────────────────────────────────────
+# ── Cell content ──────────────────────────────────────────────────────────────
 def fmt_date(d: str) -> str:
     return datetime.strptime(d, "%Y-%m-%d").strftime("%d/%m/%Y")
 
-def xml_esc(s: str) -> str:
+def xe(s: str) -> str:
     return s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
 
 dates      = [fmt_date(d["date"]) for d in forecast]
-conditions = [xml_esc(d["day"]["condition"]["text"]) for d in forecast]
+conditions = [xe(d["day"]["condition"]["text"]) for d in forecast]
 temps      = [f"🌡️ {d['day']['mintemp_c']}–{d['day']['maxtemp_c']} °C" for d in forecast]
 winds      = [f"↗️ {d['day']['maxwind_kph']} kph" for d in forecast]
 
-# ── SVG layout (Tokyo Night) ──────────────────────────────────────────────────
-W         = 820   # +20 pour que le shadow droit ne soit pas coupé
+# ── Layout ────────────────────────────────────────────────────────────────────
+W         = 820          # +20 so right shadow isn't clipped
 PAD       = 8
-CARD_W    = W - PAD * 2
-H_COL     = 140                          # label column width
-D_COL     = (CARD_W - H_COL) // 3       # ≈ 214 — data column width
-ROW_H     = [52, 66, 52, 52, 52]        # row heights (icon row taller)
-INNER_PAD = 16                           # vertical padding inside card
-CARD_H    = sum(ROW_H) + INNER_PAD * 2  # 274 + 32 = 306
-TOTAL_H   = PAD * 2 + CARD_H + 10       # shadow va vers la droite, peu de bleed vertical
+CARD_W    = 784          # fixed card width, leaves 28px right margin for shadow
+H_COL     = 140
+D_COL     = (CARD_W - H_COL) // 3      # ≈ 214
+ROW_H     = [52, 68, 52, 52, 52]       # icon row is taller
+INNER_V   = 14
+CARD_H    = sum(ROW_H) + INNER_V * 2   # 276 + 28 = 304
+TOTAL_H   = PAD * 2 + CARD_H + 8      # minimal vertical bleed
 
-v0    = PAD + INNER_PAD
+v0    = PAD + INNER_V
 row_y = [v0 + sum(ROW_H[:i]) for i in range(5)]
 col_x = [PAD, PAD + H_COL, PAD + H_COL + D_COL, PAD + H_COL + D_COL * 2]
 
-# Palette — Tokyo Night (calée sur la streak card)
-C_CARD   = "#1a1b2e"   # même bg que la streak card
-C_HEADER = "#13131f"   # header col plus sombre
-C_FG_H   = "#7aa2f7"   # bleu — labels colonne gauche
-C_DATE   = "#38bdae"   # teal — dates (couleur accentuation TN)
-C_DATA   = "#c0caf5"   # blanc cassé — données
-C_SEP    = "#292e42"   # séparateurs discrets
+# ── Tokyo Night palette ───────────────────────────────────────────────────────
+C_CARD    = "#1a1b2e"   # card background  — same as streak card
+C_HEADER  = "#13131f"   # label column bg  — darker
+C_LABEL   = "#7aa2f7"   # blue   — row labels
+C_DATE    = "#38bdae"   # teal   — dates   (TN accent)
+C_DATA    = "#38bdae"   # teal   — all data values
+C_SEP     = "#292e42"   # separator lines
 
-FONT_SANS  = "Segoe UI, Arial, sans-serif"
-FONT_EMOJI = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
+F_SANS    = "Segoe UI, Arial, sans-serif"
+F_EMOJI   = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
 
 labels = ["Date", "Weather", "Condition", "Temperature", "Wind"]
 
 # ── Build SVG ─────────────────────────────────────────────────────────────────
 L = []
-
 L.append(
     f'<svg xmlns="http://www.w3.org/2000/svg" '
     f'xmlns:xlink="http://www.w3.org/1999/xlink" '
     f'width="{W}" height="{TOTAL_H}">'
 )
 
+# Filter: shadow ONLY on the right side.
+# x="0%" → filter region starts at left edge of element, clipping any leftward shadow.
+# width="120%" → extends only to the right to catch the offset shadow.
 L.append(f"""\
   <defs>
-    <filter id="sh" x="-2%" y="-2%" width="116%" height="108%">
-      <feDropShadow dx="10" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.55"/>
+    <filter id="sh" x="0%" y="-2%" width="120%" height="104%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="5" result="blur"/>
+      <feOffset in="blur" dx="12" dy="3" result="shifted"/>
+      <feFlood flood-color="#000000" flood-opacity="0.6" result="color"/>
+      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
+      <feMerge>
+        <feMergeNode in="shadow"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
     </filter>
     <clipPath id="card">
       <rect x="{PAD}" y="{PAD}" width="{CARD_W}" height="{CARD_H}" rx="14" ry="14"/>
     </clipPath>
   </defs>""")
 
-# Card
+# Card base
 L.append(
     f'  <rect x="{PAD}" y="{PAD}" width="{CARD_W}" height="{CARD_H}" '
     f'rx="14" ry="14" fill="{C_CARD}" filter="url(#sh)"/>'
@@ -130,13 +124,13 @@ for x in col_x[1:]:
         f'stroke="{C_SEP}" stroke-width="1" clip-path="url(#card)"/>'
     )
 
-# Header labels
+# Row labels (left column)
 for i, label in enumerate(labels):
     cy = row_y[i] + ROW_H[i] // 2
-    cx = PAD + H_COL // 2
     L.append(
-        f'  <text x="{cx}" y="{cy}" text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{FONT_SANS}" font-size="13" font-weight="600" fill="{C_FG_H}">'
+        f'  <text x="{PAD + H_COL // 2}" y="{cy}" '
+        f'text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_SANS}" font-size="13" font-weight="600" fill="{C_LABEL}">'
         f'{label}</text>'
     )
 
@@ -145,29 +139,70 @@ for i, date in enumerate(dates):
     cx = col_x[i + 1] + D_COL // 2
     cy = row_y[0] + ROW_H[0] // 2
     L.append(
-        f'  <text x="{cx}" y="{cy}" text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{FONT_SANS}" font-size="13" fill="{C_DATE}">{date}</text>'
+        f'  <text x="{cx}" y="{cy}" '
+        f'text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_SANS}" font-size="13" fill="{C_DATE}">{date}</text>'
     )
 
-# Row 1 — Icons (base64 PNG)
+# Row 1 — Weather icons with floating animation
 for i, b64 in enumerate(icons_b64):
-    sz = 46
-    cx = col_x[i + 1] + D_COL // 2
-    cy = row_y[1] + ROW_H[1] // 2
+    sz   = 46
+    cx   = col_x[i + 1] + D_COL // 2
+    cy   = row_y[1] + ROW_H[1] // 2
+    # Each icon floats with a different phase offset (0s, 0.9s, 1.8s)
+    begin = f"{i * 0.9:.1f}s"
     L.append(
-        f'  <image x="{cx - sz // 2}" y="{cy - sz // 2}" '
-        f'width="{sz}" height="{sz}" href="{b64}" clip-path="url(#card)"/>'
+        f'  <g transform="translate({cx},{cy})">\n'
+        f'    <image x="{-sz // 2}" y="{-sz // 2}" width="{sz}" height="{sz}" '
+        f'href="{b64}" clip-path="url(#card)"/>\n'
+        f'    <animateTransform attributeName="transform" type="translate" '
+        f'additive="sum" values="0,0; 0,-5; 0,0" '
+        f'dur="2.7s" begin="{begin}" repeatCount="indefinite" '
+        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'  </g>'
     )
 
-# Rows 2-4 — Text (condition / temperature / wind)
-for ri, cells in enumerate((conditions, temps, winds), start=2):
-    cy = row_y[ri] + ROW_H[ri] // 2
-    for ci, cell in enumerate(cells):
-        cx = col_x[ci + 1] + D_COL // 2
-        L.append(
-            f'  <text x="{cx}" y="{cy}" text-anchor="middle" dominant-baseline="central" '
-            f'font-family="{FONT_EMOJI}" font-size="13" fill="{C_DATA}">{cell}</text>'
-        )
+# Row 2 — Condition
+for i, cond in enumerate(conditions):
+    cx = col_x[i + 1] + D_COL // 2
+    cy = row_y[2] + ROW_H[2] // 2
+    L.append(
+        f'  <text x="{cx}" y="{cy}" '
+        f'text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_SANS}" font-size="13" fill="{C_DATA}">{cond}</text>'
+    )
+
+# Row 3 — Temperature (🌡️ with subtle pulse on the emoji)
+for i, temp in enumerate(temps):
+    cx = col_x[i + 1] + D_COL // 2
+    cy = row_y[3] + ROW_H[3] // 2
+    # Split emoji from the rest so we can animate only the emoji
+    # temp format: "🌡️ 14.3–20.0 °C"
+    L.append(
+        f'  <g transform="translate({cx},{cy})">\n'
+        f'    <text text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{temp}</text>\n'
+        f'    <animateTransform attributeName="transform" type="scale" '
+        f'additive="sum" values="1; 1.04; 1" '
+        f'dur="2s" begin="{i * 0.6:.1f}s" repeatCount="indefinite" '
+        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'  </g>'
+    )
+
+# Row 4 — Wind (↗️ with rightward nudge)
+for i, wind in enumerate(winds):
+    cx = col_x[i + 1] + D_COL // 2
+    cy = row_y[4] + ROW_H[4] // 2
+    L.append(
+        f'  <g transform="translate({cx},{cy})">\n'
+        f'    <text text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{wind}</text>\n'
+        f'    <animateTransform attributeName="transform" type="translate" '
+        f'additive="sum" values="0,0; 3,0; 0,0" '
+        f'dur="1.8s" begin="{i * 0.5:.1f}s" repeatCount="indefinite" '
+        f'calcMode="spline" keySplines="0.45 0 0.55 1; 0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
+        f'  </g>'
+    )
 
 L.append("</svg>")
 
