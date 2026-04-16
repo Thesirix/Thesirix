@@ -33,7 +33,20 @@ My technological arsenal revolves around performance and mobility:
 
 <h2 align="center">ToolBox 🛠</h2>
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,github,md,docker,mysql,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50">
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50">
+</div>
+<br>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=django,html,css,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,md,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
+  </a>
+</div>
 
 <h2 align="center">Projects 🚧</h2>
 
@@ -45,9 +58,6 @@ For me, code is a creative playground. I love when things run smoothly, are auto
 - 📊 **Data & Tools** : I use Python as a Swiss Army knife, whether to analyze data or create scripts that make my daily life easier.
 
 <h2 align="center">Weather Forecast ☀️</h2>
-
-<!-- WEATHER_START -->
-<!-- WEATHER_END -->
 
 <h2 align="center">Let's Connect! 🚀</h2>
 Do you have a technical challenge, a need for software architecture, or an app idea? I would love to chat with you! Don't hesitate to contact me to explore together how to make your vision a reality. 🌟
@@ -63,22 +73,10 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img src="assets/gift.gif" alt="Gif">
 </p>
 
-<!-- TryHackMe badge -- decommente quand THM supporte le badge (rank suffisant)
-<div align="center">
-  <a href="https://tryhackme.com/p/thesirix" target="_blank">
-    <img src="https://raw.githubusercontent.com/thesirix/thesirix/main/assets/thm_propic.png" alt="TryHackMe Stats">
-  </a>
-  <br><br>
-</div>
--->
-
 <h2 align="center">⚡ Recent Activity</h2>
 
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 <div align="center">
-  <h2>🐍 Snake & Contributions 🐍</h2>
+  <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
 
   <img alt="snake eating my contributions" src="assets/snake.svg" />
