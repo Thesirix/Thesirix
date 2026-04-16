@@ -33,7 +33,17 @@ My technological arsenal revolves around performance and mobility:
 
 <h2 align="center">ToolBox 🛠</h2>
 
-<div align="center"><img src="assets/techstack/python.svg" alt="Python" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Django" width="50" height="50" /><img src="assets/techstack/python.svg" alt="JavaScript" width="50" height="50" /><img src="assets/techstack/python.svg" alt="TypeScript" width="50" height="50" /><img src="assets/techstack/python.svg" alt="React" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Jest" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Docker" width="50" height="50" /><img src="assets/techstack/python.svg" alt="MySQL" width="50" height="50" /><img src="assets/techstack/python.svg" alt="GitHub" width="50" height="50" /></div>
+<div align="center">
+  <img src="assets/techstack/python.svg" alt="Python" width="50" height="50" />
+  <img src="assets/techstack/django.svg" alt="Django" width="50" height="50" />
+  <img src="assets/techstack/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="assets/techstack/typescript.svg" alt="TypeScript" width="50" height="50" />
+  <img src="assets/techstack/react.svg" alt="React" width="50" height="50" />
+  <img src="assets/techstack/jest.svg" alt="Jest" width="50" height="50" />
+  <img src="assets/techstack/docker.svg" alt="Docker" width="50" height="50" />
+  <img src="assets/techstack/mysql.svg" alt="MySQL" width="50" height="50" />
+  <img src="assets/techstack/github.svg" alt="GitHub" width="50" height="50" />
+</div>
 
 <br>
 
