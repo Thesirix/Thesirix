@@ -33,7 +33,7 @@ My technological arsenal revolves around performance and mobility:
 
 <h2 align="center">ToolBox 🛠</h2>
 
-<div align="center"><img src="assets/techstack/python.svg" alt="Python" width="50" height="50" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="50" height="50" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" /></div>
+<div align="center"><img src="assets/techstack/python.svg" alt="Python" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Django" width="50" height="50" /><img src="assets/techstack/python.svg" alt="JavaScript" width="50" height="50" /><img src="assets/techstack/python.svg" alt="TypeScript" width="50" height="50" /><img src="assets/techstack/python.svg" alt="React" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Jest" width="50" height="50" /><img src="assets/techstack/python.svg" alt="Docker" width="50" height="50" /><img src="assets/techstack/python.svg" alt="MySQL" width="50" height="50" /><img src="assets/techstack/python.svg" alt="GitHub" width="50" height="50" /></div>
 
 <br>
 
@@ -96,14 +96,15 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
-  ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
-  <br><br>
+![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)
+<br><br>
 
-  ![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
-  <br><br>
+![Thesirix's github curve contribution](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night&hide_border=true&grid=true&days=40)
+<br><br>
 
-  ![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
-  <br><br><br>
+![3D City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+<br><br><br>
+
 </div>
 
 <h2 align="center">⚡ Stats ⚡</h2>
