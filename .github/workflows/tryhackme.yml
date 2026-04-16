@@ -1,19 +1,103 @@
 name: "🔐 TryHackMe Badge"
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
+  workflow_call:
+
 permissions:
   contents: write
+
 jobs:
-  tryhackme-badge-update:
-    name: Update this repo's tryhackme badge with the latest tryhackme image badge
+  update-thm-badge:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: p4p1/tryhackme-badge-workflow@main
+
+      - uses: actions/setup-python@v5
         with:
-          username: "thesirix"
-          use_static_image: false
-          user_public_id: "69de1facc23d0ac598079f59"
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install playwright requests && playwright install chromium --with-deps
+
+      - name: Generate THM badge
+        run: |
+          python3 << 'EOF'
+          import requests, os
+          from playwright.sync_api import sync_playwright
+
+          r = requests.get(
+            "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=69de1facc23d0ac598079f59",
+            timeout=15
+          )
+          data = r.json()["data"]
+
+          username = data["username"]
+          points   = data["totalPoints"]
+          rank     = data["rank"]
+          badges   = data["badgesNumber"]
+          rooms    = data["completedRoomsNumber"]
+          avatar   = data["avatar"]
+          league   = data.get("leagueTier", "").capitalize()
+
+          html = f"""<!DOCTYPE html>
+          <html><head><style>
+            * {{ margin:0; padding:0; box-sizing:border-box; }}
+            body {{ background:transparent; font-family:'Segoe UI',sans-serif; }}
+            .card {{
+              width:329px; height:88px;
+              background:#1a1a2e;
+              border-radius:10px;
+              display:flex; align-items:center;
+              padding:10px; gap:12px;
+              border:1px solid #2d2d44;
+            }}
+            .avatar {{ width:60px; height:60px; border-radius:50%; object-fit:cover; }}
+            .info {{ flex:1; color:white; }}
+            .username {{ font-size:15px; font-weight:bold; color:#88cc88; }}
+            .rank     {{ font-size:11px; color:#60a0ff; margin-top:3px; }}
+            .stats    {{ font-size:11px; color:#aaaaaa; margin-top:3px; }}
+            .logo     {{ font-size:11px; color:#88cc00; font-weight:bold; margin-top:3px; }}
+          </style></head><body>
+          <div class="card">
+            <img class="avatar" src="{avatar}" />
+            <div class="info">
+              <div class="username">{username}</div>
+              <div class="rank">{rank} · {league} League</div>
+              <div class="stats">{points} pts · {badges} badges · {rooms} rooms</div>
+              <div class="logo">TryHackMe</div>
+            </div>
+          </div>
+          </body></html>"""
+
+          os.makedirs("assets", exist_ok=True)
+          with open("/tmp/thm_badge.html", "w") as f:
+              f.write(html)
+
+          with sync_playwright() as p:
+              browser = p.chromium.launch()
+              page = browser.new_page(viewport={"width": 329, "height": 88})
+              page.goto("file:///tmp/thm_badge.html")
+              page.wait_for_timeout(2000)
+              page.screenshot(
+                path="assets/thm_propic.png",
+                clip={"x": 0, "y": 0, "width": 329, "height": 88}
+              )
+              browser.close()
+          print("Badge generated!")
+          EOF
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/thm_propic.png
+          if git diff --cached --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "🔐 Update TryHackMe badge"
+            git pull --rebase origin main
+            git push origin main
+          fi
