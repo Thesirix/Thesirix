@@ -1,9 +1,0 @@
-# 🔐 TryHackMe Badge — workflow désactivé
-#
-# THM ne génère pas le badge pour les nouveaux comptes (rank insuffisant).
-# Le badge sera réactivé quand THM supportera la génération pour ce compte.
-#
-# Pour réactiver :
-#   1. Décommenter le bloc dans template/README.md.template
-#   2. Restaurer le contenu du workflow (voir git history)
-#   3. Décommenter l'entrée dans 0-Update_all.yml
