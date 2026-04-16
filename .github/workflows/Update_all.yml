@@ -18,3 +18,8 @@ jobs:
     name: "🏙️ 3D City"
     uses: ./.github/workflows/3d_city.yml
     secrets: inherit
+
+  tryhackme:
+    name: "🔐 TryHackMe"
+    uses: ./.github/workflows/tryhackme.yml
+    secrets: inherit
