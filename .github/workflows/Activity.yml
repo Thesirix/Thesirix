@@ -13,6 +13,21 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Generate activity & update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/activity.py
+
+      - name: Commit & push
+        run: |
+          if git diff --exit-code -- README.md; then
+            echo "No changes to commit."
+            exit 0
+          else
+            git config user.name "github-actions"
+            git config user.email "github-actions@github.com"
+            git add README.md
+            git commit -m "⚡ Update recent activity"
+            git pull --rebase origin main
+            git push origin main
+          fi

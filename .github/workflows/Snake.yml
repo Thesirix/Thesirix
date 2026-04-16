@@ -14,10 +14,10 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
       - name: Generate snake SVG
-        uses: Platane/snk@v3
+        uses: Platane/snk/action@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
