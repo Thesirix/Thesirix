@@ -64,7 +64,7 @@ For me, code is a creative playground. I love when things run smoothly, are auto
     </tr>
     <tr>
         <th>Temperature</th>
-        <td>14.3 -  20 °C</td><td>15.1 -  20.4 °C</td><td>15.2 -  20.8 °C</td>
+        <td>14.3 -  20.0 °C</td><td>15.1 -  20.4 °C</td><td>15.2 -  20.8 °C</td>
     </tr>
     <tr>
         <th>Wind</th>
