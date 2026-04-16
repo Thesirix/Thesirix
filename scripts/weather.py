@@ -58,7 +58,7 @@ temps      = [f"🌡️ {d['day']['mintemp_c']}–{d['day']['maxtemp_c']} °C" f
 winds      = [f"↗️ {d['day']['maxwind_kph']} kph" for d in forecast]
 
 # ── SVG layout (Tokyo Night) ──────────────────────────────────────────────────
-W         = 800
+W         = 820   # +20 pour que le shadow droit ne soit pas coupé
 PAD       = 8
 CARD_W    = W - PAD * 2
 H_COL     = 140                          # label column width
@@ -66,19 +66,19 @@ D_COL     = (CARD_W - H_COL) // 3       # ≈ 214 — data column width
 ROW_H     = [52, 66, 52, 52, 52]        # row heights (icon row taller)
 INNER_PAD = 16                           # vertical padding inside card
 CARD_H    = sum(ROW_H) + INNER_PAD * 2  # 274 + 32 = 306
-TOTAL_H   = PAD * 2 + CARD_H + 22       # +22 shadow bleed
+TOTAL_H   = PAD * 2 + CARD_H + 10       # shadow va vers la droite, peu de bleed vertical
 
 v0    = PAD + INNER_PAD
 row_y = [v0 + sum(ROW_H[:i]) for i in range(5)]
 col_x = [PAD, PAD + H_COL, PAD + H_COL + D_COL, PAD + H_COL + D_COL * 2]
 
-# Palette
-C_CARD   = "#1e2030"
-C_HEADER = "#16171f"
-C_FG_H   = "#7aa2f7"
-C_DATE   = "#bb9af7"
-C_DATA   = "#c0caf5"
-C_SEP    = "#2f3354"
+# Palette — Tokyo Night (calée sur la streak card)
+C_CARD   = "#1a1b2e"   # même bg que la streak card
+C_HEADER = "#13131f"   # header col plus sombre
+C_FG_H   = "#7aa2f7"   # bleu — labels colonne gauche
+C_DATE   = "#38bdae"   # teal — dates (couleur accentuation TN)
+C_DATA   = "#c0caf5"   # blanc cassé — données
+C_SEP    = "#292e42"   # séparateurs discrets
 
 FONT_SANS  = "Segoe UI, Arial, sans-serif"
 FONT_EMOJI = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
@@ -96,8 +96,8 @@ L.append(
 
 L.append(f"""\
   <defs>
-    <filter id="sh" x="-4%" y="-4%" width="108%" height="118%">
-      <feDropShadow dx="0" dy="5" stdDeviation="8" flood-color="#000000" flood-opacity="0.5"/>
+    <filter id="sh" x="-2%" y="-2%" width="116%" height="108%">
+      <feDropShadow dx="10" dy="4" stdDeviation="6" flood-color="#000000" flood-opacity="0.55"/>
     </filter>
     <clipPath id="card">
       <rect x="{PAD}" y="{PAD}" width="{CARD_W}" height="{CARD_H}" rx="14" ry="14"/>
