@@ -13,6 +13,9 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      - name: Rebuild README from template (ensure markers exist)
+        run: python3 scripts/build_readme.py
+
       - name: Generate activity & update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
