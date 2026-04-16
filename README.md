@@ -33,7 +33,20 @@ My technological arsenal revolves around performance and mobility:
 
 <h2 align="center">ToolBox 🛠</h2>
 
-<img src="https://skillicons.dev/icons?i=python,django,html,css,javascript,react,express,jest,dart,flutter,laravel,bootstrap,materialui,tailwind,git,github,md,docker,mysql,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="Jest" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+</div>
+
+<br>
+
+<img src="https://skillicons.dev/icons?i=html,css,express,dart,flutter,laravel,bootstrap,materialui,tailwind,git,md,mongodb,vscode,windows,notion,figma,photoshop,illustrator,svg,premiere,ae,blender,threejs,ableton"/>
 
 <h2 align="center">Projects 🚧</h2>
 
@@ -83,7 +96,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <h2>🐍 Snake & Contributions 🐍</h2>
 <br>
 
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Thesirix/Thesirix/snake-output/snake.svg" />
+  <img alt="snake eating my contributions" src="assets/snake.svg" />
   <br><br>
 
 ![Thesirix's github activity 3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&weeks=30&theme=tokyo_night&dark=true&format=svg)

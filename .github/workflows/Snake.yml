@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: "0 */12 * * *"
   workflow_dispatch:
-  workflow_call:
 
 jobs:
   build:
@@ -13,24 +12,20 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: actions/setup-node@v4
-        with:
-          node-version: '20'
-
       - name: Generate snake SVG
-        run: |
-          mkdir -p snake-output
-          curl -fsSL https://raw.githubusercontent.com/Platane/snk/master/svg-only/dist/index.js -o /tmp/snk.js
-          node /tmp/snk.js
+        run: python3 scripts/snake.py
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          INPUT_GITHUB_USER_NAME: ${{ github.repository_owner }}
-          INPUT_SVG_OUT_PATH: snake-output/snake.svg
 
-      - name: Push to branch snake-output
-        uses: peaceiris/actions-gh-pages@v3
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          publish_branch: snake-output
-          publish_dir: ./snake-output
-          commit_message: "🐍 Update snake"
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/snake.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "🐍 Update snake"
+            git pull --rebase origin main
+            git push origin main
+          fi
