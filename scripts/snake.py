@@ -46,7 +46,7 @@ GQL = (
 )
 req = urllib.request.Request(
     "https://api.github.com/graphql",
-    data=json.dumps({"query": GQL, "variables": {"login": USERNAME}}).encode(),
+    data=json.dumps({"query": GQL, "variables": {"l": USERNAME}}).encode(),
     headers={
         "Authorization": f"bearer {TOKEN}",
         "Content-Type": "application/json",

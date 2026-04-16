@@ -17,8 +17,13 @@ url = (
     "https://api.weatherapi.com/v1/forecast.json"
     f"?key={api_key}&q={CITY}&days={DAYS}&aqi=no&alerts=no"
 )
-with urllib.request.urlopen(url) as r:
-    data = json.loads(r.read())
+try:
+    with urllib.request.urlopen(url, timeout=30) as r:
+        data = json.loads(r.read())
+except urllib.error.HTTPError as e:
+    sys.exit(f"WeatherAPI error {e.code}: {e.read().decode(errors='replace')}")
+except urllib.error.URLError as e:
+    sys.exit(f"WeatherAPI connection error: {e.reason}")
 
 forecast = data["forecast"]["forecastday"]
 
