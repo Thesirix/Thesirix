@@ -83,7 +83,7 @@ L.append(
 # width="120%" → extends only to the right to catch the offset shadow.
 L.append(f"""\
   <defs>
-    <filter id="sh" x="0%" y="-6%" width="114%" height="112%">
+    <filter id="sh" x="0%" y="0%" width="114%" height="112%">
       <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
       <feOffset in="blur" dx="5" dy="3" result="shifted"/>
       <feFlood flood-color="#000000" flood-opacity="0.35" result="color"/>
@@ -141,7 +141,7 @@ for i, date in enumerate(dates):
     L.append(
         f'  <text x="{cx}" y="{cy}" '
         f'text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{F_SANS}" font-size="13" fill="{C_DATE}">{date}</text>'
+        f'font-family="{F_SANS}" font-size="13" font-weight="600" fill="{C_DATE}">{date}</text>'
     )
 
 # Row 1 — Weather icons with floating animation
@@ -173,36 +173,24 @@ for i, cond in enumerate(conditions):
         f'font-family="{F_SANS}" font-size="13" fill="{C_DATA}">{cond}</text>'
     )
 
-# Row 3 — Temperature — subtle vertical float on the whole cell
+# Row 3 — Temperature (static)
 for i, temp in enumerate(temps):
-    cx  = col_x[i + 1] + D_COL // 2
-    cy  = row_y[3] + ROW_H[3] // 2
-    b   = f"{i * 0.7:.1f}s"
+    cx = col_x[i + 1] + D_COL // 2
+    cy = row_y[3] + ROW_H[3] // 2
     L.append(
-        f'  <g>\n'
-        f'    <animateTransform attributeName="transform" type="translate" '
-        f'values="{cx},{cy}; {cx},{cy - 3}; {cx},{cy}" '
-        f'dur="2.5s" begin="{b}" repeatCount="indefinite" '
-        f'calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
-        f'    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{temp}</text>\n'
-        f'  </g>'
+        f'  <text x="{cx}" y="{cy}" '
+        f'text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{temp}</text>'
     )
 
-# Row 4 — Wind — rightward nudge on each cell
+# Row 4 — Wind (static)
 for i, wind in enumerate(winds):
-    cx  = col_x[i + 1] + D_COL // 2
-    cy  = row_y[4] + ROW_H[4] // 2
-    b   = f"{i * 0.5:.1f}s"
+    cx = col_x[i + 1] + D_COL // 2
+    cy = row_y[4] + ROW_H[4] // 2
     L.append(
-        f'  <g>\n'
-        f'    <animateTransform attributeName="transform" type="translate" '
-        f'values="{cx},{cy}; {cx + 4},{cy}; {cx},{cy}" '
-        f'dur="1.8s" begin="{b}" repeatCount="indefinite" '
-        f'calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>\n'
-        f'    <text x="0" y="0" text-anchor="middle" dominant-baseline="central" '
-        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{wind}</text>\n'
-        f'  </g>'
+        f'  <text x="{cx}" y="{cy}" '
+        f'text-anchor="middle" dominant-baseline="central" '
+        f'font-family="{F_EMOJI}" font-size="13" fill="{C_DATA}">{wind}</text>'
     )
 
 L.append("</svg>")
