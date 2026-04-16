@@ -6,7 +6,7 @@ const C = {
   title:   '#bb9af7',
   name:    '#c0caf5',
   commits: '#7aa2f7',
-  header:  '#9ece6a',
+  header:  '#73daca',
   dim:     '#565f89',
 };
 
