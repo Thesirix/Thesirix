@@ -1,4 +1,4 @@
-name: TryHackMe Update Badge
+name: "🔐 TryHackMe Badge"
 on:
   schedule:
     - cron: "0 0 * * *"
