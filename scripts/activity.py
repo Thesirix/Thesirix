@@ -40,14 +40,16 @@ def fmt_event(e: dict) -> str | None:
 
     if t == "PushEvent":
         branch = p.get("ref", "").replace("refs/heads/", "")
-        # Public API omits `size`/`commits`; fall back to head!=before check
-        n = p.get("size") or len(p.get("commits", []))
-        if n == 0:
-            # No count available — verify at least one commit via head/before diff
-            if p.get("head") == p.get("before"):
-                return None  # truly empty push
-            return f"🔨 Pushed to {repo_link} on `{branch}`"
-        return f"🔨 Pushed {n} commit{'s' if n != 1 else ''} to {repo_link} on `{branch}`"
+        head   = p.get("head", "")
+        before = p.get("before", "")
+        if head == before:
+            return None  # truly empty push
+        # Build a clickable commit link from the head SHA
+        short_sha  = head[:7] if head else ""
+        commit_url = f"{repo_url}/commit/{head}" if head else repo_url
+        commit_link = f"[`{short_sha}`]({commit_url})" if short_sha else ""
+        suffix = f" {commit_link}" if commit_link else ""
+        return f"🔨 Pushed{suffix} to {repo_link} on `{branch}`"
 
     if t == "CreateEvent":
         ref_type = p.get("ref_type", "")
