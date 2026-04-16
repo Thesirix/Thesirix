@@ -20,29 +20,37 @@ jobs:
           python-version: "3.11"
 
       - name: Install dependencies
-        run: pip install playwright requests && playwright install chromium --with-deps
+        run: pip install playwright && playwright install chromium --with-deps
 
       - name: Generate THM badge
         run: |
           python3 << 'EOF'
-          import requests, os
+          import os, json
           from playwright.sync_api import sync_playwright
 
-          r = requests.get(
-            "https://tryhackme.com/api/v2/badges/public-profile?userPublicId=69de1facc23d0ac598079f59",
-            timeout=15
-          )
-          data = r.json()["data"]
+          USER_PUBLIC_ID = "69de1facc23d0ac598079f59"
 
-          username = data["username"]
-          points   = data["totalPoints"]
-          rank     = data["rank"]
-          badges   = data["badgesNumber"]
-          rooms    = data["completedRoomsNumber"]
-          avatar   = data["avatar"]
-          league   = data.get("leagueTier", "").capitalize()
+          with sync_playwright() as p:
+              browser = p.chromium.launch()
+              context = browser.new_context(
+                  user_agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+              )
 
-          html = f"""<!DOCTYPE html>
+              # Fetch API data via real browser (bypass bot detection)
+              page = context.new_page()
+              page.goto(f"https://tryhackme.com/api/v2/badges/public-profile?userPublicId={USER_PUBLIC_ID}", wait_until="networkidle")
+              raw = page.evaluate("() => document.body.innerText")
+              data = json.loads(raw)["data"]
+
+              username = data["username"]
+              points   = data["totalPoints"]
+              rank     = data["rank"]
+              badges   = data["badgesNumber"]
+              rooms    = data["completedRoomsNumber"]
+              avatar   = data["avatar"]
+              league   = data.get("leagueTier", "").capitalize()
+
+              html = f"""<!DOCTYPE html>
           <html><head><style>
             * {{ margin:0; padding:0; box-sizing:border-box; }}
             body {{ background:transparent; font-family:'Segoe UI',sans-serif; }}
@@ -72,21 +80,21 @@ jobs:
           </div>
           </body></html>"""
 
-          os.makedirs("assets", exist_ok=True)
-          with open("/tmp/thm_badge.html", "w") as f:
-              f.write(html)
+              # Screenshot the badge card
+              badge_page = context.new_page()
+              badge_page.set_viewport_size({"width": 329, "height": 88})
+              badge_page.set_content(html)
+              badge_page.wait_for_load_state("networkidle")
+              badge_page.wait_for_timeout(2000)
 
-          with sync_playwright() as p:
-              browser = p.chromium.launch()
-              page = browser.new_page(viewport={"width": 329, "height": 88})
-              page.goto("file:///tmp/thm_badge.html")
-              page.wait_for_timeout(2000)
-              page.screenshot(
-                path="assets/thm_propic.png",
-                clip={"x": 0, "y": 0, "width": 329, "height": 88}
+              os.makedirs("assets", exist_ok=True)
+              badge_page.screenshot(
+                  path="assets/thm_propic.png",
+                  clip={"x": 0, "y": 0, "width": 329, "height": 88}
               )
               browser.close()
-          print("Badge generated!")
+
+          print("Badge generated successfully!")
           EOF
 
       - name: Commit and push
