@@ -86,6 +86,7 @@ Do you have a technical challenge, a need for software architecture, or an app i
 </p>
 
 
+
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
   <br>
