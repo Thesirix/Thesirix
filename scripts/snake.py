@@ -6,11 +6,13 @@ Inspired by Platane/snk (https://github.com/Platane/snk).
 
 Algorithm:
   1. Fetch contribution grid via GitHub GraphQL API.
-  2. Visit every cell with a boustrophedon (zigzag-column) path.
+  2. Visit colored cells level by level (lightest first) using BFS +
+     nearest-neighbour — reproduces the organic wandering of the original snk.
   3. Build the full snake-body chain at each step.
   4. Emit CSS keyframe animations for the grid cells and snake parts.
 """
-import os, sys, json, urllib.request
+import os, sys, json, urllib.request, urllib.error
+from collections import deque
 
 # ── Config ─────────────────────────────────────────────────────────────────────
 USERNAME  = os.environ.get("GITHUB_ACTOR", "Thesirix")
@@ -76,18 +78,87 @@ for wx, week in enumerate(weeks):
     for day in week["contributionDays"]:
         grid[(wx, day["weekday"])] = LEVEL_MAP[day["contributionLevel"]]
 
-# ── 2. Boustrophedon path (visits every cell exactly once) ─────────────────────
-path = []
-for x in range(GRID_W):
-    ys = range(GRID_H) if x % 2 == 0 else range(GRID_H - 1, -1, -1)
-    for y in ys:
-        path.append((x, y))
-N = len(path)  # GRID_W * GRID_H
+# ── 2. Build path visiting colored cells level by level ──────────────────────────
+# Like the original snk: lightest (level-1) cells first, then 2, 3, 4.
+# Within each level, nearest-neighbour greedy + BFS navigation.
+# This produces the characteristic "wandering" movement — not a simple zigzag.
 
-# ── 3. Snake body positions at each step ───────────────────────────────────────
-# Lead-in: SNAKE_LEN-1 off-screen positions to the left of the grid (y=0 row)
-lead = [(-SNAKE_LEN + 1 + k, 0) for k in range(SNAKE_LEN - 1)]
-full = lead + path  # extended trajectory including before entering the grid
+def bfs_path(start, target, can_pass_fn):
+    """Shortest path from start → target using parent-pointer BFS."""
+    if start == target:
+        return [start]
+    parent = {start: None}
+    q = deque([start])
+    while q:
+        x, y = q.popleft()
+        for dx, dy in ((-1, 0), (1, 0), (0, -1), (0, 1)):
+            nxt = (x + dx, y + dy)
+            if nxt in parent:
+                continue
+            if nxt == target:
+                parent[nxt] = (x, y)
+                # Reconstruct path
+                p, result = nxt, []
+                while p is not None:
+                    result.append(p)
+                    p = parent[p]
+                result.reverse()
+                return result
+            if can_pass_fn(nxt[0], nxt[1]):
+                parent[nxt] = (x, y)
+                q.append(nxt)
+    return None  # no path found (should not happen on a well-formed grid)
+
+
+eaten: set = set()   # cells already consumed
+
+
+def passable(x, y, max_lv):
+    """A cell is traversable if it's in-bounds AND (empty | already eaten | color ≤ max_lv)."""
+    if not (0 <= x < GRID_W and 0 <= y < GRID_H):
+        return False
+    c = grid.get((x, y), 0)
+    return c == 0 or (x, y) in eaten or c <= max_lv
+
+
+head = (0, 0)
+path = [head]
+
+for lv in range(1, 5):
+    pending = [(x, y) for (x, y), c in grid.items() if c == lv]
+
+    while pending:
+        # Drop cells eaten en-route by previous BFS segments
+        pending = [t for t in pending if t not in eaten]
+        if not pending:
+            break
+
+        cx, cy = head
+        # Nearest-neighbour: pick the closest remaining target
+        pending.sort(key=lambda p: abs(p[0] - cx) + abs(p[1] - cy))
+        tx, ty = pending.pop(0)
+
+        seg = bfs_path((cx, cy), (tx, ty),
+                       lambda x, y, lv=lv: passable(x, y, lv))
+        if seg:
+            for pos in seg[1:]:
+                path.append(pos)
+                if grid.get(pos, 0) > 0:
+                    eaten.add(pos)
+            head = path[-1]
+        else:
+            # Fallback (should be unreachable on a connected grid)
+            path.append((tx, ty))
+            eaten.add((tx, ty))
+            head = (tx, ty)
+
+N = len(path)
+
+# ── 3. Snake body positions at each step ──────────────────────────────────────
+# Lead-in: SNAKE_LEN-1 off-screen positions so the body starts fully hidden.
+sx, sy = path[0]
+lead = [(sx - SNAKE_LEN + k, sy) for k in range(SNAKE_LEN - 1)]
+full = lead + path   # extended trajectory
 
 # chain[step][part] = (px, py)   (part 0 = head)
 chain = [
@@ -95,14 +166,13 @@ chain = [
     for step in range(N)
 ]
 
-# ── 4. Time at which each colored cell is eaten ─────────────────────────────────
-eat_t = {
-    path[i]: i / N
-    for i in range(N)
-    if grid.get(path[i], 0) > 0
-}
+# ── 4. Time at which each colored cell is eaten ──────────────────────────────
+eat_t: dict = {}
+for i, pos in enumerate(path):
+    if pos not in eat_t and grid.get(pos, 0) > 0:
+        eat_t[pos] = i / N
 
-# ── 5. CSS / SVG helpers ───────────────────────────────────────────────────────
+# ── 5. CSS / SVG helpers ──────────────────────────────────────────────────────
 def pct(t: float) -> str:
     return f"{round(t * 100, 3)}%"
 
@@ -121,9 +191,8 @@ def keyframes(name: str, kfs: list) -> str:
 
 def no_interp(pts: list) -> list:
     """
-    Remove points that lie on a straight line between their neighbours.
-    Mirrors Platane/snk's removeInterpolatedPositions — drastically reduces
-    CSS keyframe count for the long straight column traversals.
+    Remove points that lie exactly on the straight line between their neighbours.
+    Mirrors Platane/snk's removeInterpolatedPositions — reduces CSS keyframe count.
     Returns list of (original_index, (x, y)).
     """
     out = []
@@ -186,7 +255,6 @@ for y in range(GRID_H):
                 f' rx="{DOT_R}" ry="{DOT_R}"/>'
             )
         elif lv > 0:
-            # Colored but not on path (shouldn't happen with full boustrophedon)
             els.append(
                 f'<rect class="c" x="{cx:.1f}" y="{cy:.1f}"'
                 f' rx="{DOT_R}" ry="{DOT_R}" style="fill:var(--c{lv})"/>'
@@ -208,15 +276,15 @@ for pi in range(SNAKE_LEN):
     mg = (CELL - sz) / 2
     rv = min(4.5, 4 * sz / DOT)
 
-    positions = [chain[i][pi] for i in range(N)]  # (px, py) per step
+    positions = [chain[i][pi] for i in range(N)]
     kf_pts    = no_interp(positions)
     kfs = [
         (idx / N, f"transform:translate({px * CELL}px,{py * CELL}px)")
         for idx, (px, py) in kf_pts
     ]
 
-    sid      = f"s{pi}"
-    x0, y0   = positions[0]
+    sid    = f"s{pi}"
+    x0, y0 = positions[0]
     css.append(keyframes(sid, kfs))
     css.append(
         f".s.{sid}{{transform:translate({x0 * CELL}px,{y0 * CELL}px);"
