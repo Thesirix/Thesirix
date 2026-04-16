@@ -1,4 +1,4 @@
-name: Generate Snake
+name: "🐍 Generate Snake"
 
 on:
   schedule:
