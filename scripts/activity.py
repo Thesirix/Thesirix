@@ -19,8 +19,14 @@ if TOKEN:
     headers["Authorization"] = f"Bearer {TOKEN}"
 
 req = urllib.request.Request(url, headers=headers)
-with urllib.request.urlopen(req) as r:
-    events = json.loads(r.read())
+try:
+    with urllib.request.urlopen(req, timeout=30) as r:
+        events = json.loads(r.read())
+except urllib.error.HTTPError as e:
+    body = e.read().decode(errors="replace")
+    sys.exit(f"GitHub API error {e.code} {e.reason}: {body}")
+except urllib.error.URLError as e:
+    sys.exit(f"GitHub API connection error: {e.reason}")
 
 if not isinstance(events, list):
     sys.exit(f"Unexpected API response: {events}")

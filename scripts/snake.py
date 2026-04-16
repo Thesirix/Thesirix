@@ -36,6 +36,9 @@ DOTS_D    = ["#161b22", "#01311f", "#034525", "#0f6d31", "#00c647"]
 CE_L, CE_D = "#ebedf0", "#161b22"
 
 # ── 1. Fetch contributions ──────────────────────────────────────────────────────
+if not TOKEN:
+    sys.exit("ERROR: GITHUB_TOKEN environment variable is required.")
+
 GQL = (
     "query($l:String!){user(login:$l){contributionsCollection{"
     "contributionCalendar{weeks{contributionDays{"
@@ -50,11 +53,19 @@ req = urllib.request.Request(
         "User-Agent": "snake-readme-py",
     },
 )
-with urllib.request.urlopen(req) as r:
-    resp = json.loads(r.read())
+try:
+    with urllib.request.urlopen(req, timeout=30) as r:
+        resp = json.loads(r.read())
+except urllib.error.HTTPError as e:
+    body = e.read().decode(errors="replace")
+    sys.exit(f"GitHub API error {e.code} {e.reason}: {body}")
+except urllib.error.URLError as e:
+    sys.exit(f"GitHub API connection error: {e.reason}")
 
 if "errors" in resp:
     sys.exit(f"GraphQL error: {resp['errors']}")
+if not resp.get("data", {}).get("user"):
+    sys.exit(f"No user data for '{USERNAME}'. Response: {resp}")
 
 weeks  = resp["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
 GRID_W = len(weeks)

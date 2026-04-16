@@ -16,16 +16,19 @@ jobs:
         run: python3 scripts/build_readme.py
 
       - name: "⚡ Update activity"
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/activity.py
 
       - name: "🌤️ Update weather"
+        continue-on-error: true
         env:
           WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
         run: python3 scripts/weather.py
 
       - name: "🐍 Generate snake"
+        continue-on-error: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python3 scripts/snake.py
