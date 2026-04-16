@@ -13,14 +13,81 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - name: Fetch weather & render README
-        uses: huantt/weather-forecast@v1.0.6
-        with:
-          city: Marseille
-          days: 7
-          weather-api-key: ${{ secrets.WEATHER_API_KEY }}
-          template-file: "template/README.md.template"
-          out-file: "README.md"
+      - name: Fetch weather & update README
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: |
+          python3 << 'PYEOF'
+          import os, urllib.request, json, re
+          from datetime import datetime
+
+          api_key = os.environ["WEATHER_API_KEY"]
+          url = (
+              "https://api.weatherapi.com/v1/forecast.json"
+              f"?key={api_key}&q=Marseille&days=3&aqi=no&alerts=no"
+          )
+
+          with urllib.request.urlopen(url) as r:
+              data = json.loads(r.read())
+
+          days = data["forecast"]["forecastday"]
+
+          def fmt_date(d):
+              return datetime.strptime(d, "%Y-%m-%d").strftime("%d/%m/%Y")
+
+          dates = "".join(f"<td>{fmt_date(d['date'])}</td>" for d in days)
+          icons = "".join(
+              f'<td><img src="https:{d["day"]["condition"]["icon"]}"/></td>'
+              for d in days
+          )
+          conds = "".join(
+              f'<td width="200px">{d["day"]["condition"]["text"]}</td>'
+              for d in days
+          )
+          temps = "".join(
+              f'<td>{d["day"]["mintemp_c"]} -  {d["day"]["maxtemp_c"]} °C</td>'
+              for d in days
+          )
+          winds = "".join(f'<td>{d["day"]["maxwind_kph"]} kph</td>' for d in days)
+
+          table = f"""<table>
+              <tr>
+                  <th>Date</th>
+                  {dates}
+              </tr>
+              <tr>
+                  <th>Weather</th>
+                  {icons}
+              </tr>
+              <tr>
+                  <th>Condition</th>
+                  {conds}
+              </tr>
+              <tr>
+                  <th>Temperature</th>
+                  {temps}
+              </tr>
+              <tr>
+                  <th>Wind</th>
+                  {winds}
+              </tr>
+          </table>"""
+
+          with open("README.md") as f:
+              content = f.read()
+
+          updated = re.sub(
+              r"<!-- WEATHER_START -->.*?<!-- WEATHER_END -->",
+              f"<!-- WEATHER_START -->\n\n{table}\n\n<!-- WEATHER_END -->",
+              content,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w") as f:
+              f.write(updated)
+
+          print("Weather updated ✓")
+          PYEOF
 
       - name: Commit & push
         run: |
