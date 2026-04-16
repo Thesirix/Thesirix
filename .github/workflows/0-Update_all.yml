@@ -118,7 +118,46 @@ jobs:
             git push origin main
           fi
 
-  # ── 5. 3D City (independent, pushes to city-3d branch) ──────────────────────
+  # ── 5. Contrib Card (independent, pushes to widget branch) ─────────────────
+  contrib-card:
+    name: "🃏 Contrib Card"
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: widget
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install
+        working-directory: contrib-card
+
+      - name: Generate SVG
+        env:
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          LIMIT: '10'
+        run: node generate.js
+        working-directory: contrib-card
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add contrib-card/contrib-card.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "🃏 Update contrib card"
+            git pull --rebase origin widget
+            git push origin widget
+          fi
+
+  # ── 6. 3D City (independent, pushes to city-3d branch) ──────────────────────
   city3d:
     name: "🏙️ 3D City"
     permissions: write-all
