@@ -19,6 +19,11 @@ jobs:
     uses: ./.github/workflows/3d_city.yml
     secrets: inherit
 
+  activity:
+    name: "⚡ Activity"
+    uses: ./.github/workflows/Activity.yml
+    secrets: inherit
+
   # tryhackme:  # réactiver quand THM supporte le badge
   #   name: "🔐 TryHackMe"
   #   uses: ./.github/workflows/TryHackMe.yml
