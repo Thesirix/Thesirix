@@ -73,11 +73,11 @@ Do you have a technical challenge, a need for software architecture, or an app i
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!--START_SECTION:activity-->
-1. 🔨 Pushed [`1633b31`](https://github.com/Thesirix/Thesirix/commit/1633b318a202afcc8a5aafc6ac72e2d5de723404) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`d1cdedc`](https://github.com/Thesirix/Thesirix/commit/d1cdedcc7d87d8ab29259228dd4a8023e0076fff) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`dfd00ec`](https://github.com/Thesirix/Thesirix/commit/dfd00ec3990fe144a4b000ab579ca2c82479c697) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`79ed97e`](https://github.com/Thesirix/Thesirix/commit/79ed97e94d105186d75b1d8923f077555354e560) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`5756ec7`](https://github.com/Thesirix/Thesirix/commit/5756ec7b19bbe6a6440bee3804237e21076a0283) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+1. 🔨 Pushed [`20fcd10`](https://github.com/Thesirix/Thesirix/commit/20fcd10b790df8a7e52a4b037c9ccb3acc8380e2) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`1633b31`](https://github.com/Thesirix/Thesirix/commit/1633b318a202afcc8a5aafc6ac72e2d5de723404) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`d1cdedc`](https://github.com/Thesirix/Thesirix/commit/d1cdedcc7d87d8ab29259228dd4a8023e0076fff) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`dfd00ec`](https://github.com/Thesirix/Thesirix/commit/dfd00ec3990fe144a4b000ab579ca2c82479c697) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`79ed97e`](https://github.com/Thesirix/Thesirix/commit/79ed97e94d105186d75b1d8923f077555354e560) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 <!--END_SECTION:activity-->
 
   <h2>🐍 Snake & Contributions 🐍</h2>
