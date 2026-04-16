@@ -1,0 +1,16 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git add *)",
+      "WebFetch(domain:dev.to)",
+      "WebFetch(domain:github.com)",
+      "Bash(git pull *)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebSearch",
+      "WebFetch(domain:leosmith.wtf)",
+      "Bash(git mv *)",
+      "Bash(python3 *)",
+      "Bash(python *)"
+    ]
+  }
+}
