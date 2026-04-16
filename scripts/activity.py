@@ -27,23 +27,26 @@ if not isinstance(events, list):
 
 # ── Format events ─────────────────────────────────────────────────────────────
 def fmt_event(e: dict) -> str | None:
-    # Skip bot-generated events (automated commits from workflows)
     actor = e.get("actor", {}).get("login", "")
-    if "[bot]" in actor:
-        return None
+    t     = e["type"]
 
-    t         = e["type"]
+    # Skip bot events except PushEvent (to show workflow-triggered commits)
+    if "[bot]" in actor and t != "PushEvent":
+        return None
     repo      = e["repo"]["name"]
     repo_url  = f"https://github.com/{repo}"
     repo_link = f"[{repo}]({repo_url})"
     p         = e.get("payload", {})
 
     if t == "PushEvent":
-        # payload.size is the real commit count; payload.commits is capped at 20
-        n      = p.get("size", len(p.get("commits", [])))
-        if n == 0:
-            return None  # skip empty / merge-only pushes
         branch = p.get("ref", "").replace("refs/heads/", "")
+        # Public API omits `size`/`commits`; fall back to head!=before check
+        n = p.get("size") or len(p.get("commits", []))
+        if n == 0:
+            # No count available — verify at least one commit via head/before diff
+            if p.get("head") == p.get("before"):
+                return None  # truly empty push
+            return f"🔨 Pushed to {repo_link} on `{branch}`"
         return f"🔨 Pushed {n} commit{'s' if n != 1 else ''} to {repo_link} on `{branch}`"
 
     if t == "CreateEvent":
