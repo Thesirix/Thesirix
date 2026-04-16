@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Fetches GitHub public events and updates README.md between activity markers."""
+"""Fetches GitHub events and updates README.md between activity markers."""
 
 import os, sys, urllib.request, json, re
 from datetime import datetime, timezone
@@ -10,7 +10,7 @@ MAX_LINES = 5
 TOKEN     = os.environ.get("GITHUB_TOKEN", "")
 
 # ── Fetch events ──────────────────────────────────────────────────────────────
-url = f"https://api.github.com/users/{USERNAME}/events?per_page=30"
+url = f"https://api.github.com/users/{USERNAME}/events?per_page=50"
 headers = {
     "User-Agent": "activity-readme-py",
     "Accept":     "application/vnd.github+json",
@@ -26,58 +26,71 @@ if not isinstance(events, list):
     sys.exit(f"Unexpected API response: {events}")
 
 # ── Format events ─────────────────────────────────────────────────────────────
-ICONS = {
-    "PushEvent":              "🔨",
-    "CreateEvent":            "🎉",
-    "DeleteEvent":            "🗑️",
-    "WatchEvent":             "⭐",
-    "ForkEvent":              "🍴",
-    "IssuesEvent":            "🐛",
-    "IssueCommentEvent":      "💬",
-    "PullRequestEvent":       "🔀",
-    "PullRequestReviewEvent": "👀",
-    "ReleaseEvent":           "🚀",
-}
-
-
 def fmt_event(e: dict) -> str | None:
-    t    = e["type"]
-    repo = e["repo"]["name"]
-    p    = e.get("payload", {})
-    icon = ICONS.get(t, "⚡")
+    # Skip bot-generated events (automated commits from workflows)
+    actor = e.get("actor", {}).get("login", "")
+    if "[bot]" in actor:
+        return None
+
+    t         = e["type"]
+    repo      = e["repo"]["name"]
+    repo_url  = f"https://github.com/{repo}"
+    repo_link = f"[{repo}]({repo_url})"
+    p         = e.get("payload", {})
 
     if t == "PushEvent":
-        n      = len(p.get("commits", []))
+        # payload.size is the real commit count; payload.commits is capped at 20
+        n      = p.get("size", len(p.get("commits", [])))
+        if n == 0:
+            return None  # skip empty / merge-only pushes
         branch = p.get("ref", "").replace("refs/heads/", "")
-        return f"{icon} Pushed {n} commit{'s' if n != 1 else ''} to `{repo}` on `{branch}`"
+        return f"🔨 Pushed {n} commit{'s' if n != 1 else ''} to {repo_link} on `{branch}`"
+
     if t == "CreateEvent":
         ref_type = p.get("ref_type", "")
         ref      = p.get("ref", "")
         if ref_type == "repository":
-            return f"{icon} Created repository `{repo}`"
-        return f"{icon} Created {ref_type} `{ref}` in `{repo}`"
+            return f"🎉 Created repository {repo_link}"
+        return f"🎉 Created {ref_type} `{ref}` in {repo_link}"
+
     if t == "WatchEvent":
-        return f"{icon} Starred `{repo}`"
+        return f"⭐ Starred {repo_link}"
+
     if t == "ForkEvent":
-        return f"{icon} Forked `{repo}`"
+        return f"🍴 Forked {repo_link}"
+
     if t == "IssuesEvent":
-        action = p.get("action", "")
-        num    = p.get("issue", {}).get("number", "")
-        return f"{icon} {action.capitalize()} issue #{num} in `{repo}`"
+        action     = p.get("action", "")
+        num        = p.get("issue", {}).get("number", "")
+        issue_link = f"[#{num}]({repo_url}/issues/{num})"
+        return f"🐛 {action.capitalize()} issue {issue_link} in {repo_link}"
+
     if t == "IssueCommentEvent":
-        num = p.get("issue", {}).get("number", "")
-        return f"{icon} Commented on issue #{num} in `{repo}`"
+        num        = p.get("issue", {}).get("number", "")
+        issue_link = f"[#{num}]({repo_url}/issues/{num})"
+        return f"💬 Commented on {issue_link} in {repo_link}"
+
     if t == "PullRequestEvent":
-        action = p.get("action", "")
-        num    = p.get("pull_request", {}).get("number", "")
-        return f"{icon} {action.capitalize()} PR #{num} in `{repo}`"
+        action  = p.get("action", "")
+        num     = p.get("pull_request", {}).get("number", "")
+        pr_link = f"[#{num}]({repo_url}/pull/{num})"
+        return f"🔀 {action.capitalize()} PR {pr_link} in {repo_link}"
+
+    if t == "PullRequestReviewEvent":
+        num     = p.get("pull_request", {}).get("number", "")
+        pr_link = f"[#{num}]({repo_url}/pull/{num})"
+        return f"👀 Reviewed PR {pr_link} in {repo_link}"
+
     if t == "ReleaseEvent":
-        tag = p.get("release", {}).get("tag_name", "")
-        return f"{icon} Released `{tag}` in `{repo}`"
+        tag     = p.get("release", {}).get("tag_name", "")
+        rel_url = p.get("release", {}).get("html_url", f"{repo_url}/releases")
+        return f"🚀 Released [{tag}]({rel_url}) in {repo_link}"
+
     if t == "DeleteEvent":
         ref_type = p.get("ref_type", "")
         ref      = p.get("ref", "")
-        return f"{icon} Deleted {ref_type} `{ref}` in `{repo}`"
+        return f"🗑️ Deleted {ref_type} `{ref}` in {repo_link}"
+
     return None
 
 
@@ -102,9 +115,9 @@ for event in events:
         break
     msg = fmt_event(event)
     if msg:
-        ago = time_ago(event.get("created_at", ""))
+        ago    = time_ago(event.get("created_at", ""))
         suffix = f" — _{ago}_" if ago else ""
-        lines.append(f"- {msg}{suffix}")
+        lines.append(f"{len(lines) + 1}. {msg}{suffix}")
 
 if not lines:
     print("No recent activity found — README unchanged.")
@@ -124,7 +137,7 @@ updated = re.sub(
 )
 
 if updated == readme:
-    sys.exit("Markers <!--START_SECTION:activity--> not found in README.md")
+    sys.exit("ERROR: markers <!--START_SECTION:activity--> not found in README.md")
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
