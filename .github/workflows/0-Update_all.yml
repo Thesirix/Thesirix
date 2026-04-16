@@ -4,27 +4,64 @@ on:
   workflow_dispatch:
 
 jobs:
-  snake:
-    name: "🐍 Snake"
-    uses: ./.github/workflows/Snake.yml
-    secrets: inherit
+  # ── Main rebuild: template → README + all dynamic content ──────────────────
+  rebuild:
+    name: "📝 Rebuild & update"
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-  weather:
-    name: "🌤️ Weather"
-    uses: ./.github/workflows/Weather.yml
-    secrets: inherit
+      - name: "📋 Rebuild README from template"
+        run: python3 scripts/build_readme.py
 
+      - name: "⚡ Update activity"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/activity.py
+
+      - name: "🌤️ Update weather"
+        env:
+          WEATHER_API_KEY: ${{ secrets.WEATHER_API_KEY }}
+        run: python3 scripts/weather.py
+
+      - name: "🐍 Generate snake"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/snake.py
+
+      - name: "💾 Commit & push"
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md assets/
+          if git diff --cached --exit-code; then
+            echo "Nothing to commit."
+          else
+            git commit -m "🚀 Full update from template"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+  # ── 3D City: independent, pushes to its own branch ─────────────────────────
   city-3d:
     name: "🏙️ 3D City"
-    uses: ./.github/workflows/3d_city.yml
-    secrets: inherit
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
 
-  activity:
-    name: "⚡ Activity"
-    uses: ./.github/workflows/Activity.yml
-    secrets: inherit
+      - name: Generate 3D contribution city
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
 
-  # tryhackme:  # réactiver quand THM supporte le badge
-  #   name: "🔐 TryHackMe"
-  #   uses: ./.github/workflows/TryHackMe.yml
-  #   secrets: inherit
+      - name: Push to branch city-3d
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: city-3d
+          publish_dir: ./profile-3d-contrib
+          destination_dir: profile-3d-contrib
+          commit_message: "🏙️ Update 3D city"
