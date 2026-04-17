@@ -178,7 +178,7 @@ jobs:
         with:
           ref: main
 
-      - name: Build top repos section
+      - name: Build top repos SVG cards
         run: |
           python3 << 'EOF'
           import json, urllib.request, os, re
@@ -198,51 +198,85 @@ jobs:
           top = sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True)[:3]
 
           # Tokyo Night palette (same as weather.svg)
-          C_BG   = "1a1b2e"
-          C_STAR = "7aa2f7"
-          C_FORK = "bb9af7"
-          C_LANG = "38bdae"
+          C_BG   = "#1a1b2e"
+          C_HDR  = "#13131f"
+          C_NAME = "#7aa2f7"
+          C_DESC = "#a9b1d6"
+          C_DATA = "#38bdae"
+          C_LANG = "#bb9af7"
+          C_SEP  = "#292e42"
+          F      = "Segoe UI, Arial, sans-serif"
+          FE     = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
 
-          def sh_esc(s):
-              return s.replace("-", "--").replace("_", "__").replace(" ", "_")
+          def xe(s):
+              return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
 
-          lines = [
-              '<div align="center">',
-              "",
-              "| 📦 Repository | ⭐ Stars | 🍴 Forks | 🗣️ Language |",
-              "|:---|:---:|:---:|:---:|",
-          ]
-          for r in top:
+          def make_card(name, desc, stars, forks, lang):
+              W, H = 820, 106
+              PAD  = 8
+              CW   = 784
+              CH   = 88
+              name_t = xe(name[:45])
+              desc_t = xe((desc or "No description")[:80])
+              lang_t = xe(lang) if lang else ""
+              lang_badge = ""
+              if lang_t:
+                  bw = len(lang_t) * 7 + 20
+                  bx = PAD + CW - bw - 14
+                  lang_badge = (
+                      f'<rect x="{bx}" y="16" width="{bw}" height="22" rx="6" fill="{C_SEP}"/>'
+                      f'<text x="{bx + bw//2}" y="31" text-anchor="middle" dominant-baseline="central" '
+                      f'font-family="{F}" font-size="12" fill="{C_LANG}">{lang_t}</text>'
+                  )
+              return (
+                  f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}">\n'
+                  f'  <defs>\n'
+                  f'    <filter id="sh" x="0%" y="0%" width="114%" height="112%">\n'
+                  f'      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>\n'
+                  f'      <feOffset in="blur" dx="5" dy="3" result="shifted"/>\n'
+                  f'      <feFlood flood-color="#000000" flood-opacity="0.35" result="color"/>\n'
+                  f'      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>\n'
+                  f'      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>\n'
+                  f'    </filter>\n'
+                  f'    <clipPath id="clip"><rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14"/></clipPath>\n'
+                  f'  </defs>\n'
+                  f'  <rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14" fill="{C_BG}" filter="url(#sh)"/>\n'
+                  f'  <rect x="{PAD}" y="{PAD}" width="6" height="{CH}" fill="{C_NAME}" clip-path="url(#clip)"/>\n'
+                  f'  <text x="28" y="38" font-family="{F}" font-size="15" font-weight="700" fill="{C_NAME}">{name_t}</text>\n'
+                  f'  {lang_badge}\n'
+                  f'  <text x="28" y="60" font-family="{F}" font-size="12" fill="{C_DESC}">{desc_t}</text>\n'
+                  f'  <text x="28" y="84" font-family="{FE}" font-size="13" fill="{C_DATA}">⭐ {stars}   🍴 {forks}</text>\n'
+                  f'</svg>'
+              )
+
+          os.makedirs("assets", exist_ok=True)
+          repo_links = []
+          for i, r in enumerate(top, 1):
               name  = r.get("name", "")
               url_  = r.get("html_url", "")
-              owner = r.get("owner", {}).get("login", USERNAME)
+              desc  = r.get("description") or ""
+              stars = r.get("stargazers_count", 0)
+              forks = r.get("forks_count", 0)
               lang  = r.get("language")
-              desc  = (r.get("description") or "_No description_")[:60]
+              svg_path = f"assets/top-repo-{i}.svg"
+              with open(svg_path, "w", encoding="utf-8") as f:
+                  f.write(make_card(name, desc, stars, forks, lang))
+              repo_links.append(f'[![{xe(name)}]({svg_path})]({url_})')
 
-              star_b = f"[![stars](https://img.shields.io/github/stars/{owner}/{name}?style=flat&color={C_STAR}&labelColor={C_BG})]({url_}/stargazers)"
-              fork_b = f"[![forks](https://img.shields.io/github/forks/{owner}/{name}?style=flat&color={C_FORK}&labelColor={C_BG})]({url_}/network/members)"
-              lang_b = f"![{lang}](https://img.shields.io/badge/{sh_esc(lang)}-{C_LANG}?style=flat&labelColor={C_BG})" if lang else "—"
-
-              lines.append(f'| [**{name}**]({url_}) <br/> <sub>{desc}</sub> | {star_b} | {fork_b} | {lang_b} |')
-          lines += ["", "</div>", ""]
-
+          new_section = '\n<div align="center">\n\n' + "\n\n".join(repo_links) + '\n\n</div>\n'
           START = "<!--TOP_REPOS_START-->"
           END   = "<!--TOP_REPOS_END-->"
-          new_content = "\n" + "\n".join(lines) + "\n"
 
           with open("README.md", encoding="utf-8") as f:
               readme = f.read()
-
           updated = re.sub(
               re.escape(START) + r".*?" + re.escape(END),
-              START + new_content + END,
-              readme,
-              flags=re.DOTALL,
+              START + new_section + END,
+              readme, flags=re.DOTALL,
           )
-
           with open("README.md", "w", encoding="utf-8") as f:
               f.write(updated)
-          print("Top repos updated ✓")
+          print("Top repos SVG cards generated ✓")
           EOF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -251,7 +285,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add README.md
+          git add README.md assets/top-repo-*.svg
           if git diff --cached --exit-code; then
             echo "No changes."
           else
