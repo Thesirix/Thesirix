@@ -1,0 +1,27 @@
+name: "📋 Rebuild from template"
+
+on:
+  workflow_dispatch:
+
+jobs:
+  rebuild:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Rebuild README from template
+        run: python3 scripts/build_readme.py
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "📋 Rebuild from template"
+            git pull --rebase origin main
+            git push origin main
+          fi

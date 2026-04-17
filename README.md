@@ -110,7 +110,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <br><br>
 
-  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&theme=tokyo_night&dark=true)
+  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
   <br><br>
 
