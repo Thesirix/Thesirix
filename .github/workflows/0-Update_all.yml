@@ -178,7 +178,7 @@ jobs:
         with:
           ref: main
 
-      - name: Build top repos SVG cards
+      - name: Build top repos table SVGs
         run: |
           python3 << 'EOF'
           import json, urllib.request, os, re
@@ -186,50 +186,30 @@ jobs:
           USERNAME = os.environ.get("GITHUB_REPOSITORY_OWNER", "Thesirix")
           TOKEN    = os.environ.get("GITHUB_TOKEN", "")
 
-          url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
-          headers = {"User-Agent": "top-repos-readme-py", "Accept": "application/vnd.github+json"}
+          api_url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+          hdrs = {"User-Agent": "top-repos-readme-py", "Accept": "application/vnd.github+json"}
           if TOKEN:
-              headers["Authorization"] = f"Bearer {TOKEN}"
-
-          req = urllib.request.Request(url, headers=headers)
-          with urllib.request.urlopen(req, timeout=30) as r:
+              hdrs["Authorization"] = f"Bearer {TOKEN}"
+          with urllib.request.urlopen(urllib.request.Request(api_url, headers=hdrs), timeout=30) as r:
               repos = json.loads(r.read())
 
           top = sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True)[:3]
 
           # Tokyo Night palette (same as weather.svg)
-          C_BG   = "#1a1b2e"
-          C_HDR  = "#13131f"
-          C_NAME = "#7aa2f7"
-          C_DESC = "#a9b1d6"
-          C_DATA = "#38bdae"
-          C_LANG = "#bb9af7"
-          C_SEP  = "#292e42"
-          F      = "Segoe UI, Arial, sans-serif"
-          FE     = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
+          C_BG  = "#1a1b2e"; C_HDR = "#13131f"; C_NAME = "#7aa2f7"
+          C_DESC= "#a9b1d6"; C_DATA= "#38bdae"; C_LANG = "#bb9af7"; C_SEP = "#292e42"
+          F  = "Segoe UI, Arial, sans-serif"
+          FE = "Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif"
 
-          def xe(s):
-              return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+          # Column layout (total card width 784px)
+          W=820; PAD=8; CW=784
+          SEP1=PAD+440; SEP2=SEP1+108; SEP3=SEP2+108
+          HC1=(PAD+SEP1)//2; HC2=(SEP1+SEP2)//2; HC3=(SEP2+SEP3)//2; HC4=(SEP3+PAD+CW)//2
 
-          def make_card(name, desc, stars, forks, lang):
-              W, H = 820, 106
-              PAD  = 8
-              CW   = 784
-              CH   = 88
-              name_t = xe(name[:45])
-              desc_t = xe((desc or "No description")[:80])
-              lang_t = xe(lang) if lang else ""
-              lang_badge = ""
-              if lang_t:
-                  bw = len(lang_t) * 7 + 20
-                  bx = PAD + CW - bw - 14
-                  lang_badge = (
-                      f'<rect x="{bx}" y="16" width="{bw}" height="22" rx="6" fill="{C_SEP}"/>'
-                      f'<text x="{bx + bw//2}" y="31" text-anchor="middle" dominant-baseline="central" '
-                      f'font-family="{F}" font-size="12" fill="{C_LANG}">{lang_t}</text>'
-                  )
+          def xe(s): return str(s).replace("&","&amp;").replace("<","&lt;").replace(">","&gt;")
+
+          def mk_defs(ch):
               return (
-                  f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}">\n'
                   f'  <defs>\n'
                   f'    <filter id="sh" x="0%" y="0%" width="114%" height="112%">\n'
                   f'      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>\n'
@@ -238,45 +218,76 @@ jobs:
                   f'      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>\n'
                   f'      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>\n'
                   f'    </filter>\n'
-                  f'    <clipPath id="clip"><rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14"/></clipPath>\n'
+                  f'    <clipPath id="clip"><rect x="{PAD}" y="{PAD}" width="{CW}" height="{ch}" rx="14" ry="14"/></clipPath>\n'
                   f'  </defs>\n'
-                  f'  <rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14" fill="{C_BG}" filter="url(#sh)"/>\n'
-                  f'  <rect x="{PAD}" y="{PAD}" width="6" height="{CH}" fill="{C_NAME}" clip-path="url(#clip)"/>\n'
-                  f'  <text x="28" y="38" font-family="{F}" font-size="15" font-weight="700" fill="{C_NAME}">{name_t}</text>\n'
-                  f'  {lang_badge}\n'
-                  f'  <text x="28" y="60" font-family="{F}" font-size="12" fill="{C_DESC}">{desc_t}</text>\n'
-                  f'  <text x="28" y="84" font-family="{FE}" font-size="13" fill="{C_DATA}">⭐ {stars}   🍴 {forks}</text>\n'
-                  f'</svg>'
+              )
+
+          def mk_seps(ch):
+              return "".join(
+                  f'  <line x1="{x}" y1="{PAD}" x2="{x}" y2="{PAD+ch}" stroke="{C_SEP}" stroke-width="1"/>\n'
+                  for x in (SEP1, SEP2, SEP3)
+              )
+
+          def make_header():
+              CH=44; H=PAD*2+CH+8; cy=PAD+CH//2
+              return (
+                  f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}">\n'
+                  + mk_defs(CH)
+                  + f'  <rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14" fill="{C_HDR}" filter="url(#sh)"/>\n'
+                  + mk_seps(CH)
+                  + f'  <text x="{HC1}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="13" font-weight="600" fill="{C_NAME}">📦  Repository</text>\n'
+                  + f'  <text x="{HC2}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="13" font-weight="600" fill="{C_NAME}">⭐  Stars</text>\n'
+                  + f'  <text x="{HC3}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="13" font-weight="600" fill="{C_NAME}">🍴  Forks</text>\n'
+                  + f'  <text x="{HC4}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="13" font-weight="600" fill="{C_NAME}">🗣️  Language</text>\n'
+                  + '</svg>'
+              )
+
+          def make_row(name, desc, stars, forks, lang):
+              CH=82; H=PAD*2+CH+8; cy=PAD+CH//2
+              nt=xe(name[:45]); dt=xe((desc or "No description")[:78]); lt=xe(lang) if lang else ""
+              if lt:
+                  bw=len(lt)*7+18; bx=HC4-bw//2; by=cy-13
+                  lang_el=(
+                      f'  <rect x="{bx}" y="{by}" width="{bw}" height="26" rx="6" fill="{C_SEP}"/>\n'
+                      f'  <text x="{HC4}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{F}" font-size="13" fill="{C_LANG}">{lt}</text>\n'
+                  )
+              else:
+                  lang_el=f'  <text x="{HC4}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{F}" font-size="14" fill="{C_DESC}">—</text>\n'
+              return (
+                  f'<svg xmlns="http://www.w3.org/2000/svg" width="{W}" height="{H}">\n'
+                  + mk_defs(CH)
+                  + f'  <rect x="{PAD}" y="{PAD}" width="{CW}" height="{CH}" rx="14" ry="14" fill="{C_BG}" filter="url(#sh)"/>\n'
+                  + f'  <rect x="{PAD}" y="{PAD}" width="6" height="{CH}" fill="{C_NAME}" clip-path="url(#clip)"/>\n'
+                  + mk_seps(CH)
+                  + f'  <text x="{PAD+28}" y="{PAD+30}" font-family="{F}" font-size="14" font-weight="700" fill="{C_NAME}">{nt}</text>\n'
+                  + f'  <text x="{PAD+28}" y="{PAD+54}" font-family="{F}" font-size="11" fill="{C_DESC}">{dt}</text>\n'
+                  + f'  <text x="{HC2}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="18" fill="{C_DATA}">⭐ {stars}</text>\n'
+                  + f'  <text x="{HC3}" y="{cy}" text-anchor="middle" dominant-baseline="central" font-family="{FE}" font-size="18" fill="{C_DATA}">🍴 {forks}</text>\n'
+                  + lang_el
+                  + '</svg>'
               )
 
           os.makedirs("assets", exist_ok=True)
+          with open("assets/top-repo-header.svg", "w", encoding="utf-8") as f:
+              f.write(make_header())
+
           repo_links = []
           for i, r in enumerate(top, 1):
-              name  = r.get("name", "")
-              url_  = r.get("html_url", "")
-              desc  = r.get("description") or ""
-              stars = r.get("stargazers_count", 0)
-              forks = r.get("forks_count", 0)
-              lang  = r.get("language")
-              svg_path = f"assets/top-repo-{i}.svg"
-              with open(svg_path, "w", encoding="utf-8") as f:
-                  f.write(make_card(name, desc, stars, forks, lang))
-              repo_links.append(f'[![{xe(name)}]({svg_path})]({url_})')
+              name=r.get("name",""); url_=r.get("html_url","")
+              desc=r.get("description") or ""; stars=r.get("stargazers_count",0)
+              forks=r.get("forks_count",0); lang=r.get("language")
+              path=f"assets/top-repo-{i}.svg"
+              with open(path, "w", encoding="utf-8") as f:
+                  f.write(make_row(name, desc, stars, forks, lang))
+              repo_links.append(f'[![{xe(name)}]({path})]({url_})')
 
-          new_section = '\n<div align="center">\n\n' + "\n\n".join(repo_links) + '\n\n</div>\n'
-          START = "<!--TOP_REPOS_START-->"
-          END   = "<!--TOP_REPOS_END-->"
-
-          with open("README.md", encoding="utf-8") as f:
-              readme = f.read()
-          updated = re.sub(
-              re.escape(START) + r".*?" + re.escape(END),
-              START + new_section + END,
-              readme, flags=re.DOTALL,
-          )
-          with open("README.md", "w", encoding="utf-8") as f:
-              f.write(updated)
-          print("Top repos SVG cards generated ✓")
+          imgs = "![](assets/top-repo-header.svg)\n" + "\n".join(repo_links)
+          new_section = f'\n<div align="center">\n\n{imgs}\n\n</div>\n'
+          START="<!--TOP_REPOS_START-->"; END="<!--TOP_REPOS_END-->"
+          with open("README.md", encoding="utf-8") as f: readme=f.read()
+          updated=re.sub(re.escape(START)+r".*?"+re.escape(END), START+new_section+END, readme, flags=re.DOTALL)
+          with open("README.md", "w", encoding="utf-8") as f: f.write(updated)
+          print("Top repos table SVGs generated ✓")
           EOF
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -285,7 +296,7 @@ jobs:
         run: |
           git config user.name "github-actions"
           git config user.email "github-actions@github.com"
-          git add README.md assets/top-repo-*.svg
+          git add README.md assets/top-repo-header.svg assets/top-repo-*.svg
           if git diff --cached --exit-code; then
             echo "No changes."
           else
