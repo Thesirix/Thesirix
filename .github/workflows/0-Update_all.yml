@@ -197,20 +197,33 @@ jobs:
 
           top = sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True)[:3]
 
+          # Tokyo Night palette (same as weather.svg)
+          C_BG   = "1a1b2e"
+          C_STAR = "7aa2f7"
+          C_FORK = "bb9af7"
+          C_LANG = "38bdae"
+
+          def sh_esc(s):
+              return s.replace("-", "--").replace("_", "__").replace(" ", "_")
+
           lines = [
               '<div align="center">',
               "",
-              "| 📦 Repo | ⭐ Stars | 🍴 Forks | 🗣️ Language |",
+              "| 📦 Repository | ⭐ Stars | 🍴 Forks | 🗣️ Language |",
               "|:---|:---:|:---:|:---:|",
           ]
           for r in top:
               name  = r.get("name", "")
               url_  = r.get("html_url", "")
-              stars = r.get("stargazers_count", 0)
-              forks = r.get("forks_count", 0)
-              lang  = r.get("language") or "—"
+              owner = r.get("owner", {}).get("login", USERNAME)
+              lang  = r.get("language")
               desc  = (r.get("description") or "_No description_")[:60]
-              lines.append(f'| [**{name}**]({url_}) <br/> <sub>{desc}</sub> | ⭐ {stars} | 🍴 {forks} | `{lang}` |')
+
+              star_b = f"[![stars](https://img.shields.io/github/stars/{owner}/{name}?style=flat&color={C_STAR}&labelColor={C_BG})]({url_}/stargazers)"
+              fork_b = f"[![forks](https://img.shields.io/github/forks/{owner}/{name}?style=flat&color={C_FORK}&labelColor={C_BG})]({url_}/network/members)"
+              lang_b = f"![{lang}](https://img.shields.io/badge/{sh_esc(lang)}-{C_LANG}?style=flat&labelColor={C_BG})" if lang else "—"
+
+              lines.append(f'| [**{name}**]({url_}) <br/> <sub>{desc}</sub> | {star_b} | {fork_b} | {lang_b} |')
           lines += ["", "</div>", ""]
 
           START = "<!--TOP_REPOS_START-->"
