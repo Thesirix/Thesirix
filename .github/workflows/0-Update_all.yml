@@ -118,9 +118,10 @@ jobs:
             git push origin main
           fi
 
-  # ── 5. Contrib Card (independent, pushes to widget branch) ─────────────────
+  # ── 5. Contrib Card ──────────────────────────────────────────────────────────
   contrib-card:
     name: "🃏 Contrib Card"
+    needs: [snake]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
@@ -168,9 +169,10 @@ jobs:
             git push origin main
           fi
 
-  # ── 6. Top Repositories (independent) ──────────────────────────────────────
+  # ── 6. Top Repositories ──────────────────────────────────────────────────────
   top-repos:
     name: "⭐ Top Repositories"
+    needs: [contrib-card]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
@@ -305,9 +307,10 @@ jobs:
             git push origin main
           fi
 
-  # ── 7. 3D City (independent, pushes to city-3d branch) ──────────────────────
+  # ── 7. 3D City ───────────────────────────────────────────────────────────────
   city3d:
     name: "🏙️ 3D City"
+    needs: [top-repos]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
