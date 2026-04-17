@@ -99,28 +99,28 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. ⭐ Starred [AhmedNassar7/AhmedNassar7](https://github.com/AhmedNassar7/AhmedNassar7) - _just now_
-2. ⭐ Starred [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga) - _just now_
-3. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - _just now_
-4. ⭐ Starred [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - _just now_
-5. ⭐ Starred [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - _1h ago_
+1. 🔨 Pushed [`da468a3`](https://github.com/Thesirix/Thesirix/commit/da468a31eb200f6890de53ba3cfdac0a834b3072) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. ⭐ Starred [AhmedNassar7/AhmedNassar7](https://github.com/AhmedNassar7/AhmedNassar7) - _1h ago_
+3. ⭐ Starred [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga) - _1h ago_
+4. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - _1h ago_
+5. ⭐ Starred [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - _1h ago_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
   <img src="assets/snake.svg" />
 
-<br><br>
+  <br><br>
 
-![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-<br><br>
+  <br><br>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-<br><br>
+  <br><br>
 
-![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -138,7 +138,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-<br><br>
+  <br><br>
 
   <img src="assets/contrib-card.svg"/>
   
@@ -187,7 +187,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 </div>
 <!--TOP_REPOS_END-->
 
-[Cliquez ici pour voir la carte interactive de Marseille](./assets/carte_test.geojson)
 <br>
 
 <div align="center">
