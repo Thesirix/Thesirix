@@ -7,12 +7,17 @@
       <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
       <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
-    <clipPath id="clip"><rect x="8" y="8" width="784" height="88" rx="14" ry="14"/></clipPath>
+    <clipPath id="clip"><rect x="8" y="8" width="784" height="82" rx="14" ry="14"/></clipPath>
   </defs>
-  <rect x="8" y="8" width="784" height="88" rx="14" ry="14" fill="#1a1b2e" filter="url(#sh)"/>
-  <rect x="8" y="8" width="6" height="88" fill="#7aa2f7" clip-path="url(#clip)"/>
-  <text x="28" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#7aa2f7">StreakMaster</text>
-  <rect x="716" y="16" width="62" height="22" rx="6" fill="#292e42"/><text x="747" y="31" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#bb9af7">Python</text>
-  <text x="28" y="60" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6">ça Streak et ça Master</text>
-  <text x="28" y="84" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">⭐ 5   🍴 1</text>
+  <rect x="8" y="8" width="784" height="82" rx="14" ry="14" fill="#1a1b2e" filter="url(#sh)"/>
+  <rect x="8" y="8" width="6" height="82" fill="#7aa2f7" clip-path="url(#clip)"/>
+  <line x1="448" y1="8" x2="448" y2="90" stroke="#292e42" stroke-width="1"/>
+  <line x1="556" y1="8" x2="556" y2="90" stroke="#292e42" stroke-width="1"/>
+  <line x1="664" y1="8" x2="664" y2="90" stroke="#292e42" stroke-width="1"/>
+  <text x="36" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="14" font-weight="700" fill="#7aa2f7">StreakMaster</text>
+  <text x="36" y="62" font-family="Segoe UI, Arial, sans-serif" font-size="11" fill="#a9b1d6">ça Streak et ça Master</text>
+  <text x="502" y="49" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="18" fill="#38bdae">⭐ 5</text>
+  <text x="610" y="49" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="18" fill="#38bdae">🍴 1</text>
+  <rect x="698" y="36" width="60" height="26" rx="6" fill="#292e42"/>
+  <text x="728" y="49" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#bb9af7">Python</text>
 </svg>
