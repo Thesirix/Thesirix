@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="106">
+  <defs>
+    <filter id="sh" x="0%" y="0%" width="114%" height="112%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
+      <feOffset in="blur" dx="5" dy="3" result="shifted"/>
+      <feFlood flood-color="#000000" flood-opacity="0.35" result="color"/>
+      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="8" y="8" width="784" height="88" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="8" y="8" width="784" height="88" rx="14" ry="14" fill="#1a1b2e" filter="url(#sh)"/>
+  <rect x="8" y="8" width="6" height="88" fill="#7aa2f7" clip-path="url(#clip)"/>
+  <text x="28" y="38" font-family="Segoe UI, Arial, sans-serif" font-size="15" font-weight="700" fill="#7aa2f7">Thesirix</text>
+  <rect x="716" y="16" width="62" height="22" rx="6" fill="#292e42"/><text x="747" y="31" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#bb9af7">Python</text>
+  <text x="28" y="60" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#a9b1d6">My profil Fullstack (Python, React, JS, Html, Css ,Php, Laravel, Flutter, Expres</text>
+  <text x="28" y="84" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">⭐ 4   🍴 0</text>
+</svg>
