@@ -101,9 +101,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 1. ⭐ Starred [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - _just now_
 2. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - _just now_
-3. ⭐ Starred [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) - _1h ago_
-4. 🔨 Pushed [`7d42f15`](https://github.com/Thesirix/Thesirix/commit/7d42f15a63e9f84800ffc181a42812da92251d4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2h ago_
-5. 🔨 Pushed [`8fd82c4`](https://github.com/Thesirix/StreakMaster/commit/8fd82c4ec8adbc309ba6c921b056a5be489c20ae) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _5h ago_
+3. ⭐ Starred [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) - _2h ago_
+4. 🔨 Pushed [`7d42f15`](https://github.com/Thesirix/Thesirix/commit/7d42f15a63e9f84800ffc181a42812da92251d4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+5. 🔨 Pushed [`8fd82c4`](https://github.com/Thesirix/StreakMaster/commit/8fd82c4ec8adbc309ba6c921b056a5be489c20ae) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _6h ago_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
