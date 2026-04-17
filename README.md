@@ -97,6 +97,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+1. 🔨 Pushed [`b84d72c`](https://github.com/Thesirix/Thesirix/commit/b84d72cf3653af09afa18d47b6695fdf43d646bb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`8b5ff88`](https://github.com/Thesirix/Thesirix/commit/8b5ff88ff26da533649864e5fe13da5b27eb4496) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`98dacd4`](https://github.com/Thesirix/Thesirix/commit/98dacd4226aba2fe21550626d1a1cf64916eacf5) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`e44fc82`](https://github.com/Thesirix/Thesirix/commit/e44fc8246545a910ff8da9175b9c31a75a3cd254) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`51dbca4`](https://github.com/Thesirix/Thesirix/commit/51dbca407243b3a8fdb574195f8c0f6aa5e32a71) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
