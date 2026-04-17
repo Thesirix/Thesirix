@@ -99,11 +99,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. ⭐ Starred [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - _just now_
-2. ⭐ Starred [rzashakeri/beautify-github-profile](https://github.com/rzashakeri/beautify-github-profile) - _just now_
-3. ⭐ Starred [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) - _2h ago_
-4. 🔨 Pushed [`7d42f15`](https://github.com/Thesirix/Thesirix/commit/7d42f15a63e9f84800ffc181a42812da92251d4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-5. 🔨 Pushed [`8fd82c4`](https://github.com/Thesirix/StreakMaster/commit/8fd82c4ec8adbc309ba6c921b056a5be489c20ae) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _6h ago_
+1. ⭐ Starred [AhmedNassar7/AhmedNassar7](https://github.com/AhmedNassar7/AhmedNassar7) - _just now_
+2. ⭐ Starred [warengonzaga/warengonzaga](https://github.com/warengonzaga/warengonzaga) - _just now_
+3. ⭐ Starred [DenverCoder1/github-readme-streak-stats](https://github.com/DenverCoder1/github-readme-streak-stats) - _just now_
+4. ⭐ Starred [DenverCoder1/DenverCoder1](https://github.com/DenverCoder1/DenverCoder1) - _just now_
+5. ⭐ Starred [Anmol-Baranwal/Cool-GIFs-For-GitHub](https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub) - _1h ago_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
