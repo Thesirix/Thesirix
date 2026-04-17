@@ -140,8 +140,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <br><br>
 
-  <img src="assets/contrib-card.svg"/>
+[🧙‍♂️ Cliquez ici pour manipuler mon Mini Gandalf en 3D](./assets/Mini_Gandalf%20single_color_v1.stl)
 
+  <img src="assets/contrib-card.svg"/>
 
 </div>
 
@@ -184,7 +185,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 </div>
 <!--TOP_REPOS_END-->
-[🧙‍♂️ Cliquez ici pour manipuler mon Mini Gandalf en 3D](./assets/Mini_Gandalf%20single_color_v1.stl)
+
 <br>
 
 <div align="center">
