@@ -97,11 +97,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`b81bdef`](https://github.com/Thesirix/Thesirix/commit/b81bdef6ec438b4b047112e3cf38641905597165) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`13e3918`](https://github.com/Thesirix/Thesirix/commit/13e3918f008add620a0e58c565e38aa84cc843a2) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`b0296ad`](https://github.com/Thesirix/Thesirix/commit/b0296ad32e51ccad07f366809bd4fd247e3dcc9c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`36ed621`](https://github.com/Thesirix/Thesirix/commit/36ed621a04c8ddebcf1a680496e9d9273177be62) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`79645c2`](https://github.com/Thesirix/Thesirix/commit/79645c2ecee2933b719e5ab799d8073f0d10f07b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+1. 🔨 Pushed [`e44fc82`](https://github.com/Thesirix/Thesirix/commit/e44fc8246545a910ff8da9175b9c31a75a3cd254) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`51dbca4`](https://github.com/Thesirix/Thesirix/commit/51dbca407243b3a8fdb574195f8c0f6aa5e32a71) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`b81bdef`](https://github.com/Thesirix/Thesirix/commit/b81bdef6ec438b4b047112e3cf38641905597165) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`13e3918`](https://github.com/Thesirix/Thesirix/commit/13e3918f008add620a0e58c565e38aa84cc843a2) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`b0296ad`](https://github.com/Thesirix/Thesirix/commit/b0296ad32e51ccad07f366809bd4fd247e3dcc9c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
@@ -174,11 +174,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <!--TOP_REPOS_START-->
 <div align="center">
 
-| 📦 Repo | ⭐ Stars | 🍴 Forks | 🗣️ Language |
+| 📦 Repository | ⭐ Stars | 🍴 Forks | 🗣️ Language |
 |:---|:---:|:---:|:---:|
-| [**StreakMaster**](https://github.com/Thesirix/StreakMaster) <br/> <sub>ça Streak et ça Master</sub> | ⭐ 5 | 🍴 1 | `Python` |
-| [**Assembly_jump**](https://github.com/Thesirix/Assembly_jump) <br/> <sub>Doodle Jump in x86-64 Assembly and GDI</sub> | ⭐ 4 | 🍴 0 | `Assembly` |
-| [**Thesirix**](https://github.com/Thesirix/Thesirix) <br/> <sub>My profil Fullstack (Python, React, JS, Html, Css ,Php, Lara</sub> | ⭐ 4 | 🍴 0 | `Python` |
+| [**StreakMaster**](https://github.com/Thesirix/StreakMaster) <br/> <sub>ça Streak et ça Master</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/StreakMaster?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/StreakMaster/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/StreakMaster?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/StreakMaster/network/members) | ![Python](https://img.shields.io/badge/Python-38bdae?style=flat&labelColor=1a1b2e) |
+| [**Assembly_jump**](https://github.com/Thesirix/Assembly_jump) <br/> <sub>Doodle Jump in x86-64 Assembly and GDI</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/Assembly_jump?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/Assembly_jump/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/Assembly_jump?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/Assembly_jump/network/members) | ![Assembly](https://img.shields.io/badge/Assembly-38bdae?style=flat&labelColor=1a1b2e) |
+| [**Thesirix**](https://github.com/Thesirix/Thesirix) <br/> <sub>My profil Fullstack (Python, React, JS, Html, Css ,Php, Lara</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/Thesirix?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/Thesirix/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/Thesirix?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/Thesirix/network/members) | ![Python](https://img.shields.io/badge/Python-38bdae?style=flat&labelColor=1a1b2e) |
 
 </div>
 
