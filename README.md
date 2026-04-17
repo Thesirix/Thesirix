@@ -174,10 +174,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 <!--TOP_REPOS_START-->
 <div align="center">
 
+![](assets/top-repo-header.svg)
 [![StreakMaster](assets/top-repo-1.svg)](https://github.com/Thesirix/StreakMaster)
-
 [![Assembly_jump](assets/top-repo-2.svg)](https://github.com/Thesirix/Assembly_jump)
-
 [![Thesirix](assets/top-repo-3.svg)](https://github.com/Thesirix/Thesirix)
 
 </div>
