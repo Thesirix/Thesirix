@@ -146,7 +146,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy-kannan.vercel.app/?username=thesirix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![Trophies](https://github-profile-trophy-kannan.vercel.app/?username=thesirix&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
 </div>
 
