@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="820" height="68">
+  <defs>
+    <filter id="sh" x="0%" y="0%" width="114%" height="112%">
+      <feGaussianBlur in="SourceAlpha" stdDeviation="9" result="blur"/>
+      <feOffset in="blur" dx="5" dy="3" result="shifted"/>
+      <feFlood flood-color="#000000" flood-opacity="0.35" result="color"/>
+      <feComposite in="color" in2="shifted" operator="in" result="shadow"/>
+      <feMerge><feMergeNode in="shadow"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <clipPath id="clip"><rect x="8" y="8" width="784" height="44" rx="14" ry="14"/></clipPath>
+  </defs>
+  <rect x="8" y="8" width="784" height="44" rx="14" ry="14" fill="#13131f" filter="url(#sh)"/>
+  <line x1="448" y1="8" x2="448" y2="52" stroke="#292e42" stroke-width="1"/>
+  <line x1="556" y1="8" x2="556" y2="52" stroke="#292e42" stroke-width="1"/>
+  <line x1="664" y1="8" x2="664" y2="52" stroke="#292e42" stroke-width="1"/>
+  <text x="228" y="30" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7aa2f7">📦  Repository</text>
+  <text x="502" y="30" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7aa2f7">⭐  Stars</text>
+  <text x="610" y="30" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7aa2f7">🍴  Forks</text>
+  <text x="728" y="30" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" font-weight="600" fill="#7aa2f7">🗣️  Language</text>
+</svg>
