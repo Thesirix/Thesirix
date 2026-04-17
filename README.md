@@ -97,11 +97,19 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+<<<<<<< HEAD
+
 1. 🔨 Pushed [`8fd82c4`](https://github.com/Thesirix/StreakMaster/commit/8fd82c4ec8adbc309ba6c921b056a5be489c20ae) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
 2. 🔨 Pushed [`b84d72c`](https://github.com/Thesirix/Thesirix/commit/b84d72cf3653af09afa18d47b6695fdf43d646bb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
 3. 🔨 Pushed [`8b5ff88`](https://github.com/Thesirix/Thesirix/commit/8b5ff88ff26da533649864e5fe13da5b27eb4496) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
 4. 🔨 Pushed [`98dacd4`](https://github.com/Thesirix/Thesirix/commit/98dacd4226aba2fe21550626d1a1cf64916eacf5) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
-5. 🔨 Pushed [`e44fc82`](https://github.com/Thesirix/Thesirix/commit/e44fc8246545a910ff8da9175b9c31a75a3cd254) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
+5. # 🔨 Pushed [`e44fc82`](https://github.com/Thesirix/Thesirix/commit/e44fc8246545a910ff8da9175b9c31a75a3cd254) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
+6. 🔨 Pushed [`8eb0d2b`](https://github.com/Thesirix/Thesirix/commit/8eb0d2bd7fb8eeeef4f775ddf9c987a9e5792d03) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+7. 🔨 Pushed [`0b77b8b`](https://github.com/Thesirix/Thesirix/commit/0b77b8be4ba527e7d5df44945a312d065461b05b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+8. 🔨 Pushed [`bb89e01`](https://github.com/Thesirix/Thesirix/commit/bb89e01e3f5ddd157cd1015de9f0a53fb246d70a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+9. 🔨 Pushed [`da468a3`](https://github.com/Thesirix/Thesirix/commit/da468a31eb200f6890de53ba3cfdac0a834b3072) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+10. ⭐ Starred [AhmedNassar7/AhmedNassar7](https://github.com/AhmedNassar7/AhmedNassar7) - _1h ago_
+    > > > > > > > adf82ead0a460e6f67bbbb269056c53d66cb5aff
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
@@ -139,6 +147,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 <br><br>
 
   <img src="assets/contrib-card.svg"/>
+
 
 </div>
 
