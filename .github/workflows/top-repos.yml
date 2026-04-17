@@ -1,0 +1,84 @@
+name: "⭐ Top Repositories"
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  update-top-repos:
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Build top repos section
+        run: |
+          python3 << 'EOF'
+          import json, urllib.request, os, re
+
+          USERNAME = os.environ.get("GITHUB_REPOSITORY_OWNER", "Thesirix")
+          TOKEN    = os.environ.get("GITHUB_TOKEN", "")
+
+          url = f"https://api.github.com/users/{USERNAME}/repos?per_page=100"
+          headers = {"User-Agent": "top-repos-readme-py", "Accept": "application/vnd.github+json"}
+          if TOKEN:
+              headers["Authorization"] = f"Bearer {TOKEN}"
+
+          req = urllib.request.Request(url, headers=headers)
+          with urllib.request.urlopen(req, timeout=30) as r:
+              repos = json.loads(r.read())
+
+          top = sorted(repos, key=lambda r: r.get("stargazers_count", 0), reverse=True)[:3]
+
+          lines = [
+              '<div align="center">',
+              "",
+              "| 📦 Repo | ⭐ Stars | 🍴 Forks | 🗣️ Language |",
+              "|:---|:---:|:---:|:---:|",
+          ]
+          for r in top:
+              name  = r.get("name", "")
+              url_  = r.get("html_url", "")
+              stars = r.get("stargazers_count", 0)
+              forks = r.get("forks_count", 0)
+              lang  = r.get("language") or "—"
+              desc  = (r.get("description") or "_No description_")[:60]
+              lines.append(f'| [**{name}**]({url_}) <br/> <sub>{desc}</sub> | ⭐ {stars} | 🍴 {forks} | `{lang}` |')
+          lines += ["", "</div>", ""]
+
+          START = "<!--TOP_REPOS_START-->"
+          END   = "<!--TOP_REPOS_END-->"
+          new_content = "\n" + "\n".join(lines) + "\n"
+
+          with open("README.md", encoding="utf-8") as f:
+              readme = f.read()
+
+          updated = re.sub(
+              re.escape(START) + r".*?" + re.escape(END),
+              START + new_content + END,
+              readme,
+              flags=re.DOTALL,
+          )
+
+          with open("README.md", "w", encoding="utf-8") as f:
+              f.write(updated)
+          print("Top repos updated ✓")
+          EOF
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "⭐ Update top repositories"
+            git pull --rebase origin main
+            git push origin main
+          fi
