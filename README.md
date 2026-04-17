@@ -176,8 +176,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 | 📦 Repo | ⭐ Stars | 🍴 Forks | 🗣️ Language |
 |:---|:---:|:---:|:---:|
+| [**StreakMaster**](https://github.com/Thesirix/StreakMaster) <br/> <sub>ça Streak et ça Master</sub> | ⭐ 5 | 🍴 1 | `Python` |
+| [**Assembly_jump**](https://github.com/Thesirix/Assembly_jump) <br/> <sub>Doodle Jump in x86-64 Assembly and GDI</sub> | ⭐ 4 | 🍴 0 | `Assembly` |
+| [**Thesirix**](https://github.com/Thesirix/Thesirix) <br/> <sub>My profil Fullstack (Python, React, JS, Html, Css ,Php, Lara</sub> | ⭐ 4 | 🍴 0 | `Python` |
 
 </div>
+
 <!--TOP_REPOS_END-->
 
 <br>
