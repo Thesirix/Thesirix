@@ -140,7 +140,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <br><br>
 
-[🧙‍♂️ Cliquez ici pour manipuler mon Mini Gandalf en 3D](./assets/Mini_Gandalf%20single_color_v1.stl)
+[🧙‍♂️ Cliqk here to dance](./assets/spacedance.glb)
 
   <img src="assets/contrib-card.svg"/>
 
