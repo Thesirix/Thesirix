@@ -110,17 +110,17 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="assets/snake.svg" />
 
-  <br><br>
+<br><br>
 
-  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-  <br><br>
+<br><br>
 
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-  <br><br>
+<br><br>
 
-  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -138,10 +138,10 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-  <br><br>
+<br><br>
 
   <img src="assets/contrib-card.svg"/>
-  
+
 
 </div>
 
@@ -160,8 +160,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
 
 <h2 align="center">📊 Profile Summary</h2>
 
@@ -186,7 +184,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 </div>
 <!--TOP_REPOS_END-->
-
+[🧙‍♂️ Cliquez ici pour manipuler mon Mini Gandalf en 3D](./assets/Mini_Gandalf%20single_color_v1.stl)
 <br>
 
 <div align="center">
