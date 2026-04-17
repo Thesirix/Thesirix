@@ -26,6 +26,8 @@ Together, let's turn your technical ambitions into concrete, scalable, and susta
 
 <h2 align="center">My Tech Universe 🌐</h2>
 
+<img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px">
+
 My technological arsenal revolves around performance and mobility:
 <br><br>
 
@@ -97,12 +99,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`8fd82c4`](https://github.com/Thesirix/StreakMaster/commit/8fd82c4ec8adbc309ba6c921b056a5be489c20ae) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
-2. 🔨 Pushed [`b84d72c`](https://github.com/Thesirix/Thesirix/commit/b84d72cf3653af09afa18d47b6695fdf43d646bb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
-3. 🔨 Pushed [`8b5ff88`](https://github.com/Thesirix/Thesirix/commit/8b5ff88ff26da533649864e5fe13da5b27eb4496) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
-4. 🔨 Pushed [`98dacd4`](https://github.com/Thesirix/Thesirix/commit/98dacd4226aba2fe21550626d1a1cf64916eacf5) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
-5. 🔨 Pushed [`e44fc82`](https://github.com/Thesirix/Thesirix/commit/e44fc8246545a910ff8da9175b9c31a75a3cd254) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
@@ -139,6 +135,7 @@ Do you have a technical challenge or an app idea? Let's talk.
   <br><br>
 
   <img src="assets/contrib-card.svg"/>
+  
 
 </div>
 
@@ -157,6 +154,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+
 
 <h2 align="center">📊 Profile Summary</h2>
 
