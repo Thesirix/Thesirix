@@ -1,0 +1,25 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Une zone de test",
+        "marker-color": "#4caf50",
+        "marker-size": "large"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [1.4, 43.6],
+            [1.5, 43.6],
+            [1.5, 43.7],
+            [1.4, 43.7],
+            [1.4, 43.6]
+          ]
+        ]
+      }
+    }
+  ]
+}
