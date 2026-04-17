@@ -174,14 +174,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 <!--TOP_REPOS_START-->
 <div align="center">
 
-| 📦 Repository | ⭐ Stars | 🍴 Forks | 🗣️ Language |
-|:---|:---:|:---:|:---:|
-| [**StreakMaster**](https://github.com/Thesirix/StreakMaster) <br/> <sub>ça Streak et ça Master</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/StreakMaster?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/StreakMaster/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/StreakMaster?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/StreakMaster/network/members) | ![Python](https://img.shields.io/badge/Python-38bdae?style=flat&labelColor=1a1b2e) |
-| [**Assembly_jump**](https://github.com/Thesirix/Assembly_jump) <br/> <sub>Doodle Jump in x86-64 Assembly and GDI</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/Assembly_jump?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/Assembly_jump/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/Assembly_jump?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/Assembly_jump/network/members) | ![Assembly](https://img.shields.io/badge/Assembly-38bdae?style=flat&labelColor=1a1b2e) |
-| [**Thesirix**](https://github.com/Thesirix/Thesirix) <br/> <sub>My profil Fullstack (Python, React, JS, Html, Css ,Php, Lara</sub> | [![stars](https://img.shields.io/github/stars/Thesirix/Thesirix?style=flat&color=7aa2f7&labelColor=1a1b2e)](https://github.com/Thesirix/Thesirix/stargazers) | [![forks](https://img.shields.io/github/forks/Thesirix/Thesirix?style=flat&color=bb9af7&labelColor=1a1b2e)](https://github.com/Thesirix/Thesirix/network/members) | ![Python](https://img.shields.io/badge/Python-38bdae?style=flat&labelColor=1a1b2e) |
+[![StreakMaster](assets/top-repo-1.svg)](https://github.com/Thesirix/StreakMaster)
+
+[![Assembly_jump](assets/top-repo-2.svg)](https://github.com/Thesirix/Assembly_jump)
+
+[![Thesirix](assets/top-repo-3.svg)](https://github.com/Thesirix/Thesirix)
 
 </div>
-
 <!--TOP_REPOS_END-->
 
 <br>
