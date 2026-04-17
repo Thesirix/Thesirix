@@ -18,6 +18,7 @@ README   = "README.md"
 # Content between these markers is preserved from the current README.
 DYNAMIC_SECTIONS = [
     ("<!-- WEATHER_START -->", "<!-- WEATHER_END -->"),
+    ("<!--TOP_REPOS_START-->", "<!--TOP_REPOS_END-->"),
 ]
 
 # ── Read template ──────────────────────────────────────────────────────────────

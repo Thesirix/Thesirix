@@ -133,6 +133,44 @@ Do you have a technical challenge, a need for software architecture, or an app i
   <img src="assets/contrib-card.svg" alt="Top Repos by Commits" />
 </div>
 
+<h2 align="center">🏆 GitHub Trophies</h2>
+
+<div align="center">
+
+![Trophies](https://github-profile-trophy-kannan.vercel.app/?username=thesirix&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+</div>
+
+<h2 align="center">✍️ Random Dev Quote</h2>
+
+<div align="center">
+
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+<h2 align="center">📊 Profile Summary</h2>
+
+<div align="center">
+
+![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesirix&theme=tokyonight)
+![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesirix&theme=tokyonight)
+![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
+![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesirix&theme=tokyonight)
+
+</div>
+
+<h2 align="center">⭐ Top Repositories</h2>
+
+<!--TOP_REPOS_START-->
+<div align="center">
+
+| 📦 Repo | ⭐ Stars | 🍴 Forks | 🗣️ Language |
+|:---|:---:|:---:|:---:|
+
+</div>
+<!--TOP_REPOS_END-->
+
 <br>
 <div align="center">
   <a href="https://donate.stripe.com/bJe8wPgZf71W0kz6sSfw400" target="_blank">
