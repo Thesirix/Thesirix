@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Marseille",
+        "name": "Marseille Centre",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
@@ -16,23 +16,25 @@
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "small",
-        "marker-color": "#e0e0e0"
+        "name": "Cap Caveaux (Frioul)",
+        "marker-color": "#e63946",
+        "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.310, 43.320]
+        "coordinates": [5.2894, 43.2606]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "marker-size": "small",
-        "marker-color": "#e0e0e0"
+        "name": "Résidence La Mazenode",
+        "marker-color": "#e63946",
+        "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.420, 43.250]
+        "coordinates": [5.4160, 43.2820]
       }
     }
   ]
