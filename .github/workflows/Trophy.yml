@@ -1,6 +1,9 @@
 name: "🏆 Trophy"
 
 on:
+  push:
+    paths:
+      - '.github/workflows/Trophy.yml'
   schedule:
     - cron: '0 0 * * 1'
   workflow_dispatch:
