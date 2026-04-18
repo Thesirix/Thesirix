@@ -16,18 +16,23 @@
     {
       "type": "Feature",
       "properties": {
-        "fill-opacity": 0,
-        "stroke-width": 0
+        "marker-size": "small",
+        "marker-color": "#cccccc"
       },
       "geometry": {
-        "type": "Polygon",
-        "coordinates": [[
-          [5.310, 43.320],
-          [5.420, 43.320],
-          [5.420, 43.250],
-          [5.310, 43.250],
-          [5.310, 43.320]
-        ]]
+        "type": "Point",
+        "coordinates": [5.310, 43.320]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-size": "small",
+        "marker-color": "#cccccc"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [5.420, 43.250]
       }
     }
   ]
