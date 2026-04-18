@@ -432,5 +432,5 @@ jobs:
   # ── 10. Timestamps ────────────────────────────────────────────────────────────
   timestamps:
     name: "🕐 Timestamps"
-    needs: [trophy]
+    needs: [city3d]
     uses: ./.github/workflows/Timestamps.yml
