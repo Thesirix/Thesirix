@@ -12,28 +12,6 @@
         "type": "Point",
         "coordinates": [5.3698, 43.2965]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#cccccc"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.310, 43.320]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-size": "small",
-        "marker-color": "#cccccc"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [5.420, 43.250]
-      }
     }
   ]
 }
