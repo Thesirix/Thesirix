@@ -1,0 +1,57 @@
+name: "🃏 Contrib Card"
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'
+  workflow_dispatch:
+  workflow_call:
+
+jobs:
+  contrib-card:
+    name: "🃏 Generate Contrib Card"
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Fetch widget code (sans stager)
+        run: |
+          git fetch origin widget
+          mkdir -p contrib-card
+          for f in fetchStats.js renderCard.js generate.js package.json package-lock.json; do
+            git show origin/widget:contrib-card/$f > contrib-card/$f
+          done
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install deps
+        run: npm install
+        working-directory: contrib-card
+
+      - name: Generate SVG
+        env:
+          GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
+          GITHUB_USERNAME: ${{ github.repository_owner }}
+          LIMIT: '10'
+        run: node generate.js
+        working-directory: contrib-card
+
+      - name: Move SVG to assets
+        run: cp contrib-card/contrib-card.svg assets/contrib-card.svg
+
+      - name: Commit & push to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/contrib-card.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "🃏 Update contrib card"
+            git pull --rebase origin main
+            git push origin main
+          fi

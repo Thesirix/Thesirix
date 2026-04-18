@@ -7,7 +7,8 @@
       "WebFetch(domain:platane.github.io)",
       "WebFetch(domain:techstack-generator.vercel.app)",
       "WebFetch(domain:api.github.com)",
-      "Bash(gh repo *)"
+      "Bash(gh repo *)",
+      "Bash(sort find *)"
     ]
   }
 }
