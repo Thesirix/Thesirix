@@ -118,10 +118,45 @@ jobs:
             git push origin main
           fi
 
-  # ── 5. Contrib Card ──────────────────────────────────────────────────────────
+  # ── 5. Pac-Man ───────────────────────────────────────────────────────────────
+  pacman:
+    name: "👾 Pac-Man"
+    needs: [snake]
+    continue-on-error: true
+    permissions: write-all
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate Pac-Man SVG
+        uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: ${{ github.repository_owner }}
+
+      - name: Copy SVG to assets
+        run: |
+          cp dist/pacman-contribution-graph.svg assets/pacman.svg
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/pacman.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "👾 Update Pac-Man"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+  # ── 6. Contrib Card ──────────────────────────────────────────────────────────
   contrib-card:
     name: "🃏 Contrib Card"
-    needs: [snake]
+    needs: [pacman]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
@@ -169,7 +204,7 @@ jobs:
             git push origin main
           fi
 
-  # ── 6. Top Repositories ──────────────────────────────────────────────────────
+  # ── 7. Top Repositories ──────────────────────────────────────────────────────
   top-repos:
     name: "⭐ Top Repositories"
     needs: [contrib-card]
@@ -307,7 +342,7 @@ jobs:
             git push origin main
           fi
 
-  # ── 7. Trophy ────────────────────────────────────────────────────────────────
+  # ── 8. Trophy ────────────────────────────────────────────────────────────────
   trophy:
     name: "🏆 Trophy"
     needs: [top-repos]
@@ -353,7 +388,7 @@ jobs:
             git push origin main
           fi
 
-  # ── 8. 3D City ───────────────────────────────────────────────────────────────
+  # ── 9. 3D City ───────────────────────────────────────────────────────────────
   city3d:
     name: "🏙️ 3D City"
     needs: [trophy]
