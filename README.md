@@ -141,12 +141,12 @@ Do you have a technical challenge or an app idea? Let's talk.
   <br><br>
 
   <a href="./assets/Map/map_marseille.geojson">
-    <img src="assets/Map/map_marseille.png" width="420" alt="Interactive Map of Marseille"/>
+    <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
   </a>
   <p><i>🗺️ Click to explore the interactive map of Marseille</i></p>
 
   <a href="./assets/3D/Mini_Gandalf_print.stl">
-    <img src="assets/3D/gandalf3D.png" width="420" alt="Mini Gandalf 3D Print"/>
+    <img src="assets/3D/gandalf.gif" width="420" alt="Mini Gandalf 3D Print"/>
   </a>
   <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
