@@ -42,15 +42,15 @@ My technological arsenal revolves around performance and mobility:
 <h2 align="center">ToolBox 🛠</h2>
 
 <div align="center">
-  <img src="assets/techstack/python.svg" alt="Python" width="50" height="50" />
-  <img src="assets/techstack/django.svg" alt="Django" width="50" height="50" />
-  <img src="assets/techstack/javascript.svg" alt="JavaScript" width="50" height="50" />
-  <img src="assets/techstack/typescript.svg" alt="TypeScript" width="50" height="50" />
-  <img src="assets/techstack/react.svg" alt="React" width="50" height="50" />
-  <img src="assets/techstack/jest.svg" alt="Jest" width="50" height="50" />
-  <img src="assets/techstack/docker.svg" alt="Docker" width="50" height="50" />
-  <img src="assets/techstack/mysql.svg" alt="MySQL" width="50" height="50" />
-  <img src="assets/techstack/github.svg" alt="GitHub" width="50" height="50" />
+  <img src="assets/Techstack/python.svg" alt="Python" width="50" height="50" />
+  <img src="assets/Techstack/django.svg" alt="Django" width="50" height="50" />
+  <img src="assets/Techstack/javascript.svg" alt="JavaScript" width="50" height="50" />
+  <img src="assets/Techstack/typescript.svg" alt="TypeScript" width="50" height="50" />
+  <img src="assets/Techstack/react.svg" alt="React" width="50" height="50" />
+  <img src="assets/Techstack/jest.svg" alt="Jest" width="50" height="50" />
+  <img src="assets/Techstack/docker.svg" alt="Docker" width="50" height="50" />
+  <img src="assets/Techstack/mysql.svg" alt="MySQL" width="50" height="50" />
+  <img src="assets/Techstack/github.svg" alt="GitHub" width="50" height="50" />
 </div>
 
 <br>
@@ -132,7 +132,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <br><br>
 
-  [🧙‍♂️ Cliqk here to dance](./assets/spacedance.glb)
+  [🗺️ Carte interactive de Marseille](./assets/Map/map_marseille.geojson)
+
+  [🧙‍♂️ Imprime ton mini Gandalf en 3D](./assets/3D/Mini_Gandalf_print.stl)
 
   <img src="assets/contrib-card.svg"/>
   
