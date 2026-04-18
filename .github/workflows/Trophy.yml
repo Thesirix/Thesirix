@@ -23,8 +23,7 @@ jobs:
         run: |
           git fetch origin trophy
           mkdir -p trophy-src/src
-          git show origin/trophy:render_svg.ts > trophy-src/render_svg.ts
-          for f in $(git ls-tree -r --name-only origin/trophy src/); do
+          for f in $(git ls-tree -r --name-only origin/trophy); do
             mkdir -p trophy-src/$(dirname $f)
             git show origin/trophy:$f > trophy-src/$f
           done
