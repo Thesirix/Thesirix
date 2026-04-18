@@ -99,6 +99,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+1. 🔨 Pushed [`4a75f87`](https://github.com/Thesirix/Thesirix/commit/4a75f87ca19df087fd100be245d03f75bd408f8e) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`f178ee5`](https://github.com/Thesirix/Thesirix/commit/f178ee55a804b5c261af86383ab6b97c46fdfc8c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`ef9427a`](https://github.com/Thesirix/Thesirix/commit/ef9427abb8facbca83a837fc6004e7e4a4feaa1a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`20724f7`](https://github.com/Thesirix/StreakMaster/commit/20724f7ba36ea86779dfc0ab9cbabf0f39089c86) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _10h ago_
+5. 🔨 Pushed [`19b8861`](https://github.com/Thesirix/Thesirix/commit/19b886151fb43bdfb69ccc237105377b5566f9b6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
