@@ -140,9 +140,15 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <br><br>
 
-  [🗺️ Carte interactive de Marseille](./assets/Map/map_marseille.geojson)
+  <a href="./assets/Map/map_marseille.geojson">
+    <img src="assets/Map/map_marseille.png" width="420" alt="Interactive Map of Marseille"/>
+  </a>
+  <p><i>🗺️ Click to explore the interactive map of Marseille</i></p>
 
-  [🧙‍♂️ Imprime ton mini Gandalf en 3D](./assets/3D/Mini_Gandalf_print.stl)
+  <a href="./assets/3D/Mini_Gandalf_print.stl">
+    <img src="assets/3D/gandalf3D.png" width="420" alt="Mini Gandalf 3D Print"/>
+  </a>
+  <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
   <img src="assets/contrib-card.svg"/>
   

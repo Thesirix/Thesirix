@@ -5,9 +5,8 @@
       "type": "Feature",
       "properties": {
         "name": "Marseille",
-        "marker-color": "#4caf50",
-        "marker-size": "large",
-        "marker-symbol": "city"
+        "marker-color": "#e63946",
+        "marker-size": "medium"
       },
       "geometry": {
         "type": "Point",
