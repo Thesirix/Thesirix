@@ -307,10 +307,57 @@ jobs:
             git push origin main
           fi
 
-  # ── 7. 3D City ───────────────────────────────────────────────────────────────
+  # ── 7. Trophy ────────────────────────────────────────────────────────────────
+  trophy:
+    name: "🏆 Trophy"
+    needs: [top-repos]
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Fetch trophy source
+        run: |
+          git fetch origin trophy
+          mkdir -p trophy-src/src
+          git show origin/trophy:render_svg.ts > trophy-src/render_svg.ts
+          for f in $(git ls-tree -r --name-only origin/trophy src/); do
+            mkdir -p trophy-src/$(dirname $f)
+            git show origin/trophy:$f > trophy-src/$f
+          done
+
+      - name: Setup Deno
+        uses: denoland/setup-deno@v2
+        with:
+          deno-version: v2.x
+
+      - name: Generate Trophy SVG
+        env:
+          GITHUB_TOKEN1: ${{ secrets.GH_TOKEN }}
+        run: |
+          cd trophy-src
+          deno run --allow-net --allow-env --allow-read --allow-write \
+            render_svg.ts Thesirix ../assets/trophy.svg tokyonight
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/trophy.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "🏆 Update trophy"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+  # ── 8. 3D City ───────────────────────────────────────────────────────────────
   city3d:
     name: "🏙️ 3D City"
-    needs: [top-repos]
+    needs: [trophy]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
