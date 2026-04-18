@@ -99,11 +99,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`19b8861`](https://github.com/Thesirix/Thesirix/commit/19b886151fb43bdfb69ccc237105377b5566f9b6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
-2. 🔨 Pushed [`8eb0d2b`](https://github.com/Thesirix/Thesirix/commit/8eb0d2bd7fb8eeeef4f775ddf9c987a9e5792d03) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
-3. 🔨 Pushed [`0b77b8b`](https://github.com/Thesirix/Thesirix/commit/0b77b8be4ba527e7d5df44945a312d065461b05b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
-4. 🔨 Pushed [`bb89e01`](https://github.com/Thesirix/Thesirix/commit/bb89e01e3f5ddd157cd1015de9f0a53fb246d70a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
-5. 🔨 Pushed [`da468a3`](https://github.com/Thesirix/Thesirix/commit/da468a31eb200f6890de53ba3cfdac0a834b3072) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+1. 🔨 Pushed [`19b8861`](https://github.com/Thesirix/Thesirix/commit/19b886151fb43bdfb69ccc237105377b5566f9b6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+2. 🔨 Pushed [`8eb0d2b`](https://github.com/Thesirix/Thesirix/commit/8eb0d2bd7fb8eeeef4f775ddf9c987a9e5792d03) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+3. 🔨 Pushed [`0b77b8b`](https://github.com/Thesirix/Thesirix/commit/0b77b8be4ba527e7d5df44945a312d065461b05b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _12h ago_
+4. 🔨 Pushed [`bb89e01`](https://github.com/Thesirix/Thesirix/commit/bb89e01e3f5ddd157cd1015de9f0a53fb246d70a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _12h ago_
+5. 🔨 Pushed [`da468a3`](https://github.com/Thesirix/Thesirix/commit/da468a31eb200f6890de53ba3cfdac0a834b3072) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _12h ago_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
