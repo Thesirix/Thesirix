@@ -6,7 +6,7 @@
       "properties": {
         "name": "Marseille",
         "marker-color": "#e63946",
-        "marker-size": "medium"
+        "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
@@ -16,29 +16,18 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Marseille — Zone urbaine",
-        "fill": "#4caf50",
-        "fill-opacity": 0.3,
-        "stroke": "#4caf50",
-        "stroke-width": 2
+        "fill-opacity": 0,
+        "stroke-width": 0
       },
       "geometry": {
         "type": "Polygon",
-        "coordinates": [
-          [
-            [5.2285, 43.2000],
-            [5.2500, 43.1700],
-            [5.3200, 43.1500],
-            [5.4300, 43.1700],
-            [5.5200, 43.2200],
-            [5.5500, 43.3000],
-            [5.5200, 43.3900],
-            [5.4000, 43.4200],
-            [5.2800, 43.4000],
-            [5.2000, 43.3500],
-            [5.2285, 43.2000]
-          ]
-        ]
+        "coordinates": [[
+          [5.310, 43.320],
+          [5.420, 43.320],
+          [5.420, 43.250],
+          [5.310, 43.250],
+          [5.310, 43.320]
+        ]]
       }
     }
   ]
