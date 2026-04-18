@@ -99,12 +99,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`5912e9e`](https://github.com/Thesirix/Thesirix/commit/5912e9e8e94c7121ce5be98815272a486bbb52ad) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`1369fc2`](https://github.com/Thesirix/Thesirix/commit/1369fc2c3f6d075574743db92f1c4af245c77146) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`a9732e0`](https://github.com/Thesirix/Thesirix/commit/a9732e00ab77ce3e93433c7cfa084fa467b08a26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🎉 Created branch `trophy` in [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _just now_
-5. 🔨 Pushed [`10bc667`](https://github.com/Thesirix/Thesirix/commit/10bc667422613de196d497053b2f332cc8fb904c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
