@@ -19,6 +19,7 @@ README   = "README.md"
 DYNAMIC_SECTIONS = [
     ("<!-- WEATHER_START -->", "<!-- WEATHER_END -->"),
     ("<!--TOP_REPOS_START-->", "<!--TOP_REPOS_END-->"),
+    ("<!--TIMESTAMP_START-->", "<!--TIMESTAMP_END-->"),
 ]
 
 # ── Read template ──────────────────────────────────────────────────────────────
