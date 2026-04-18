@@ -16,25 +16,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Le Pharo",
+        "name": "Rade de Marseille (en mer)",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.3585, 43.2936]
+        "coordinates": [5.3450, 43.2900]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Réformés",
+        "name": "Cinq Avenues / Longchamp",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.3855, 43.2985]
+        "coordinates": [5.3950, 43.3000]
       }
     }
   ]
