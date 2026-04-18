@@ -34,10 +34,11 @@ LEVEL_MAP = {
 }
 
 # Palette — light default, dark via CSS media query
-C_SNAKE   = "#d2a8ff"
+C_SNAKE        = "#a855f7"          # base fallback (start of gradient)
+COLOR_CYCLE_MS = 3000               # snake hue-wave period in ms
 C_BORDER  = "#1b1f230a"
-DOTS_L    = ["#ebedf0", "#9be9a8", "#40c463", "#30a14e", "#216e39"]
-DOTS_D    = ["#161b22", "#01311f", "#034525", "#0f6d31", "#00c647"]
+DOTS_L    = ["#ebedf0", "#bfdbfe", "#60a5fa", "#2563eb", "#1d4ed8"]
+DOTS_D    = ["#161b22", "#051d4d", "#0a3069", "#0969da", "#1f6feb"]
 CE_L, CE_D = "#ebedf0", "#161b22"
 
 # ── 1. Fetch contributions ──────────────────────────────────────────────────────
@@ -285,6 +286,14 @@ css.append(
     f".s{{shape-rendering:geometricPrecision;fill:var(--cs);"
     f"animation:none linear {duration}ms infinite}}"
 )
+css.append(
+    "@keyframes snake-hue{"
+    "0%{fill:#a855f7}"
+    "33%{fill:#e11d48}"
+    "66%{fill:#ef4444}"
+    "100%{fill:#a855f7}"
+    "}"
+)
 for pi in range(SNAKE_LEN):
     u  = (1 - min(pi, 4) / 4) ** 2
     sz = u * (CELL * 0.9) + (1 - u) * (DOT * 0.8)
@@ -300,10 +309,16 @@ for pi in range(SNAKE_LEN):
 
     sid    = f"s{pi}"
     x0, y0 = positions[0]
+    delay  = -int(pi / SNAKE_LEN * COLOR_CYCLE_MS)
     css.append(keyframes(sid, kfs))
     css.append(
-        f".s.{sid}{{transform:translate({x0 * CELL}px,{y0 * CELL}px);"
-        f"animation-name:{sid}}}"
+        f".s.{sid}{{"
+        f"transform:translate({x0 * CELL}px,{y0 * CELL}px);"
+        f"animation-name:{sid},snake-hue;"
+        f"animation-duration:{duration}ms,{COLOR_CYCLE_MS}ms;"
+        f"animation-timing-function:linear,linear;"
+        f"animation-iteration-count:infinite,infinite;"
+        f"animation-delay:0ms,{delay}ms}}"
     )
     els.append(
         f'<rect class="s {sid}" x="{mg:.1f}" y="{mg:.1f}"'
