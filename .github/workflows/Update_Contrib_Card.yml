@@ -16,12 +16,12 @@ jobs:
         with:
           ref: main
 
-      - name: Fetch widget code (sans stager)
+      - name: Fetch contrib card code
         run: |
-          git fetch origin widget
+          git fetch origin contribution_card
           mkdir -p contrib-card
           for f in fetchStats.js renderCard.js generate.js package.json package-lock.json; do
-            git show origin/widget:contrib-card/$f > contrib-card/$f
+            git show origin/contribution_card:contrib-card/$f > contrib-card/$f
           done
 
       - uses: actions/setup-node@v4
