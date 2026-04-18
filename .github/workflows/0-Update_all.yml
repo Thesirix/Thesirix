@@ -433,6 +433,4 @@ jobs:
   timestamps:
     name: "🕐 Timestamps"
     needs: [trophy]
-    continue-on-error: true
-    permissions: write-all
     uses: ./.github/workflows/Timestamps.yml
