@@ -16,25 +16,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Cap Caveaux (Frioul)",
+        "name": "Château d'If",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.2894, 43.2606]
+        "coordinates": [5.3253, 43.2801]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "Résidence La Mazenode",
+        "name": "La Timone",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.4160, 43.2820]
+        "coordinates": [5.4011, 43.2891]
       }
     }
   ]
