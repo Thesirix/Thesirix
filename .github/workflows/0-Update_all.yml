@@ -428,3 +428,11 @@ jobs:
             git commit -m "🏙️ Update 3D city"
             git push "https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}" city-3d
           fi
+
+  # ── 10. Timestamps ────────────────────────────────────────────────────────────
+  timestamps:
+    name: "🕐 Timestamps"
+    needs: [trophy]
+    continue-on-error: true
+    permissions: write-all
+    uses: ./.github/workflows/Timestamps.yml
