@@ -16,25 +16,25 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Château d'If",
+        "name": "Le Pharo",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.3253, 43.2801]
+        "coordinates": [5.3585, 43.2936]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name": "La Timone",
+        "name": "Réformés",
         "marker-color": "#e63946",
         "marker-size": "large"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [5.4011, 43.2891]
+        "coordinates": [5.3855, 43.2985]
       }
     }
   ]
