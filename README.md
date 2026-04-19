@@ -319,8 +319,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 <br> <br> <br> <br> <br> <br>
 
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"></div>
-
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"><br>
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#BCBDC4">
@@ -337,7 +336,7 @@ This is a shared game, all visitors play together. Click a button, then the page
   </tr>
   <tr>
     <td align="center" height="65" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/gauche.png" width="60"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
+    <td align="center" bgcolor="#BCBDC4"><img src="assets/Gameboy/Button/mid.png" width="60"/></td>
     <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/droite.png" width="60"/></a></td>
     <td bgcolor="#BCBDC4"></td>
     <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/B.png" width="60"/></a></td>
