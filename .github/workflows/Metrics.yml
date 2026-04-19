@@ -59,9 +59,6 @@ jobs:
           plugin_habits_facts: yes
           plugin_habits_charts: yes
 
-          plugin_licenses: yes
-          plugin_licenses_setup: npm ci
-
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
@@ -111,6 +108,9 @@ jobs:
           plugin_code_load: 400
           plugin_code_days: 3
           plugin_code_visibility: public
+
+      - name: Copy metrics to workspace
+        run: cp /metrics_renders/assets/github-metrics.svg assets/github-metrics.svg
 
       - name: Commit & push
         run: |
