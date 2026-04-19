@@ -315,8 +315,6 @@ This is a shared game, all visitors play together. Click a button, then the page
 </div>
 <!--TIMESTAMP_END-->
 
-### Résultat dans le jeu
+<br><br>
 
-<br> <br> <br> <br> <br> <br>
-
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="382"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="180"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="382"></div>
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="382"><br><img src="assets/Gameboy/gauche_screen.png" width="110" height="180"/><img src="https://toy.cloudreve.org/image" width="180" height="180"/><img src="assets/Gameboy/droite_screen.png" width="90" height="180"/><br><img src="assets/Gameboy/bas_screen.png" width="382"></div>
