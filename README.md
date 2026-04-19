@@ -69,9 +69,11 @@ For me, code is a creative playground. I love when things run smoothly, automate
 <h2 align="center">Weather Forecast ☀️</h2>
 
 <!-- WEATHER_START -->
+
 <div align="center">
   <img src="assets/weather.svg" alt="Weather Forecast — Marseille"/>
 </div>
+
 <!-- WEATHER_END -->
 
 <h2 align="center">Let's Connect! 🚀</h2>
