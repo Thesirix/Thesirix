@@ -99,12 +99,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`2ae0f90`](https://github.com/Thesirix/Thesirix/commit/2ae0f90bfdb377f0d417fda9a9fa96a7b95d2ec9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`a1a1a3d`](https://github.com/Thesirix/Thesirix/commit/a1a1a3d62de0c36119ef5976468807b1f9df082c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. ⭐ Starred [lowlighter/metrics](https://github.com/lowlighter/metrics) - _just now_
-4. 🔨 Pushed [`a44ad7f`](https://github.com/Thesirix/Thesirix/commit/a44ad7f2158acbd2128b7f9596721f56af14cccb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`94d1fd4`](https://github.com/Thesirix/Thesirix/commit/94d1fd4608d6c35a2d89c9c78a967a8c9ce28f21) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
@@ -239,6 +233,23 @@ Do you have a technical challenge or an app idea? Let's talk.
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 
 </div>
+
+## 🚀 Example usage
+
+Below are links to profiles where you can see Readme Typing SVGs in action!
+
+[![Jonah Lawrence](https://github.com/DenverCoder1.png?size=60)](https://github.com/DenverCoder1 "Jonah Lawrence on GitHub")
+[![Jini by Rentalz.com](https://i.imgur.com/TtuoKCs.png)](https://jini.rentalz.com/ "Jini by Rentalz.com")
+[![Waren Gonzaga](https://github.com/warengonzaga.png?size=60)](https://github.com/warengonzaga "Waren Gonzaga on GitHub")
+[![8BitJonny](https://github.com/8BitJonny.png?size=60)](https://github.com/8BitJonny "8BitJonny on GitHub")
+[![Aditya Raute](https://github.com/adityaraute.png?size=60)](https://github.com/adityaraute "Aditya Raute on GitHub")
+[![Shiva Sankeerth Reddy](https://github.com/ShivaSankeerth.png?size=60)](https://github.com/ShivaSankeerth "Shiva Sankeerth Reddy on GitHub")
+[![Tarun Kamboj](https://github.com/Tarun-Kamboj.png?size=60)](https://github.com/Tarun-Kamboj "Tarun Kamboj on GitHub")
+[![T.A.Vignesh](https://github.com/tavignesh.png?size=60)](https://github.com/tavignesh "T.A.Vignesh on GitHub")
+[![William J. Ghelfi](https://github.com/trumbitta.png?size=60)](https://github.com/trumbitta "William J. Ghelfi on GitHub")
+[![Mano Bharathi M](https://i.imgur.com/Audc6L9.png)](https://github.com/ManoBharathi93 "Mano Bharathi M on GitHub")
+[![Shivam Yadav](https://github.com/sudoshivam.png?size=60)](https://github.com/sudoshivam "Shivam Yadav on GitHub")
+[![Pratik Pingale](https://github.com/PROxZIMA.png?size=60)](https://github.com/PROxZIMA "Pratik Pingale on GitHub")
 
 <div align="center">
 
