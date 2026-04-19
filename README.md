@@ -99,32 +99,26 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`06c1c88`](https://github.com/Thesirix/Thesirix/commit/06c1c88f20051baa3e3cf5e87a5d1b22bf4b5ac8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`2a00b97`](https://github.com/Thesirix/Thesirix/commit/2a00b97058f0bcd0a5bf69973f5bd03cdffca502) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`2fe1cb5`](https://github.com/Thesirix/Thesirix/commit/2fe1cb5a31868a7275a96babc15f3e20427a8d45) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`2c8dba9`](https://github.com/Thesirix/Thesirix/commit/2c8dba90d6c93920748f2ddf1a97edc46619f2ac) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`b91684c`](https://github.com/Thesirix/Thesirix/commit/b91684c1cd9ccd8f5afeaf12df15216fd62c4698) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
   <img src="assets/snake.svg" />
 
-<br><br>
+  <br><br>
 
   <img src="assets/pacman.svg" />
 
-<br><br>
+  <br><br>
 
-![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-<br><br>
+  <br><br>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-<br><br>
+  <br><br>
 
-![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -142,7 +136,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-<br><br>
+  <br><br>
 
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
@@ -155,6 +149,7 @@ Do you have a technical challenge or an app idea? Let's talk.
   <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
   <img src="assets/contrib-card.svg"/>
+  
 
 </div>
 
@@ -173,6 +168,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+
 
 <h2 align="center">📊 Profile Summary</h2>
 
@@ -318,7 +315,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 <br> <br> <br> <br> <br> <br>
 
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"></div>
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"></div>
 
 <div align="center">
 
@@ -368,5 +365,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 </table>
 
 <img src="assets/Gameboy/bas.png" width="413"/>
+
+</div>
 
 </div>
