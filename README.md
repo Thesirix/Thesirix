@@ -110,21 +110,21 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="assets/snake.svg" />
 
-  <br><br>
+<br><br>
 
   <img src="assets/pacman.svg" />
 
-  <br><br>
+<br><br>
 
-  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-  <br><br>
+<br><br>
 
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-  <br><br>
+<br><br>
 
-  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -142,7 +142,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-  <br><br>
+<br><br>
 
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
@@ -155,7 +155,6 @@ Do you have a technical challenge or an app idea? Let's talk.
   <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
   <img src="assets/contrib-card.svg"/>
-  
 
 </div>
 
@@ -174,8 +173,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
 
 <h2 align="center">📊 Profile Summary</h2>
 
@@ -297,50 +294,17 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 </div>
 
 <a name="pokemon"></a>
-<h2 align="center">🎮 Play Pokémon on my profile!</h2>
+
+<h2 align="center">🎮 Real Gameboy Experience:  Play Pokémon!</h2>
 
 <div align="center">
 
-> ⚠️ This is a **shared game** — all visitors play together. Click a button, then **refresh the page** to see the result!
-
-<img src="https://toy.cloudreve.org/image" width="300"/>
-
-<br>
-
-<!-- D-Pad -->
-<a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/%E2%96%B2-grey?style=flat-square" /></a>
-
-<br>
-
-<a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/%E2%97%80-grey?style=flat-square" /></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/%E2%96%BA-grey?style=flat-square" /></a>
-
-<br>
-
-<a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/%E2%96%BC-grey?style=flat-square" /></a>
+This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br><br>
-
-<!-- Action buttons -->
-<a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/B-red?style=flat-square" /></a>
-&nbsp;
-<a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/A-green?style=flat-square" /></a>
-
-<br><br>
-
-<!-- Select / Start -->
-<a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/SELECT-555?style=flat-square" /></a>
-&nbsp;
-<a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix%23pokemon"><img src="https://img.shields.io/badge/START-555?style=flat-square" /></a>
-
-<br><br>
-
-*Powered by [Gameboy.Live](https://github.com/HFO4/gameboy.live)*
-
-</div>
 
 <!--TIMESTAMP_START-->
+
 <div align="center">
 
 ---
@@ -350,3 +314,37 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 </div>
 <!--TIMESTAMP_END-->
+
+### Résultat dans le jeu
+
+<img src="assets/gameboy/slices/gb_scr_l.png" width="90" height="167" alt="Game Boy left"/><img src="https://toy.cloudreve.org/image" width="181" height="167" alt="Pokémon - Thank you! Your POKéMON are"/><img src="assets/gameboy/slices/gb_scr_r.png" width="84" height="167" alt="Game Boy right"/>
+
+</div>
+
+### Résultat dans le jeu
+
+<div align="center">
+  <img src="assets/gameboy/haut_gameboy.png" width="355" style="display:block; margin: 0 auto;"/>
+  <img src="assets/gameboy/slice_left.png" width="90" height="167" style="vertical-align: bottom;"/><img src="https://toy.cloudreve.org/image" width="181" height="167" style="vertical-align: bottom;"/><img src="assets/gameboy/slice_droite.png" width="84" height="167" style="vertical-align: bottom;"/>
+  <img src="assets/gameboy/bas_ecran.png" width="355" style="display:block; margin: 0 auto;"/>
+</div>
+
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_gameboy.png" width="355" style="display:block; margin: 0 auto;"/><img src="assets/gameboy/slice_left.png" width="90" height="167" style="vertical-align: top;"/><img src="https://toy.cloudreve.org/image" width="181" height="167" style="vertical-align: top;"/><img src="assets/gameboy/slice_droite.png" width="84" height="167" style="vertical-align: top;"/><img src="assets/gameboy/bas_ecran.png" width="355" style="display:block; margin: 0 auto;"/></div>
+
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_gameboy.png" width="355" style="display:block; margin: 0 auto;"/><img src="assets/gameboy/slice_left.png" width="90" height="167" style="vertical-align: top;"/><img src="https://toy.cloudreve.org/image" width="181" height="167" style="vertical-align: top;"/><img src="assets/gameboy/slice_droite.png" width="84" height="167" style="vertical-align: top;"/><img src="assets/gameboy/bas_ecran.png" width="355" style="display:block; margin: 0 auto;"/></div>
+
+<div align="center" style="line-height: 0;"><img src="assets/gameboy/haut_gameboy.png" width="355" style="display:block; margin: 0 auto;"/><img src="assets/gameboy/slice_left.png" width="90" height="167" style="vertical-align: top;"/><img src="https://toy.cloudreve.org/image" width="181" height="167" style="vertical-align: top;"/><img src="assets/gameboy/slice_droite.png" width="76" height="167" style="vertical-align: top;"/><img src="assets/gameboy/bas_ecran.png" width="355" style="display:block; margin: 0 auto;"/></div>
+
+ <br>
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_screen.png" width="355" style="display:block; margin: 0 auto;"/><img src="assets/gameboy/gauche_screen.png" width="90" height="167" style="vertical-align: top;"/><img src="https://toy.cloudreve.org/image" width="181" height="167" style="vertical-align: top;"/><img src="assets/gameboy/droite_screen.png" width="84" height="167" style="vertical-align: top;"/><img src="assets/gameboy/bas_screen.png" width="355" style="display:block; margin: 0 auto;"/></div>
+
+<br> <br> <br> <br> <br> <br>
+
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_screen.png" width="355" style="display:block; margin: 0 auto;"/><img src="assets/gameboy/gauche_screen.png" width="87" height="180" style="vertical-align: top;"/><img src="https://toy.cloudreve.org/image" width="181" height="180" style="vertical-align: top;"/><img src="assets/gameboy/droite_screen.png" width="87" height="180" style="vertical-align: top;"/><img src="assets/gameboy/bas_screen.png" width="355" style="display:block; margin: 0 auto;"/></div>
+
+<br> <br> <br> <br> <br> <br>
+
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_screen.png" width="355" style="display:block; margin:0   auto;"/><img src="assets/gameboy/gauche_screen.png" width="87" height="180" style="vertical-align: top;margin:0 0 0 27"/><img src="https://toy.cloudreve.org/image" width="211" height="180" style="vertical-align: top;"/><img src="assets/gameboy/droite_screen.png" width="87" height="180" style="vertical-align: top;margin:0 25 0 0"/><img src="assets/gameboy/bas_screen.png" width="356" style="display:block; margin: 0 auto;"/></div>
+<br> <br> <br> <br> <br> <br>
+
+<div align="center" style="line-height: 0; font-size: 0;"><img src="assets/gameboy/haut_screen.png" width="355" style="display:block; margin:0   auto;"/><img src="assets/gameboy/gauche_screen.png" width="84" height="180" style="vertical-align: top;margin:0 0 0 27"/><img src="https://toy.cloudreve.org/image" width="211" height="180" style="vertical-align: top;"/><img src="assets/gameboy/droite_screen.png" width="87" height="180" style="vertical-align: top;margin:0 0 0 0"/><img src="assets/gameboy/bas_screen.png" width="356" style="display:block; margin: 0 auto;"/></div>
