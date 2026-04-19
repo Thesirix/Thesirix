@@ -304,13 +304,12 @@ This is a shared game, all visitors play together. Click a button, then the page
 <br><br>
 
 <!--TIMESTAMP_START-->
-
 <div align="center">
 
 ---
 
-🕐 **Last update:** &nbsp; `2026-04-19  02:05 UTC`
-☀️ **Next update:** &nbsp; `2026-04-19  02:35 UTC`
+🕐 **Last update:** &nbsp; `2026-04-19  18:25 (Paris)`
+⏩ **Next update:** &nbsp; `2026-04-19  18:30 (Paris)`
 
 </div>
 <!--TIMESTAMP_END-->
