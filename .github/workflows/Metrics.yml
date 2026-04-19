@@ -1,0 +1,111 @@
+name: "📊 GitHub Metrics"
+
+on:
+  schedule: [{ cron: "0 0 * * *" }]
+  workflow_dispatch:
+  push: { branches: ["main"] }
+
+jobs:
+  github-metrics:
+    name: "📊 GitHub Metrics"
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: lowlighter/metrics@latest
+        with:
+          user: Thesirix
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: assets/github-metrics.svg
+          output_action: none
+
+          base: header, activity, community, repositories, metadata
+          base_indepth: yes
+          config_timezone: Europe/Paris
+          committer_message: "📊 Update metrics"
+
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: half-year
+
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_categories: markup, programming
+          plugin_languages_colors: github
+          plugin_languages_limit: 8
+          plugin_languages_other: yes
+          plugin_languages_recent_categories: markup, programming
+          plugin_languages_recent_days: 14
+          plugin_languages_recent_load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_analysis_timeout_repositories: 7.5
+
+          plugin_habits: yes
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
+
+          plugin_activity: yes
+          plugin_activity_days: 90
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+
+          plugin_stargazers: yes
+          plugin_stargazers_charts: yes
+          plugin_stargazers_charts_type: classic
+
+          plugin_reactions: yes
+          plugin_reactions_limit: 200
+          plugin_reactions_days: 14
+          plugin_reactions_display: absolute
+
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
+          plugin_achievements_secrets: yes
+          plugin_achievements_display: detailed
+          plugin_achievements_limit: 0
+
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+
+          plugin_repositories: yes
+          plugin_repositories_order: featured, pinned, starred, random
+
+          plugin_stars: yes
+          plugin_stars_limit: 2
+
+          plugin_followup: yes
+          plugin_followup_sections: repositories, user
+          plugin_followup_indepth: yes
+
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
+
+          plugin_notable: yes
+          plugin_notable_from: organization
+          plugin_notable_types: commit
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/github-metrics.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "📊 Update metrics"
+            git pull --rebase origin main
+            git push origin main
+          fi
