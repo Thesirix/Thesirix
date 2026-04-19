@@ -319,4 +319,4 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 <br> <br> <br> <br> <br> <br>
 
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="382"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="180" height="180"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="382"></div>
+<div align="center"><img src="assets/Gameboy/haut_screen.png"><br><img src="assets/Gameboy/gauche_screen.png"><img src="https://toy.cloudreve.org/image" width="174" height="180"/><img src="assets/Gameboy/freespace.png"><img src="assets/Gameboy/droite_screen.png"><br><img src="assets/Gameboy/bas_screen.png"></div>
