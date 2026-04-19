@@ -348,9 +348,24 @@ This is a shared game, all visitors play together. Click a button, then the page
 <br> <br> <br> <br> <br> <br>
 
 <div align="center" style="line-height: 0; font-size: 0;"><img src="assets/Gameboy/haut_screen.png" width="355" style="display:block; margin:0   auto;"/><img src="assets/Gameboy/gauche_screen.png" width="84" height="180" style="vertical-align: top;margin:0 0 0 27"/><img src="https://toy.cloudreve.org/image" width="211" height="180" style="vertical-align: top;"/><img src="assets/Gameboy/droite_screen.png" width="87" height="180" style="vertical-align: top;margin:0 0 0 0"/><img src="assets/Gameboy/bas_screen.png" width="356" style="display:block; margin: 0 auto;"/></div>
+<br> <br> <br> <br> <br> <br><br> <br> <br> <br> <br> <br>
 
 <div align="center">
   <img src="assets/Gameboy/haut_screen.png" width="355"><br>
-  <img src="assets/Gameboy/gauche_screen.png" width="84"><img src="https://toy.cloudreve.org/image" width="211"><img src="assets/Gameboy/droite_screen.png" width="87"><br>
+  <img src="assets/Gameboy/gauche_screen.png" width="90"><img src="https://toy.cloudreve.org/image" width="211"><img src="assets/Gameboy/droite_screen.png" width="90"><br>
   <img src="assets/Gameboy/bas_screen.png" width="356">
 </div>
+
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="382"><br><img src="assets/Gameboy/gauche_screen.png" width="84"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="211"></a><img src="assets/Gameboy/droite_screen.png" width="87"><br><img src="assets/Gameboy/bas_screen.png" width="382"></div>
+
+  <div align="center"><img src="assets/gameboy/haut_screen.png" width="355"/><br><img src="assets/gameboy/gauche_screen.png" width="90" height="167"/><img                           
+  src="https://toy.cloudreve.org/image" width="181" height="167"/><img src="assets/gameboy/droite_screen.png" width="84" height="167"/><br><img src="assets/gameboy/bas_screen.png"  
+  width="355"/></div>
+
+  <div align="center"><img src="assets/gameboy/haut_screen.png" width="355"/><br><img src="assets/gameboy/gauche_screen.png" width="90" height="167"/><img 
+  src="https://toy.cloudreve.org/image" width="181" height="167"/><img src="assets/gameboy/droite_screen.png" width="80" height="167"/><br><img src="assets/gameboy/bas_screen.png" 
+  width="355"/></div>
+
+  <div align="center"><img src="assets/gameboy/haut_screen.png" width="355"/><br><img src="assets/gameboy/gauche_screen.png" width="90" height="167"/><img                           
+  src="https://toy.cloudreve.org/image" width="181" height="167"/><img src="assets/gameboy/droite_screen.png" width="82" height="167"/><br><img src="assets/gameboy/bas_screen.png"  
+  width="355"/></div>
