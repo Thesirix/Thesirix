@@ -99,32 +99,32 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`5ed5f69`](https://github.com/Thesirix/Thesirix/commit/5ed5f6979baf82cd9e6175315f48a1fbcb64a0c2) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`a3501d8`](https://github.com/Thesirix/StreakMaster/commit/a3501d8c6d010780c0158546ce73054db6693b11) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3h ago_
-3. 🔨 Pushed [`e438824`](https://github.com/Thesirix/Thesirix/commit/e438824c7a8548bf224c051a3b5a0fbca3695279) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
-4. ⭐ Starred [HFO4/HFO4](https://github.com/HFO4/HFO4) - _7h ago_
-5. ⭐ Starred [ouuan/ouuan](https://github.com/ouuan/ouuan) - _8h ago_
+1. 🔨 Pushed [`438b710`](https://github.com/Thesirix/Thesirix/commit/438b710757279ce5bb1e14b293c8ef0049d24922) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`ca42f0e`](https://github.com/Thesirix/Thesirix/commit/ca42f0e637e3d3cbc6409e8090e086dabb3967fc) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`2e69016`](https://github.com/Thesirix/Thesirix/commit/2e69016bac71137cd26d2176323875a022aac337) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`ce91458`](https://github.com/Thesirix/Thesirix/commit/ce91458784f751f3d821d7378bff704326c4d806) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`f8a1a84`](https://github.com/Thesirix/Thesirix/commit/f8a1a848b3391c6ddfc3bf025963cd8e67615ce7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
   <img src="assets/snake.svg" />
 
-<br><br>
+  <br><br>
 
   <img src="assets/pacman.svg" />
 
-<br><br>
+  <br><br>
 
-![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-<br><br>
+  <br><br>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-<br><br>
+  <br><br>
 
-![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -142,7 +142,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-<br><br>
+  <br><br>
 
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
@@ -155,6 +155,7 @@ Do you have a technical challenge or an app idea? Let's talk.
   <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
   <img src="assets/contrib-card.svg"/>
+  
 
 </div>
 
@@ -173,6 +174,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
+
+
 
 <h2 align="center">📊 Profile Summary</h2>
 
@@ -294,14 +297,64 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 </div>
 
 <a name="pokemon"></a>
-
-<h2 align="center">🎮 Real Gameboy Experience:  Play Pokémon!</h2>
+<h2 align="center">🎮 Real Gameboy Experience — Play Pokémon!</h2>
 
 <div align="center">
 
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br><br>
+
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+
+  <tr><td><img src="assets/gameboy/slices/gb_top.png" width="355"/></td></tr>
+
+  <tr><td><table border="0" cellspacing="0" cellpadding="0"><tr>
+    <td><img src="assets/gameboy/slices/gb_scr_l.png" width="90" height="167"/></td>
+    <td><img src="https://toy.cloudreve.org/image" width="181" height="167"/></td>
+    <td><img src="assets/gameboy/slices/gb_scr_r.png" width="84" height="167"/></td>
+  </tr></table></td></tr>
+
+  <tr><td><img src="assets/gameboy/slices/gb_mid.png" width="355"/></td></tr>
+
+  <tr><td><table border="0" cellspacing="0" cellpadding="0"><tr>
+    <td><img src="assets/gameboy/slices/gb_r4_l.png" width="38" height="88"/></td>
+    <td><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><img src="assets/gameboy/slices/gb_dp_tl.png" width="33" height="30"/></td>
+        <td><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_dp_up.png" width="25" height="30"/></a></td>
+        <td><img src="assets/gameboy/slices/gb_dp_tr.png" width="32" height="30"/></td>
+      </tr><tr>
+        <td><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_dp_lf.png" width="33" height="28"/></a></td>
+        <td><img src="assets/gameboy/slices/gb_dp_ct.png" width="25" height="28"/></td>
+        <td><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_dp_rt.png" width="32" height="28"/></a></td>
+      </tr><tr>
+        <td><img src="assets/gameboy/slices/gb_dp_bl.png" width="33" height="30"/></td>
+        <td><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_dp_dn.png" width="25" height="30"/></a></td>
+        <td><img src="assets/gameboy/slices/gb_dp_br.png" width="32" height="30"/></td>
+      </tr>
+    </table></td>
+    <td><img src="assets/gameboy/slices/gb_r4_m.png" width="94" height="88"/></td>
+    <td><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_btn_b.png" width="56" height="88"/></a></td>
+    <td><img src="assets/gameboy/slices/gb_r4_g.png" width="7" height="88"/></td>
+    <td><a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_btn_a.png" width="70" height="88"/></a></td>
+  </tr></table></td></tr>
+
+  <tr><td><img src="assets/gameboy/slices/gb_gap.png" width="355"/></td></tr>
+
+  <tr><td><table border="0" cellspacing="0" cellpadding="0"><tr>
+    <td><img src="assets/gameboy/slices/gb_r6_l.png" width="95" height="54"/></td>
+    <td><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_sel.png" width="71" height="54"/></a></td>
+    <td><img src="assets/gameboy/slices/gb_r6_g.png" width="9" height="54"/></td>
+    <td><a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix%23pokemon"><img src="assets/gameboy/slices/gb_sta.png" width="66" height="54"/></a></td>
+    <td><img src="assets/gameboy/slices/gb_r6_r.png" width="114" height="54"/></td>
+  </tr></table></td></tr>
+
+  <tr><td><img src="assets/gameboy/slices/gb_bot.png" width="355"/></td></tr>
+
+</table>
+
+</div>
 
 <!--TIMESTAMP_START-->
 
@@ -314,15 +367,3 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 </div>
 <!--TIMESTAMP_END-->
-
-### Résultat dans le jeu
-
-<br> <br> <br> <br> <br> <br><br> <br> <br> <br> <br> <br>
-
-<div align="center">
-  <img src="assets/Gameboy/haut_screen.png" width="355"><br>
-  <img src="assets/Gameboy/gauche_screen.png" width="90"><img src="https://toy.cloudreve.org/image" width="211"><img src="assets/Gameboy/droite_screen.png" width="90"><br>
-  <img src="assets/Gameboy/bas_screen.png" width="356">
-</div>
-
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="382"><br><img src="assets/Gameboy/gauche_screen.png" width="84"><a href="TON_LIEN"><img src="https://toy.cloudreve.org/image" width="211"></a><img src="assets/Gameboy/droite_screen.png" width="87"><br><img src="assets/Gameboy/bas_screen.png" width="382"></div>
