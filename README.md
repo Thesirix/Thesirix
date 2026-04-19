@@ -296,7 +296,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 <div align="center">
 
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#BCBDC4">
+<table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none" bgcolor="#BCBDC4">
   <tr>
     <td colspan="6" width="340" height="1" bgcolor="#BCBDC4"></td>
   </tr>
