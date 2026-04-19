@@ -99,12 +99,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`e438824`](https://github.com/Thesirix/Thesirix/commit/e438824c7a8548bf224c051a3b5a0fbca3695279) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. ⭐ Starred [HFO4/HFO4](https://github.com/HFO4/HFO4) - _just now_
-3. ⭐ Starred [ouuan/ouuan](https://github.com/ouuan/ouuan) - _just now_
-4. ⭐ Starred [swyxio/swyxio](https://github.com/swyxio/swyxio) - _just now_
-5. ⭐ Starred [novatorem/novatorem](https://github.com/novatorem/novatorem) - _just now_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
@@ -294,6 +288,49 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
     <img src="assets/coffee_soutien.png" width="250">
   </a>
   <p><i>A little beer to feed Bender and the code 🍺</i></p>
+</div>
+
+<h2 align="center">🎮 Play Pokémon on my profile!</h2>
+
+<div align="center">
+
+> ⚠️ This is a **shared game** — all visitors play together. Click a button, then **refresh the page** to see the result!
+
+<img src="https://toy.cloudreve.org/image" width="300"/>
+
+<br>
+
+<!-- D-Pad -->
+<a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/%E2%96%B2-grey?style=flat-square" /></a>
+
+<br>
+
+<a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/%E2%97%80-grey?style=flat-square" /></a>
+&nbsp;&nbsp;&nbsp;
+<a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/%E2%96%BA-grey?style=flat-square" /></a>
+
+<br>
+
+<a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/%E2%96%BC-grey?style=flat-square" /></a>
+
+<br><br>
+
+<!-- Action buttons -->
+<a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/B-red?style=flat-square" /></a>
+&nbsp;
+<a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/A-green?style=flat-square" /></a>
+
+<br><br>
+
+<!-- Select / Start -->
+<a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/SELECT-555?style=flat-square" /></a>
+&nbsp;
+<a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix"><img src="https://img.shields.io/badge/START-555?style=flat-square" /></a>
+
+<br><br>
+
+*Powered by [Gameboy.Live](https://github.com/HFO4/gameboy.live)*
+
 </div>
 
 <!--TIMESTAMP_START-->
