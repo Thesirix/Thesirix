@@ -292,7 +292,19 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br>
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="370"><br><img src="assets/Gameboy/gauche_screen.png" width="98"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="188"></a><img src="assets/Gameboy/droite_screen.png" width="81"><br><img src="assets/Gameboy/bas_screen.png" width="370"></div>
+<table border="0" cellspacing="0" cellpadding="0" align="center">
+  <tr>
+    <td colspan="3" align="center"><img src="assets/Gameboy/haut_screen.png" width="370"/></td>
+  </tr>
+  <tr>
+    <td width="98"><img src="assets/Gameboy/gauche_screen.png" width="98"/></td>
+    <td width="188"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="188"/></a></td>
+    <td width="84"><img src="assets/Gameboy/droite_screen.png" width="84"/></td>
+  </tr>
+  <tr>
+    <td colspan="3" align="center"><img src="assets/Gameboy/bas_screen.png" width="370"/></td>
+  </tr>
+</table>
 
 <div align="center">
 
