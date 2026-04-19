@@ -10,7 +10,9 @@
       "Bash(gh repo *)",
       "Bash(sort find *)",
       "Bash(python -c ' *)",
-      "Bash(python scripts/slice_gameboy.py)"
+      "Bash(python scripts/slice_gameboy.py)",
+      "Bash(python3 *)",
+      "Bash(python *)"
     ]
   }
 }
