@@ -99,6 +99,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+1. 🔨 Pushed [`e438824`](https://github.com/Thesirix/Thesirix/commit/e438824c7a8548bf224c051a3b5a0fbca3695279) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
+2. ⭐ Starred [HFO4/HFO4](https://github.com/HFO4/HFO4) - _1h ago_
+3. ⭐ Starred [ouuan/ouuan](https://github.com/ouuan/ouuan) - _1h ago_
+4. ⭐ Starred [swyxio/swyxio](https://github.com/swyxio/swyxio) - _1h ago_
+5. ⭐ Starred [novatorem/novatorem](https://github.com/novatorem/novatorem) - _1h ago_
+
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
