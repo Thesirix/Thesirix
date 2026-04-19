@@ -4,11 +4,19 @@ from datetime import datetime, timezone, timedelta
 
 README = "README.md"
 
-now         = datetime.now(timezone.utc)
-next_update = now + timedelta(minutes=30)
+PARIS = timezone(timedelta(hours=2))  # UTC+2 (heure d'été Paris)
 
-last_str = now.strftime("%Y-%m-%d  %H:%M UTC")
-next_str = next_update.strftime("%Y-%m-%d  %H:%M UTC")
+now = datetime.now(timezone.utc).astimezone(PARIS)
+
+# Prochain run du cron Activity (*/30 * * * *) : arrondi au prochain :00 ou :30
+minute = now.minute
+if minute < 30:
+    next_run = now.replace(minute=30, second=0, microsecond=0)
+else:
+    next_run = (now + timedelta(hours=1)).replace(minute=0, second=0, microsecond=0)
+
+last_str = now.strftime("%Y-%m-%d  %H:%M (Paris)")
+next_str = next_run.strftime("%Y-%m-%d  %H:%M (Paris)")
 
 section = f"""
 <div align="center">
@@ -16,7 +24,7 @@ section = f"""
 ---
 
 🕐 **Last update:** &nbsp; `{last_str}`
-☀️ **Next update:** &nbsp; `{next_str}`
+⏩ **Next update:** &nbsp; `{next_str}`
 
 </div>
 """
