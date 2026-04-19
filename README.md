@@ -99,6 +99,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+1. 🔨 Pushed [`f3e25be`](https://github.com/Thesirix/Thesirix/commit/f3e25be6d587a7714c4589431d1871c7e7c52f4b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`06c1c88`](https://github.com/Thesirix/Thesirix/commit/06c1c88f20051baa3e3cf5e87a5d1b22bf4b5ac8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`2a00b97`](https://github.com/Thesirix/Thesirix/commit/2a00b97058f0bcd0a5bf69973f5bd03cdffca502) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`2fe1cb5`](https://github.com/Thesirix/Thesirix/commit/2fe1cb5a31868a7275a96babc15f3e20427a8d45) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`2c8dba9`](https://github.com/Thesirix/Thesirix/commit/2c8dba90d6c93920748f2ddf1a97edc46619f2ac) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
@@ -300,18 +306,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 <br><br>
 
-<!--TIMESTAMP_START-->
-<div align="center">
 
----
-
-🕐 **Last update:** &nbsp; `2026-04-19  18:25 (Paris)`
-⏩ **Next update:** &nbsp; `2026-04-19  18:30 (Paris)`
-
-</div>
-<!--TIMESTAMP_END-->
-
-### Résultat dans le jeu
 
 <br> <br> <br> <br> <br> <br>
 
@@ -367,5 +362,16 @@ This is a shared game, all visitors play together. Click a button, then the page
 <img src="assets/Gameboy/bas.png" width="413"/>
 
 </div>
+
+<!--TIMESTAMP_START-->
+<div align="center">
+
+---
+
+🕐 **Last update:** &nbsp; `2026-04-19  18:25 (Paris)`
+⏩ **Next update:** &nbsp; `2026-04-19  18:30 (Paris)`
+
+</div>
+<!--TIMESTAMP_END-->
 
 </div>
