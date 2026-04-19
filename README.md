@@ -301,9 +301,9 @@ This is a shared game, all visitors play together. Click a button, then the page
         <td colspan="3"><img src="assets/Gameboy/haut_screen.png" width="370"/></td>
       </tr>
       <tr>
-        <td width="100"><img src="assets/Gameboy/gauche_screen.png" width="100"/></td>
+        <td width="100"><img src="assets/Gameboy/gauche_screen.png" width="100%" height="100%"/></td>
         <td width="188"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="188"/></a></td>
-        <td width="82"><img src="assets/Gameboy/droite_screen.png" width="82"/></td>
+        <td width="82"><img src="assets/Gameboy/droite_screen.png" width="100%" height="100%"/></td>
       </tr>
       <tr>
         <td colspan="3"><img src="assets/Gameboy/bas_screen.png" width="370"/></td>
