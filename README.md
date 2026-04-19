@@ -292,48 +292,48 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br>
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="370"><br><img src="assets/Gameboy/gauche_screen.png" width="98"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="188"></a><img src="assets/Gameboy/droite_screen.png" width="81"><br><img src="assets/Gameboy/bas_screen.png" width="370"></div>
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="340"><br><img src="assets/Gameboy/gauche_screen.png" width="91"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="173"></a><img src="assets/Gameboy/droite_screen.png" width="76"><br><img src="assets/Gameboy/bas_screen.png" width="340"></div>
 
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0" bgcolor="#BCBDC4">
   <tr>
-    <td colspan="6" width="370" height="1" bgcolor="#BCBDC4"></td>
+    <td colspan="6" width="340" height="1" bgcolor="#BCBDC4"></td>
   </tr>
   <tr>
-    <td width="62" height="58" bgcolor="#BCBDC4"></td>
-    <td width="62" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/haut.png" width="54"/></a></td>
-    <td width="62" bgcolor="#BCBDC4"></td>
-    <td width="54" bgcolor="#BCBDC4"></td>
-    <td width="62" bgcolor="#BCBDC4"></td>
-    <td width="69" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/A.png" width="54"/></a></td>
+    <td width="57" height="53" bgcolor="#BCBDC4"></td>
+    <td width="57" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/haut.png" width="50"/></a></td>
+    <td width="57" bgcolor="#BCBDC4"></td>
+    <td width="49" bgcolor="#BCBDC4"></td>
+    <td width="57" bgcolor="#BCBDC4"></td>
+    <td width="63" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/A.png" width="50"/></a></td>
   </tr>
   <tr>
-    <td align="center" height="58" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/gauche.png" width="54"/></a></td>
-    <td align="center" bgcolor="#BCBDC4"><img src="assets/Gameboy/Button/mid.png" width="54"/></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/droite.png" width="54"/></a></td>
+    <td align="center" height="53" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/gauche.png" width="50"/></a></td>
+    <td align="center" bgcolor="#BCBDC4"><img src="assets/Gameboy/Button/mid.png" width="50"/></td>
+    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/droite.png" width="50"/></a></td>
     <td bgcolor="#BCBDC4"></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/B.png" width="54"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
-  </tr>
-  <tr>
-    <td height="58" bgcolor="#BCBDC4"></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/bas.png" width="54"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td bgcolor="#BCBDC4"></td>
+    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/B.png" width="50"/></a></td>
     <td bgcolor="#BCBDC4"></td>
   </tr>
   <tr>
-    <td colspan="6" align="center" height="63" bgcolor="#BCBDC4">
-      <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/select.png" width="67"/></a>
+    <td height="53" bgcolor="#BCBDC4"></td>
+    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/bas.png" width="50"/></a></td>
+    <td bgcolor="#BCBDC4"></td>
+    <td bgcolor="#BCBDC4"></td>
+    <td bgcolor="#BCBDC4"></td>
+    <td bgcolor="#BCBDC4"></td>
+  </tr>
+  <tr>
+    <td colspan="6" align="center" height="58" bgcolor="#BCBDC4">
+      <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/select.png" width="62"/></a>
       &nbsp;&nbsp;
-      <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/start.png" width="67"/></a>
+      <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/start.png" width="62"/></a>
     </td>
   </tr>
 </table>
 
-<img src="assets/Gameboy/bas.png" width="370"/>
+<img src="assets/Gameboy/bas.png" width="340"/>
 
 </div>
 
