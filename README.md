@@ -99,12 +99,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`096c16d`](https://github.com/Thesirix/Thesirix/commit/096c16dc4376b667f53f891f8526dda68ff5112f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`f3e25be`](https://github.com/Thesirix/Thesirix/commit/f3e25be6d587a7714c4589431d1871c7e7c52f4b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-3. 🔨 Pushed [`06c1c88`](https://github.com/Thesirix/Thesirix/commit/06c1c88f20051baa3e3cf5e87a5d1b22bf4b5ac8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-4. 🔨 Pushed [`2a00b97`](https://github.com/Thesirix/Thesirix/commit/2a00b97058f0bcd0a5bf69973f5bd03cdffca502) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-5. 🔨 Pushed [`2fe1cb5`](https://github.com/Thesirix/Thesirix/commit/2fe1cb5a31868a7275a96babc15f3e20427a8d45) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2h ago_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
@@ -304,12 +298,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
-<br><br>
-
-
-
-<br> <br> <br> <br> <br> <br>
-
+<br>
 <div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"></div>
 
 <div align="center">
