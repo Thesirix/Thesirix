@@ -317,7 +317,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ### Résultat dans le jeu
 
-<img src="assets/gameboy/slices/gb_scr_l.png" width="90" height="167" alt="Game Boy left"/><img src="https://toy.cloudreve.org/image" width="181" height="167" alt="Pokémon - Thank you! Your POKéMON are"/><img src="assets/gameboy/slices/gb_scr_r.png" width="84" height="167" alt="Game Boy right"/>
+<img src="assets/Gameboy/gauche_screen.png" width="90" height="167" alt="Game Boy left"/><img src="https://toy.cloudreve.org/image" width="181" height="167" alt="Pokémon - Thank you! Your POKéMON are"/><img src="assets/Gameboy/droite_screen.png" width="84" height="167" alt="Game Boy right"/>
 
 </div>
 
