@@ -352,6 +352,14 @@ This is a shared game, all visitors play together. Click a button, then the page
     <td bgcolor="#BCBDC4"></td>
   </tr>
   <tr>
+    <td width="69" height="65" bgcolor="#BCBDC4">&nbsp;</td>
+    <td bgcolor="#BCBDC4">&nbsp;</td>
+    <td bgcolor="#BCBDC4">&nbsp;</td>
+    <td bgcolor="#BCBDC4">&nbsp;</td>
+    <td bgcolor="#BCBDC4">&nbsp;</td>
+    <td bgcolor="#BCBDC4">&nbsp;</td>
+  </tr>
+  <tr>
     <td colspan="6" align="center" height="70" bgcolor="#BCBDC4">
       <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/select.png" width="75"/></a>
       &nbsp;&nbsp;
@@ -359,5 +367,7 @@ This is a shared game, all visitors play together. Click a button, then the page
     </td>
   </tr>
 </table>
+
+<img src="assets/Gameboy/bas.png" width="413"/>
 
 </div>
