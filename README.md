@@ -99,32 +99,26 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`74dfe88`](https://github.com/Thesirix/Thesirix/commit/74dfe88155829609453d6afad39ba046ce192710) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`c5aca27`](https://github.com/Thesirix/Thesirix/commit/c5aca2706cd70c3026ce78708c3c3dd216342400) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`f49b077`](https://github.com/Thesirix/Thesirix/commit/f49b0778cd361a8c2ea13ba4606d39c817a87c49) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`096c16d`](https://github.com/Thesirix/Thesirix/commit/096c16dc4376b667f53f891f8526dda68ff5112f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-5. 🔨 Pushed [`f3e25be`](https://github.com/Thesirix/Thesirix/commit/f3e25be6d587a7714c4589431d1871c7e7c52f4b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-
 <div align="center">
   <h2>🐍 Snake & Contributions 🐍</h2>
 
   <img src="assets/snake.svg" />
 
-  <br><br>
+<br><br>
 
   <img src="assets/pacman.svg" />
 
-  <br><br>
+<br><br>
 
-  ![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
+![3D](https://ssr-contributions-svg.vercel.app/_/Thesirix?chart=3dbar&gap=2&scale=2&flatten=0&light=13&gradient=true&legend=false&strokeWidth=2&strokeColor=222222&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=28&animation_frequency=0.1&animation_wave_center=0_8&format=svg&weeks=30&theme=tokyo_night&dark=true)
 
-  <br><br>
+<br><br>
 
-  ![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
 
-  <br><br>
+<br><br>
 
-  ![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
+![City](https://raw.githubusercontent.com/thesirix/thesirix/city-3d/profile-3d-contrib/profile-night-rainbow.svg)
 
 </div>
 
@@ -142,7 +136,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
-  <br><br>
+<br><br>
 
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
@@ -155,7 +149,6 @@ Do you have a technical challenge or an app idea? Let's talk.
   <p><i>🧙‍♂️ Click to download & print your own Mini Gandalf in 3D</i></p>
 
   <img src="assets/contrib-card.svg"/>
-  
 
 </div>
 
@@ -174,8 +167,6 @@ Do you have a technical challenge or an app idea? Let's talk.
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 </div>
-
-
 
 <h2 align="center">📊 Profile Summary</h2>
 
@@ -303,7 +294,6 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br>
-<<<<<<< HEAD
 <table border="0" cellspacing="0" cellpadding="0" align="center" width="370">
   <tr><td>
     <table border="0" cellspacing="0" cellpadding="0" width="370">
@@ -363,61 +353,6 @@ This is a shared game, all visitors play together. Click a button, then the page
   </tr>
 </table>
 
-=======
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="413"><br><img src="assets/Gameboy/gauche_screen.png" width="110"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="https://toy.cloudreve.org/image" width="210"></a><img src="assets/Gameboy/droite_screen.png" width="90"><br><img src="assets/Gameboy/bas_screen.png" width="413"></div>
-
-<div align="center">
-
-<table border="0" cellspacing="0" cellpadding="0" bgcolor="#BCBDC4">
-  <tr>
-    <td colspan="6" width="413" height="1" bgcolor="#BCBDC4"></td>
-  </tr>
-  <tr>
-    <td width="69" height="65" bgcolor="#BCBDC4"></td>
-    <td width="69" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/haut.png" width="60"/></a></td>
-    <td width="69" bgcolor="#BCBDC4"></td>
-    <td width="60" bgcolor="#BCBDC4"></td>
-    <td width="69" bgcolor="#BCBDC4"></td>
-    <td width="77" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/A.png" width="60"/></a></td>
-  </tr>
-  <tr>
-    <td align="center" height="65" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/gauche.png" width="60"/></a></td>
-    <td align="center" bgcolor="#BCBDC4"><img src="assets/Gameboy/Button/mid.png" width="60"/></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/droite.png" width="60"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/B.png" width="60"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
-  </tr>
-  <tr>
-    <td height="65" bgcolor="#BCBDC4"></td>
-    <td align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/bas.png" width="60"/></a></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td bgcolor="#BCBDC4"></td>
-    <td bgcolor="#BCBDC4"></td>
-  </tr>
-  <tr>
-    <td width="69" height="65" bgcolor="#BCBDC4">&nbsp;</td>
-    <td bgcolor="#BCBDC4">&nbsp;</td>
-    <td bgcolor="#BCBDC4">&nbsp;</td>
-    <td bgcolor="#BCBDC4">&nbsp;</td>
-    <td bgcolor="#BCBDC4">&nbsp;</td>
-    <td bgcolor="#BCBDC4">&nbsp;</td>
-  </tr>
-  <tr>
-    <td colspan="6" align="center" height="70" bgcolor="#BCBDC4">
-      <a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/select.png" width="75"/></a>
-      &nbsp;&nbsp;
-      <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/start.png" width="75"/></a>
-    </td>
-  </tr>
-</table>
-
-<img src="assets/Gameboy/bas.png" width="413"/>
-
-</div>
-
->>>>>>> 4ff0b3032361d50ddf29f8bff4d151f6e3a0aafd
 <!--TIMESTAMP_START-->
 <!--TIMESTAMP_END-->
 
