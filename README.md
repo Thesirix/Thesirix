@@ -102,7 +102,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
   <img src="assets/snake.svg" />
 
-<br><br>
+  <br><br>
 
   <img src="assets/pacman.svg" />
 
@@ -297,9 +297,7 @@ This is a shared game, all visitors play together. Click a button, then the page
 <div align="center">
 
 <table border="0" cellspacing="0" cellpadding="0" frame="void" rules="none" bgcolor="#BCBDC4">
-  <tr>
-    <td colspan="6" width="340" height="1" bgcolor="#BCBDC4"></td>
-  </tr>
+
   <tr>
     <td width="57" height="53" bgcolor="#BCBDC4"></td>
     <td width="57" align="center" bgcolor="#BCBDC4"><a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/Thesirix#pokemon"><img src="assets/Gameboy/Button/haut.png" width="50"/></a></td>
