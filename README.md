@@ -200,19 +200,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-<<<<<<< HEAD
-1. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
-2. 🔨 Pushed [`7ea691a`](https://github.com/Thesirix/Thesirix/commit/7ea691a9dc889369c74f677524a1fe3a80b3560b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-3. 🔨 Pushed [`32e3dbf`](https://github.com/Thesirix/Thesirix/commit/32e3dbf494ea2a511ae43565924baa492ca73d82) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-4. 🔨 Pushed [`f91ec5a`](https://github.com/Thesirix/Thesirix/commit/f91ec5a7197011df11022b33c8a81e941024357a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-5. 🔨 Pushed [`bb8001d`](https://github.com/Thesirix/Thesirix/commit/bb8001d14c919b1daf4ba3a4789cda6493055d19) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-=======
-1. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _9h ago_
-2. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
-3. ⭐ Starred [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _10h ago_
-4. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _12h ago_
-5. 🔨 Pushed [`7ea691a`](https://github.com/Thesirix/Thesirix/commit/7ea691a9dc889369c74f677524a1fe3a80b3560b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _22h ago_
->>>>>>> 6816db77906bb45e05bd277de35d2181e1ccc2b7
+1. 🔨 Pushed [`a6f0f16`](https://github.com/Thesirix/Thesirix/commit/a6f0f16dbc2a48029a5e2ccc62cdb1ac199e52a0) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _9h ago_
+3. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _10h ago_
+4. ⭐ Starred [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _10h ago_
+5. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _13h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
