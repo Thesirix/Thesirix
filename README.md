@@ -497,8 +497,6 @@ quadrantChart
 [![StreakMaster](assets/top-repo-3.svg)](https://github.com/Thesirix/StreakMaster)
 
 </div>
-<img src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2020/11/I-am-not-a-robot.gif" width="300">
-
 <!--TOP_REPOS_END-->
 
 <h2 align="center">📊 GitHub Metrics</h2>
