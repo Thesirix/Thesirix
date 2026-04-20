@@ -1,6 +1,8 @@
 name: "🕐 Timestamps"
 
 on:
+  schedule:
+    - cron: "*/30 * * * *"
   workflow_call:
   workflow_dispatch:
 
