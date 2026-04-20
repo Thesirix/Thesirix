@@ -200,11 +200,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`c3d2b80`](https://github.com/Thesirix/Thesirix/commit/c3d2b80128bca7729ee458095b220af3c39d7f0c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2h ago_
-2. 🔨 Pushed [`a6f0f16`](https://github.com/Thesirix/Thesirix/commit/a6f0f16dbc2a48029a5e2ccc62cdb1ac199e52a0) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2h ago_
-3. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _11h ago_
-4. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _13h ago_
-5. ⭐ Starred [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _13h ago_
+1. 🔨 Pushed [`6424c42`](https://github.com/Thesirix/Thesirix/commit/6424c429fa9d298293fcdc313cff0872496213b9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`c3d2b80`](https://github.com/Thesirix/Thesirix/commit/c3d2b80128bca7729ee458095b220af3c39d7f0c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2h ago_
+3. 🔨 Pushed [`a6f0f16`](https://github.com/Thesirix/Thesirix/commit/a6f0f16dbc2a48029a5e2ccc62cdb1ac199e52a0) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+4. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _12h ago_
+5. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _13h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
@@ -475,7 +475,7 @@ quadrantChart
 ![Stack Overflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/21350979?theme=dark)
 
 <p align="center">
-  <a href="https://gitroll.io/profile/urVgrjgrQZHPFF2Sfcm60CZlx3xv2" target="_blank">
+  <a href="https://gitroll.io/profile/uRfPzVMN2ivbOnybp8l6yzqo9VPY2" target="_blank">
     <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uRfPzVMN2ivbOnybp8l6yzqo9VPY2?theme=dracula" height="310" alt="GitRoll Profile Badge"/>
   </a>
 </p>
