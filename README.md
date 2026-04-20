@@ -481,7 +481,11 @@ quadrantChart
 </p>
 
 </div>
+<div align="center">
+
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=thesirix&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+
+</div>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
@@ -519,9 +523,11 @@ quadrantChart
 
 </div>
 
-https://minimalistic-wallpaper.demolab.com/?random=1
-https://minimalistic-wallpaper.demolab.com/?random=2
-https://minimalistic-wallpaper.demolab.com/?random=3
+<div align="center">
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=1" width="30%" />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=2" width="30%" />
+  <img src="https://minimalistic-wallpaper.demolab.com/?random=3" width="30%" />
+</div>
 
 <div align="center">
 
@@ -571,7 +577,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 [![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
 
-<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=transparent&title_color=5acbe9&color=E3E3E3&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 [![GitHub Followers](https://img.shields.io/github/followers/thesirix?logo=github&style=plastic)](https://github.com/thesirix)
 
