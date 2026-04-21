@@ -200,11 +200,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _just now_
-2. 🔨 Pushed [`955c69d`](https://github.com/Thesirix/Galaxy/commit/955c69de5b64cfcda68832763cd5be7696aee6fc) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _just now_
-3. 🔨 Pushed [`3f7b0c6`](https://github.com/Thesirix/StreakMaster/commit/3f7b0c6c86615ee7c17923bf98772e1edc4d917d) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _16h ago_
-4. 🔨 Pushed [`6424c42`](https://github.com/Thesirix/Thesirix/commit/6424c429fa9d298293fcdc313cff0872496213b9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-5. 🔨 Pushed [`c3d2b80`](https://github.com/Thesirix/Thesirix/commit/c3d2b80128bca7729ee458095b220af3c39d7f0c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+1. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _just now_
+2. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _just now_
+3. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _just now_
+4. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _just now_
+5. 🔨 Pushed [`955c69d`](https://github.com/Thesirix/Galaxy/commit/955c69de5b64cfcda68832763cd5be7696aee6fc) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _1h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
