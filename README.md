@@ -200,11 +200,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`6424c42`](https://github.com/Thesirix/Thesirix/commit/6424c429fa9d298293fcdc313cff0872496213b9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
-2. 🔨 Pushed [`c3d2b80`](https://github.com/Thesirix/Thesirix/commit/c3d2b80128bca7729ee458095b220af3c39d7f0c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _6h ago_
-3. 🔨 Pushed [`a6f0f16`](https://github.com/Thesirix/Thesirix/commit/a6f0f16dbc2a48029a5e2ccc62cdb1ac199e52a0) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
-4. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _16h ago_
-5. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _17h ago_
+1. 🔨 Pushed [`6424c42`](https://github.com/Thesirix/Thesirix/commit/6424c429fa9d298293fcdc313cff0872496213b9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _5h ago_
+2. 🔨 Pushed [`c3d2b80`](https://github.com/Thesirix/Thesirix/commit/c3d2b80128bca7729ee458095b220af3c39d7f0c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
+3. 🔨 Pushed [`a6f0f16`](https://github.com/Thesirix/Thesirix/commit/a6f0f16dbc2a48029a5e2ccc62cdb1ac199e52a0) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
+4. ⭐ Starred [Tarikul-Islam-Anik/Animated-Fluent-Emojis](https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis) - _17h ago_
+5. 🔨 Pushed [`07f3727`](https://github.com/Thesirix/Thesirix/commit/07f372766460c641529da4002374882093013ac6) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _19h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
