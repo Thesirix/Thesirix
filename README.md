@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`b332fab`](https://github.com/Thesirix/Thesirix/commit/b332fabec2898f34a205612b1dbde38bda2aba4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _2h ago_
-3. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _2h ago_
-4. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _2h ago_
-5. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _3h ago_
+1. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
+2. 🔨 Pushed [`7ea691a`](https://github.com/Thesirix/Thesirix/commit/7ea691a9dc889369c74f677524a1fe3a80b3560b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+3. 🔨 Pushed [`32e3dbf`](https://github.com/Thesirix/Thesirix/commit/32e3dbf494ea2a511ae43565924baa492ca73d82) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+4. 🔨 Pushed [`f91ec5a`](https://github.com/Thesirix/Thesirix/commit/f91ec5a7197011df11022b33c8a81e941024357a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+5. 🔨 Pushed [`bb8001d`](https://github.com/Thesirix/Thesirix/commit/bb8001d14c919b1daf4ba3a4789cda6493055d19) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
@@ -488,6 +488,7 @@ quadrantChart
 ![CodeWars](https://www.codewars.com/users/Thesirix/badges/large)
 
 </div>
+
 <a href="https://app.daily.dev/thesirix"><img src="https://api.daily.dev/devcards/v2/VHItmfa5dHVZNRrdJOawF.png?type=default&r=84d" width="356" alt="Thesirix's Dev Card"/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
@@ -545,11 +546,10 @@ quadrantChart
 ![Views](https://count.getloli.com/@thesirix?theme=booru-jaypee)
 ![Views](https://count.getloli.com/@thesirix?theme=booru-vp)
 
-    <div align="center">
-        <img alt="Visitor Stats"
-            src="https://widgetbite.com/stats/thesirix"/>
-    </div>
+</div>
 
+<div align="center">
+    <img alt="Visitor Stats" src="https://widgetbite.com/stats/thesirix"/>
 </div>
 
 <div align="center">
@@ -586,7 +586,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 <div align="center">
 
-<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
+<img src="https://readme-jokes.vercel.app/api?bgColor=%231A1B27&textColor=%2364A5FD&aColor=%2338BDAE&borderColor=%2338BDAE" alt="README Jokes">
 
 </div>
 
@@ -1503,6 +1503,10 @@ kanban
   </a>
   <p><i>A little beer to feed Bender and the code 🍺</i></p>
 </div>
+
+<a name="pokemon"></a>
+
+<a name="pokemon"></a>
 
 <h2 align="center">🎮 Real Gameboy Experience:  Play Pokémon!</h2>
 
