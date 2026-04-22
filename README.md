@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. ⭐ Starred [NTDEV-byte/Frogger](https://github.com/NTDEV-byte/Frogger) - _just now_
-2. ⭐ Starred [NTDEV-byte/GitHubEqualizer](https://github.com/NTDEV-byte/GitHubEqualizer) - _just now_
-3. ⭐ Starred [gentcod/environ](https://github.com/gentcod/environ) - _just now_
-4. ⭐ Starred [gentcod/nlp-to-sql](https://github.com/gentcod/nlp-to-sql) - _just now_
-5. ⭐ Starred [enkdeveloper/solana-marketplace](https://github.com/enkdeveloper/solana-marketplace) - _just now_
+1. ⭐ Starred [NTDEV-byte/Frogger](https://github.com/NTDEV-byte/Frogger) - _1h ago_
+2. ⭐ Starred [NTDEV-byte/GitHubEqualizer](https://github.com/NTDEV-byte/GitHubEqualizer) - _1h ago_
+3. ⭐ Starred [gentcod/environ](https://github.com/gentcod/environ) - _1h ago_
+4. ⭐ Starred [gentcod/nlp-to-sql](https://github.com/gentcod/nlp-to-sql) - _1h ago_
+5. ⭐ Starred [enkdeveloper/solana-marketplace](https://github.com/enkdeveloper/solana-marketplace) - _1h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
