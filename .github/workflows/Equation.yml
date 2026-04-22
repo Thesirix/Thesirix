@@ -4,7 +4,6 @@ on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
-  workflow_call:
 
 jobs:
   equation:
@@ -30,16 +29,16 @@ jobs:
               equations = json.load(f)
 
           eq = random.choice(equations)
+          d = '$'
 
-          block = f"""$$
-\\large {eq['latex']}
-$$
-
-{eq['author']} - **{eq['name']}** ({eq['year']})
-
-> [!NOTE]
-> {eq['description']} [Read more]({eq['url']})
-"""
+          block = (
+              d*2 + "\n"
+              + "\\large " + eq['latex'] + "\n"
+              + d*2 + "\n\n"
+              + eq['author'] + " - **" + eq['name'] + "** (" + str(eq['year']) + ")\n\n"
+              + "> [!NOTE]\n"
+              + "> " + eq['description'] + " [Read more](" + eq['url'] + ")\n"
+          )
 
           with open('README.md', 'r', encoding='utf-8') as f:
               readme = f.read()
