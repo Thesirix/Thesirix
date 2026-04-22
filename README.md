@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`b332fab`](https://github.com/Thesirix/Thesirix/commit/b332fabec2898f34a205612b1dbde38bda2aba4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
-2. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _6h ago_
-3. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _6h ago_
-4. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _6h ago_
-5. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _6h ago_
+1. 🔨 Pushed [`b332fab`](https://github.com/Thesirix/Thesirix/commit/b332fabec2898f34a205612b1dbde38bda2aba4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
+2. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _7h ago_
+3. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _7h ago_
+4. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _7h ago_
+5. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _7h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
