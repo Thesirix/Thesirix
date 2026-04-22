@@ -2,8 +2,8 @@
 
 <div align="right">
 
-[![GitHub followers](https://img.shields.io/github/followers/rstar327?logo=GitHub&style=flat)](https://github.com/rstar327)
-[![GitHub stars](https://img.shields.io/github/stars/rstar327?logo=github&style=flat)](https://github.com/rstar327)
+[![GitHub followers](https://img.shields.io/github/followers/thesirix?logo=GitHub&style=flat)](https://github.com/thesirix)
+[![GitHub stars](https://img.shields.io/github/stars/thesirix?logo=github&style=flat)](https://github.com/thesirix)
 ⠀![](https://komarev.com/ghpvc/?username=thesirix&color=00bbbb&label=crimes)
 <img src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
 &nbsp;&nbsp;
