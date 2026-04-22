@@ -222,7 +222,14 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## Equation of the Day
 
-{{DAILY_EQUATION}}
+$$
+\large M = a + b Y + c \left( I(I+1) - \frac{Y^2}{4} \right)
+$$
+
+Murray Gell-Mann & Susumu Okubo - **Gell-Mann-Okubo Mass Formula** (1962)
+> [!NOTE]
+> An empirical formula relating the masses of members of a given SU(3) multiplet of hadrons. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Okubo_mass_formula)
+
 
 <br>
 
