@@ -4,7 +4,6 @@ on:
   workflow_dispatch:
 
 jobs:
-
   # ── 1. Recent Activity ───────────────────────────────────────────────────────
   activity:
     name: "⚡ Recent Activity"
@@ -149,7 +148,7 @@ jobs:
 
       - uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: "20"
 
       - name: Install deps
         run: npm install
@@ -159,7 +158,7 @@ jobs:
         env:
           GITHUB_PERSONAL_ACCESS_TOKEN: ${{ secrets.GH_TOKEN }}
           GITHUB_USERNAME: ${{ github.repository_owner }}
-          LIMIT: '10'
+          LIMIT: "10"
         run: node generate.js
         working-directory: contrib-card
 
@@ -597,7 +596,7 @@ jobs:
               d*2 + "\n"
               + "\\large " + eq['latex'] + "\n"
               + d*2 + "\n\n"
-              + eq['author'] + " - **" + eq['name'] + "** (" + str(eq['year']) + ")\n\n"
+              + eq['author'] + " - **" + eq['name'] + "** (" + str(eq['year']) + ")\n"
               + "> [!NOTE]\n"
               + "> " + eq['description'] + " [Read more](" + eq['url'] + ")\n"
           )
