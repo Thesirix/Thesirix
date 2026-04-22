@@ -201,11 +201,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`1b4a2fc`](https://github.com/Thesirix/equation-of-the-day/commit/1b4a2fcfe861c0e4ebac1aacc3139b802098c903) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-4. 🔨 Pushed [`6681c50`](https://github.com/Thesirix/Thesirix/commit/6681c503fe8559a45e45e441ba5e0b489599cec7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`5e4ccfc`](https://github.com/Thesirix/Thesirix/commit/5e4ccfcea86b69f713ddfe4ac210d88adbc9da1f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+{{RECENT_ACTIVITY}}
+
+## 🗣️ Languages I Speak
 
 <div align="center">
 
