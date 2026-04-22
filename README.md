@@ -565,7 +565,9 @@ quadrantChart
 
 </p>
 
-[:octocat:](https://github.com/axone-protocol/)
+[:octocat:]
+
+![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
 
 ## 🚀 Example usage
 
@@ -1560,7 +1562,13 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ---
 
-## ![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
+<h2 align="center">📊 Repository Analytics</h2>
+
+<div align="center">
+
+![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
+
+</div>
 
 <!--TIMESTAMP_START-->
 <div align="center">
