@@ -537,6 +537,7 @@ jobs:
     name: "⏱️ Waka Stats"
     needs: [timestamps]
     uses: ./.github/workflows/Waka.yml
+    secrets: inherit
 
   # ── 13. Rebuild README from template ─────────────────────────────────────────
   rebuild:
