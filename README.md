@@ -201,7 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-{{RECENT_ACTIVITY}}
+1. 🔨 Pushed [`1ea5596`](https://github.com/Thesirix/Thesirix/commit/1ea55964675eef0336227dd4b39ebe6144682d63) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`83609a3`](https://github.com/Thesirix/Thesirix/commit/83609a34e35863969090a6940d5f90a91b98e9fc) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`c838c2a`](https://github.com/Thesirix/Thesirix/commit/c838c2a757e1d2e98887aa273456cfd5aad12206) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 
 ## 🗣️ Languages I Speak
