@@ -1,0 +1,32 @@
+name: "⏱️ Waka Stats"
+
+on:
+  schedule:
+    # Runs at 12am KST (15:00 UTC)
+    - cron: "00 15 * * *"
+  workflow_call:
+  workflow_dispatch:
+
+jobs:
+
+  # ── Waka Stats ────────────────────────────────────────────────────────────────
+  update-waka:
+    name: "⏱️ Waka Stats"
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: anmol098/waka-readme-stats@master
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          SHOW_OS: "False"
+          SHOW_PROJECTS: "False"
+          SHOW_EDITORS: "False"
+          SHOW_LANGUAGE_PER_REPO: "False"
+          SHOW_SHORT_INFO: "False"
+          SHOW_LOC_CHART: "False"
+          SHOW_LINES_OF_CODE: "False"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_TOTAL_CODE_TIME: "False"
+          SHOW_UPDATED_DATE: "False"
+          COMMIT_MESSAGE: "⏱️ Update waka stats"

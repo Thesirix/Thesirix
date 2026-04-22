@@ -20,6 +20,7 @@ DYNAMIC_SECTIONS = [
     ("<!-- WEATHER_START -->", "<!-- WEATHER_END -->"),
     ("<!--TOP_REPOS_START-->", "<!--TOP_REPOS_END-->"),
     ("<!--TIMESTAMP_START-->", "<!--TIMESTAMP_END-->"),
+    ("<!--START_SECTION:waka-->", "<!--END_SECTION:waka-->"),
 ]
 
 # ── Read template ──────────────────────────────────────────────────────────────
