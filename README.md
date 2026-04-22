@@ -222,7 +222,14 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-{{DAILY_EQUATION}}
+$$
+\large M = -\frac{d_i}{d_o} = \frac{h_i}{h_o}
+$$
+
+Johannes Kepler - **Magnification Equation** (1611)
+> [!NOTE]
+> Calculates the linear magnification produced by an optical system. [Read more](https://en.wikipedia.org/wiki/Magnification)
+
 
 <br>
 
