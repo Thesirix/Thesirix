@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. ⭐ Starred [ArtemPchela/dark-mode-react](https://github.com/ArtemPchela/dark-mode-react) - _just now_
-2. ⭐ Starred [ArtemPchela/todo-server-front-react-ts](https://github.com/ArtemPchela/todo-server-front-react-ts) - _just now_
-3. ⭐ Starred [GabiDeutner/Java](https://github.com/GabiDeutner/Java) - _just now_
-4. ⭐ Starred [GabiDeutner/algorithm-and-logic](https://github.com/GabiDeutner/algorithm-and-logic) - _just now_
-5. ⭐ Starred [Josephglz/old-portfolio](https://github.com/Josephglz/old-portfolio) - _just now_
+1. ⭐ Starred [thebint/thebint](https://github.com/thebint/thebint) - _just now_
+2. ⭐ Starred [AdaiasMagdiel/rubik-rest](https://github.com/AdaiasMagdiel/rubik-rest) - _just now_
+3. ⭐ Starred [AdaiasMagdiel/clj-raytracer](https://github.com/AdaiasMagdiel/clj-raytracer) - _just now_
+4. ⭐ Starred [EditsbyVineeth/callmeVineeth](https://github.com/EditsbyVineeth/callmeVineeth) - _just now_
+5. ⭐ Starred [EditsbyVineeth/PersonalWebbs](https://github.com/EditsbyVineeth/PersonalWebbs) - _just now_
 
 
 ## 🗣️ Languages I Speak
