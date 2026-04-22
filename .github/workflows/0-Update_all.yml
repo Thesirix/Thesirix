@@ -7,6 +7,7 @@ jobs:
   # ── 1. Recent Activity ───────────────────────────────────────────────────────
   activity:
     name: "⚡ Recent Activity"
+    needs: [rebuild]
     continue-on-error: true
     permissions: write-all
     runs-on: ubuntu-latest
@@ -541,7 +542,6 @@ jobs:
   # ── 13. Rebuild README from template ─────────────────────────────────────────
   rebuild:
     name: "📋 Rebuild from template"
-    needs: [waka]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
@@ -568,7 +568,7 @@ jobs:
   # ── 14. Equation of the Day ──────────────────────────────────────────────────
   equation:
     name: "🧮 Equation of the Day"
-    needs: [rebuild]
+    needs: [waka]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
