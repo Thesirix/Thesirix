@@ -565,9 +565,7 @@ quadrantChart
 
 </p>
 
-[:octocat:]
-
-![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
+[:octocat:](https://github.com/axone-protocol/)
 
 ## 🚀 Example usage
 
@@ -597,6 +595,9 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 [![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
 
 <img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 [![GitHub Followers](https://img.shields.io/github/followers/thesirix?logo=github&style=plastic)](https://github.com/thesirix)
 
@@ -1557,16 +1558,6 @@ This is a shared game, all visitors play together. Click a button, then the page
 </table>
 
 <img src="assets/Gameboy/bas.png" width="340"/>
-
-</div>
-
----
-
-<h2 align="center">📊 Repository Analytics</h2>
-
-<div align="center">
-
-![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
 
 </div>
 
