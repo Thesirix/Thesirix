@@ -35,7 +35,7 @@ jobs:
               d*2 + "\n"
               + "\\large " + eq['latex'] + "\n"
               + d*2 + "\n\n"
-              + eq['author'] + " - **" + eq['name'] + "** (" + str(eq['year']) + ")\n\n"
+              + eq['author'] + " - **" + eq['name'] + "** (" + str(eq['year']) + ")\n"
               + "> [!NOTE]\n"
               + "> " + eq['description'] + " [Read more](" + eq['url'] + ")\n"
           )
