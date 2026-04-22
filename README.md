@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`1ea5596`](https://github.com/Thesirix/Thesirix/commit/1ea55964675eef0336227dd4b39ebe6144682d63) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`83609a3`](https://github.com/Thesirix/Thesirix/commit/83609a34e35863969090a6940d5f90a91b98e9fc) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`c838c2a`](https://github.com/Thesirix/Thesirix/commit/c838c2a757e1d2e98887aa273456cfd5aad12206) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-5. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+1. ⭐ Starred [matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme) - _just now_
+2. 🔨 Pushed [`3552c50`](https://github.com/Thesirix/equation-of-the-day/commit/3552c504ff0307fb66c2ee3b9738ae1dde25638f) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+3. 🔨 Pushed [`a24558c`](https://github.com/Thesirix/Thesirix/commit/a24558c3111d83548d2050348613410607165aca) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`1ea5596`](https://github.com/Thesirix/Thesirix/commit/1ea55964675eef0336227dd4b39ebe6144682d63) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`83609a3`](https://github.com/Thesirix/Thesirix/commit/83609a34e35863969090a6940d5f90a91b98e9fc) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 
 ## 🗣️ Languages I Speak
@@ -222,14 +222,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-$$
-\large M = -\frac{d_i}{d_o} = \frac{h_i}{h_o}
-$$
-
-Johannes Kepler - **Magnification Equation** (1611)
-> [!NOTE]
-> Calculates the linear magnification produced by an optical system. [Read more](https://en.wikipedia.org/wiki/Magnification)
-
+{{DAILY_EQUATION}}
 
 <br>
 
