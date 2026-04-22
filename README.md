@@ -222,7 +222,15 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## Equation of the Day
 
-{{DAILY_EQUATION}}
+$$
+\large G = \frac{2e^2}{h} \sum_n T_n
+$$
+
+Rolf Landauer - **Landauer Formula** (1957)
+
+> [!NOTE]
+> Relates the electrical resistance of a quantum conductor to the scattering properties of the conductor. [Read more](https://en.wikipedia.org/wiki/Landauer_formula)
+
 
 ## Global Software Engineering Cartography
 
