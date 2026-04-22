@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`1024aa3`](https://github.com/Thesirix/github-readme-animated-chat-bubbles/commit/1024aa3388ad4e5984cd74993ed21d5a4d2404cf) to [Thesirix/github-readme-animated-chat-bubbles](https://github.com/Thesirix/github-readme-animated-chat-bubbles) on `main` - _just now_
-2. 🎉 Created branch `main` in [Thesirix/github-readme-animated-chat-bubbles](https://github.com/Thesirix/github-readme-animated-chat-bubbles) - _just now_
-3. ⭐ Starred [NTDEV-byte/Frogger](https://github.com/NTDEV-byte/Frogger) - _1h ago_
-4. ⭐ Starred [NTDEV-byte/GitHubEqualizer](https://github.com/NTDEV-byte/GitHubEqualizer) - _1h ago_
-5. ⭐ Starred [gentcod/environ](https://github.com/gentcod/environ) - _1h ago_
+1. 🔨 Pushed [`f88bd2f`](https://github.com/Thesirix/equation-of-the-day/commit/f88bd2fb8dc81c49ef5151768ed8f7c438e05498) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+2. 🔨 Pushed [`92851b2`](https://github.com/Thesirix/equation-of-the-day/commit/92851b25eb6af579d69704553714dd7a613bf50f) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+3. 🔨 Pushed [`8ae633f`](https://github.com/Thesirix/equation-of-the-day/commit/8ae633f0ed04f660a33770b2095563f62cfda7e3) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+4. 🔨 Pushed [`3f6fbd9`](https://github.com/Thesirix/equation-of-the-day/commit/3f6fbd9e6f76a96913bf7bbc6bd8cb49c5274472) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+5. 🔨 Pushed [`2c63ec4`](https://github.com/Thesirix/equation-of-the-day/commit/2c63ec4b8fef6ab6e3d43f3e9d63e1388e5faa19) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
 
 <div align="center">
 ## 🗣️ Languages I Speak
