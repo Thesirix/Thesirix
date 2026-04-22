@@ -201,13 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
-2. 🔨 Pushed [`7ea691a`](https://github.com/Thesirix/Thesirix/commit/7ea691a9dc889369c74f677524a1fe3a80b3560b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-3. 🔨 Pushed [`32e3dbf`](https://github.com/Thesirix/Thesirix/commit/32e3dbf494ea2a511ae43565924baa492ca73d82) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-4. 🔨 Pushed [`f91ec5a`](https://github.com/Thesirix/Thesirix/commit/f91ec5a7197011df11022b33c8a81e941024357a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-5. 🔨 Pushed [`bb8001d`](https://github.com/Thesirix/Thesirix/commit/bb8001d14c919b1daf4ba3a4789cda6493055d19) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-
-## 🗣️ Languages I Speak
+1. 🔨 Pushed [`1b4a2fc`](https://github.com/Thesirix/equation-of-the-day/commit/1b4a2fcfe861c0e4ebac1aacc3139b802098c903) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+2. 🔨 Pushed [`6681c50`](https://github.com/Thesirix/Thesirix/commit/6681c503fe8559a45e45e441ba5e0b489599cec7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`5e4ccfc`](https://github.com/Thesirix/Thesirix/commit/5e4ccfcea86b69f713ddfe4ac210d88adbc9da1f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`47db83f`](https://github.com/Thesirix/Thesirix/commit/47db83f29c305db7a49a3c85b8d596c91541a12e) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`ce89915`](https://github.com/Thesirix/Thesirix/commit/ce8991594d82e1c348c0d921a4a5d6087f920a7d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 <div align="center">
 
