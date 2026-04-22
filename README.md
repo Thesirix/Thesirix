@@ -201,11 +201,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`c838c2a`](https://github.com/Thesirix/Thesirix/commit/c838c2a757e1d2e98887aa273456cfd5aad12206) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`1b4a2fc`](https://github.com/Thesirix/equation-of-the-day/commit/1b4a2fcfe861c0e4ebac1aacc3139b802098c903) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-5. 🔨 Pushed [`6681c50`](https://github.com/Thesirix/Thesirix/commit/6681c503fe8559a45e45e441ba5e0b489599cec7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+1. 🔨 Pushed [`1ea5596`](https://github.com/Thesirix/Thesirix/commit/1ea55964675eef0336227dd4b39ebe6144682d63) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`83609a3`](https://github.com/Thesirix/Thesirix/commit/83609a34e35863969090a6940d5f90a91b98e9fc) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`c838c2a`](https://github.com/Thesirix/Thesirix/commit/c838c2a757e1d2e98887aa273456cfd5aad12206) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+
 
 ## 🗣️ Languages I Speak
 
@@ -219,16 +220,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 </div>
 
-## Equation of the Day
+## 🧮 Equation of the Day
 
-$$
-\large M = a + b Y + c \left( I(I+1) - \frac{Y^2}{4} \right)
-$$
-
-Murray Gell-Mann & Susumu Okubo - **Gell-Mann-Okubo Mass Formula** (1962)
-
-> [!NOTE]
-> An empirical formula relating the masses of members of a given SU(3) multiplet of hadrons. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Okubo_mass_formula)
+{{DAILY_EQUATION}}
 
 <br>
 
