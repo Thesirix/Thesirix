@@ -222,7 +222,14 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## Equation of the Day
 
-{{DAILY_EQUATION}}
+$$
+\large S = -\text{Tr}(\rho \ln \rho)
+$$
+
+John von Neumann - **Von Neumann Entropy** (1927)
+> [!NOTE]
+> An extension of classical entropy concepts to the field of quantum mechanics, measured using the density matrix. [Read more](https://en.wikipedia.org/wiki/Von_Neumann_entropy)
+
 
 <br>
 
