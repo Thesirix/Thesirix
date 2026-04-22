@@ -26,6 +26,7 @@ Beyond code, I strive to design coherent and high-performance software ecosystem
 Together, let's turn your technical ambitions into concrete, scalable, and sustainable solutions.
 
 </p>
+<img src="https://www.ajournalofmusicalthings.com/wp-content/uploads/2020/11/I-am-not-a-robot.gif" width="300">
 
 <br><br>
 
@@ -200,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _2h ago_
-2. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _2h ago_
-3. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _2h ago_
-4. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _2h ago_
-5. 🔨 Pushed [`955c69d`](https://github.com/Thesirix/Galaxy/commit/955c69de5b64cfcda68832763cd5be7696aee6fc) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _3h ago_
+1. 🔨 Pushed [`fcf0aec`](https://github.com/Thesirix/UserQuizz/commit/fcf0aecd5702bde2292e2d1b01800ade378f9031) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _just now_
+2. 🔨 Pushed [`b2de5bb`](https://github.com/Thesirix/Cook2/commit/b2de5bbf0fa9706c502b543efda35c5d4ab48336) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _just now_
+3. 🔨 Pushed [`ecf972e`](https://github.com/Thesirix/pagepresentation/commit/ecf972e746be36a59d1b7161144446a74ebbb0a8) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _just now_
+4. 🔨 Pushed [`b50e9a8`](https://github.com/Thesirix/EZ-Bike/commit/b50e9a81a36295957993f63ad923f0809b26c864) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _just now_
+5. 🔨 Pushed [`955c69d`](https://github.com/Thesirix/Galaxy/commit/955c69de5b64cfcda68832763cd5be7696aee6fc) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _1h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
@@ -484,8 +485,10 @@ quadrantChart
 <div align="center">
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=thesirix&data=followers,repositories,stars,commits&theme=dark)](https://github.com/Jurredr/github-widgetbox)
+![CodeWars](https://www.codewars.com/users/Thesirix/badges/large)
 
 </div>
+<a href="https://app.daily.dev/thesirix"><img src="https://api.daily.dev/devcards/v2/VHItmfa5dHVZNRrdJOawF.png?type=default&r=84d" width="356" alt="Thesirix's Dev Card"/></a>
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 
@@ -533,12 +536,19 @@ quadrantChart
 
 ![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31quo7jra22vxwwgmxfsfjmh6mpy&count=5&width=400)
 
+![Spotify](https://spotifyreadme-alpha.vercel.app/)
+
 </div>
 
 <div align="center">
 
 ![Views](https://count.getloli.com/@thesirix?theme=booru-jaypee)
 ![Views](https://count.getloli.com/@thesirix?theme=booru-vp)
+
+    <div align="center">
+        <img alt="Visitor Stats"
+            src="https://widgetbite.com/stats/thesirix"/>
+    </div>
 
 </div>
 
@@ -547,6 +557,15 @@ quadrantChart
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=50&size=25&pause=1000&color=007107&center=true&width=1000&lines=-------------------------------------------------------------------------------------------------" alt="Typing SVG" /></a>
 
 </div>
+<p align="center">
+	<a href="" target='_blank'><img alt="github" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/github.png"/></a>
+	<a href="" target='_blank'><img alt="linkedin" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/linkedin.png" /></a>
+	<a href=""><img alt="facebook" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/facebook-new.png"/></a>
+	<a href=""><img alt="instagram" width="10%" style="padding:5px" src="https://img.icons8.com/clouds/100/000000/instagram.png"/></a>
+
+</p>
+
+[:octocat:](https://github.com/axone-protocol/)
 
 ## 🚀 Example usage
 
@@ -567,9 +586,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 <div align="center">
 
-<table><tr><td>
-<img src="https://readme-jokes.vercel.app/api" width="100%">
-</td></tr></table>
+<img align="center" src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes">
 
 </div>
 
@@ -1487,8 +1504,6 @@ kanban
   <p><i>A little beer to feed Bender and the code 🍺</i></p>
 </div>
 
-<a name="pokemon"></a>
-
 <h2 align="center">🎮 Real Gameboy Experience:  Play Pokémon!</h2>
 
 <div align="center">
@@ -1544,8 +1559,8 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ---
 
-🕐 **Last update:** &nbsp; `2026-04-22  03:02 (Paris)`
-⏩ **Next update:** &nbsp; `2026-04-22  03:30 (Paris)`
+🕐 **Last update:** &nbsp; `2026-04-22  01:43 (Paris)`
+⏩ **Next update:** &nbsp; `2026-04-22  02:00 (Paris)`
 
 </div>
 <!--TIMESTAMP_END-->
