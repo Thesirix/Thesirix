@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" />
 </h1>
 
 ![chat](assets/chat.svg)
@@ -1557,6 +1557,10 @@ This is a shared game, all visitors play together. Click a button, then the page
 <img src="assets/Gameboy/bas.png" width="340"/>
 
 </div>
+
+---
+
+## ![Alt](https://repobeats.axiom.co/api/embed/290c2265fcea4a54651fa8176ff0a52c85621164.svg "Repobeats analytics image")
 
 <!--TIMESTAMP_START-->
 <div align="center">
