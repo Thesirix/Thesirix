@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`f88bd2f`](https://github.com/Thesirix/equation-of-the-day/commit/f88bd2fb8dc81c49ef5151768ed8f7c438e05498) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-2. 🔨 Pushed [`92851b2`](https://github.com/Thesirix/equation-of-the-day/commit/92851b25eb6af579d69704553714dd7a613bf50f) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-3. 🔨 Pushed [`8ae633f`](https://github.com/Thesirix/equation-of-the-day/commit/8ae633f0ed04f660a33770b2095563f62cfda7e3) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-4. 🔨 Pushed [`3f6fbd9`](https://github.com/Thesirix/equation-of-the-day/commit/3f6fbd9e6f76a96913bf7bbc6bd8cb49c5274472) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
-5. 🔨 Pushed [`2c63ec4`](https://github.com/Thesirix/equation-of-the-day/commit/2c63ec4b8fef6ab6e3d43f3e9d63e1388e5faa19) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+1. 🔨 Pushed [`a08bcec`](https://github.com/Thesirix/equation-of-the-day/commit/a08bcec624eb3fcbf4d7ae15a746c6fe9ae6a0d4) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+2. 🔨 Pushed [`ef276b4`](https://github.com/Thesirix/equation-of-the-day/commit/ef276b4b674fd41b9cff60e7a1f497591d10377b) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+3. 🔨 Pushed [`d4d01b0`](https://github.com/Thesirix/equation-of-the-day/commit/d4d01b07f7a7bfd5f2cc5f9ba66b4783793b06db) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+4. 🔨 Pushed [`31d8d02`](https://github.com/Thesirix/equation-of-the-day/commit/31d8d020666bceab773f47180587aebfc09f5d9b) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+5. 🔨 Pushed [`e5fb103`](https://github.com/Thesirix/equation-of-the-day/commit/e5fb103e79b13a15082e41219aa52b02a6ff2a06) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
 
 <div align="center">
 ## 🗣️ Languages I Speak
