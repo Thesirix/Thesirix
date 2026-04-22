@@ -201,7 +201,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-{{RECENT_ACTIVITY}}
+1. 🔨 Pushed [`c838c2a`](https://github.com/Thesirix/Thesirix/commit/c838c2a757e1d2e98887aa273456cfd5aad12206) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`59f5af1`](https://github.com/Thesirix/Thesirix/commit/59f5af1f8ff51cb057c8c990b64c92018f40de26) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`1b4a2fc`](https://github.com/Thesirix/equation-of-the-day/commit/1b4a2fcfe861c0e4ebac1aacc3139b802098c903) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+5. 🔨 Pushed [`6681c50`](https://github.com/Thesirix/Thesirix/commit/6681c503fe8559a45e45e441ba5e0b489599cec7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+
 
 ## 🗣️ Languages I Speak
 
@@ -217,14 +222,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## Equation of the Day
 
-$$
-\large S = -\text{Tr}(\rho \ln \rho)
-$$
-
-John von Neumann - **Von Neumann Entropy** (1927)
-> [!NOTE]
-> An extension of classical entropy concepts to the field of quantum mechanics, measured using the density matrix. [Read more](https://en.wikipedia.org/wiki/Von_Neumann_entropy)
-
+{{DAILY_EQUATION}}
 
 <br>
 
