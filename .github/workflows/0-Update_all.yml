@@ -565,3 +565,9 @@ jobs:
             git pull --rebase origin main
             git push origin main
           fi
+
+  # ── 14. Equation of the Day ──────────────────────────────────────────────────
+  equation:
+    name: "🧮 Equation of the Day"
+    needs: [rebuild]
+    uses: ./.github/workflows/Equation.yml
