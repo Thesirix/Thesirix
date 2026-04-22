@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`375f11b`](https://github.com/Thesirix/StreakMaster/commit/375f11bf6cbc6f1696062c7229691facf2e5fa8a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1h ago_
-2. 🔨 Pushed [`7ea691a`](https://github.com/Thesirix/Thesirix/commit/7ea691a9dc889369c74f677524a1fe3a80b3560b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-3. 🔨 Pushed [`32e3dbf`](https://github.com/Thesirix/Thesirix/commit/32e3dbf494ea2a511ae43565924baa492ca73d82) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-4. 🔨 Pushed [`f91ec5a`](https://github.com/Thesirix/Thesirix/commit/f91ec5a7197011df11022b33c8a81e941024357a) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
-5. 🔨 Pushed [`bb8001d`](https://github.com/Thesirix/Thesirix/commit/bb8001d14c919b1daf4ba3a4789cda6493055d19) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+1. 🔨 Pushed [`76c3764`](https://github.com/Thesirix/Thesirix/commit/76c376423e3acf984f91df3b9a6106ffd4e42f96) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`682e68a`](https://github.com/Thesirix/Thesirix/commit/682e68a2f8a060842c38f2f23d819ec57f98d8aa) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`389a354`](https://github.com/Thesirix/Thesirix/commit/389a35488cb40c577b8146214abab00a60533399) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`fea7b9a`](https://github.com/Thesirix/Thesirix/commit/fea7b9a0d793e5eb4a719401bf3da32da47273f1) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`757ff02`](https://github.com/Thesirix/Thesirix/commit/757ff02135c6e05df34877222e42c163e3c05fe4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 
 <div align="center">
 ## 🗣️ Languages I Speak
