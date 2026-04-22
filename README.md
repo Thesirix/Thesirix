@@ -220,6 +220,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 </div>
 
+## Equation of the Day
+
 ## Global Software Engineering Cartography
 
 ```mermaid
