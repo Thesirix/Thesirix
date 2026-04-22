@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. 🔨 Pushed [`85d9070`](https://github.com/Thesirix/Thesirix/commit/85d907087be2ce5f3c2bafbfb38dcc88bf9dfb85) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`e796c2a`](https://github.com/Thesirix/Thesirix/commit/e796c2a41889f732008604e358e3491e94c44360) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`2234392`](https://github.com/Thesirix/Thesirix/commit/2234392274c4d21e6bb23b55e92388dfc671b4cb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-4. 🔨 Pushed [`e9b7664`](https://github.com/Thesirix/StreakMaster/commit/e9b76647292f5dc213cd390af0d3d1fb7608812f) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3h ago_
-5. 🔨 Pushed [`b332fab`](https://github.com/Thesirix/Thesirix/commit/b332fabec2898f34a205612b1dbde38bda2aba4d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
+1. 🔨 Pushed [`757ff02`](https://github.com/Thesirix/Thesirix/commit/757ff02135c6e05df34877222e42c163e3c05fe4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`85d9070`](https://github.com/Thesirix/Thesirix/commit/85d907087be2ce5f3c2bafbfb38dcc88bf9dfb85) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`e796c2a`](https://github.com/Thesirix/Thesirix/commit/e796c2a41889f732008604e358e3491e94c44360) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`2234392`](https://github.com/Thesirix/Thesirix/commit/2234392274c4d21e6bb23b55e92388dfc671b4cb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
+5. 🔨 Pushed [`e9b7664`](https://github.com/Thesirix/StreakMaster/commit/e9b76647292f5dc213cd390af0d3d1fb7608812f) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _4h ago_
 
 <div align="center">
 ## 🗣️ Languages I Speak
