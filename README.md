@@ -603,40 +603,40 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 <img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 <!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                1324 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 %
-🌆 Daytime                2216 commits        ████████████░░░░░░░░░░░░░   46.51 %
-🌃 Evening                1001 commits        █████░░░░░░░░░░░░░░░░░░░░   21.01 %
-🌙 Night                  224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 %
-Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   36.45 %
-Wednesday                623 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 %
-Thursday                 630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 %
-Friday                   370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 %
-Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 %
-Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 %
+🌞 Morning                1324 commits        ███████░░░░░░░░░░░░░░░░░░   27.78 % 
+🌆 Daytime                2217 commits        ████████████░░░░░░░░░░░░░   46.52 % 
+🌃 Evening                1001 commits        █████░░░░░░░░░░░░░░░░░░░░   21.00 % 
+🌙 Night                  224 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.70 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.56 % 
+Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   36.45 % 
+Wednesday                624 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
+Thursday                 630 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Friday                   370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.76 % 
+Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.88 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages:
-Markdown                 19 hrs 57 mins      ██████████████░░░░░░░░░░░   57.11 %
-YAML                     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 %
-Other                    4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 %
-Python                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
-JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 %
+💬 Programming Languages: 
+Markdown                 19 hrs 57 mins      ██████████████░░░░░░░░░░░   57.11 % 
+YAML                     5 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.34 % 
+Other                    4 hrs 13 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
+Python                   2 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 % 
+JSON                     1 hr 23 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
@@ -1607,8 +1607,8 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ---
 
-🕐 **Last update:** &nbsp; `2026-04-22  12:58 (Paris)`
-⏩ **Next update:** &nbsp; `2026-04-22  13:00 (Paris)`
+🕐 **Last update:** &nbsp; `2026-04-22  13:24 (Paris)`
+⏩ **Next update:** &nbsp; `2026-04-22  13:30 (Paris)`
 
 </div>
 <!--TIMESTAMP_END-->
