@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [Nakshatra05/GhostSign](https://github.com/Nakshatra05/GhostSign) - _just now_
-2. ⭐ Starred [Nakshatra05/ArbiIntent](https://github.com/Nakshatra05/ArbiIntent) - _just now_
-3. ⭐ Starred [JBris/bayesian-oed-opt-al](https://github.com/JBris/bayesian-oed-opt-al) - _just now_
-4. ⭐ Starred [JBris/TEgenomeSimulator](https://github.com/JBris/TEgenomeSimulator) - _just now_
-5. ⭐ Starred [ip681/python-advanced](https://github.com/ip681/python-advanced) - _just now_
+1. ⭐ Starred [CAprogs/fastapi-json-query](https://github.com/CAprogs/fastapi-json-query) - _just now_
+2. ⭐ Starred [CAprogs/paris-events-analyzer](https://github.com/CAprogs/paris-events-analyzer) - _just now_
+3. ⭐ Starred [MissPanda-coder/MissPanda-coder](https://github.com/MissPanda-coder/MissPanda-coder) - _just now_
+4. ⭐ Starred [MissPanda-coder/PersonnalFramework](https://github.com/MissPanda-coder/PersonnalFramework) - _just now_
+5. ⭐ Starred [PierreDenaes/quizzJs](https://github.com/PierreDenaes/quizzJs) - _just now_
 <!-- ACTIVITY_END -->
 
 
