@@ -222,7 +222,14 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-{{DAILY_EQUATION}}
+$$
+\large \Delta S \ge 0
+$$
+
+Rudolf Clausius - **Second Law of Thermodynamics** (1850)
+> [!NOTE]
+> States that the total entropy of an isolated system can never decrease over time. [Read more](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
+
 
 <br>
 
