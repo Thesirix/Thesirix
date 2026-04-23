@@ -196,7 +196,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-{{RECENT_ACTIVITY}}
+<!-- ACTIVITY_START -->
+<!-- ACTIVITY_END -->
 
 
 ## 🗣️ Languages I Speak
@@ -213,7 +214,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-{{DAILY_EQUATION}}
+<!-- EQUATION_START -->
+<!-- EQUATION_END -->
 
 <br>
 

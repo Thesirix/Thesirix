@@ -201,11 +201,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
+<!-- ACTIVITY_START -->
 1. ⭐ Starred [Maxime-SALINS/Site-Minecraft](https://github.com/Maxime-SALINS/Site-Minecraft) - _5h ago_
 2. ⭐ Starred [Maxime-SALINS/Maxime-SALINS](https://github.com/Maxime-SALINS/Maxime-SALINS) - _5h ago_
 3. ⭐ Starred [gamemann/XDP-Proxy](https://github.com/gamemann/XDP-Proxy) - _5h ago_
 4. ⭐ Starred [gamemann/service-monitor](https://github.com/gamemann/service-monitor) - _5h ago_
 5. ⭐ Starred [src-mgra/formBuilder](https://github.com/src-mgra/formBuilder) - _5h ago_
+<!-- ACTIVITY_END -->
 
 
 ## 🗣️ Languages I Speak
@@ -222,7 +224,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-{{DAILY_EQUATION}}
+<!-- EQUATION_START -->
+<!-- EQUATION_END -->
 
 <br>
 

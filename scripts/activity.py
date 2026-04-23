@@ -135,15 +135,23 @@ if not lines:
     sys.exit(0)
 
 # ── Patch README.md ───────────────────────────────────────────────────────────
-PLACEHOLDER = "{{RECENT_ACTIVITY}}"
-new_block   = "\n".join(lines)
+START = "<!-- ACTIVITY_START -->"
+END   = "<!-- ACTIVITY_END -->"
+new_block = "\n".join(lines)
 
 with open("README.md", encoding="utf-8") as f:
     readme = f.read()
 
-if PLACEHOLDER not in readme:
-    sys.exit(f"ERROR: placeholder '{PLACEHOLDER}' not found in README.md")
+if START not in readme:
+    sys.exit(f"ERROR: marker '{START}' not found in README.md")
+
+updated = re.sub(
+    re.escape(START) + r".*?" + re.escape(END),
+    START + "\n" + new_block + "\n" + END,
+    readme,
+    flags=re.DOTALL,
+)
 
 with open("README.md", "w", encoding="utf-8") as f:
-    f.write(readme.replace(PLACEHOLDER, new_block))
+    f.write(updated)
 print("README.md updated with recent activity ✓")
