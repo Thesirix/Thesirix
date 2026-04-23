@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`5a700a4`](https://github.com/Thesirix/Thesirix/commit/5a700a42333f198367cc09a1714104c7c71a2855) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-2. 🔨 Pushed [`e2ef333`](https://github.com/Thesirix/EatMyTXT/commit/e2ef33390d7a173622aa128c116d5737be9b8f44) to [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) on `main` - _2h ago_
-3. 🔨 Pushed [`5ed3a3d`](https://github.com/Thesirix/Flutter_Bird/commit/5ed3a3d1c1bb22a9f8940b055a52f04fccc41d95) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _2h ago_
-4. 🔨 Pushed [`607118a`](https://github.com/Thesirix/Sechoire/commit/607118a6c945b6cd2ee6e1a48f97867fe208858c) to [Thesirix/Sechoire](https://github.com/Thesirix/Sechoire) on `main` - _2h ago_
-5. 🔨 Pushed [`dbbde49`](https://github.com/Thesirix/Assembly_jump/commit/dbbde49912d8424460e22094d41895c0b9b34491) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _2h ago_
+1. 🔨 Pushed [`7ca3976`](https://github.com/Thesirix/Thesirix/commit/7ca397610e0ff79d949c3bab54fd3290520299e8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. 🔨 Pushed [`34de8d9`](https://github.com/Thesirix/Thesirix/commit/34de8d9ba80cf856ec367a51a54cd815dabf0ddb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+3. 🔨 Pushed [`da7b4d4`](https://github.com/Thesirix/Thesirix/commit/da7b4d49e26dcc0225ab06817d0d3f832d7096ab) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+4. 🔨 Pushed [`5a700a4`](https://github.com/Thesirix/Thesirix/commit/5a700a42333f198367cc09a1714104c7c71a2855) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4h ago_
+5. 🔨 Pushed [`e2ef333`](https://github.com/Thesirix/EatMyTXT/commit/e2ef33390d7a173622aa128c116d5737be9b8f44) to [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) on `main` - _4h ago_
 <!-- ACTIVITY_END --> 
 
 
