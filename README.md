@@ -203,10 +203,10 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- ACTIVITY_START -->
 1. 🔨 Pushed [`5a700a4`](https://github.com/Thesirix/Thesirix/commit/5a700a42333f198367cc09a1714104c7c71a2855) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`e2ef333`](https://github.com/Thesirix/EatMyTXT/commit/e2ef33390d7a173622aa128c116d5737be9b8f44) to [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) on `main` - _just now_
-3. 🔨 Pushed [`5ed3a3d`](https://github.com/Thesirix/Flutter_Bird/commit/5ed3a3d1c1bb22a9f8940b055a52f04fccc41d95) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _just now_
-4. 🔨 Pushed [`607118a`](https://github.com/Thesirix/Sechoire/commit/607118a6c945b6cd2ee6e1a48f97867fe208858c) to [Thesirix/Sechoire](https://github.com/Thesirix/Sechoire) on `main` - _just now_
-5. 🔨 Pushed [`dbbde49`](https://github.com/Thesirix/Assembly_jump/commit/dbbde49912d8424460e22094d41895c0b9b34491) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _just now_
+2. 🔨 Pushed [`e2ef333`](https://github.com/Thesirix/EatMyTXT/commit/e2ef33390d7a173622aa128c116d5737be9b8f44) to [Thesirix/EatMyTXT](https://github.com/Thesirix/EatMyTXT) on `main` - _1h ago_
+3. 🔨 Pushed [`5ed3a3d`](https://github.com/Thesirix/Flutter_Bird/commit/5ed3a3d1c1bb22a9f8940b055a52f04fccc41d95) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _1h ago_
+4. 🔨 Pushed [`607118a`](https://github.com/Thesirix/Sechoire/commit/607118a6c945b6cd2ee6e1a48f97867fe208858c) to [Thesirix/Sechoire](https://github.com/Thesirix/Sechoire) on `main` - _1h ago_
+5. 🔨 Pushed [`dbbde49`](https://github.com/Thesirix/Assembly_jump/commit/dbbde49912d8424460e22094d41895c0b9b34491) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _1h ago_
 <!-- ACTIVITY_END -->
 
 
