@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`bf49ebd`](https://github.com/Thesirix/equation-of-the-day/commit/bf49ebd9157af4eb42293daf19cf3b2aa18597c9) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _6h ago_
-2. 🔨 Pushed [`a1f012a`](https://github.com/Thesirix/StreakMaster/commit/a1f012ac435a6f9487072c1483154a10a8cf2959) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _6h ago_
-3. 🔨 Pushed [`22570c6`](https://github.com/Thesirix/Thesirix/commit/22570c6c5d4306708c08c66f3922c13d60ba3d53) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _6h ago_
-4. 🔨 Pushed [`99f1c42`](https://github.com/Thesirix/equation-of-the-day/commit/99f1c42c4403bc017f1ad3bea9ec93f229f56070) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _6h ago_
-5. 🔨 Pushed [`a7c8c9c`](https://github.com/Thesirix/Thesirix/commit/a7c8c9c2c2a2533c4f2de81eb1b6451aa91096a5) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7h ago_
+1. 🔨 Pushed [`c606892`](https://github.com/Thesirix/Cook2/commit/c60689271ba40bb7dcd5e1a1022583ab41e6669d) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _just now_
+2. 🔨 Pushed [`d8042ca`](https://github.com/Thesirix/UserQuizz/commit/d8042caf872090d1dd93d056ac1801c7cdbe8bf5) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _just now_
+3. 🔨 Pushed [`bc6572b`](https://github.com/Thesirix/equation-of-the-day/commit/bc6572bbba5884f9c27c560ab473da0376fcf632) to [Thesirix/equation-of-the-day](https://github.com/Thesirix/equation-of-the-day) on `main` - _just now_
+4. 🔨 Pushed [`3a05749`](https://github.com/Thesirix/Thesirix/commit/3a0574926770a12297bc14213de7d2bdc1f0e9f5) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+5. 🔨 Pushed [`7af9c5d`](https://github.com/Thesirix/github-readme-animated-chat-bubbles/commit/7af9c5d4c0fb97c4b324a5d9c91ecb26b5753441) to [Thesirix/github-readme-animated-chat-bubbles](https://github.com/Thesirix/github-readme-animated-chat-bubbles) on `main` - _just now_
 <!-- ACTIVITY_END -->
 
 
