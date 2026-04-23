@@ -2,7 +2,7 @@ name: "⭐ Top Repositories"
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "15 0 * * *"
   workflow_dispatch:
 
 jobs:

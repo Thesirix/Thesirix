@@ -2,7 +2,7 @@ name: "👾 Generate Pac-Man"
 
 on:
   schedule:
-    - cron: "0 */12 * * *"
+    - cron: "0 3,17 * * *"
   workflow_dispatch:
   workflow_call:
 
