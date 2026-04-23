@@ -48,9 +48,10 @@ for start_m, end_m in DYNAMIC_SECTIONS:
     content = m.group(1) if m else "\n"
 
     # Replace the (possibly empty) section in the template output
+    replacement = start_m + content + end_m
     result = re.sub(
         re.escape(start_m) + r".*?" + re.escape(end_m),
-        start_m + content + end_m,
+        lambda _: replacement,
         result,
         flags=re.DOTALL,
     )

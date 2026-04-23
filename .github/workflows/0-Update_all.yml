@@ -297,7 +297,8 @@ jobs:
           new_section = f'\n<div align="center">\n\n{imgs}\n\n</div>\n'
           START="<!--TOP_REPOS_START-->"; END="<!--TOP_REPOS_END-->"
           with open("README.md", encoding="utf-8") as f: readme=f.read()
-          updated=re.sub(re.escape(START)+r".*?"+re.escape(END), START+new_section+END, readme, flags=re.DOTALL)
+          _repl=START+new_section+END
+          updated=re.sub(re.escape(START)+r".*?"+re.escape(END), lambda _:_repl, readme, flags=re.DOTALL)
           with open("README.md", "w", encoding="utf-8") as f: f.write(updated)
           print("Top repos table SVGs generated ✓")
           EOF
@@ -609,9 +610,10 @@ jobs:
           with open('README.md', 'r', encoding='utf-8') as f:
               readme = f.read()
 
+          replacement = START + '\n' + block + END
           updated = re.sub(
               re.escape(START) + r'.*?' + re.escape(END),
-              START + '\n' + block + END,
+              lambda _: replacement,
               readme,
               flags=re.DOTALL,
           )
