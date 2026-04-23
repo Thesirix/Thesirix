@@ -207,7 +207,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 3. 🔨 Pushed [`5ed3a3d`](https://github.com/Thesirix/Flutter_Bird/commit/5ed3a3d1c1bb22a9f8940b055a52f04fccc41d95) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _2h ago_
 4. 🔨 Pushed [`607118a`](https://github.com/Thesirix/Sechoire/commit/607118a6c945b6cd2ee6e1a48f97867fe208858c) to [Thesirix/Sechoire](https://github.com/Thesirix/Sechoire) on `main` - _2h ago_
 5. 🔨 Pushed [`dbbde49`](https://github.com/Thesirix/Assembly_jump/commit/dbbde49912d8424460e22094d41895c0b9b34491) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _2h ago_
-<!-- ACTIVITY_END -->
+<!-- ACTIVITY_END --> 
 
 
 ## 🗣️ Languages I Speak
