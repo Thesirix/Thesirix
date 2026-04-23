@@ -20,14 +20,13 @@ jobs:
 
       - name: Commit & push
         run: |
-          if git diff --exit-code -- README.md; then
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add README.md
+          if git diff --cached --exit-code; then
             echo "No changes to commit."
-            exit 0
           else
-            git config user.name "github-actions"
-            git config user.email "github-actions@github.com"
-            git pull --rebase origin main
-            git add README.md
             git commit -m "⚡ Update recent activity"
+            git pull --rebase origin main
             git push origin main
           fi
