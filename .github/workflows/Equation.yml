@@ -48,9 +48,10 @@ jobs:
           with open('README.md', 'r', encoding='utf-8') as f:
               readme = f.read()
 
+          replacement = START + '\n' + block + END
           updated = re.sub(
               re.escape(START) + r'.*?' + re.escape(END),
-              START + '\n' + block + END,
+              lambda m: replacement,
               readme,
               flags=re.DOTALL,
           )
