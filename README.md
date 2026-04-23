@@ -225,6 +225,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 ## 🧮 Equation of the Day
 
 <!-- EQUATION_START -->
+$$
+\large \frac{\partial^2 u}{\partial t^2} - \frac{\partial^2 u}{\partial x^2} + \sin u = 0
+$$
+
+Edmond Bour - **Sine-Gordon Equation** (1862)
+> [!NOTE]
+> A non-linear hyperbolic partial differential equation exhibiting soliton solutions, prominent in differential geometry and relativistic field theory. [Read more](https://en.wikipedia.org/wiki/Sine-Gordon_equation)
 <!-- EQUATION_END -->
 
 <br>
