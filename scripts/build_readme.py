@@ -21,6 +21,8 @@ DYNAMIC_SECTIONS = [
     ("<!--TOP_REPOS_START-->", "<!--TOP_REPOS_END-->"),
     ("<!--TIMESTAMP_START-->", "<!--TIMESTAMP_END-->"),
     ("<!--START_SECTION:waka-->", "<!--END_SECTION:waka-->"),
+    ("<!-- ACTIVITY_START -->", "<!-- ACTIVITY_END -->"),
+    ("<!-- EQUATION_START -->", "<!-- EQUATION_END -->"),
 ]
 
 # ── Read template ──────────────────────────────────────────────────────────────
