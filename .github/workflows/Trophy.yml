@@ -5,7 +5,7 @@ on:
     paths:
       - '.github/workflows/Trophy.yml'
   schedule:
-    - cron: '0 0 * * 1'
+    - cron: '0 5 * * 1'
   workflow_dispatch:
   workflow_call:
 
