@@ -201,11 +201,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <h2 align="center">⚡ Recent Activity</h2>
 
-1. ⭐ Starred [thebint/thebint](https://github.com/thebint/thebint) - _just now_
-2. ⭐ Starred [AdaiasMagdiel/rubik-rest](https://github.com/AdaiasMagdiel/rubik-rest) - _just now_
-3. ⭐ Starred [AdaiasMagdiel/clj-raytracer](https://github.com/AdaiasMagdiel/clj-raytracer) - _just now_
-4. ⭐ Starred [EditsbyVineeth/callmeVineeth](https://github.com/EditsbyVineeth/callmeVineeth) - _just now_
-5. ⭐ Starred [EditsbyVineeth/PersonalWebbs](https://github.com/EditsbyVineeth/PersonalWebbs) - _just now_
+1. ⭐ Starred [Maxime-SALINS/Site-Minecraft](https://github.com/Maxime-SALINS/Site-Minecraft) - _just now_
+2. ⭐ Starred [Maxime-SALINS/Maxime-SALINS](https://github.com/Maxime-SALINS/Maxime-SALINS) - _just now_
+3. ⭐ Starred [gamemann/XDP-Proxy](https://github.com/gamemann/XDP-Proxy) - _just now_
+4. ⭐ Starred [gamemann/service-monitor](https://github.com/gamemann/service-monitor) - _just now_
+5. ⭐ Starred [src-mgra/formBuilder](https://github.com/src-mgra/formBuilder) - _just now_
 
 
 ## 🗣️ Languages I Speak
@@ -222,14 +222,7 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 ## 🧮 Equation of the Day
 
-$$
-\large \Delta S \ge 0
-$$
-
-Rudolf Clausius - **Second Law of Thermodynamics** (1850)
-> [!NOTE]
-> States that the total entropy of an isolated system can never decrease over time. [Read more](https://en.wikipedia.org/wiki/Second_law_of_thermodynamics)
-
+{{DAILY_EQUATION}}
 
 <br>
 
