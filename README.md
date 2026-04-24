@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \dot{M} = \frac{4\pi G^2 M^2 \rho_\infty}{c_s^3}
+\large \frac{\kappa}{\sigma} = L T
 $$
 
-Hermann Bondi - **Bondi Accretion Rate** (1952)
+Gustav Wiedemann & Rudolph Franz - **Wiedemann-Franz Law** (1853)
 > [!NOTE]
-> Calculates the rate at which a compact object (like a black hole) accretes surrounding matter from a uniform gas cloud. [Read more](https://en.wikipedia.org/wiki/Bondi_accretion)
+> States that the ratio of the thermal conductivity to the electrical conductivity of a metal is proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wiedemann%E2%80%93Franz_law)
 <!-- EQUATION_END -->
 
 <br>
