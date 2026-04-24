@@ -202,12 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-
-1. ⭐ Starred [OstinUA/Site-Analyzer](https://github.com/OstinUA/Site-Analyzer) - _just now_
-2. ⭐ Starred [OstinUA/OstinUA](https://github.com/OstinUA/OstinUA) - _just now_
-3. ⭐ Starred [Patrickson2/my-late-show-codechallenge](https://github.com/Patrickson2/my-late-show-codechallenge) - _just now_
-4. ⭐ Starred [Patrickson2/MY-DUKA-Project](https://github.com/Patrickson2/MY-DUKA-Project) - _just now_
-5. ⭐ Starred [l-Spook-l/golfSim-mobile](https://github.com/l-Spook-l/golfSim-mobile) - _just now_
+1. ⭐ Starred [ManjuAkther/architects-g3](https://github.com/ManjuAkther/architects-g3) - _just now_
+2. ⭐ Starred [ManjuAkther/Bus-Ticket](https://github.com/ManjuAkther/Bus-Ticket) - _just now_
+3. ⭐ Starred [Santosandrade996/js-developer-pokedex](https://github.com/Santosandrade996/js-developer-pokedex) - _just now_
+4. ⭐ Starred [Santosandrade996/Santosandrade996](https://github.com/Santosandrade996/Santosandrade996) - _just now_
+5. ⭐ Starred [Taanveer22/wdm-10-client](https://github.com/Taanveer22/wdm-10-client) - _just now_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
