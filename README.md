@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`0d0857c`](https://github.com/Thesirix/Korgex/commit/0d0857c60ac3362dd3ef67144366fef6d16f6a1e) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _3h ago_
-2. 🔨 Pushed [`6e0094e`](https://github.com/Thesirix/Korgex/commit/6e0094ed8c38125c99ecc26a26d8e94352fbed3e) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _3h ago_
-3. 🔨 Pushed [`5f53016`](https://github.com/Thesirix/Korgex/commit/5f53016fb61e256b0130acbe0f9e85b8ad2b6303) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _3h ago_
-4. 🔨 Pushed [`ebb2104`](https://github.com/Thesirix/Korgex/commit/ebb21049c7dd35f9bdf076fd002a8707fd73654b) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _3h ago_
-5. 🎉 Created branch `main` in [Thesirix/Korgex](https://github.com/Thesirix/Korgex) - _3h ago_
+1. 🔨 Pushed [`0d0857c`](https://github.com/Thesirix/Korgex/commit/0d0857c60ac3362dd3ef67144366fef6d16f6a1e) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _4h ago_
+2. 🔨 Pushed [`6e0094e`](https://github.com/Thesirix/Korgex/commit/6e0094ed8c38125c99ecc26a26d8e94352fbed3e) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _4h ago_
+3. 🔨 Pushed [`5f53016`](https://github.com/Thesirix/Korgex/commit/5f53016fb61e256b0130acbe0f9e85b8ad2b6303) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _4h ago_
+4. 🔨 Pushed [`ebb2104`](https://github.com/Thesirix/Korgex/commit/ebb21049c7dd35f9bdf076fd002a8707fd73654b) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _4h ago_
+5. 🎉 Created branch `main` in [Thesirix/Korgex](https://github.com/Thesirix/Korgex) - _4h ago_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
