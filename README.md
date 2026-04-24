@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [CAprogs/fastapi-json-query](https://github.com/CAprogs/fastapi-json-query) - _just now_
-2. ⭐ Starred [CAprogs/paris-events-analyzer](https://github.com/CAprogs/paris-events-analyzer) - _just now_
-3. ⭐ Starred [MissPanda-coder/MissPanda-coder](https://github.com/MissPanda-coder/MissPanda-coder) - _just now_
-4. ⭐ Starred [MissPanda-coder/PersonnalFramework](https://github.com/MissPanda-coder/PersonnalFramework) - _just now_
-5. ⭐ Starred [PierreDenaes/quizzJs](https://github.com/PierreDenaes/quizzJs) - _just now_
+1. ⭐ Starred [CAprogs/fastapi-json-query](https://github.com/CAprogs/fastapi-json-query) - _1h ago_
+2. ⭐ Starred [CAprogs/paris-events-analyzer](https://github.com/CAprogs/paris-events-analyzer) - _1h ago_
+3. ⭐ Starred [MissPanda-coder/MissPanda-coder](https://github.com/MissPanda-coder/MissPanda-coder) - _1h ago_
+4. ⭐ Starred [MissPanda-coder/PersonnalFramework](https://github.com/MissPanda-coder/PersonnalFramework) - _1h ago_
+5. ⭐ Starred [PierreDenaes/quizzJs](https://github.com/PierreDenaes/quizzJs) - _1h ago_
 <!-- ACTIVITY_END -->
 
 
