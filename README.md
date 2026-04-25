@@ -618,40 +618,40 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 <img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
 
 <!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                1331 commits        ███████░░░░░░░░░░░░░░░░░░   27.55 %
-🌆 Daytime                2242 commits        ████████████░░░░░░░░░░░░░   46.40 %
-🌃 Evening                1034 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 %
-🌙 Night                  225 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.36 %
-Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   35.95 %
-Wednesday                660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Thursday                 660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 %
-Friday                   370 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
-Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 %
+🌞 Morning                1333 commits        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.18 % 
+🌃 Evening                1049 commits        █████░░░░░░░░░░░░░░░░░░░░   21.59 % 
+🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   694 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  1737 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
+Wednesday                660 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.71 % 
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Sunday                   471 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages:
-Markdown                 23 hrs 29 mins      ██████████████░░░░░░░░░░░   55.76 %
-YAML                     6 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.41 %
-Other                    5 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Python                   3 hrs 3 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 %
-JSON                     2 hrs 15 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
+💬 Programming Languages: 
+Markdown                 18 hrs 47 mins      █████████████░░░░░░░░░░░░   52.90 % 
+Python                   5 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+YAML                     3 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+Other                    3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+JSON                     2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.58 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
