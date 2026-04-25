@@ -224,16 +224,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 ## 🧮 Equation of the Day
 
 <!-- EQUATION_START -->
-
 $$
-\large \frac{\kappa}{\sigma} = L T
+\large N = \sqrt{-\frac{g}{\rho_0} \frac{\partial \rho}{\partial z}}
 $$
 
-Gustav Wiedemann & Rudolph Franz - **Wiedemann-Franz Law** (1853)
-
+David Brunt & Vilho Väisälä - **Brunt-Väisälä Frequency** (1927)
 > [!NOTE]
-> States that the ratio of the thermal conductivity to the electrical conductivity of a metal is proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wiedemann%E2%80%93Franz_law)
-
+> The angular frequency at which a vertically displaced parcel will oscillate within a statically stable environment. [Read more](https://en.wikipedia.org/wiki/Brunt%E2%80%93V%C3%A4is%C3%A4l%C3%A4_frequency)
 <!-- EQUATION_END -->
 
 <br>
