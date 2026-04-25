@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [AaronNHorvitz/COVID-19-Forecast-With-Exogenous](https://github.com/AaronNHorvitz/COVID-19-Forecast-With-Exogenous) - _just now_
-2. ⭐ Starred [AaronNHorvitz/Tests-For-Normality](https://github.com/AaronNHorvitz/Tests-For-Normality) - _just now_
-3. ⭐ Starred [MacJedi42/open-teamviewer-quicksupport-jamf-selfservice](https://github.com/MacJedi42/open-teamviewer-quicksupport-jamf-selfservice) - _just now_
-4. ⭐ Starred [MacJedi42/open-webui](https://github.com/MacJedi42/open-webui) - _just now_
-5. ⭐ Starred [ardamoustafa1/StreamGuard](https://github.com/ardamoustafa1/StreamGuard) - _just now_
+1. ⭐ Starred [yoonucho/yoonucho](https://github.com/yoonucho/yoonucho) - _just now_
+2. ⭐ Starred [rb-cesar/magic-navigation](https://github.com/rb-cesar/magic-navigation) - _just now_
+3. ⭐ Starred [rb-cesar/design-system](https://github.com/rb-cesar/design-system) - _just now_
+4. ⭐ Starred [pejman-aslani/dbms](https://github.com/pejman-aslani/dbms) - _just now_
+5. ⭐ Starred [pejman-aslani/angular-train](https://github.com/pejman-aslani/angular-train) - _just now_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
