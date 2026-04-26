@@ -517,7 +517,7 @@ quadrantChart
 ![](assets/top-repo-header.svg)
 [![Thesirix](assets/top-repo-1.svg)](https://github.com/Thesirix/Thesirix)
 [![Assembly_jump](assets/top-repo-2.svg)](https://github.com/Thesirix/Assembly_jump)
-[![StreakMaster](assets/top-repo-3.svg)](https://github.com/Thesirix/StreakMaster)
+[![AlgoBuddy](assets/top-repo-3.svg)](https://github.com/Thesirix/AlgoBuddy)
 
 </div>
 <!--TOP_REPOS_END-->
