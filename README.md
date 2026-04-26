@@ -225,12 +225,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large N = \sqrt{-\frac{g}{\rho_0} \frac{\partial \rho}{\partial z}}
+\large \alpha \psi + \beta |\psi|^2 \psi + \frac{1}{2m}(-i\hbar\nabla - 2e\mathbf{A})^2 \psi = 0
 $$
 
-David Brunt & Vilho Väisälä - **Brunt-Väisälä Frequency** (1927)
+Vitaly Ginzburg & Lev Landau - **Ginzburg-Landau Equation** (1950)
 > [!NOTE]
-> The angular frequency at which a vertically displaced parcel will oscillate within a statically stable environment. [Read more](https://en.wikipedia.org/wiki/Brunt%E2%80%93V%C3%A4is%C3%A4l%C3%A4_frequency)
+> A macroscopic mathematical theory used to model superconductivity based on a complex order parameter. [Read more](https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_theory)
 <!-- EQUATION_END -->
 
 <br>
