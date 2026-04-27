@@ -225,12 +225,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \alpha \psi + \beta |\psi|^2 \psi + \frac{1}{2m}(-i\hbar\nabla - 2e\mathbf{A})^2 \psi = 0
+\large \lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = C \neq 0
 $$
 
-Vitaly Ginzburg & Lev Landau - **Ginzburg-Landau Equation** (1950)
+Bryan Birch & Peter Swinnerton-Dyer - **Birch and Swinnerton-Dyer Conjecture** (1965)
 > [!NOTE]
-> A macroscopic mathematical theory used to model superconductivity based on a complex order parameter. [Read more](https://en.wikipedia.org/wiki/Ginzburg%E2%80%93Landau_theory)
+> A Millennium Prize Problem describing the set of rational solutions to equations defining an elliptic curve. [Read more](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture)
 <!-- EQUATION_END -->
 
 <br>
