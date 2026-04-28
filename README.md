@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [AKCodez/career-ops](https://github.com/AKCodez/career-ops) - _just now_
-2. 🔨 Pushed [`3c0524f`](https://github.com/Thesirix/StreakMaster/commit/3c0524f85357e46b350fa891d7d1787dade91529) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _6h ago_
-3. 🔨 Pushed [`93bf226`](https://github.com/Thesirix/Thesirix/commit/93bf226d67d328db1fc33c162710b3e3479a3abf) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _21h ago_
-4. 🔨 Pushed [`7f7c907`](https://github.com/Thesirix/StreakMaster/commit/7f7c9071f0c5d886235bf3e2320dad27e034152c) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-5. 🔨 Pushed [`a7846e5`](https://github.com/Thesirix/Thesirix/commit/a7846e50d44ce838a6538b4ebda2aee106f27b78) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+1. ⭐ Starred [nayeem-miah/on-Time-News-server-12](https://github.com/nayeem-miah/on-Time-News-server-12) - _just now_
+2. ⭐ Starred [Bhanu99517/Pss-trust-legal-policies](https://github.com/Bhanu99517/Pss-trust-legal-policies) - _just now_
+3. ⭐ Starred [dariacricliuc/Final_Project-final_version](https://github.com/dariacricliuc/Final_Project-final_version) - _just now_
+4. ⭐ Starred [Raphael163/game.pygame](https://github.com/Raphael163/game.pygame) - _just now_
+5. ⭐ Starred [joe16000/algeriene-ramadhan-Imsak-iftar-prayer-times](https://github.com/joe16000/algeriene-ramadhan-Imsak-iftar-prayer-times) - _just now_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
