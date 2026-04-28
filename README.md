@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [GodFather850/GodFather850](https://github.com/GodFather850/GodFather850) - _just now_
-2. ⭐ Starred [KJNotfound/myWork](https://github.com/KJNotfound/myWork) - _just now_
-3. ⭐ Starred [BADZA99/tp-graphql](https://github.com/BADZA99/tp-graphql) - _just now_
-4. ⭐ Starred [rfatolahzade/kubespray](https://github.com/rfatolahzade/kubespray) - _just now_
-5. ⭐ Starred [ddrayko/v6-portfolio](https://github.com/ddrayko/v6-portfolio) - _just now_
+1. 🔨 Pushed [`e15a7b9`](https://github.com/Thesirix/Thesirix/commit/e15a7b97dde463181448bb16ae0fc059f0912034) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
+2. ⭐ Starred [andyruwruw/andyruwruw](https://github.com/andyruwruw/andyruwruw) - _just now_
+3. ⭐ Starred [satya00089/learning-langchain](https://github.com/satya00089/learning-langchain) - _just now_
+4. ⭐ Starred [MuhammadIsamuTaqiyAli/SecureBank-Cybersecurity-Modernization-](https://github.com/MuhammadIsamuTaqiyAli/SecureBank-Cybersecurity-Modernization-) - _1h ago_
+5. ⭐ Starred [siddharth277/Ai-lab](https://github.com/siddharth277/Ai-lab) - _1h ago_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
