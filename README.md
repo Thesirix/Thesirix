@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [nayeem-miah/on-Time-News-server-12](https://github.com/nayeem-miah/on-Time-News-server-12) - _just now_
-2. ⭐ Starred [Bhanu99517/Pss-trust-legal-policies](https://github.com/Bhanu99517/Pss-trust-legal-policies) - _just now_
-3. ⭐ Starred [dariacricliuc/Final_Project-final_version](https://github.com/dariacricliuc/Final_Project-final_version) - _just now_
-4. ⭐ Starred [Raphael163/game.pygame](https://github.com/Raphael163/game.pygame) - _just now_
-5. ⭐ Starred [joe16000/algeriene-ramadhan-Imsak-iftar-prayer-times](https://github.com/joe16000/algeriene-ramadhan-Imsak-iftar-prayer-times) - _just now_
+1. ⭐ Starred [keitagame/ospkg](https://github.com/keitagame/ospkg) - _just now_
+2. ⭐ Starred [keitagame/midi-okiba](https://github.com/keitagame/midi-okiba) - _just now_
+3. ⭐ Starred [prosonjit2006/Medical_Equipment_Final](https://github.com/prosonjit2006/Medical_Equipment_Final) - _just now_
+4. ⭐ Starred [p4p1/tryhackme-badge-workflow](https://github.com/p4p1/tryhackme-badge-workflow) - _just now_
+5. ⭐ Starred [Manisha6284Gupta/Codify](https://github.com/Manisha6284Gupta/Codify) - _just now_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
