@@ -130,7 +130,7 @@ jobs:
 
   # ── 6. Space Shooter ─────────────────────────────────────────────────────────
   space-shooter:
-    name: "🚀 Space Shooter"
+    name: "🛸 Space Shooter"
     needs: [pacman]
     continue-on-error: true
     permissions: write-all
@@ -160,8 +160,8 @@ jobs:
           if git diff --cached --exit-code; then
             echo "No changes."
           else
-            git commit -m "🚀 Update space shooter"
-            git pull --rebase origin main
+            git commit -m "🛸 Update space shooter"
+            git pull --rebase --autostash origin main
             git push origin main
           fi
 
