@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \lim_{N\to\infty} \frac{1}{N} \sum_{n=0}^{N-1} f(T^n x) = \int_X f d\mu
+\large N = N_0 \cdot 2^{t/2}
 $$
 
-George David Birkhoff - **Birkhoff's Ergodic Theorem** (1931)
+Gordon Moore - **Moore's Law** (1965)
 > [!NOTE]
-> Formalizes the idea that for an ergodic system, the time average is equal to the space average. [Read more](https://en.wikipedia.org/wiki/Ergodic_theory#Birkhoff's_ergodic_theorem)
+> An observation that the number of transistors in a dense integrated circuit doubles about every two years. [Read more](https://en.wikipedia.org/wiki/Moore%27s_law)
 <!-- EQUATION_END -->
 
 <br>
