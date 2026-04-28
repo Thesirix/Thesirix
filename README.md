@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [keitagame/ospkg](https://github.com/keitagame/ospkg) - _just now_
-2. ⭐ Starred [keitagame/midi-okiba](https://github.com/keitagame/midi-okiba) - _just now_
-3. ⭐ Starred [prosonjit2006/Medical_Equipment_Final](https://github.com/prosonjit2006/Medical_Equipment_Final) - _just now_
-4. ⭐ Starred [p4p1/tryhackme-badge-workflow](https://github.com/p4p1/tryhackme-badge-workflow) - _just now_
-5. ⭐ Starred [Manisha6284Gupta/Codify](https://github.com/Manisha6284Gupta/Codify) - _just now_
+1. ⭐ Starred [GodFather850/GodFather850](https://github.com/GodFather850/GodFather850) - _just now_
+2. ⭐ Starred [KJNotfound/myWork](https://github.com/KJNotfound/myWork) - _just now_
+3. ⭐ Starred [BADZA99/tp-graphql](https://github.com/BADZA99/tp-graphql) - _just now_
+4. ⭐ Starred [rfatolahzade/kubespray](https://github.com/rfatolahzade/kubespray) - _just now_
+5. ⭐ Starred [ddrayko/v6-portfolio](https://github.com/ddrayko/v6-portfolio) - _just now_
 <!-- ACTIVITY_END -->
 
 ## 🗣️ Languages I Speak
