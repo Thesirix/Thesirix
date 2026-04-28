@@ -225,12 +225,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \lim_{s \to 1} \frac{L(E, s)}{(s-1)^r} = C \neq 0
+\large \lim_{N\to\infty} \frac{1}{N} \sum_{n=0}^{N-1} f(T^n x) = \int_X f d\mu
 $$
 
-Bryan Birch & Peter Swinnerton-Dyer - **Birch and Swinnerton-Dyer Conjecture** (1965)
+George David Birkhoff - **Birkhoff's Ergodic Theorem** (1931)
 > [!NOTE]
-> A Millennium Prize Problem describing the set of rational solutions to equations defining an elliptic curve. [Read more](https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture)
+> Formalizes the idea that for an ergodic system, the time average is equal to the space average. [Read more](https://en.wikipedia.org/wiki/Ergodic_theory#Birkhoff's_ergodic_theorem)
 <!-- EQUATION_END -->
 
 <br>
