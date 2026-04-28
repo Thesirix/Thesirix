@@ -128,10 +128,47 @@ jobs:
             git push origin main
           fi
 
-  # ── 6. Contrib Card ──────────────────────────────────────────────────────────
+  # ── 6. Space Shooter ─────────────────────────────────────────────────────────
+  space-shooter:
+    name: "🚀 Space Shooter"
+    needs: [pacman]
+    continue-on-error: true
+    permissions: write-all
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Generate Space Shooter GIF
+        uses: czl9707/gh-space-shooter@v1
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          output-path: "space-shooter.gif"
+          strategy: "random"
+
+      - name: Move GIF to assets
+        run: |
+          mv space-shooter.gif assets/space-shooter.gif
+
+      - name: Commit & push
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/space-shooter.gif
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "🚀 Update space shooter"
+            git pull --rebase origin main
+            git push origin main
+          fi
+
+  # ── 7. Contrib Card ──────────────────────────────────────────────────────────
   contrib-card:
     name: "🃏 Contrib Card"
-    needs: [pacman]
+    needs: [space-shooter]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
