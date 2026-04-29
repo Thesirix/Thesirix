@@ -488,10 +488,52 @@ quadrantChart
 🔝
 <div align="center">
 
+<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+
+[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
+
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesirix&theme=tokyonight)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesirix&theme=tokyonight)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
 ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesirix&theme=tokyonight)
+
+<!--START_SECTION:waka-->
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.12 % 
+🌃 Evening                1052 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
+Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
+Wednesday                661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
+Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages: 
+Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+```
+
+
+<!--END_SECTION:waka-->
 
 ![Stack Overflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/21350979?theme=dark)
 
@@ -617,48 +659,6 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 </div>
 
 <div align="center">
-
-[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
-
-<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.12 % 
-🌃 Evening                1052 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
-Wednesday                661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
-Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-```
-
-
-<!--END_SECTION:waka-->
 
 [![GitHub Followers](https://img.shields.io/github/followers/thesirix?logo=github&style=plastic)](https://github.com/thesirix)
 
