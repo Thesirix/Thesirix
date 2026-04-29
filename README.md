@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large N = N_0 \cdot 2^{t/2}
+\large R = Y - C
 $$
 
-Gordon Moore - **Moore's Law** (1965)
+David Ricardo - **The Law of Rent** (1809)
 > [!NOTE]
-> An observation that the number of transistors in a dense integrated circuit doubles about every two years. [Read more](https://en.wikipedia.org/wiki/Moore%27s_law)
+> States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
 <!-- EQUATION_END -->
 
 <br>
