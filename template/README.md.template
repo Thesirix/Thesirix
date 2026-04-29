@@ -427,13 +427,7 @@ quadrantChart
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight"/>
 
-  <img src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg"/>
-
-  <br>
-
-  <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
 
 <br><br>
 
@@ -471,10 +465,29 @@ quadrantChart
 🔝
 <div align="center">
 
+<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+
+[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
+
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesirix&theme=tokyonight)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesirix&theme=tokyonight)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
 ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesirix&theme=tokyonight)
+
+<div align="center">
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight"/>
+
+  <img src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg"/>
+
+  <br>
+
+  <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
+
+<br><br>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ![Stack Overflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/21350979?theme=dark)
 
@@ -593,14 +606,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
-
-<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-
+[![GitHub Followers](https://img.shields.io/github/followers/thesirix?logo=github&style=plastic)](https://github.com/thesirix)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thesirix?theme=unicorn&font=Amiri)
 
