@@ -3,6 +3,10 @@ name: "📋 Rebuild from template"
 on:
   workflow_dispatch:
 
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
 jobs:
   rebuild:
     permissions: write-all

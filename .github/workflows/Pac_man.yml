@@ -6,6 +6,10 @@ on:
   workflow_dispatch:
   workflow_call:
 
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
 jobs:
   generate:
     permissions: write-all
