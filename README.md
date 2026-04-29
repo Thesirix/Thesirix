@@ -218,6 +218,7 @@ Do you have a technical challenge or an app idea? Let's talk.
     > > > > > > > 371c4ae7a46a7c46de821e4808693ed69a5d7d5d
     <!-- ACTIVITY_END -->
 
+
 ## 🗣️ Languages I Speak
 
 <div align="center">
@@ -462,6 +463,12 @@ quadrantChart
 
 [![Star History](https://api.star-history.com/svg?repos=thesirix/thesirix&type=date&theme=dark)](https://star-history.com/#thesirix/thesirix)
 
+<div align="center">
+
+
+
+<br><br>
+
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
   </a>
@@ -496,15 +503,69 @@ quadrantChart
 🔝
 <div align="center">
 
+<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+
+[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
+
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesirix&theme=tokyonight)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesirix&theme=tokyonight)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
 ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesirix&theme=tokyonight)
 
+<div align="center">
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight"/>
+
+  <img src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg"/>
+
+  <br>
+
+  <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
+
+<br><br>
+
+<!--START_SECTION:waka-->
+
+**I'm an Early 🐤**
+
+```text
+🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 %
+🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.07 %
+🌃 Evening                1057 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 %
+🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
+```
+
+📅 **I'm Most Productive on Tuesday**
+
+```text
+Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
+Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.74 %
+Wednesday                666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
+Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
+Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+```
+
+📊 **This Week I Spent My Time On**
+
+```text
+🕑︎ Time Zone: Europe/Paris
+
+💬 Programming Languages:
+Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 %
+Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 %
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+```
+
+<!--END_SECTION:waka-->
+
 ![Stack Overflow profile](https://stackoverflow-readme-profile.johannchopin.fr/profile/21350979?theme=dark)
 
 <p align="center">
-  <a href="https://gitroll.io/profile/uRfPzVMN2ivbOnybp8l6yzqo9VPY2"  target="_blank">
+  <a href="https://gitroll.io/profile/uRfPzVMN2ivbOnybp8l6yzqo9VPY2" target="_blank">
     <img align="center" src="https://gitroll.io/api/badges/profiles/v1/uRfPzVMN2ivbOnybp8l6yzqo9VPY2?theme=dracula" height="310" alt="GitRoll Profile Badge"/>
   </a>
 </p>
@@ -626,47 +687,7 @@ Below are links to profiles where you can see Readme Typing SVGs in action!
 
 <div align="center">
 
-[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
-
-<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
-
-<!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 %
-🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.07 %
-🌃 Evening                1057 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 %
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-```
-
-📅 **I'm Most Productive on Tuesday**
-
-```text
-Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.74 %
-Wednesday                666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 %
-```
-
-📊 **This Week I Spent My Time On**
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages:
-Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 %
-Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 %
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
-```
-
-<!--END_SECTION:waka-->
+[![GitHub Followers](https://img.shields.io/github/followers/thesirix?logo=github&style=plastic)](https://github.com/thesirix)
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/thesirix?theme=unicorn&font=Amiri)
 
