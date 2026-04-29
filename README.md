@@ -202,13 +202,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
+
 1. 🔨 Pushed [`67b4203`](https://github.com/Thesirix/Thesirix/commit/67b42034a428ba3a6799c0024212b50fffa6a139) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
 2. 🔨 Pushed [`db862b2`](https://github.com/Thesirix/Thesirix/commit/db862b2a62ad7f553b4f464056406e561bda8153) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
 3. 🔨 Pushed [`70c58c5`](https://github.com/Thesirix/StreakMaster/commit/70c58c5fd73379996f0ca6ca101ec6c559379fc1) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _10h ago_
 4. 🔨 Pushed [`8abec0a`](https://github.com/Thesirix/Thesirix/commit/8abec0ad81504f2c8d166f584da9a375bb63aef8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _23h ago_
 5. 🔨 Pushed [`9920be0`](https://github.com/Thesirix/Thesirix/commit/9920be0b272cf17c45b235eb772beee952e2bfde) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _23h ago_
 <!-- ACTIVITY_END -->
-
 
 ## 🗣️ Languages I Speak
 
@@ -225,13 +225,16 @@ Do you have a technical challenge or an app idea? Let's talk.
 ## 🧮 Equation of the Day
 
 <!-- EQUATION_START -->
+
 $$
 \large R = Y - C
 $$
 
 David Ricardo - **The Law of Rent** (1809)
+
 > [!NOTE]
 > States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
+
 <!-- EQUATION_END -->
 
 <br>
@@ -442,18 +445,6 @@ quadrantChart
 
 [![Star History](https://api.star-history.com/svg?repos=thesirix/thesirix&type=date&theme=dark)](https://star-history.com/#thesirix/thesirix)
 
-<div align="center">
-
-  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight"/>
-
-  <img src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg"/>
-
-  <br>
-
-  <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
-
-<br><br>
-
   <a href="./assets/Map/map_marseille.geojson">
     <img src="assets/Map/map_marseille.gif" width="420" alt="Interactive Map of Marseille"/>
   </a>
@@ -497,41 +488,53 @@ quadrantChart
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
 ![Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thesirix&theme=tokyonight)
 
+<div align="center">
+
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=thesirix&theme=tokyonight"/>
+
+  <img src="https://gist.githubusercontent.com/Thesirix/237fa247f84c854773cbca67510a6372/raw/rank.svg"/>
+
+  <br>
+
+  <img src="https://gstats.buddies-dev.de/api/top-langs?username=thesirix&theme=tokyonight&layout=compact"/>
+
+<br><br>
+
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
+
+**I'm an Early 🐤**
 
 ```text
-🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
-🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.12 % 
-🌃 Evening                1052 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.48 %
+🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.12 %
+🌃 Evening                1052 commits        █████░░░░░░░░░░░░░░░░░░░░   21.62 %
+🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 %
 ```
-📅 **I'm Most Productive on Tuesday** 
+
+📅 **I'm Most Productive on Tuesday**
 
 ```text
-Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 % 
-Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.78 % 
-Wednesday                661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 % 
-Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
-Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 % 
-Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.28 %
+Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.78 %
+Wednesday                661 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.58 %
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.69 %
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 %
+Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.08 %
+Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages: 
-Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
-Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
-HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+💬 Programming Languages:
+Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 %
+Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 %
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
 ```
-
 
 <!--END_SECTION:waka-->
 
