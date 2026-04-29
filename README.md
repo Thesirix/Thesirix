@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large R = Y - C
+\large T_H = \frac{\hbar c^3}{8\pi G M k_B}
 $$
 
-David Ricardo - **The Law of Rent** (1809)
+Stephen Hawking - **Hawking Radiation Temperature** (1974)
 > [!NOTE]
-> States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
+> Predicts that black holes emit black-body radiation due to quantum effects near the event horizon. [Read more](https://en.wikipedia.org/wiki/Hawking_radiation)
 <!-- EQUATION_END -->
 
 <br>
