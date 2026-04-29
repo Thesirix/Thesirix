@@ -516,40 +516,40 @@ quadrantChart
 <br><br>
 
 <!--START_SECTION:waka-->
-
-**I'm an Early 🐤**
-
-```text
-🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.45 %
-🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.07 %
-🌃 Evening                1057 commits        █████░░░░░░░░░░░░░░░░░░░░   21.70 %
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-```
-
-📅 **I'm Most Productive on Tuesday**
+**I'm an Early 🐤** 
 
 ```text
-Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.27 %
-Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.74 %
-Wednesday                666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.67 %
-Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
-Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
-Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 %
+🌞 Morning                1337 commits        ███████░░░░░░░░░░░░░░░░░░   27.43 % 
+🌆 Daytime                2244 commits        ████████████░░░░░░░░░░░░░   46.04 % 
+🌃 Evening                1060 commits        █████░░░░░░░░░░░░░░░░░░░░   21.75 % 
+🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   695 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
+Tuesday                  1741 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+Wednesday                669 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Thursday                 666 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+Saturday                 247 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.07 % 
+Sunday                   472 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
 ```
 
-📊 **This Week I Spent My Time On**
+
+📊 **This Week I Spent My Time On** 
 
 ```text
 🕑︎ Time Zone: Europe/Paris
 
-💬 Programming Languages:
-Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 %
-Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 %
-YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 %
-Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 %
-HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 %
+💬 Programming Languages: 
+Markdown                 6 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+Python                   4 hrs 20 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+YAML                     1 hr 42 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Other                    1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
+HTML                     1 hr 18 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 ```
+
 
 <!--END_SECTION:waka-->
 
