@@ -2,9 +2,13 @@ name: "🛸 Space Shooter Game"
 
 on:
   schedule:
-    - cron: "0 5,15 * * *"
+    - cron: "0 6,18 * * *"
   workflow_dispatch:
   workflow_call:
+
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
 
 jobs:
   generate:

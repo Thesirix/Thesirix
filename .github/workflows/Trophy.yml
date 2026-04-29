@@ -5,9 +5,13 @@ on:
     paths:
       - '.github/workflows/Trophy.yml'
   schedule:
-    - cron: '0 5 * * 1'
+    - cron: '30 6 * * 1'
   workflow_dispatch:
   workflow_call:
+
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
 
 jobs:
   trophy:

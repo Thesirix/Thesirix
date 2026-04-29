@@ -7,6 +7,10 @@ on:
   workflow_call:
   workflow_dispatch:
 
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
 jobs:
 
   # ── Waka Stats ────────────────────────────────────────────────────────────────

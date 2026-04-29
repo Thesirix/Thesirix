@@ -5,6 +5,10 @@ on:
     - cron: "0 1 * * *"
   workflow_dispatch:
 
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
 jobs:
   github-metrics:
     name: "📊 GitHub Metrics"
