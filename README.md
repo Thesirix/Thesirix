@@ -225,25 +225,13 @@ Do you have a technical challenge or an app idea? Let's talk.
 ## 🧮 Equation of the Day
 
 <!-- EQUATION_START -->
-
 $$
-\large T_H = \frac{\hbar c^3}{8\pi G M k_B}
+\large \min_{w, b} \frac{1}{2} ||w||^2 \text{ s.t. } y_i(w \cdot x_i + b) \ge 1
 $$
 
-<<<<<<< HEAD
-David Ricardo - **The Law of Rent** (1809)
-
+Vladimir Vapnik - **Support Vector Machine Margin** (1995)
 > [!NOTE]
-> States that the rent of a land site is equal to the economic advantage obtained by using the site in its most productive use. [Read more](https://en.wikipedia.org/wiki/Law_of_rent)
-
-=======
-Stephen Hawking - **Hawking Radiation Temperature** (1974)
-
-> [!NOTE]
-> Predicts that black holes emit black-body radiation due to quantum effects near the event horizon. [Read more](https://en.wikipedia.org/wiki/Hawking_radiation)
->
-> > > > > > > 371c4ae7a46a7c46de821e4808693ed69a5d7d5d
-
+> The optimization objective for an SVM, defining the optimal separating hyperplane between data classes. [Read more](https://en.wikipedia.org/wiki/Support_vector_machine)
 <!-- EQUATION_END -->
 
 <br>
