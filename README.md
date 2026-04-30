@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \min_{w, b} \frac{1}{2} ||w||^2 \text{ s.t. } y_i(w \cdot x_i + b) \ge 1
+\large p(x) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x)}}
 $$
 
-Vladimir Vapnik - **Support Vector Machine Margin** (1995)
+David Cox - **Logistic Regression Curve** (1958)
 > [!NOTE]
-> The optimization objective for an SVM, defining the optimal separating hyperplane between data classes. [Read more](https://en.wikipedia.org/wiki/Support_vector_machine)
+> Models the probability of a discrete outcome given an input variable. [Read more](https://en.wikipedia.org/wiki/Logistic_regression)
 <!-- EQUATION_END -->
 
 <br>
