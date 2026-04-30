@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [adornetejr/adornetejr](https://github.com/adornetejr/adornetejr) - _just now_
-2. ⭐ Starred [Abhi-lash19/Abhi-lash19](https://github.com/Abhi-lash19/Abhi-lash19) - _just now_
-3. ⭐ Starred [Abhi-lash19/Python-FastApi-AWS](https://github.com/Abhi-lash19/Python-FastApi-AWS) - _just now_
-4. ⭐ Starred [Abhi-lash19/GitInsight_Engine](https://github.com/Abhi-lash19/GitInsight_Engine) - _just now_
-5. ⭐ Starred [sayantanr/lofi_with_equalizer](https://github.com/sayantanr/lofi_with_equalizer) - _just now_
+1. ⭐ Starred [dv0retsky/2048-game](https://github.com/dv0retsky/2048-game) - _just now_
+2. ⭐ Starred [dv0retsky/cpp-tutorial](https://github.com/dv0retsky/cpp-tutorial) - _just now_
+3. ⭐ Starred [areenatanim/areenatanim](https://github.com/areenatanim/areenatanim) - _just now_
+4. ⭐ Starred [areenatanim/result-school-college](https://github.com/areenatanim/result-school-college) - _just now_
+5. ⭐ Starred [Unai757/MenuCiclista](https://github.com/Unai757/MenuCiclista) - _just now_
 <!-- ACTIVITY_END -->
 
 
