@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`e5349a2`](https://github.com/Thesirix/Thesirix/commit/e5349a2e894c55757012b8df3e76603599fceab4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. ⭐ Starred [simeydotme/sparticles](https://github.com/simeydotme/sparticles) - _4h ago_
-3. ⭐ Starred [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - _4h ago_
-4. 🔨 Pushed [`477a0ea`](https://github.com/Thesirix/StreakMaster/commit/477a0ea5c0b49123997925c1a31fe1b7b48660d7) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _8h ago_
-5. 🔨 Pushed [`266b7e1`](https://github.com/Thesirix/Thesirix/commit/266b7e14edf6cdf8518977cb77e288774d6c1b6e) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _21h ago_
+1. 🔨 Pushed [`e5349a2`](https://github.com/Thesirix/Thesirix/commit/e5349a2e894c55757012b8df3e76603599fceab4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
+2. ⭐ Starred [simeydotme/sparticles](https://github.com/simeydotme/sparticles) - _5h ago_
+3. ⭐ Starred [simeydotme/pokemon-cards-css](https://github.com/simeydotme/pokemon-cards-css) - _5h ago_
+4. 🔨 Pushed [`477a0ea`](https://github.com/Thesirix/StreakMaster/commit/477a0ea5c0b49123997925c1a31fe1b7b48660d7) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _9h ago_
+5. 🔨 Pushed [`266b7e1`](https://github.com/Thesirix/Thesirix/commit/266b7e14edf6cdf8518977cb77e288774d6c1b6e) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _22h ago_
 <!-- ACTIVITY_END -->
 
 
