@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large p(x) = \frac{1}{1 + e^{-(\beta_0 + \beta_1 x)}}
+\large \mathbf{v}_d = \mu \mathbf{E}
 $$
 
-David Cox - **Logistic Regression Curve** (1958)
+Paul Drude - **Drift Velocity** (1900)
 > [!NOTE]
-> Models the probability of a discrete outcome given an input variable. [Read more](https://en.wikipedia.org/wiki/Logistic_regression)
+> The average velocity attained by charged particles, such as electrons, in a material due to an electric field. [Read more](https://en.wikipedia.org/wiki/Drift_velocity)
 <!-- EQUATION_END -->
 
 <br>
