@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathbf{v}_d = \mu \mathbf{E}
+\large V = \frac{1}{n} R_h^{2/3} S^{1/2}
 $$
 
-Paul Drude - **Drift Velocity** (1900)
+Robert Manning - **Manning Formula** (1889)
 > [!NOTE]
-> The average velocity attained by charged particles, such as electrons, in a material due to an electric field. [Read more](https://en.wikipedia.org/wiki/Drift_velocity)
+> An empirical formula estimating the average velocity of a liquid flowing in a conduit that does not completely enclose the liquid. [Read more](https://en.wikipedia.org/wiki/Manning_formula)
 <!-- EQUATION_END -->
 
 <br>
