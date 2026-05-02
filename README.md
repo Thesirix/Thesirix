@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`8d59e7e`](https://github.com/Thesirix/StreakMaster/commit/8d59e7e0ae40a9eba2c97e9bc6027c6ae24482ab) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _just now_
-2. 🔨 Pushed [`902b3ec`](https://github.com/Thesirix/Thesirix/commit/902b3ec5546d5d01c8525e0596fe0f6505ad3401) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _15h ago_
-3. 🔨 Pushed [`03a550c`](https://github.com/Thesirix/Korgex/commit/03a550c84fc9d0bcc324f3434777c6ff3e2fa57b) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _19h ago_
-4. 🔨 Pushed [`d503b38`](https://github.com/Thesirix/pagepresentation/commit/d503b38ff4ba178e83e54b964a8a1f383b83e915) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _20h ago_
-5. 🔨 Pushed [`5091c9d`](https://github.com/Thesirix/EZ-Bike/commit/5091c9d810852939b84b52c5951bb64990c9aa7a) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _21h ago_
+1. ⭐ Starred [KenneyNL/Starter-Kit-Match-3](https://github.com/KenneyNL/Starter-Kit-Match-3) - _just now_
+2. 🔨 Pushed [`8d59e7e`](https://github.com/Thesirix/StreakMaster/commit/8d59e7e0ae40a9eba2c97e9bc6027c6ae24482ab) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _just now_
+3. 🔨 Pushed [`902b3ec`](https://github.com/Thesirix/Thesirix/commit/902b3ec5546d5d01c8525e0596fe0f6505ad3401) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _16h ago_
+4. 🔨 Pushed [`03a550c`](https://github.com/Thesirix/Korgex/commit/03a550c84fc9d0bcc324f3434777c6ff3e2fa57b) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _20h ago_
+5. 🔨 Pushed [`d503b38`](https://github.com/Thesirix/pagepresentation/commit/d503b38ff4ba178e83e54b964a8a1f383b83e915) to [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) on `main` - _21h ago_
 <!-- ACTIVITY_END -->
 
 
