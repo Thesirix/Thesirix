@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V = \frac{1}{n} R_h^{2/3} S^{1/2}
+\large \frac{d\sigma}{d\Omega} = \frac{1}{2} r_e^2 \left(\frac{\lambda}{\lambda'}\right)^2 \left( \frac{\lambda}{\lambda'} + \frac{\lambda'}{\lambda} - \sin^2\theta \right)
 $$
 
-Robert Manning - **Manning Formula** (1889)
+Oskar Klein & Yoshio Nishina - **Klein-Nishina Formula** (1929)
 > [!NOTE]
-> An empirical formula estimating the average velocity of a liquid flowing in a conduit that does not completely enclose the liquid. [Read more](https://en.wikipedia.org/wiki/Manning_formula)
+> Gives the differential cross section of photons scattered from a single free electron in lowest order of quantum electrodynamics. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula)
 <!-- EQUATION_END -->
 
 <br>
