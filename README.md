@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large K = \frac{R_{1212}}{g_{11}g_{22} - g_{12}^2}
+\large \sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}}
 $$
 
-Carl Friedrich Gauss - **Theorema Egregium** (1827)
+John S. Bridle - **Softmax Function** (1989)
 > [!NOTE]
-> Proves that the Gaussian curvature of a surface can be determined entirely by measuring angles and distances on the surface itself. [Read more](https://en.wikipedia.org/wiki/Theorema_Egregium)
+> Converts a vector of numbers into a vector of probabilities, heavily used in the final layer of neural networks. [Read more](https://en.wikipedia.org/wiki/Softmax_function)
 <!-- EQUATION_END -->
 
 <br>
