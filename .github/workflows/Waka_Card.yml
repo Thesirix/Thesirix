@@ -1,0 +1,64 @@
+name: "⏱️ Waka Card"
+
+on:
+  schedule:
+    - cron: "20 2,8,14,20 * * *"
+  workflow_dispatch:
+  workflow_call:
+    secrets:
+      WAKATIME_API_KEY:
+        required: false
+
+concurrency:
+  group: push-to-main
+  cancel-in-progress: false
+
+jobs:
+  waka-card:
+    name: "⏱️ Generate Waka Card"
+    permissions: write-all
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - name: Fetch waka card source
+        run: |
+          git fetch origin waka_card
+          mkdir -p waka-card
+          for f in $(git ls-tree -r --name-only origin/waka_card); do
+            mkdir -p "waka-card/$(dirname "$f")"
+            git show "origin/waka_card:$f" > "waka-card/$f"
+          done
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install deps
+        run: npm install --no-audit --no-fund
+        working-directory: waka-card
+
+      - name: Generate SVG
+        env:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          WAKATIME_USERNAME: ${{ github.repository_owner }}
+        run: node generate.js
+        working-directory: waka-card
+
+      - name: Move SVG to assets
+        run: cp waka-card/waka-card.svg assets/waka-card.svg
+
+      - name: Commit & push to main
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add assets/waka-card.svg
+          if git diff --cached --exit-code; then
+            echo "No changes."
+          else
+            git commit -m "⏱️ Update waka card"
+            git pull --rebase --autostash origin main
+            git push origin main
+          fi

@@ -482,7 +482,7 @@ quadrantChart
 🔝
 <div align="center">
 
-<img alt="Thesirix's Top Languages WakaTime" src="https://github-readme-stats.vercel.app/api/wakatime?username=thesirix&theme=tokyonight&title_color=5acbe9&text_color=DEDEDE&hide_border=true&text_bold=true&layout=compact" /><br>
+<img alt="Thesirix's Top Languages WakaTime" src="assets/waka-card.svg" /><br>
 
 [![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
 

@@ -577,6 +577,13 @@ jobs:
     uses: ./.github/workflows/Waka.yml
     secrets: inherit
 
+  # ── 12b. Waka Card (self-hosted SVG) ─────────────────────────────────────────
+  waka-card:
+    name: "⏱️ Waka Card"
+    needs: [waka]
+    uses: ./.github/workflows/Waka_Card.yml
+    secrets: inherit
+
   # ── 13. Rebuild README from template ─────────────────────────────────────────
   rebuild:
     name: "📋 Rebuild from template"
@@ -606,7 +613,7 @@ jobs:
   # ── 14. Equation of the Day ──────────────────────────────────────────────────
   equation:
     name: "🧮 Equation of the Day"
-    needs: [waka]
+    needs: [waka-card]
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
