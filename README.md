@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d\sigma}{d\Omega} = \frac{1}{2} r_e^2 \left(\frac{\lambda}{\lambda'}\right)^2 \left( \frac{\lambda}{\lambda'} + \frac{\lambda'}{\lambda} - \sin^2\theta \right)
+\large K = \frac{R_{1212}}{g_{11}g_{22} - g_{12}^2}
 $$
 
-Oskar Klein & Yoshio Nishina - **Klein-Nishina Formula** (1929)
+Carl Friedrich Gauss - **Theorema Egregium** (1827)
 > [!NOTE]
-> Gives the differential cross section of photons scattered from a single free electron in lowest order of quantum electrodynamics. [Read more](https://en.wikipedia.org/wiki/Klein%E2%80%93Nishina_formula)
+> Proves that the Gaussian curvature of a surface can be determined entirely by measuring angles and distances on the surface itself. [Read more](https://en.wikipedia.org/wiki/Theorema_Egregium)
 <!-- EQUATION_END -->
 
 <br>
