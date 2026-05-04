@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \sigma(\mathbf{z})_i = \frac{e^{z_i}}{\sum_{j=1}^K e^{z_j}}
+\large V_H = \frac{I B}{n t e}
 $$
 
-John S. Bridle - **Softmax Function** (1989)
+Edwin Hall - **Hall Voltage** (1879)
 > [!NOTE]
-> Converts a vector of numbers into a vector of probabilities, heavily used in the final layer of neural networks. [Read more](https://en.wikipedia.org/wiki/Softmax_function)
+> The voltage difference generated across an electrical conductor, transverse to an electric current in the conductor and to an applied magnetic field. [Read more](https://en.wikipedia.org/wiki/Hall_effect)
 <!-- EQUATION_END -->
 
 <br>
