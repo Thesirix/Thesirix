@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V_H = \frac{I B}{n t e}
+\large X_L = 2\pi f L
 $$
 
-Edwin Hall - **Hall Voltage** (1879)
+Oliver Heaviside - **Inductive Reactance** (1887)
 > [!NOTE]
-> The voltage difference generated across an electrical conductor, transverse to an electric current in the conductor and to an applied magnetic field. [Read more](https://en.wikipedia.org/wiki/Hall_effect)
+> The opposition of an inductor to a changing current. [Read more](https://en.wikipedia.org/wiki/Electrical_reactance#Inductive_reactance)
 <!-- EQUATION_END -->
 
 <br>
