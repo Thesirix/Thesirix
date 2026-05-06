@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large X_L = 2\pi f L
+\large E[W] = \frac{E[X^2]}{2E[X]}
 $$
 
-Oliver Heaviside - **Inductive Reactance** (1887)
+Probability Standard - **The 'Wait-Time' Paradox** (1950)
 > [!NOTE]
-> The opposition of an inductor to a changing current. [Read more](https://en.wikipedia.org/wiki/Electrical_reactance#Inductive_reactance)
+> The mathematical reason why the bus always seems to take longer than the average waiting time. [Read more](https://en.wikipedia.org/wiki/Inspection_paradox)
 <!-- EQUATION_END -->
 
 <br>
