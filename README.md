@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large E[W] = \frac{E[X^2]}{2E[X]}
+\large \lambda_T = \sqrt{\frac{15 \nu u'^2}{\varepsilon}}
 $$
 
-Probability Standard - **The 'Wait-Time' Paradox** (1950)
+G. I. Taylor - **Taylor Microscale** (1935)
 > [!NOTE]
-> The mathematical reason why the bus always seems to take longer than the average waiting time. [Read more](https://en.wikipedia.org/wiki/Inspection_paradox)
+> An intermediate length scale in fluid turbulence, representing the scale at which fluid viscosity significantly affects the dynamics. [Read more](https://en.wikipedia.org/wiki/Taylor_microscale)
 <!-- EQUATION_END -->
 
 <br>
