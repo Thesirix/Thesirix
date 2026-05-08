@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \lambda_T = \sqrt{\frac{15 \nu u'^2}{\varepsilon}}
+\large \text{Ha} = B L \sqrt{\frac{\sigma}{\mu}}
 $$
 
-G. I. Taylor - **Taylor Microscale** (1935)
+Julius Hartmann - **Hartmann Number** (1937)
 > [!NOTE]
-> An intermediate length scale in fluid turbulence, representing the scale at which fluid viscosity significantly affects the dynamics. [Read more](https://en.wikipedia.org/wiki/Taylor_microscale)
+> The ratio of electromagnetic force to the viscous force in magnetohydrodynamics. [Read more](https://en.wikipedia.org/wiki/Hartmann_number)
 <!-- EQUATION_END -->
 
 <br>
