@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Ha} = B L \sqrt{\frac{\sigma}{\mu}}
+\large V(x) = \max_{a \in \Gamma(x)} \{ F(x,a) + \beta V(T(x,a)) \}
 $$
 
-Julius Hartmann - **Hartmann Number** (1937)
+Richard Bellman - **Bellman Equation** (1957)
 > [!NOTE]
-> The ratio of electromagnetic force to the viscous force in magnetohydrodynamics. [Read more](https://en.wikipedia.org/wiki/Hartmann_number)
+> A necessary condition for optimality associated with the mathematical optimization method known as dynamic programming. [Read more](https://en.wikipedia.org/wiki/Bellman_equation)
 <!-- EQUATION_END -->
 
 <br>
