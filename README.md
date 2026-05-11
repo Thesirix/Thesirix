@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \langle \text{T} \{ \frac{\delta S}{\delta \phi(x)} \phi(x_1) ... \phi(x_n) \} \rangle = i \sum_{j=1}^n \delta^{(4)}(x - x_j) \langle \text{T} \{ \phi(x_1) ... \hat{\phi}(x_j) ... \phi(x_n) \} \rangle
+\large \text{Re} = \frac{\rho v D}{\mu}
 $$
 
-Julian Schwinger & Freeman Dyson - **Schwinger-Dyson Equation** (1949)
+Osborne Reynolds - **Reynolds Number** (1883)
 > [!NOTE]
-> The quantum field theory equivalent of the classical Euler-Lagrange equations, representing relations between Green's functions. [Read more](https://en.wikipedia.org/wiki/Schwinger%E2%80%93Dyson_equation)
+> A dimensionless quantity that helps predict fluid flow patterns in different situations. [Read more](https://en.wikipedia.org/wiki/Reynolds_number)
 <!-- EQUATION_END -->
 
 <br>
