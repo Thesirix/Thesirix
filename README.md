@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Re} = \frac{\rho v D}{\mu}
+\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
 $$
 
-Osborne Reynolds - **Reynolds Number** (1883)
+Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
 > [!NOTE]
-> A dimensionless quantity that helps predict fluid flow patterns in different situations. [Read more](https://en.wikipedia.org/wiki/Reynolds_number)
+> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
 <!-- EQUATION_END -->
 
 <br>
