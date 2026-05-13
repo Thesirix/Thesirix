@@ -18,17 +18,20 @@ jobs:
 
     steps:
       - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Install gh-space-shooter CLI
+        run: pip install gh-space-shooter
 
       - name: Generate Space Shooter GIF
-        uses: czl9707/gh-space-shooter@v1
-        with:
-          github-token: ${{ secrets.GITHUB_TOKEN }}
-          output-path: "space-shooter.gif"
-          strategy: "random"
-
-      - name: Move GIF to assets
-        run: |
-          mv space-shooter.gif assets/space-shooter.gif
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh-space-shooter ${{ github.repository_owner }} --output assets/space-shooter.gif --strategy random
 
       - name: Commit & push
         run: |
