@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large W = \Delta E_k = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2
+\large \hat{H} \psi = E \psi
 $$
 
-Gaspard-Gustave de Coriolis - **Work-Energy Theorem** (1829)
+Erwin Schrödinger - **Schrödinger Equation (Time-Independent)** (1926)
 > [!NOTE]
-> States that the net work done by the forces on an object equals the change in its kinetic energy. [Read more](https://en.wikipedia.org/wiki/Work_(physics))
+> The eigenvalue equation for the Hamiltonian operator, used to find stationary states of a quantum system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
 <!-- EQUATION_END -->
 
 <br>
