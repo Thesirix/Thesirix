@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \hat{H} \psi = E \psi
+\large (i\gamma^\mu\partial_\mu - m)\psi = 0
 $$
 
-Erwin Schrödinger - **Schrödinger Equation (Time-Independent)** (1926)
+Paul Dirac - **Dirac Equation** (1928)
 > [!NOTE]
-> The eigenvalue equation for the Hamiltonian operator, used to find stationary states of a quantum system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
+> A relativistic wave equation that describes all spin-1/2 massive particles and predicted the existence of antimatter. [Read more](https://en.wikipedia.org/wiki/Dirac_equation)
 <!-- EQUATION_END -->
 
 <br>
