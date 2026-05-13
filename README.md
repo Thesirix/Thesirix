@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial p}{\partial t} = -\frac{\partial}{\partial x}(\mu p) + \frac{\partial^2}{\partial x^2}(D p)
+\large W = \Delta E_k = \frac{1}{2}mv_f^2 - \frac{1}{2}mv_i^2
 $$
 
-Adriaan Fokker & Max Planck - **Fokker-Planck Equation** (1914)
+Gaspard-Gustave de Coriolis - **Work-Energy Theorem** (1829)
 > [!NOTE]
-> Describes the time evolution of the probability density function of the velocity of a particle under the influence of drag forces and random forces. [Read more](https://en.wikipedia.org/wiki/Fokker%E2%80%93Planck_equation)
+> States that the net work done by the forces on an object equals the change in its kinetic energy. [Read more](https://en.wikipedia.org/wiki/Work_(physics))
 <!-- EQUATION_END -->
 
 <br>
