@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large (i\gamma^\mu\partial_\mu - m)\psi = 0
+\large \frac{d\theta_i}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^N \sin(\theta_j - \theta_i)
 $$
 
-Paul Dirac - **Dirac Equation** (1928)
+Yoshiki Kuramoto - **Kuramoto Model** (1975)
 > [!NOTE]
-> A relativistic wave equation that describes all spin-1/2 massive particles and predicted the existence of antimatter. [Read more](https://en.wikipedia.org/wiki/Dirac_equation)
+> A mathematical model used to describe synchronization phenomena, such as the flashing of fireflies or the firing of neurons. [Read more](https://en.wikipedia.org/wiki/Kuramoto_model)
 <!-- EQUATION_END -->
 
 <br>
