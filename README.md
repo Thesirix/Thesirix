@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [Sov3r3ign/LNF](https://github.com/Sov3r3ign/LNF) - _just now_
-2. ⭐ Starred [Sov3r3ign/Smart-Safety-Watch-App](https://github.com/Sov3r3ign/Smart-Safety-Watch-App) - _just now_
-3. ⭐ Starred [Kemalstudio/Javascript-Project](https://github.com/Kemalstudio/Javascript-Project) - _just now_
-4. ⭐ Starred [Kemalstudio/my-portfolio1](https://github.com/Kemalstudio/my-portfolio1) - _just now_
-5. ⭐ Starred [KoBin85/helios-portal](https://github.com/KoBin85/helios-portal) - _just now_
+1. ⭐ Starred [Alan-oliveir/Instalike](https://github.com/Alan-oliveir/Instalike) - _1h ago_
+2. ⭐ Starred [Alan-oliveir/curso_prati_full_stack](https://github.com/Alan-oliveir/curso_prati_full_stack) - _1h ago_
+3. ⭐ Starred [travisburns/Animestart](https://github.com/travisburns/Animestart) - _1h ago_
+4. ⭐ Starred [travisburns/HorizonDine](https://github.com/travisburns/HorizonDine) - _1h ago_
+5. ⭐ Starred [kanyingidickson-dev/Search-Algorithm-Engine](https://github.com/kanyingidickson-dev/Search-Algorithm-Engine) - _1h ago_
 <!-- ACTIVITY_END -->
 
 
