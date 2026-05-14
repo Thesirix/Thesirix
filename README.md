@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`7813f09`](https://github.com/Thesirix/StreakMaster/commit/7813f09775a70d2d8b1e6edf5e0146c838dc2b7b) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _just now_
-2. 🔨 Pushed [`4278bc3`](https://github.com/Thesirix/Thesirix/commit/4278bc3a3bc9c11e1c74894521e16ff4c58e2542) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _15h ago_
-3. 🔨 Pushed [`45ed6be`](https://github.com/Thesirix/Thesirix/commit/45ed6be79b414ec6198713cf353d3798836eedfb) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _15h ago_
-4. 🔨 Pushed [`c23f864`](https://github.com/Thesirix/Thesirix/commit/c23f8647c359a86d2e662c14644b927e623e8920) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _16h ago_
-5. 🔨 Pushed [`718e2bf`](https://github.com/Thesirix/Thesirix/commit/718e2bfa9e2c59828dc64eb1869d4b69cf918fc3) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _17h ago_
+1. ⭐ Starred [Sov3r3ign/LNF](https://github.com/Sov3r3ign/LNF) - _just now_
+2. ⭐ Starred [Sov3r3ign/Smart-Safety-Watch-App](https://github.com/Sov3r3ign/Smart-Safety-Watch-App) - _just now_
+3. ⭐ Starred [Kemalstudio/Javascript-Project](https://github.com/Kemalstudio/Javascript-Project) - _just now_
+4. ⭐ Starred [Kemalstudio/my-portfolio1](https://github.com/Kemalstudio/my-portfolio1) - _just now_
+5. ⭐ Starred [KoBin85/helios-portal](https://github.com/KoBin85/helios-portal) - _just now_
 <!-- ACTIVITY_END -->
 
 
