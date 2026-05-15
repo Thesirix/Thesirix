@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d\theta_i}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^N \sin(\theta_j - \theta_i)
+\large y^2 = x^3 + ax + b
 $$
 
-Yoshiki Kuramoto - **Kuramoto Model** (1975)
+Karl Weierstrass - **Elliptic Curve Equation (Weierstrass Form)** (1850)
 > [!NOTE]
-> A mathematical model used to describe synchronization phenomena, such as the flashing of fireflies or the firing of neurons. [Read more](https://en.wikipedia.org/wiki/Kuramoto_model)
+> The algebraic structure used in Elliptic Curve Cryptography (ECC) to secure communications and cryptocurrencies. [Read more](https://en.wikipedia.org/wiki/Elliptic_curve)
 <!-- EQUATION_END -->
 
 <br>
