@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large y^2 = x^3 + ax + b
+\large \varphi = \frac{1 + \sqrt{5}}{2}
 $$
 
-Karl Weierstrass - **Elliptic Curve Equation (Weierstrass Form)** (1850)
+Euclid - **Golden Ratio** (-300)
 > [!NOTE]
-> The algebraic structure used in Elliptic Curve Cryptography (ECC) to secure communications and cryptocurrencies. [Read more](https://en.wikipedia.org/wiki/Elliptic_curve)
+> An irrational number often found in nature, art, and architecture, representing perfect proportionality. [Read more](https://en.wikipedia.org/wiki/Golden_ratio)
 <!-- EQUATION_END -->
 
 <br>
