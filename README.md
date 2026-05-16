@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [amediazz/scraping-apis-for-devs](https://github.com/amediazz/scraping-apis-for-devs) - _just now_
-2. ⭐ Starred [amediazz/claw-code-parity](https://github.com/amediazz/claw-code-parity) - _just now_
-3. ⭐ Starred [alocinny/MissionControler-DSL](https://github.com/alocinny/MissionControler-DSL) - _just now_
-4. ⭐ Starred [alocinny/High-Performance-C-ONNX-Runtime](https://github.com/alocinny/High-Performance-C-ONNX-Runtime) - _just now_
-5. ⭐ Starred [Kostazz/Radar](https://github.com/Kostazz/Radar) - _just now_
+1. ⭐ Starred [amediazz/scraping-apis-for-devs](https://github.com/amediazz/scraping-apis-for-devs) - _1h ago_
+2. ⭐ Starred [amediazz/claw-code-parity](https://github.com/amediazz/claw-code-parity) - _1h ago_
+3. ⭐ Starred [alocinny/MissionControler-DSL](https://github.com/alocinny/MissionControler-DSL) - _1h ago_
+4. ⭐ Starred [alocinny/High-Performance-C-ONNX-Runtime](https://github.com/alocinny/High-Performance-C-ONNX-Runtime) - _1h ago_
+5. ⭐ Starred [Kostazz/Radar](https://github.com/Kostazz/Radar) - _1h ago_
 <!-- ACTIVITY_END -->
 
 
