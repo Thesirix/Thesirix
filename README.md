@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [RajaSunrise/fiber](https://github.com/RajaSunrise/fiber) - _just now_
-2. ⭐ Starred [RajaSunrise/kangkungku](https://github.com/RajaSunrise/kangkungku) - _just now_
-3. ⭐ Starred [veriesseals/creating_classes_and_objects_lab](https://github.com/veriesseals/creating_classes_and_objects_lab) - _just now_
-4. ⭐ Starred [veriesseals/django_fullstack_website](https://github.com/veriesseals/django_fullstack_website) - _just now_
-5. ⭐ Starred [seanspokane2015/freeCodeCamp](https://github.com/seanspokane2015/freeCodeCamp) - _just now_
+1. ⭐ Starred [amediazz/scraping-apis-for-devs](https://github.com/amediazz/scraping-apis-for-devs) - _just now_
+2. ⭐ Starred [amediazz/claw-code-parity](https://github.com/amediazz/claw-code-parity) - _just now_
+3. ⭐ Starred [alocinny/MissionControler-DSL](https://github.com/alocinny/MissionControler-DSL) - _just now_
+4. ⭐ Starred [alocinny/High-Performance-C-ONNX-Runtime](https://github.com/alocinny/High-Performance-C-ONNX-Runtime) - _just now_
+5. ⭐ Starred [Kostazz/Radar](https://github.com/Kostazz/Radar) - _just now_
 <!-- ACTIVITY_END -->
 
 
