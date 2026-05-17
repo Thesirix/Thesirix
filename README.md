@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \varphi = \frac{1 + \sqrt{5}}{2}
+\large \rho \bar{u}_j \frac{\partial \bar{u}_i}{\partial x_j} = \rho \bar{f}_i + \frac{\partial}{\partial x_j} \left[ -\bar{p} \delta_{ij} + \mu \left( \frac{\partial \bar{u}_i}{\partial x_j} + \frac{\partial \bar{u}_j}{\partial x_i} \right) - \rho \overline{u_i' u_j'} \right]
 $$
 
-Euclid - **Golden Ratio** (-300)
+Osborne Reynolds - **Reynolds-Averaged Navier-Stokes (RANS)** (1895)
 > [!NOTE]
-> An irrational number often found in nature, art, and architecture, representing perfect proportionality. [Read more](https://en.wikipedia.org/wiki/Golden_ratio)
+> Time-averaged equations of motion for fluid flow, crucial for practical engineering simulations of turbulence. [Read more](https://en.wikipedia.org/wiki/Reynolds-averaged_Navier%E2%80%93Stokes_equations)
 <!-- EQUATION_END -->
 
 <br>
