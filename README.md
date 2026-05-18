@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \rho \bar{u}_j \frac{\partial \bar{u}_i}{\partial x_j} = \rho \bar{f}_i + \frac{\partial}{\partial x_j} \left[ -\bar{p} \delta_{ij} + \mu \left( \frac{\partial \bar{u}_i}{\partial x_j} + \frac{\partial \bar{u}_j}{\partial x_i} \right) - \rho \overline{u_i' u_j'} \right]
+\large R(t) = \sqrt{R_0^2 + \frac{2 D S (P_g - P_l) t}{\rho_g}}
 $$
 
-Osborne Reynolds - **Reynolds-Averaged Navier-Stokes (RANS)** (1895)
+Gérard Liger-Belair - **Bubble Lifetime in Beer** (2002)
 > [!NOTE]
-> Time-averaged equations of motion for fluid flow, crucial for practical engineering simulations of turbulence. [Read more](https://en.wikipedia.org/wiki/Reynolds-averaged_Navier%E2%80%93Stokes_equations)
+> Calculates the growth of bubbles in carbonated beverages like champagne or beer as they rise to the surface. [Read more](https://en.wikipedia.org/wiki/Carbonation)
 <!-- EQUATION_END -->
 
 <br>
