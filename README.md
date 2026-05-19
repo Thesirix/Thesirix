@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large R(t) = \sqrt{R_0^2 + \frac{2 D S (P_g - P_l) t}{\rho_g}}
+\large P = e^{-d/s}
 $$
 
-Gérard Liger-Belair - **Bubble Lifetime in Beer** (2002)
+Roger Shepard - **Universal Law of Generalization** (1987)
 > [!NOTE]
-> Calculates the growth of bubbles in carbonated beverages like champagne or beer as they rise to the surface. [Read more](https://en.wikipedia.org/wiki/Carbonation)
+> A fundamental law of psychology stating that the probability of a response generalizes from one stimulus to another as an exponential function of distance in psychological space. [Read more](https://en.wikipedia.org/wiki/Shepard%27s_law)
 <!-- EQUATION_END -->
 
 <br>
