@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P = e^{-d/s}
+\large V(\phi) = \mu^2 |\phi|^2 + \lambda |\phi|^4
 $$
 
-Roger Shepard - **Universal Law of Generalization** (1987)
+Peter Higgs - **Higgs Potential** (1964)
 > [!NOTE]
-> A fundamental law of psychology stating that the probability of a response generalizes from one stimulus to another as an exponential function of distance in psychological space. [Read more](https://en.wikipedia.org/wiki/Shepard%27s_law)
+> The scalar potential of the Higgs field, responsible for spontaneous symmetry breaking and giving mass to elementary particles. [Read more](https://en.wikipedia.org/wiki/Higgs_mechanism)
 <!-- EQUATION_END -->
 
 <br>
