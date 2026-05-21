@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V(\phi) = \mu^2 |\phi|^2 + \lambda |\phi|^4
+\large N = \sqrt{-\frac{g}{\rho_0} \frac{\partial \rho}{\partial z}}
 $$
 
-Peter Higgs - **Higgs Potential** (1964)
+David Brunt & Vilho Väisälä - **Brunt-Väisälä Frequency** (1927)
 > [!NOTE]
-> The scalar potential of the Higgs field, responsible for spontaneous symmetry breaking and giving mass to elementary particles. [Read more](https://en.wikipedia.org/wiki/Higgs_mechanism)
+> The angular frequency at which a vertically displaced parcel will oscillate within a statically stable environment. [Read more](https://en.wikipedia.org/wiki/Brunt%E2%80%93V%C3%A4is%C3%A4l%C3%A4_frequency)
 <!-- EQUATION_END -->
 
 <br>
