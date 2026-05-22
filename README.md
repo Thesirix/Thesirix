@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large N = \sqrt{-\frac{g}{\rho_0} \frac{\partial \rho}{\partial z}}
+\large \int_a^b f(x) dx = F(b) - F(a)
 $$
 
-David Brunt & Vilho Väisälä - **Brunt-Väisälä Frequency** (1927)
+Isaac Newton & Gottfried Wilhelm Leibniz - **Fundamental Theorem of Calculus** (1693)
 > [!NOTE]
-> The angular frequency at which a vertically displaced parcel will oscillate within a statically stable environment. [Read more](https://en.wikipedia.org/wiki/Brunt%E2%80%93V%C3%A4is%C3%A4l%C3%A4_frequency)
+> Links the concept of differentiating a function with the concept of integrating a function. [Read more](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
 <!-- EQUATION_END -->
 
 <br>
