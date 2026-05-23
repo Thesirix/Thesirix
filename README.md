@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \int_a^b f(x) dx = F(b) - F(a)
+\large C = N(d_1)S_t - N(d_2)Ke^{-rt}
 $$
 
-Isaac Newton & Gottfried Wilhelm Leibniz - **Fundamental Theorem of Calculus** (1693)
+Fischer Black, Myron Scholes, & Robert Merton - **Black-Scholes-Merton (Call Option)** (1973)
 > [!NOTE]
-> Links the concept of differentiating a function with the concept of integrating a function. [Read more](https://en.wikipedia.org/wiki/Fundamental_theorem_of_calculus)
+> The exact pricing formula for a European call option without dividends. [Read more](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
 <!-- EQUATION_END -->
 
 <br>
