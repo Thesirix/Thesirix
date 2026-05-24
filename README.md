@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large C = N(d_1)S_t - N(d_2)Ke^{-rt}
+\large \oint_C (L dx + M dy) = \iint_D \left(\frac{\partial M}{\partial x} - \frac{\partial L}{\partial y}\right) dx dy
 $$
 
-Fischer Black, Myron Scholes, & Robert Merton - **Black-Scholes-Merton (Call Option)** (1973)
+George Green - **Green's Theorem** (1828)
 > [!NOTE]
-> The exact pricing formula for a European call option without dividends. [Read more](https://en.wikipedia.org/wiki/Black%E2%80%93Scholes_model)
+> Relates a line integral around a simple closed curve C to a double integral over the plane region D bounded by C. [Read more](https://en.wikipedia.org/wiki/Green%27s_theorem)
 <!-- EQUATION_END -->
 
 <br>
