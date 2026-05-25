@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \oint_C (L dx + M dy) = \iint_D \left(\frac{\partial M}{\partial x} - \frac{\partial L}{\partial y}\right) dx dy
+\large \omega = \gamma B
 $$
 
-George Green - **Green's Theorem** (1828)
+Joseph Larmor - **Larmor Precession** (1897)
 > [!NOTE]
-> Relates a line integral around a simple closed curve C to a double integral over the plane region D bounded by C. [Read more](https://en.wikipedia.org/wiki/Green%27s_theorem)
+> Calculates the frequency of precession of the magnetic moment of an object about an external magnetic field. [Read more](https://en.wikipedia.org/wiki/Larmor_precession)
 <!-- EQUATION_END -->
 
 <br>
