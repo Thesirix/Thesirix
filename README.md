@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \omega = \gamma B
+\large \frac{\Delta Y}{Y} = k - c \Delta u
 $$
 
-Joseph Larmor - **Larmor Precession** (1897)
+Arthur Okun - **Okun's Law** (1962)
 > [!NOTE]
-> Calculates the frequency of precession of the magnetic moment of an object about an external magnetic field. [Read more](https://en.wikipedia.org/wiki/Larmor_precession)
+> An empirically observed relationship between unemployment and losses in a country's production. [Read more](https://en.wikipedia.org/wiki/Okun%27s_law)
 <!-- EQUATION_END -->
 
 <br>
