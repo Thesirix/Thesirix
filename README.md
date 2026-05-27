@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\Delta Y}{Y} = k - c \Delta u
+\large \text{score}(D,Q) = \sum_{i=1}^n \text{IDF}(q_i) \frac{f(q_i, D) (k_1 + 1)}{f(q_i, D) + k_1 (1 - b + b \frac{|D|}{\text{avgdl}})}
 $$
 
-Arthur Okun - **Okun's Law** (1962)
+Stephen Robertson & Karen Spärck Jones - **BM25 Ranking Function** (1994)
 > [!NOTE]
-> An empirically observed relationship between unemployment and losses in a country's production. [Read more](https://en.wikipedia.org/wiki/Okun%27s_law)
+> A state-of-the-art bag-of-words retrieval function that ranks a set of documents based on the query terms appearing in each document. [Read more](https://en.wikipedia.org/wiki/Okapi_BM25)
 <!-- EQUATION_END -->
 
 <br>
