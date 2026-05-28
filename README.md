@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{score}(D,Q) = \sum_{i=1}^n \text{IDF}(q_i) \frac{f(q_i, D) (k_1 + 1)}{f(q_i, D) + k_1 (1 - b + b \frac{|D|}{\text{avgdl}})}
+\large U = \frac{1}{2} k x^2
 $$
 
-Stephen Robertson & Karen Spärck Jones - **BM25 Ranking Function** (1994)
+Robert Hooke - **Elastic Potential Energy** (1660)
 > [!NOTE]
-> A state-of-the-art bag-of-words retrieval function that ranks a set of documents based on the query terms appearing in each document. [Read more](https://en.wikipedia.org/wiki/Okapi_BM25)
+> The potential energy stored as a result of deformation of an elastic object, such as the stretching of a spring. [Read more](https://en.wikipedia.org/wiki/Elastic_potential_energy)
 <!-- EQUATION_END -->
 
 <br>
