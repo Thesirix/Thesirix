@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large U = \frac{1}{2} k x^2
+\large \chi = \frac{C}{T + \theta}
 $$
 
-Robert Hooke - **Elastic Potential Energy** (1660)
+Louis Néel - **Néel Temperature Susceptibility** (1932)
 > [!NOTE]
-> The potential energy stored as a result of deformation of an elastic object, such as the stretching of a spring. [Read more](https://en.wikipedia.org/wiki/Elastic_potential_energy)
+> Describes the magnetic susceptibility of an antiferromagnetic material above its Néel temperature. [Read more](https://en.wikipedia.org/wiki/N%C3%A9el_temperature)
 <!-- EQUATION_END -->
 
 <br>
