@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \chi = \frac{C}{T + \theta}
+\large L = \lambda W
 $$
 
-Louis Néel - **Néel Temperature Susceptibility** (1932)
+John Little - **Little's Law** (1961)
 > [!NOTE]
-> Describes the magnetic susceptibility of an antiferromagnetic material above its Néel temperature. [Read more](https://en.wikipedia.org/wiki/N%C3%A9el_temperature)
+> A theorem in queueing theory that dictates the long-term average number of customers in a stationary system. [Read more](https://en.wikipedia.org/wiki/Little%27s_law)
 <!-- EQUATION_END -->
 
 <br>
