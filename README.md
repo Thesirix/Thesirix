@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large L = \lambda W
+\large S = -\frac{1}{2\pi\alpha'} \int d^2\sigma \sqrt{-\det(h_{\alpha\beta})}
 $$
 
-John Little - **Little's Law** (1961)
+Yoichiro Nambu & Tetsuo Goto - **Nambu-Goto Action** (1970)
 > [!NOTE]
-> A theorem in queueing theory that dictates the long-term average number of customers in a stationary system. [Read more](https://en.wikipedia.org/wiki/Little%27s_law)
+> The simplest invariant action in bosonic string theory, representing the area of the string's worldsheet. [Read more](https://en.wikipedia.org/wiki/Nambu%E2%80%93Goto_action)
 <!-- EQUATION_END -->
 
 <br>
