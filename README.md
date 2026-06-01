@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S = -\frac{1}{2\pi\alpha'} \int d^2\sigma \sqrt{-\det(h_{\alpha\beta})}
+\large \frac{da}{dN} = C (\Delta K)^m
 $$
 
-Yoichiro Nambu & Tetsuo Goto - **Nambu-Goto Action** (1970)
+Paul C. Paris - **Paris' Law** (1961)
 > [!NOTE]
-> The simplest invariant action in bosonic string theory, representing the area of the string's worldsheet. [Read more](https://en.wikipedia.org/wiki/Nambu%E2%80%93Goto_action)
+> Relates the stress intensity factor range to sub-critical crack growth under a fatigue stress regime. [Read more](https://en.wikipedia.org/wiki/Paris%27_law)
 <!-- EQUATION_END -->
 
 <br>
