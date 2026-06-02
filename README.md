@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [santospaul1/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip](https://github.com/santospaul1/plp-webtechnologies-classroom-july2025-july-2025-javascript-events-and-basic-interactivity-javascrip) - _just now_
-2. ⭐ Starred [santospaul1/systech](https://github.com/santospaul1/systech) - _just now_
-3. ⭐ Starred [Dagogo-Clinton-Uranta/full-stack-farming-dashboard](https://github.com/Dagogo-Clinton-Uranta/full-stack-farming-dashboard) - _just now_
-4. ⭐ Starred [Dagogo-Clinton-Uranta/ai-automated-relationship-nurturer](https://github.com/Dagogo-Clinton-Uranta/ai-automated-relationship-nurturer) - _just now_
-5. ⭐ Starred [sarlakZM/leo-movie](https://github.com/sarlakZM/leo-movie) - _just now_
+1. ⭐ Starred [jw3b-dev/creatorhub.brave](https://github.com/jw3b-dev/creatorhub.brave) - _just now_
+2. ⭐ Starred [jw3b-dev/aquafier-js](https://github.com/jw3b-dev/aquafier-js) - _just now_
+3. ⭐ Starred [faridkia/pyhton_starter](https://github.com/faridkia/pyhton_starter) - _just now_
+4. ⭐ Starred [faridkia/Raya](https://github.com/faridkia/Raya) - _just now_
+5. ⭐ Starred [felipedelosh/DiarioPersonal](https://github.com/felipedelosh/DiarioPersonal) - _just now_
 <!-- ACTIVITY_END -->
 
 
