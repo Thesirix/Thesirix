@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [jw3b-dev/creatorhub.brave](https://github.com/jw3b-dev/creatorhub.brave) - _just now_
-2. ⭐ Starred [jw3b-dev/aquafier-js](https://github.com/jw3b-dev/aquafier-js) - _just now_
-3. ⭐ Starred [faridkia/pyhton_starter](https://github.com/faridkia/pyhton_starter) - _just now_
-4. ⭐ Starred [faridkia/Raya](https://github.com/faridkia/Raya) - _just now_
-5. ⭐ Starred [felipedelosh/DiarioPersonal](https://github.com/felipedelosh/DiarioPersonal) - _just now_
+1. ⭐ Starred [ALZEE23/learn-rust](https://github.com/ALZEE23/learn-rust) - _just now_
+2. ⭐ Starred [ALZEE23/hackthebox](https://github.com/ALZEE23/hackthebox) - _just now_
+3. ⭐ Starred [BharatHBaddi0078/syntax-shaper-space](https://github.com/BharatHBaddi0078/syntax-shaper-space) - _just now_
+4. ⭐ Starred [BharatHBaddi0078/Portfolio-Website](https://github.com/BharatHBaddi0078/Portfolio-Website) - _just now_
+5. ⭐ Starred [yordanos-bogale5/product_mgt](https://github.com/yordanos-bogale5/product_mgt) - _just now_
 <!-- ACTIVITY_END -->
 
 
