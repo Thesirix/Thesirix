@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{da}{dN} = C (\Delta K)^m
+\large I(X;Y) = \sum_{y \in Y} \sum_{x \in X} p(x,y) \log \left( \frac{p(x,y)}{p(x)p(y)} \right)
 $$
 
-Paul C. Paris - **Paris' Law** (1961)
+Claude Shannon - **Mutual Information** (1948)
 > [!NOTE]
-> Relates the stress intensity factor range to sub-critical crack growth under a fatigue stress regime. [Read more](https://en.wikipedia.org/wiki/Paris%27_law)
+> Quantifies the mutual dependence between the two variables in information theory. [Read more](https://en.wikipedia.org/wiki/Mutual_information)
 <!-- EQUATION_END -->
 
 <br>
