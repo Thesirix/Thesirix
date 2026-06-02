@@ -504,40 +504,6 @@ quadrantChart
 <br><br>
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1335 commits        ████████░░░░░░░░░░░░░░░░░   32.86 % 
-🌆 Daytime                2167 commits        █████████████░░░░░░░░░░░░   53.33 % 
-🌃 Evening                328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-```
-📅 **I'm Most Productive on Tuesday** 
-
-```text
-Monday                   707 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.40 % 
-Tuesday                  1000 commits        ██████░░░░░░░░░░░░░░░░░░░   24.61 % 
-Wednesday                624 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
-Thursday                 656 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Friday                   367 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-Saturday                 232 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Sunday                   477 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Europe/Paris
-
-💬 Programming Languages: 
-Python                   12 hrs 11 mins      ████████████░░░░░░░░░░░░░   49.96 % 
-Markdown                 8 hrs 38 mins       █████████░░░░░░░░░░░░░░░░   35.43 % 
-Other                    1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.85 % 
-JSON                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
-HTML                     30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.11 % 
-```
-
 
 <!--END_SECTION:waka-->
 
