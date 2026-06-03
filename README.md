@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large I(X;Y) = \sum_{y \in Y} \sum_{x \in X} p(x,y) \log \left( \frac{p(x,y)}{p(x)p(y)} \right)
+\large X_t = c + \sum_{i=1}^p \varphi_i X_{t-i} + \varepsilon_t
 $$
 
-Claude Shannon - **Mutual Information** (1948)
+George Box & Gwilym Jenkins - **Autoregressive Model (AR)** (1970)
 > [!NOTE]
-> Quantifies the mutual dependence between the two variables in information theory. [Read more](https://en.wikipedia.org/wiki/Mutual_information)
+> A representation of a type of random process, used to describe time-varying processes in nature and economics. [Read more](https://en.wikipedia.org/wiki/Autoregressive_model)
 <!-- EQUATION_END -->
 
 <br>
