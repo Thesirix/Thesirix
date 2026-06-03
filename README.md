@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`12bbaf3`](https://github.com/Thesirix/Thesirix/commit/12bbaf3299bd04e7953f3dbc9c806aaae9a449fe) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
-2. 🔨 Pushed [`e893e91`](https://github.com/Thesirix/StreakMaster/commit/e893e91e9dabcd52c3e8de92175a7943beae3b06) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _10h ago_
-3. ⭐ Starred [ALZEE23/learn-rust](https://github.com/ALZEE23/learn-rust) - _20h ago_
-4. ⭐ Starred [ALZEE23/hackthebox](https://github.com/ALZEE23/hackthebox) - _20h ago_
-5. ⭐ Starred [BharatHBaddi0078/syntax-shaper-space](https://github.com/BharatHBaddi0078/syntax-shaper-space) - _20h ago_
+1. 🔨 Pushed [`12bbaf3`](https://github.com/Thesirix/Thesirix/commit/12bbaf3299bd04e7953f3dbc9c806aaae9a449fe) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+2. 🔨 Pushed [`e893e91`](https://github.com/Thesirix/StreakMaster/commit/e893e91e9dabcd52c3e8de92175a7943beae3b06) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _11h ago_
+3. ⭐ Starred [ALZEE23/learn-rust](https://github.com/ALZEE23/learn-rust) - _21h ago_
+4. ⭐ Starred [ALZEE23/hackthebox](https://github.com/ALZEE23/hackthebox) - _21h ago_
+5. ⭐ Starred [BharatHBaddi0078/syntax-shaper-space](https://github.com/BharatHBaddi0078/syntax-shaper-space) - _21h ago_
 <!-- ACTIVITY_END -->
 
 
