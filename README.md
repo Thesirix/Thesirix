@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [ALZEE23/learn-rust](https://github.com/ALZEE23/learn-rust) - _1h ago_
-2. ⭐ Starred [ALZEE23/hackthebox](https://github.com/ALZEE23/hackthebox) - _1h ago_
-3. ⭐ Starred [BharatHBaddi0078/syntax-shaper-space](https://github.com/BharatHBaddi0078/syntax-shaper-space) - _1h ago_
-4. ⭐ Starred [BharatHBaddi0078/Portfolio-Website](https://github.com/BharatHBaddi0078/Portfolio-Website) - _1h ago_
-5. ⭐ Starred [yordanos-bogale5/product_mgt](https://github.com/yordanos-bogale5/product_mgt) - _1h ago_
+1. ⭐ Starred [ALZEE23/learn-rust](https://github.com/ALZEE23/learn-rust) - _3h ago_
+2. ⭐ Starred [ALZEE23/hackthebox](https://github.com/ALZEE23/hackthebox) - _3h ago_
+3. ⭐ Starred [BharatHBaddi0078/syntax-shaper-space](https://github.com/BharatHBaddi0078/syntax-shaper-space) - _3h ago_
+4. ⭐ Starred [BharatHBaddi0078/Portfolio-Website](https://github.com/BharatHBaddi0078/Portfolio-Website) - _3h ago_
+5. ⭐ Starred [yordanos-bogale5/product_mgt](https://github.com/yordanos-bogale5/product_mgt) - _3h ago_
 <!-- ACTIVITY_END -->
 
 
