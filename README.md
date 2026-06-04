@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [pierretfie/gideon_voice_piper](https://github.com/pierretfie/gideon_voice_piper) - _just now_
-2. ⭐ Starred [Obomhese-Raphael/FastAPI_SQLAlchemy](https://github.com/Obomhese-Raphael/FastAPI_SQLAlchemy) - _just now_
-3. ⭐ Starred [xDweeb/KeyCare-Gemini3](https://github.com/xDweeb/KeyCare-Gemini3) - _just now_
-4. ⭐ Starred [nurullaibadov/HackathonMobileAPP](https://github.com/nurullaibadov/HackathonMobileAPP) - _just now_
-5. ⭐ Starred [nurullaibadov/Dualingo-](https://github.com/nurullaibadov/Dualingo-) - _just now_
+1. ⭐ Starred [madjeek-web/symfony-mailjet-bundle](https://github.com/madjeek-web/symfony-mailjet-bundle) - _1h ago_
+2. ⭐ Starred [madjeek-web/open-dyslexic](https://github.com/madjeek-web/open-dyslexic) - _1h ago_
+3. ⭐ Starred [francojra/curso_python_basico_INPE](https://github.com/francojra/curso_python_basico_INPE) - _1h ago_
+4. ⭐ Starred [francojra/sits-prodes](https://github.com/francojra/sits-prodes) - _1h ago_
+5. ⭐ Starred [shrutivedha/Deep-Learning](https://github.com/shrutivedha/Deep-Learning) - _1h ago_
 <!-- ACTIVITY_END -->
 
 
