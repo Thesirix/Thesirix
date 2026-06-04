@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large X_t = c + \sum_{i=1}^p \varphi_i X_{t-i} + \varepsilon_t
+\large \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}
 $$
 
-George Box & Gwilym Jenkins - **Autoregressive Model (AR)** (1970)
+Nasir al-Din al-Tusi - **Law of Sines** (1260)
 > [!NOTE]
-> A representation of a type of random process, used to describe time-varying processes in nature and economics. [Read more](https://en.wikipedia.org/wiki/Autoregressive_model)
+> An equation relating the lengths of the sides of a triangle to the sines of its angles. [Read more](https://en.wikipedia.org/wiki/Law_of_sines)
 <!-- EQUATION_END -->
 
 <br>
