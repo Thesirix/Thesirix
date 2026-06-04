@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [Islam-Raad-dev/Algorithms_Problem_Solving_level_1](https://github.com/Islam-Raad-dev/Algorithms_Problem_Solving_level_1) - _9h ago_
-2. ⭐ Starred [Islam-Raad-dev/Algorithms_Problem_Solving_level_2](https://github.com/Islam-Raad-dev/Algorithms_Problem_Solving_level_2) - _9h ago_
-3. ⭐ Starred [Abhishek-2502/Multi_QR_Encoder_Decoder](https://github.com/Abhishek-2502/Multi_QR_Encoder_Decoder) - _9h ago_
-4. ⭐ Starred [Abhishek-2502/Portfolio](https://github.com/Abhishek-2502/Portfolio) - _9h ago_
-5. ⭐ Starred [OlefileMamorare/motivational-poster](https://github.com/OlefileMamorare/motivational-poster) - _9h ago_
+1. ⭐ Starred [pierretfie/gideon_voice_piper](https://github.com/pierretfie/gideon_voice_piper) - _just now_
+2. ⭐ Starred [Obomhese-Raphael/FastAPI_SQLAlchemy](https://github.com/Obomhese-Raphael/FastAPI_SQLAlchemy) - _just now_
+3. ⭐ Starred [xDweeb/KeyCare-Gemini3](https://github.com/xDweeb/KeyCare-Gemini3) - _just now_
+4. ⭐ Starred [nurullaibadov/HackathonMobileAPP](https://github.com/nurullaibadov/HackathonMobileAPP) - _just now_
+5. ⭐ Starred [nurullaibadov/Dualingo-](https://github.com/nurullaibadov/Dualingo-) - _just now_
 <!-- ACTIVITY_END -->
 
 
