@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{a}{\sin A} = \frac{b}{\sin B} = \frac{c}{\sin C}
+\large P_r = \frac{P_t G_t G_r \lambda^2 \sigma}{(4\pi)^3 R^4}
 $$
 
-Nasir al-Din al-Tusi - **Law of Sines** (1260)
+WWII Scientists - **Radar Equation** (1940)
 > [!NOTE]
-> An equation relating the lengths of the sides of a triangle to the sines of its angles. [Read more](https://en.wikipedia.org/wiki/Law_of_sines)
+> Relates the expected receive power to the transmitted power, antenna gains, range, and scattering cross-section of a target. [Read more](https://en.wikipedia.org/wiki/Radar_equation)
 <!-- EQUATION_END -->
 
 <br>
