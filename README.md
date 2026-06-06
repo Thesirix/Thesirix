@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P_r = \frac{P_t G_t G_r \lambda^2 \sigma}{(4\pi)^3 R^4}
+\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
 $$
 
-WWII Scientists - **Radar Equation** (1940)
+A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
 > [!NOTE]
-> Relates the expected receive power to the transmitted power, antenna gains, range, and scattering cross-section of a target. [Read more](https://en.wikipedia.org/wiki/Radar_equation)
+> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
 <!-- EQUATION_END -->
 
 <br>
