@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
+\large ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1-kr^2} + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 \right)
 $$
 
-A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
+Alexander Friedmann, Georges Lemaître, Howard Robertson & Arthur Walker - **FLRW Metric** (1922)
 > [!NOTE]
-> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
+> An exact solution of Einstein's field equations of general relativity; it describes a homogeneous, isotropic expanding or contracting universe. [Read more](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric)
 <!-- EQUATION_END -->
 
 <br>
