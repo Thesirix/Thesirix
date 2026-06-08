@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large ds^2 = -c^2 dt^2 + a(t)^2 \left( \frac{dr^2}{1-kr^2} + r^2 d\theta^2 + r^2 \sin^2\theta d\phi^2 \right)
+\large \begin{pmatrix} \nu_e \\ \nu_\mu \\ \nu_\tau \end{pmatrix} = U_{\text{PMNS}} \begin{pmatrix} \nu_1 \\ \nu_2 \\ \nu_3 \end{pmatrix}
 $$
 
-Alexander Friedmann, Georges Lemaître, Howard Robertson & Arthur Walker - **FLRW Metric** (1922)
+Bruno Pontecorvo, Maki, Nakagawa, & Sakata - **PMNS Matrix (Neutrino Mixing)** (1962)
 > [!NOTE]
-> An exact solution of Einstein's field equations of general relativity; it describes a homogeneous, isotropic expanding or contracting universe. [Read more](https://en.wikipedia.org/wiki/Friedmann%E2%80%93Lema%C3%AEtre%E2%80%93Robertson%E2%80%93Walker_metric)
+> A unitary mixing matrix which contains information on the mismatch between quantum states of neutrinos when they are created and when they interact. [Read more](https://en.wikipedia.org/wiki/Pontecorvo%E2%80%93Maki%E2%80%93Nakagawa%E2%80%93Sakata_matrix)
 <!-- EQUATION_END -->
 
 <br>
