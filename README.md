@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large x_{n+1} = r x_n (1 - x_n)
+\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
 $$
 
-Robert May - **Logistic Map** (1976)
+Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
 > [!NOTE]
-> A polynomial mapping that became an archetypal example of how complex, chaotic behaviour can arise from very simple non-linear dynamical equations. [Read more](https://en.wikipedia.org/wiki/Logistic_map)
+> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
 <!-- EQUATION_END -->
 
 <br>
