@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large c = \sqrt{g h}
+\large A(x', x) = \min\left(1, \frac{P(x') g(x|x')}{P(x) g(x'|x)}\right)
 $$
 
-Joseph-Louis Lagrange - **Shallow Water Wave Speed** (1781)
+Nicholas Metropolis & W.K. Hastings - **Metropolis-Hastings Acceptance** (1953)
 > [!NOTE]
-> The phase speed of a surface gravity wave propagating in water much shallower than its wavelength. [Read more](https://en.wikipedia.org/wiki/Shallow_water_equations)
+> The acceptance probability in a Markov chain Monte Carlo method for obtaining a sequence of random samples from a probability distribution. [Read more](https://en.wikipedia.org/wiki/Metropolis%E2%80%93Hastings_algorithm)
 <!-- EQUATION_END -->
 
 <br>
