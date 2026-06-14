@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large m \frac{dv}{dt} = -\gamma v + \eta(t)
+\large \oint_C f(z) dz = 0
 $$
 
-Paul Langevin - **Langevin Equation** (1908)
+Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
 > [!NOTE]
-> A stochastic differential equation describing the time evolution of a subset of the degrees of freedom, famously used for Brownian motion. [Read more](https://en.wikipedia.org/wiki/Langevin_equation)
+> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
 <!-- EQUATION_END -->
 
 <br>
