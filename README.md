@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \oint_C f(z) dz = 0
+\large e^{ix} = \cos x + i \sin x
 $$
 
-Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
+Leonhard Euler - **Euler's Formula for Complex Numbers** (1748)
 > [!NOTE]
-> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
+> Establishes the fundamental relationship between the trigonometric functions and the complex exponential function. [Read more](https://en.wikipedia.org/wiki/Euler%27s_formula)
 <!-- EQUATION_END -->
 
 <br>
