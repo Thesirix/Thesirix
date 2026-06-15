@@ -202,11 +202,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [aldiii111/kasirJS](https://github.com/aldiii111/kasirJS) - _2h ago_
-2. ⭐ Starred [aldiii111/Pokemon](https://github.com/aldiii111/Pokemon) - _2h ago_
-3. ⭐ Starred [rilufiyy/Simple-Portofolio-Using-Streamlit](https://github.com/rilufiyy/Simple-Portofolio-Using-Streamlit) - _2h ago_
-4. ⭐ Starred [rilufiyy/rilufiyy](https://github.com/rilufiyy/rilufiyy) - _2h ago_
-5. ⭐ Starred [boolYikes/sealy](https://github.com/boolYikes/sealy) - _2h ago_
+1. ⭐ Starred [aldiii111/kasirJS](https://github.com/aldiii111/kasirJS) - _5h ago_
+2. ⭐ Starred [aldiii111/Pokemon](https://github.com/aldiii111/Pokemon) - _5h ago_
+3. ⭐ Starred [rilufiyy/Simple-Portofolio-Using-Streamlit](https://github.com/rilufiyy/Simple-Portofolio-Using-Streamlit) - _5h ago_
+4. ⭐ Starred [rilufiyy/rilufiyy](https://github.com/rilufiyy/rilufiyy) - _5h ago_
+5. ⭐ Starred [boolYikes/sealy](https://github.com/boolYikes/sealy) - _5h ago_
 <!-- ACTIVITY_END -->
 
 
