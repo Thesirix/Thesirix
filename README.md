@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large e^{ix} = \cos x + i \sin x
+\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
 $$
 
-Leonhard Euler - **Euler's Formula for Complex Numbers** (1748)
+Carl Friedrich Gauss - **Divergence Theorem** (1813)
 > [!NOTE]
-> Establishes the fundamental relationship between the trigonometric functions and the complex exponential function. [Read more](https://en.wikipedia.org/wiki/Euler%27s_formula)
+> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
 <!-- EQUATION_END -->
 
 <br>
