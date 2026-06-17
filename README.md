@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
+\large G = H - TS
 $$
 
-Carl Friedrich Gauss - **Divergence Theorem** (1813)
+Josiah Willard Gibbs - **Gibbs Free Energy** (1873)
 > [!NOTE]
-> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
+> A thermodynamic potential that can be used to calculate the maximum reversible work that may be performed by a thermodynamic system. [Read more](https://en.wikipedia.org/wiki/Gibbs_free_energy)
 <!-- EQUATION_END -->
 
 <br>
