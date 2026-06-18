@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large G = H - TS
+\large \eta_B = \left( \frac{\nu D^2}{\varepsilon} \right)^{1/4}
 $$
 
-Josiah Willard Gibbs - **Gibbs Free Energy** (1873)
+George Batchelor - **Batchelor Scale** (1959)
 > [!NOTE]
-> A thermodynamic potential that can be used to calculate the maximum reversible work that may be performed by a thermodynamic system. [Read more](https://en.wikipedia.org/wiki/Gibbs_free_energy)
+> The scale at which molecular diffusion balances turbulent convective mixing for a scalar variance. [Read more](https://en.wikipedia.org/wiki/Batchelor_scale)
 <!-- EQUATION_END -->
 
 <br>
