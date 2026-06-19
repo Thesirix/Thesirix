@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \eta_B = \left( \frac{\nu D^2}{\varepsilon} \right)^{1/4}
+\large h = \max_i \min(f(i), i)
 $$
 
-George Batchelor - **Batchelor Scale** (1959)
+Jorge E. Hirsch - **H-index Formula** (2005)
 > [!NOTE]
-> The scale at which molecular diffusion balances turbulent convective mixing for a scalar variance. [Read more](https://en.wikipedia.org/wiki/Batchelor_scale)
+> An author-level metric that attempts to measure both the productivity and citation impact of the publications of a scientist or scholar. [Read more](https://en.wikipedia.org/wiki/H-index)
 <!-- EQUATION_END -->
 
 <br>
