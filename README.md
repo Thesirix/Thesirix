@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large h = \max_i \min(f(i), i)
+\large P = P_0 + \rho g h
 $$
 
-Jorge E. Hirsch - **H-index Formula** (2005)
+Blaise Pascal - **Hydrostatic Pressure** (1647)
 > [!NOTE]
-> An author-level metric that attempts to measure both the productivity and citation impact of the publications of a scientist or scholar. [Read more](https://en.wikipedia.org/wiki/H-index)
+> The pressure exerted by a fluid at equilibrium at a given point within the fluid, due to the force of gravity. [Read more](https://en.wikipedia.org/wiki/Fluid_statics)
 <!-- EQUATION_END -->
 
 <br>
