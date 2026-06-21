@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P = P_0 + \rho g h
+\large \mathbf{F}_{rad} = \frac{\mu_0 q^2}{6\pi c} \mathbf{\dot{a}}
 $$
 
-Blaise Pascal - **Hydrostatic Pressure** (1647)
+Max Abraham & Hendrik Lorentz - **Abraham-Lorentz Force** (1903)
 > [!NOTE]
-> The pressure exerted by a fluid at equilibrium at a given point within the fluid, due to the force of gravity. [Read more](https://en.wikipedia.org/wiki/Fluid_statics)
+> The recoil force on an accelerating charged particle caused by the particle emitting electromagnetic radiation. [Read more](https://en.wikipedia.org/wiki/Abraham%E2%80%93Lorentz_force)
 <!-- EQUATION_END -->
 
 <br>
