@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathbf{F}_{rad} = \frac{\mu_0 q^2}{6\pi c} \mathbf{\dot{a}}
+\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
 $$
 
-Max Abraham & Hendrik Lorentz - **Abraham-Lorentz Force** (1903)
+Abraham de Moivre - **De Moivre's Formula** (1707)
 > [!NOTE]
-> The recoil force on an accelerating charged particle caused by the particle emitting electromagnetic radiation. [Read more](https://en.wikipedia.org/wiki/Abraham%E2%80%93Lorentz_force)
+> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
 <!-- EQUATION_END -->
 
 <br>
