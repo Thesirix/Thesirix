@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large (\cos x + i \sin x)^n = \cos(nx) + i \sin(nx)
+\large S(P) = P - \alpha (P - 1)
 $$
 
-Abraham de Moivre - **De Moivre's Formula** (1707)
+John L. Gustafson - **Gustafson's Law** (1988)
 > [!NOTE]
-> Connects complex numbers and trigonometry. [Read more](https://en.wikipedia.org/wiki/De_Moivre%27s_formula)
+> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
 <!-- EQUATION_END -->
 
 <br>
