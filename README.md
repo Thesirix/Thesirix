@@ -1630,8 +1630,8 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ---
 
-🕐 **Last update:** &nbsp; `2026-06-25  23:56 (Paris)`
-⏩ **Next update:** &nbsp; `2026-06-26  00:00 (Paris)`
+🕐 **Last update:** &nbsp; `2026-06-26  00:50 (Paris)`
+⏩ **Next update:** &nbsp; `2026-06-26  01:00 (Paris)`
 
 </div>
 <!--TIMESTAMP_END-->
