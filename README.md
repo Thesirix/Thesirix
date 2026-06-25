@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S(P) = P - \alpha (P - 1)
+\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
 $$
 
-John L. Gustafson - **Gustafson's Law** (1988)
+Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
 > [!NOTE]
-> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
+> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
 <!-- EQUATION_END -->
 
 <br>
