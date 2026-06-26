@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
+\large 2 n d \cos(\theta_2) = m \lambda
 $$
 
-Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
+Thomas Young - **Thin Film Interference (Constructive)** (1801)
 > [!NOTE]
-> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
+> Determines the condition for constructive interference of light waves reflecting off the upper and lower boundaries of a thin film. [Read more](https://en.wikipedia.org/wiki/Thin-film_interference)
 <!-- EQUATION_END -->
 
 <br>
