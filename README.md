@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large 2 n d \cos(\theta_2) = m \lambda
+\large d = \frac{\lambda}{2 n \sin \theta}
 $$
 
-Thomas Young - **Thin Film Interference (Constructive)** (1801)
+Ernst Abbe - **Abbe Resolution Limit** (1873)
 > [!NOTE]
-> Determines the condition for constructive interference of light waves reflecting off the upper and lower boundaries of a thin film. [Read more](https://en.wikipedia.org/wiki/Thin-film_interference)
+> The formula defining the maximum theoretical resolution of a light microscope due to the diffraction of light. [Read more](https://en.wikipedia.org/wiki/Diffraction-limited_system#Abbe_resolution_limit)
 <!-- EQUATION_END -->
 
 <br>
