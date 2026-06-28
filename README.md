@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large d = \frac{\lambda}{2 n \sin \theta}
+\large I = i_0 M^{3/4} e^{-E/kT}
 $$
 
-Ernst Abbe - **Abbe Resolution Limit** (1873)
+James Brown - **Metabolic Theory of Ecology** (2004)
 > [!NOTE]
-> The formula defining the maximum theoretical resolution of a light microscope due to the diffraction of light. [Read more](https://en.wikipedia.org/wiki/Diffraction-limited_system#Abbe_resolution_limit)
+> Predicts how the metabolic rate of organisms governs ecological processes from individuals to ecosystems. [Read more](https://en.wikipedia.org/wiki/Metabolic_theory_of_ecology)
 <!-- EQUATION_END -->
 
 <br>
