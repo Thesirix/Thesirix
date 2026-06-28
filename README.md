@@ -1632,8 +1632,8 @@ This is a shared game, all visitors play together. Click a button, then the page
 
 ---
 
-🕐 **Last update:** &nbsp; `2026-06-28  20:13 (Paris)`
-⏩ **Next update:** &nbsp; `2026-06-28  20:30 (Paris)`
+🕐 **Last update:** &nbsp; `2026-06-28  20:45 (Paris)`
+⏩ **Next update:** &nbsp; `2026-06-28  21:00 (Paris)`
 
 </div>
 <!--TIMESTAMP_END-->
