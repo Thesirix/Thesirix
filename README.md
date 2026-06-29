@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large I = i_0 M^{3/4} e^{-E/kT}
+\large V = IR
 $$
 
-James Brown - **Metabolic Theory of Ecology** (2004)
+Georg Ohm - **Ohm's Law** (1827)
 > [!NOTE]
-> Predicts how the metabolic rate of organisms governs ecological processes from individuals to ecosystems. [Read more](https://en.wikipedia.org/wiki/Metabolic_theory_of_ecology)
+> States that the current through a conductor is proportional to the voltage across it. [Read more](https://en.wikipedia.org/wiki/Ohm%27s_law)
 <!-- EQUATION_END -->
 
 <br>
