@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V = IR
+\large T(n) = a T\left(\frac{n}{b}\right) + f(n)
 $$
 
-Georg Ohm - **Ohm's Law** (1827)
+Jon Bentley, Dorothea Haken & James Saxe - **Master Theorem** (1980)
 > [!NOTE]
-> States that the current through a conductor is proportional to the voltage across it. [Read more](https://en.wikipedia.org/wiki/Ohm%27s_law)
+> Provides a cookbook solution for asymptotic analysis of divide-and-conquer algorithms. [Read more](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
 <!-- EQUATION_END -->
 
 <br>
