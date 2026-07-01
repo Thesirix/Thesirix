@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large T(n) = a T\left(\frac{n}{b}\right) + f(n)
+\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
 $$
 
-Jon Bentley, Dorothea Haken & James Saxe - **Master Theorem** (1980)
+Jon Kleinberg - **HITS Hub Score** (1999)
 > [!NOTE]
-> Provides a cookbook solution for asymptotic analysis of divide-and-conquer algorithms. [Read more](https://en.wikipedia.org/wiki/Master_theorem_(analysis_of_algorithms))
+> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
 <!-- EQUATION_END -->
 
 <br>
