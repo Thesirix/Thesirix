@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
+\large \frac{d\theta_i}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^N \sin(\theta_j - \theta_i)
 $$
 
-Jon Kleinberg - **HITS Hub Score** (1999)
+Yoshiki Kuramoto - **Kuramoto Model** (1975)
 > [!NOTE]
-> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
+> A mathematical model used to describe synchronization phenomena, such as the flashing of fireflies or the firing of neurons. [Read more](https://en.wikipedia.org/wiki/Kuramoto_model)
 <!-- EQUATION_END -->
 
 <br>
