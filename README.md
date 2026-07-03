@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d\theta_i}{dt} = \omega_i + \frac{K}{N} \sum_{j=1}^N \sin(\theta_j - \theta_i)
+\large x^2 \frac{d^2y}{dx^2} + x \frac{dy}{dx} + (x^2 - \alpha^2)y = 0
 $$
 
-Yoshiki Kuramoto - **Kuramoto Model** (1975)
+Friedrich Bessel - **Bessel's Differential Equation** (1824)
 > [!NOTE]
-> A mathematical model used to describe synchronization phenomena, such as the flashing of fireflies or the firing of neurons. [Read more](https://en.wikipedia.org/wiki/Kuramoto_model)
+> A second-order ordinary differential equation whose solutions are Bessel functions, crucial in wave propagation and cylindrical coordinate systems. [Read more](https://en.wikipedia.org/wiki/Bessel_function)
 <!-- EQUATION_END -->
 
 <br>
