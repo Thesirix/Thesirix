@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large x^2 \frac{d^2y}{dx^2} + x \frac{dy}{dx} + (x^2 - \alpha^2)y = 0
+\large S = -\text{Tr}(\rho \ln \rho)
 $$
 
-Friedrich Bessel - **Bessel's Differential Equation** (1824)
+John von Neumann - **Von Neumann Entropy** (1927)
 > [!NOTE]
-> A second-order ordinary differential equation whose solutions are Bessel functions, crucial in wave propagation and cylindrical coordinate systems. [Read more](https://en.wikipedia.org/wiki/Bessel_function)
+> An extension of classical entropy concepts to the field of quantum mechanics, measured using the density matrix. [Read more](https://en.wikipedia.org/wiki/Von_Neumann_entropy)
 <!-- EQUATION_END -->
 
 <br>
