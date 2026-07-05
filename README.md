@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S = -\text{Tr}(\rho \ln \rho)
+\large S(P) = P - \alpha (P - 1)
 $$
 
-John von Neumann - **Von Neumann Entropy** (1927)
+John L. Gustafson - **Gustafson's Law** (1988)
 > [!NOTE]
-> An extension of classical entropy concepts to the field of quantum mechanics, measured using the density matrix. [Read more](https://en.wikipedia.org/wiki/Von_Neumann_entropy)
+> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
 <!-- EQUATION_END -->
 
 <br>
