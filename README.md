@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S(P) = P - \alpha (P - 1)
+\large C_V = \frac{12\pi^4}{5} N k_B \left(\frac{T}{\theta_D}\right)^3
 $$
 
-John L. Gustafson - **Gustafson's Law** (1988)
+Peter Debye - **Debye Heat Capacity Law** (1912)
 > [!NOTE]
-> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
+> Calculates the phonon contribution to the specific heat in a solid at low temperatures, predicting a T^3 dependence. [Read more](https://en.wikipedia.org/wiki/Debye_model)
 <!-- EQUATION_END -->
 
 <br>
