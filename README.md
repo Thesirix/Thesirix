@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large C_V = \frac{12\pi^4}{5} N k_B \left(\frac{T}{\theta_D}\right)^3
+\large f = \frac{qB}{2\pi m}
 $$
 
-Peter Debye - **Debye Heat Capacity Law** (1912)
+Ernest Lawrence - **Cyclotron Frequency** (1932)
 > [!NOTE]
-> Calculates the phonon contribution to the specific heat in a solid at low temperatures, predicting a T^3 dependence. [Read more](https://en.wikipedia.org/wiki/Debye_model)
+> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
 <!-- EQUATION_END -->
 
 <br>
