@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f = \frac{qB}{2\pi m}
+\large L = \lambda W
 $$
 
-Ernest Lawrence - **Cyclotron Frequency** (1932)
+John Little - **Little's Law** (1961)
 > [!NOTE]
-> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
+> A theorem in queueing theory that dictates the long-term average number of customers in a stationary system. [Read more](https://en.wikipedia.org/wiki/Little%27s_law)
 <!-- EQUATION_END -->
 
 <br>
