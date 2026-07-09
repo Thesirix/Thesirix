@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large L = \lambda W
+\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
 $$
 
-John Little - **Little's Law** (1961)
+A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
 > [!NOTE]
-> A theorem in queueing theory that dictates the long-term average number of customers in a stationary system. [Read more](https://en.wikipedia.org/wiki/Little%27s_law)
+> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
 <!-- EQUATION_END -->
 
 <br>
