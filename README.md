@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \cos \theta^* = f_1 \cos \theta_1 + f_2 \cos \theta_2
+\large \text{AIC} = 2k - 2\ln(\hat{L})
 $$
 
-A.B.D. Cassie & S. Baxter - **Cassie-Baxter Equation** (1944)
+Hirotugu Akaike - **Akaike Information Criterion (AIC)** (1974)
 > [!NOTE]
-> Explains the 'lotus effect' or superhydrophobicity, where water drops roll off a surface because air is trapped under them. [Read more](https://en.wikipedia.org/wiki/Wetting#Cassie%E2%80%93Baxter_model)
+> An estimator of out-of-sample prediction error and thereby relative quality of statistical models for a given set of data. [Read more](https://en.wikipedia.org/wiki/Akaike_information_criterion)
 <!-- EQUATION_END -->
 
 <br>
