@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{AIC} = 2k - 2\ln(\hat{L})
+\large L(t) = L_\infty \left( 1 - e^{-k(t - t_0)} \right)
 $$
 
-Hirotugu Akaike - **Akaike Information Criterion (AIC)** (1974)
+Karl Ludwig von Bertalanffy - **Von Bertalanffy Growth Equation** (1934)
 > [!NOTE]
-> An estimator of out-of-sample prediction error and thereby relative quality of statistical models for a given set of data. [Read more](https://en.wikipedia.org/wiki/Akaike_information_criterion)
+> A mathematical model of the growth of an organism over time, widely used in fisheries science to model fish length. [Read more](https://en.wikipedia.org/wiki/Von_Bertalanffy_growth_function)
 <!-- EQUATION_END -->
 
 <br>
