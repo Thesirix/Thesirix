@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large L(t) = L_\infty \left( 1 - e^{-k(t - t_0)} \right)
+\large M(T) = M(0) \left[ 1 - \left(\frac{T}{T_c}\right)^{3/2} \right]
 $$
 
-Karl Ludwig von Bertalanffy - **Von Bertalanffy Growth Equation** (1934)
+Felix Bloch - **Bloch's T^(3/2) Law** (1930)
 > [!NOTE]
-> A mathematical model of the growth of an organism over time, widely used in fisheries science to model fish length. [Read more](https://en.wikipedia.org/wiki/Von_Bertalanffy_growth_function)
+> Describes the spontaneous magnetization of a ferromagnet at low temperatures due to the excitation of spin waves (magnons). [Read more](https://en.wikipedia.org/wiki/Spin_wave)
 <!-- EQUATION_END -->
 
 <br>
