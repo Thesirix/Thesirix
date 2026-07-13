@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large M(T) = M(0) \left[ 1 - \left(\frac{T}{T_c}\right)^{3/2} \right]
+\large k = A e^{\frac{-E_a}{RT}}
 $$
 
-Felix Bloch - **Bloch's T^(3/2) Law** (1930)
+Svante Arrhenius - **Arrhenius Equation** (1889)
 > [!NOTE]
-> Describes the spontaneous magnetization of a ferromagnet at low temperatures due to the excitation of spin waves (magnons). [Read more](https://en.wikipedia.org/wiki/Spin_wave)
+> A formula for the temperature dependence of reaction rates in physical chemistry. [Read more](https://en.wikipedia.org/wiki/Arrhenius_equation)
 <!-- EQUATION_END -->
 
 <br>
