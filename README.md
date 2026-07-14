@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large k = A e^{\frac{-E_a}{RT}}
+\large G = \frac{2e^2}{h} \sum_n T_n
 $$
 
-Svante Arrhenius - **Arrhenius Equation** (1889)
+Rolf Landauer - **Landauer Formula** (1957)
 > [!NOTE]
-> A formula for the temperature dependence of reaction rates in physical chemistry. [Read more](https://en.wikipedia.org/wiki/Arrhenius_equation)
+> Relates the electrical resistance of a quantum conductor to the scattering properties of the conductor. [Read more](https://en.wikipedia.org/wiki/Landauer_formula)
 <!-- EQUATION_END -->
 
 <br>
