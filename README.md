@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large G = \frac{2e^2}{h} \sum_n T_n
+\large P_i = P_i^* x_i
 $$
 
-Rolf Landauer - **Landauer Formula** (1957)
+François-Marie Raoult - **Raoult's Law** (1887)
 > [!NOTE]
-> Relates the electrical resistance of a quantum conductor to the scattering properties of the conductor. [Read more](https://en.wikipedia.org/wiki/Landauer_formula)
+> States that the partial vapor pressure of each component of an ideal mixture of liquids is equal to the vapor pressure of the pure component multiplied by its mole fraction. [Read more](https://en.wikipedia.org/wiki/Raoult%27s_law)
 <!-- EQUATION_END -->
 
 <br>
