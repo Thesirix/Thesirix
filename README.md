@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P_i = P_i^* x_i
+\large E_{out} = E_{in} + \delta E
 $$
 
-François-Marie Raoult - **Raoult's Law** (1887)
+Roger Penrose - **Penrose Process (Black Hole Energy)** (1969)
 > [!NOTE]
-> States that the partial vapor pressure of each component of an ideal mixture of liquids is equal to the vapor pressure of the pure component multiplied by its mole fraction. [Read more](https://en.wikipedia.org/wiki/Raoult%27s_law)
+> Describes how energy can be extracted from a rotating black hole by tossing an object into its ergosphere. [Read more](https://en.wikipedia.org/wiki/Penrose_process)
 <!-- EQUATION_END -->
 
 <br>
