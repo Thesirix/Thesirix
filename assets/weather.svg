@@ -43,10 +43,10 @@
   <text x="255" y="168" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">Sunny</text>
   <text x="469" y="168" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">Sunny</text>
   <text x="683" y="168" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">Sunny</text>
-  <text x="255" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 26.3–30.4 °C</text>
-  <text x="469" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 26.1–32.8 °C</text>
-  <text x="683" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 27.1–33.9 °C</text>
-  <text x="255" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 16.9 kph</text>
-  <text x="469" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 21.6 kph</text>
-  <text x="683" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 20.5 kph</text>
+  <text x="255" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 26.3–30.2 °C</text>
+  <text x="469" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 26.3–32.8 °C</text>
+  <text x="683" y="220" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">🌡️ 26.6–33.1 °C</text>
+  <text x="255" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 17.3 kph</text>
+  <text x="469" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 22.0 kph</text>
+  <text x="683" y="272" text-anchor="middle" dominant-baseline="central" font-family="Segoe UI Emoji, Apple Color Emoji, Noto Color Emoji, Segoe UI, Arial, sans-serif" font-size="13" fill="#38bdae">↗️ 19.4 kph</text>
 </svg>
