@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large E_{out} = E_{in} + \delta E
+\large a^{\varphi(n)} \equiv 1 \pmod n
 $$
 
-Roger Penrose - **Penrose Process (Black Hole Energy)** (1969)
+Leonhard Euler - **Euler's Totient Theorem** (1736)
 > [!NOTE]
-> Describes how energy can be extracted from a rotating black hole by tossing an object into its ergosphere. [Read more](https://en.wikipedia.org/wiki/Penrose_process)
+> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
 <!-- EQUATION_END -->
 
 <br>
