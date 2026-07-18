@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large a^{\varphi(n)} \equiv 1 \pmod n
+\large \Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{v^2}{c^2}}}
 $$
 
-Leonhard Euler - **Euler's Totient Theorem** (1736)
+Albert Einstein - **Time Dilation** (1905)
 > [!NOTE]
-> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
+> The difference in the elapsed time measured by two clocks, due to a relative velocity between them. [Read more](https://en.wikipedia.org/wiki/Time_dilation)
 <!-- EQUATION_END -->
 
 <br>
