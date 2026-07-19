@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \Delta t' = \frac{\Delta t}{\sqrt{1 - \frac{v^2}{c^2}}}
+\large \mathbf{P} = \mathbf{NP}
 $$
 
-Albert Einstein - **Time Dilation** (1905)
+Stephen Cook & Leonid Levin - **P vs NP Formulation** (1971)
 > [!NOTE]
-> The difference in the elapsed time measured by two clocks, due to a relative velocity between them. [Read more](https://en.wikipedia.org/wiki/Time_dilation)
+> The most famous unsolved problem in computer science. If true, it implies that every problem whose solution can be quickly verified can also be quickly solved. [Read more](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 <!-- EQUATION_END -->
 
 <br>
