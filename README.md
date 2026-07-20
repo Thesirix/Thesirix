@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathbf{P} = \mathbf{NP}
+\large \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
 $$
 
-Stephen Cook & Leonid Levin - **P vs NP Formulation** (1971)
+Johannes Martinus Burgers - **Burgers' Equation** (1915)
 > [!NOTE]
-> The most famous unsolved problem in computer science. If true, it implies that every problem whose solution can be quickly verified can also be quickly solved. [Read more](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+> A fundamental partial differential equation occurring in various areas of applied mathematics, such as fluid mechanics and nonlinear acoustics. [Read more](https://en.wikipedia.org/wiki/Burgers%27_equation)
 <!-- EQUATION_END -->
 
 <br>
