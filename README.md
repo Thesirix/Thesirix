@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
+\large C_D = \frac{24}{\text{Re}} \left( 1 + \frac{3}{16}\text{Re} \right)
 $$
 
-Johannes Martinus Burgers - **Burgers' Equation** (1915)
+Carl Wilhelm Oseen - **Oseen's Law for Drag** (1910)
 > [!NOTE]
-> A fundamental partial differential equation occurring in various areas of applied mathematics, such as fluid mechanics and nonlinear acoustics. [Read more](https://en.wikipedia.org/wiki/Burgers%27_equation)
+> An improvement over Stokes' law for the drag on a sphere, valid for slightly higher Reynolds numbers. [Read more](https://en.wikipedia.org/wiki/Oseen_equations)
 <!-- EQUATION_END -->
 
 <br>
