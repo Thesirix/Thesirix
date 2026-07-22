@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large C_D = \frac{24}{\text{Re}} \left( 1 + \frac{3}{16}\text{Re} \right)
+\large f^* = p - \frac{q}{b}
 $$
 
-Carl Wilhelm Oseen - **Oseen's Law for Drag** (1910)
+John Larry Kelly Jr. - **Kelly Criterion** (1956)
 > [!NOTE]
-> An improvement over Stokes' law for the drag on a sphere, valid for slightly higher Reynolds numbers. [Read more](https://en.wikipedia.org/wiki/Oseen_equations)
+> A formula used to determine the optimal size of a series of bets in order to maximize the logarithm of wealth. [Read more](https://en.wikipedia.org/wiki/Kelly_criterion)
 <!-- EQUATION_END -->
 
 <br>
