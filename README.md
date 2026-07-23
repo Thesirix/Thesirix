@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f^* = p - \frac{q}{b}
+\large \lambda_{\max} T = b
 $$
 
-John Larry Kelly Jr. - **Kelly Criterion** (1956)
+Wilhelm Wien - **Wien's Displacement Law** (1893)
 > [!NOTE]
-> A formula used to determine the optimal size of a series of bets in order to maximize the logarithm of wealth. [Read more](https://en.wikipedia.org/wiki/Kelly_criterion)
+> States that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wien%27s_displacement_law)
 <!-- EQUATION_END -->
 
 <br>
