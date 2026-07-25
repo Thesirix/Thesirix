@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\text{Rate}_1}{\text{Rate}_2} = \sqrt{\frac{M_2}{M_1}}
+\large Utility = \frac{E \times V}{\Gamma \times D}
 $$
 
-Thomas Graham - **Graham's Law** (1848)
+Piers Steel - **Procrastination Equation** (2007)
 > [!NOTE]
-> States that the rate of effusion of a gas is inversely proportional to the square root of the mass of its particles. [Read more](https://en.wikipedia.org/wiki/Graham%27s_law)
+> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
 <!-- EQUATION_END -->
 
 <br>
