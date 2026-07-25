@@ -507,20 +507,20 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1387 commits        ████████░░░░░░░░░░░░░░░░░   33.70 % 
-🌆 Daytime                2168 commits        █████████████░░░░░░░░░░░░   52.67 % 
+🌞 Morning                1388 commits        ████████░░░░░░░░░░░░░░░░░   33.71 % 
+🌆 Daytime                2168 commits        █████████████░░░░░░░░░░░░   52.66 % 
 🌃 Evening                328 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.97 % 
 🌙 Night                  233 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   714 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
-Tuesday                  1008 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
+Monday                   714 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.34 % 
+Tuesday                  1008 commits        ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 Wednesday                632 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
 Thursday                 664 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.13 % 
 Friday                   375 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.11 % 
-Saturday                 239 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+Saturday                 240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 Sunday                   484 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
 ```
 
@@ -531,8 +531,7 @@ Sunday                   484 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   20 mins             ███████████████████████░░   93.78 % 
-HTML                     1 min               ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Python                   20 mins             █████████████████████████   100.00 % 
 ```
 
 
