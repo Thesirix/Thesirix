@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Utility = \frac{E \times V}{\Gamma \times D}
+\large i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \hat{H} \Psi(\mathbf{r},t)
 $$
 
-Piers Steel - **Procrastination Equation** (2007)
+Erwin Schrödinger - **Schrödinger Equation (Time-Dependent)** (1926)
 > [!NOTE]
-> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
+> A linear partial differential equation that governs the wave function of a quantum-mechanical system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
 <!-- EQUATION_END -->
 
 <br>
