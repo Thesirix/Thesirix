@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large i\hbar \frac{\partial}{\partial t} \Psi(\mathbf{r},t) = \hat{H} \Psi(\mathbf{r},t)
+\large V - E + F = 2
 $$
 
-Erwin Schrödinger - **Schrödinger Equation (Time-Dependent)** (1926)
+Leonhard Euler - **Euler's Polyhedral Formula** (1758)
 > [!NOTE]
-> A linear partial differential equation that governs the wave function of a quantum-mechanical system. [Read more](https://en.wikipedia.org/wiki/Schr%C3%B6dinger_equation)
+> Relates the number of vertices, edges, and faces of any convex polyhedron. A cornerstone of topology. [Read more](https://en.wikipedia.org/wiki/Euler_characteristic)
 <!-- EQUATION_END -->
 
 <br>
