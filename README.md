@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V - E + F = 2
+\large \frac{\pi}{2} = \prod_{n=1}^\infty \left(\frac{4n^2}{4n^2-1}\right)
 $$
 
-Leonhard Euler - **Euler's Polyhedral Formula** (1758)
+John Wallis - **Wallis Product for Pi** (1655)
 > [!NOTE]
-> Relates the number of vertices, edges, and faces of any convex polyhedron. A cornerstone of topology. [Read more](https://en.wikipedia.org/wiki/Euler_characteristic)
+> Expresses pi/2 as an infinite product of rational numbers. [Read more](https://en.wikipedia.org/wiki/Wallis_product)
 <!-- EQUATION_END -->
 
 <br>
