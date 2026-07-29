@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\pi}{2} = \prod_{n=1}^\infty \left(\frac{4n^2}{4n^2-1}\right)
+\large r_H = \frac{GM}{c^2} + \sqrt{\left(\frac{GM}{c^2}\right)^2 - \left(\frac{J}{Mc}\right)^2}
 $$
 
-John Wallis - **Wallis Product for Pi** (1655)
+Roy Kerr - **Kerr Black Hole Horizon Radius** (1963)
 > [!NOTE]
-> Expresses pi/2 as an infinite product of rational numbers. [Read more](https://en.wikipedia.org/wiki/Wallis_product)
+> Calculates the location of the outer event horizon of a rotating uncharged black hole. [Read more](https://en.wikipedia.org/wiki/Kerr_metric)
 <!-- EQUATION_END -->
 
 <br>
