@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large r_H = \frac{GM}{c^2} + \sqrt{\left(\frac{GM}{c^2}\right)^2 - \left(\frac{J}{Mc}\right)^2}
+\large L = L_0 \sqrt{1 - \frac{v^2}{c^2}}
 $$
 
-Roy Kerr - **Kerr Black Hole Horizon Radius** (1963)
+Hendrik Lorentz & Albert Einstein - **Length Contraction** (1892)
 > [!NOTE]
-> Calculates the location of the outer event horizon of a rotating uncharged black hole. [Read more](https://en.wikipedia.org/wiki/Kerr_metric)
+> The phenomenon that a moving object's length is measured to be shorter than its proper length. [Read more](https://en.wikipedia.org/wiki/Length_contraction)
 <!-- EQUATION_END -->
 
 <br>
