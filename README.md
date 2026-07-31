@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large L = L_0 \sqrt{1 - \frac{v^2}{c^2}}
+\large F = G \frac{m_1 m_2}{r^2}
 $$
 
-Hendrik Lorentz & Albert Einstein - **Length Contraction** (1892)
+Isaac Newton - **Law of Universal Gravitation** (1687)
 > [!NOTE]
-> The phenomenon that a moving object's length is measured to be shorter than its proper length. [Read more](https://en.wikipedia.org/wiki/Length_contraction)
+> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
 <!-- EQUATION_END -->
 
 <br>
