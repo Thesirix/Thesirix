@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large F = G \frac{m_1 m_2}{r^2}
+\large R(t) = \sqrt{R_0^2 + \frac{2 D S (P_g - P_l) t}{\rho_g}}
 $$
 
-Isaac Newton - **Law of Universal Gravitation** (1687)
+Gérard Liger-Belair - **Bubble Lifetime in Beer** (2002)
 > [!NOTE]
-> Describes the attractive force between two bodies with mass, explaining both falling apples and planetary orbits. [Read more](https://en.wikipedia.org/wiki/Newton%27s_law_of_universal_gravitation)
+> Calculates the growth of bubbles in carbonated beverages like champagne or beer as they rise to the surface. [Read more](https://en.wikipedia.org/wiki/Carbonation)
 <!-- EQUATION_END -->
 
 <br>
