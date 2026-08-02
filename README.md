@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large R(t) = \sqrt{R_0^2 + \frac{2 D S (P_g - P_l) t}{\rho_g}}
+\large \forall i, \; u_i(s_i^*, s_{-i}^*) \ge u_i(s_i, s_{-i}^*)
 $$
 
-Gérard Liger-Belair - **Bubble Lifetime in Beer** (2002)
+John Forbes Nash Jr. - **Nash Equilibrium** (1950)
 > [!NOTE]
-> Calculates the growth of bubbles in carbonated beverages like champagne or beer as they rise to the surface. [Read more](https://en.wikipedia.org/wiki/Carbonation)
+> A concept within game theory where the optimal outcome of a game is one where no player has an incentive to deviate from their chosen strategy after considering an opponent's choice. [Read more](https://en.wikipedia.org/wiki/Nash_equilibrium)
 <!-- EQUATION_END -->
 
 <br>
