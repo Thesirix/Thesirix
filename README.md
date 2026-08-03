@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \forall i, \; u_i(s_i^*, s_{-i}^*) \ge u_i(s_i, s_{-i}^*)
+\large I_{sp} = \frac{F}{\dot{m} g_0}
 $$
 
-John Forbes Nash Jr. - **Nash Equilibrium** (1950)
+Konstantin Tsiolkovsky - **Specific Impulse** (1903)
 > [!NOTE]
-> A concept within game theory where the optimal outcome of a game is one where no player has an incentive to deviate from their chosen strategy after considering an opponent's choice. [Read more](https://en.wikipedia.org/wiki/Nash_equilibrium)
+> A measure of how efficiently a reaction mass engine (like a rocket) creates thrust. [Read more](https://en.wikipedia.org/wiki/Specific_impulse)
 <!-- EQUATION_END -->
 
 <br>
