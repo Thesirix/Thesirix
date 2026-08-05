@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large I_{sp} = \frac{F}{\dot{m} g_0}
+\large f(k;s,N) = \frac{1/k^s}{\sum_{n=1}^N (1/n^s)}
 $$
 
-Konstantin Tsiolkovsky - **Specific Impulse** (1903)
+George Kingsley Zipf - **Zipf's Law** (1935)
 > [!NOTE]
-> A measure of how efficiently a reaction mass engine (like a rocket) creates thrust. [Read more](https://en.wikipedia.org/wiki/Specific_impulse)
+> An empirical law formulated using mathematical statistics that refers to the fact that many types of data studied in the physical and social sciences can be approximated with a Zipfian distribution. [Read more](https://en.wikipedia.org/wiki/Zipf%27s_law)
 <!-- EQUATION_END -->
 
 <br>
