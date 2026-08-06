@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f(k;s,N) = \frac{1/k^s}{\sum_{n=1}^N (1/n^s)}
+\large F_L = \frac{1}{2} \rho v^2 A C_L
 $$
 
-George Kingsley Zipf - **Zipf's Law** (1935)
+Daniel Bernoulli - **Benoulli's Principle for Sails** (1738)
 > [!NOTE]
-> An empirical law formulated using mathematical statistics that refers to the fact that many types of data studied in the physical and social sciences can be approximated with a Zipfian distribution. [Read more](https://en.wikipedia.org/wiki/Zipf%27s_law)
+> Explains how a sailboat can travel faster than the wind by creating a pressure difference across the sail. [Read more](https://en.wikipedia.org/wiki/Forces_on_sails)
 <!-- EQUATION_END -->
 
 <br>
