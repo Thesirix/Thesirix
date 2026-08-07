@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large F_L = \frac{1}{2} \rho v^2 A C_L
+\large m \equiv c^d \pmod n
 $$
 
-Daniel Bernoulli - **Benoulli's Principle for Sails** (1738)
+Ron Rivest, Adi Shamir & Leonard Adleman - **RSA Decryption** (1977)
 > [!NOTE]
-> Explains how a sailboat can travel faster than the wind by creating a pressure difference across the sail. [Read more](https://en.wikipedia.org/wiki/Forces_on_sails)
+> The counterpart to RSA encryption, requiring the private key to retrieve the original message. [Read more](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
 <!-- EQUATION_END -->
 
 <br>
