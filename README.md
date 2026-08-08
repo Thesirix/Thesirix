@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large m \equiv c^d \pmod n
+\large \oint_C f(z) dz = 0
 $$
 
-Ron Rivest, Adi Shamir & Leonard Adleman - **RSA Decryption** (1977)
+Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
 > [!NOTE]
-> The counterpart to RSA encryption, requiring the private key to retrieve the original message. [Read more](https://en.wikipedia.org/wiki/RSA_(cryptosystem))
+> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
 <!-- EQUATION_END -->
 
 <br>
