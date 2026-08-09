@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \oint_C f(z) dz = 0
+\large \frac{1}{v} = \frac{K_m}{V_{\max}[S]} + \frac{1}{V_{\max}}
 $$
 
-Augustin-Louis Cauchy - **Cauchy's Integral Theorem** (1825)
+Hans Lineweaver & Dean Burk - **Lineweaver-Burk Equation** (1934)
 > [!NOTE]
-> States that the line integral of a holomorphic function over a simple closed contour is zero. [Read more](https://en.wikipedia.org/wiki/Cauchy%27s_integral_theorem)
+> A linear transformation of the Michaelis-Menten equation, used to determine enzyme kinetics parameters. [Read more](https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot)
 <!-- EQUATION_END -->
 
 <br>
