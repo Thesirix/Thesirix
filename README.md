@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{1}{v} = \frac{K_m}{V_{\max}[S]} + \frac{1}{V_{\max}}
+\large V_m = \frac{RT}{F} \ln \left( \frac{P_K[K^+]_{out} + P_{Na}[Na^+]_{out} + P_{Cl}[Cl^-]_{in}}{P_K[K^+]_{in} + P_{Na}[Na^+]_{in} + P_{Cl}[Cl^-]_{out}} \right)
 $$
 
-Hans Lineweaver & Dean Burk - **Lineweaver-Burk Equation** (1934)
+David E. Goldman, Alan Hodgkin, & Bernard Katz - **Goldman-Hodgkin-Katz Voltage Equation** (1943)
 > [!NOTE]
-> A linear transformation of the Michaelis-Menten equation, used to determine enzyme kinetics parameters. [Read more](https://en.wikipedia.org/wiki/Lineweaver%E2%80%93Burk_plot)
+> Used in cell membrane physiology to determine the reversal potential across a cell's membrane, taking into account all the ions that are permeant through that membrane. [Read more](https://en.wikipedia.org/wiki/Goldman_equation)
 <!-- EQUATION_END -->
 
 <br>
