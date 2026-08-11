@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V_m = \frac{RT}{F} \ln \left( \frac{P_K[K^+]_{out} + P_{Na}[Na^+]_{out} + P_{Cl}[Cl^-]_{in}}{P_K[K^+]_{in} + P_{Na}[Na^+]_{in} + P_{Cl}[Cl^-]_{out}} \right)
+\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
 $$
 
-David E. Goldman, Alan Hodgkin, & Bernard Katz - **Goldman-Hodgkin-Katz Voltage Equation** (1943)
+Carl Friedrich Gauss - **Divergence Theorem** (1813)
 > [!NOTE]
-> Used in cell membrane physiology to determine the reversal potential across a cell's membrane, taking into account all the ions that are permeant through that membrane. [Read more](https://en.wikipedia.org/wiki/Goldman_equation)
+> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
 <!-- EQUATION_END -->
 
 <br>
