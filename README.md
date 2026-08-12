@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \iiint_V (\nabla \cdot \mathbf{F}) dV = \iint_S (\mathbf{F} \cdot \mathbf{n}) dS
+\large \Gamma(p, P) = \int \frac{d^4k}{(2\pi)^4} K(p, k; P) S_1(k+\frac{P}{2}) \Gamma(k, P) S_2(k-\frac{P}{2})
 $$
 
-Carl Friedrich Gauss - **Divergence Theorem** (1813)
+Hans Bethe & Edwin Salpeter - **Bethe-Salpeter Equation** (1951)
 > [!NOTE]
-> Relates the flux of a vector field through a closed surface to the divergence of the field in the volume enclosed. [Read more](https://en.wikipedia.org/wiki/Divergence_theorem)
+> Describes the bound states of a two-body quantum mechanical system in a relativistically covariant formalism. [Read more](https://en.wikipedia.org/wiki/Bethe%E2%80%93Salpeter_equation)
 <!-- EQUATION_END -->
 
 <br>
