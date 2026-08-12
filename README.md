@@ -202,9 +202,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`a977d58`](https://github.com/Thesirix/Thesirix/commit/a977d58497b055312c5c3de320e2d58da5cba1aa) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`c4f3d52`](https://github.com/Thesirix/StreakMaster/commit/c4f3d52165cf32211cc29c6c61dea42a25033791) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _8h ago_
-3. 🔨 Pushed [`58d555c`](https://github.com/Thesirix/Thesirix/commit/58d555cbfbd888783f3285bcef7c3dd6e7997bc8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _23h ago_
+1. 🔨 Pushed [`a977d58`](https://github.com/Thesirix/Thesirix/commit/a977d58497b055312c5c3de320e2d58da5cba1aa) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1h ago_
+2. 🔨 Pushed [`c4f3d52`](https://github.com/Thesirix/StreakMaster/commit/c4f3d52165cf32211cc29c6c61dea42a25033791) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _9h ago_
+3. 🔨 Pushed [`58d555c`](https://github.com/Thesirix/Thesirix/commit/58d555cbfbd888783f3285bcef7c3dd6e7997bc8) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
 4. 🔨 Pushed [`fa7f40e`](https://github.com/Thesirix/StreakMaster/commit/fa7f40e43de6c92cdd2f4d3481779fd5f6fb13ba) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
 5. 🔨 Pushed [`559d67e`](https://github.com/Thesirix/Thesirix/commit/559d67e72322c75327d60f68bf2ff4188b9a845f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
 <!-- ACTIVITY_END -->
