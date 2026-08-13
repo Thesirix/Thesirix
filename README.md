@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \Gamma(p, P) = \int \frac{d^4k}{(2\pi)^4} K(p, k; P) S_1(k+\frac{P}{2}) \Gamma(k, P) S_2(k-\frac{P}{2})
+\large x_{n+1} = r x_n (1 - x_n)
 $$
 
-Hans Bethe & Edwin Salpeter - **Bethe-Salpeter Equation** (1951)
+Robert May - **Logistic Map** (1976)
 > [!NOTE]
-> Describes the bound states of a two-body quantum mechanical system in a relativistically covariant formalism. [Read more](https://en.wikipedia.org/wiki/Bethe%E2%80%93Salpeter_equation)
+> A polynomial mapping that became an archetypal example of how complex, chaotic behaviour can arise from very simple non-linear dynamical equations. [Read more](https://en.wikipedia.org/wiki/Logistic_map)
 <!-- EQUATION_END -->
 
 <br>
