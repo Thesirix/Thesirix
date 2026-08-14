@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large x_{n+1} = r x_n (1 - x_n)
+\large I = I_0 \frac{8\pi^4 \alpha^2}{\lambda^4 R^2} (1+\cos^2 \theta)
 $$
 
-Robert May - **Logistic Map** (1976)
+Lord Rayleigh - **Rayleigh Scattering** (1871)
 > [!NOTE]
-> A polynomial mapping that became an archetypal example of how complex, chaotic behaviour can arise from very simple non-linear dynamical equations. [Read more](https://en.wikipedia.org/wiki/Logistic_map)
+> Explains the elastic scattering of light by particles much smaller than the wavelength of the radiation, explaining why the sky is blue. [Read more](https://en.wikipedia.org/wiki/Rayleigh_scattering)
 <!-- EQUATION_END -->
 
 <br>
