@@ -30,6 +30,8 @@ Together, let's turn your technical ambitions into concrete, scalable, and susta
 
 <br><br>
 
+<img alt="Thesirix's Top Languages WakaTime" src="assets/waka-card.svg" /><br>
+
 <h2 align="center">My Tech Universe 🌐</h2>
 
 <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&amp;rid=giphy.gif" width="32px">
