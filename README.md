@@ -226,12 +226,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large I = I_0 \frac{8\pi^4 \alpha^2}{\lambda^4 R^2} (1+\cos^2 \theta)
+\large a^{\varphi(n)} \equiv 1 \pmod n
 $$
 
-Lord Rayleigh - **Rayleigh Scattering** (1871)
+Leonhard Euler - **Euler's Totient Theorem** (1736)
 > [!NOTE]
-> Explains the elastic scattering of light by particles much smaller than the wavelength of the radiation, explaining why the sky is blue. [Read more](https://en.wikipedia.org/wiki/Rayleigh_scattering)
+> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
 <!-- EQUATION_END -->
 
 <br>
