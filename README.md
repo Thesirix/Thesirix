@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large a^{\varphi(n)} \equiv 1 \pmod n
+\large \frac{\partial}{\partial x} \left( \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} + \frac{\partial^3 u}{\partial x^3} \right) + \pm \frac{\partial^2 u}{\partial y^2} = 0
 $$
 
-Leonhard Euler - **Euler's Totient Theorem** (1736)
+Boris Kadomtsev & Vladimir Petviashvili - **Kadomtsev-Petviashvili (KP) Equation** (1970)
 > [!NOTE]
-> A fundamental theorem in number theory, generalizing Fermat's Little Theorem, heavily used in RSA encryption. [Read more](https://en.wikipedia.org/wiki/Euler%27s_totient_theorem)
+> A partial differential equation to describe nonlinear wave motion, generalizing the KdV equation to two spatial dimensions. [Read more](https://en.wikipedia.org/wiki/Kadomtsev%E2%80%93Petviashvili_equation)
 <!-- EQUATION_END -->
 
 <br>
