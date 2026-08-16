@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial}{\partial x} \left( \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} + \frac{\partial^3 u}{\partial x^3} \right) + \pm \frac{\partial^2 u}{\partial y^2} = 0
+\large I = I_0 \cos^2 \theta
 $$
 
-Boris Kadomtsev & Vladimir Petviashvili - **Kadomtsev-Petviashvili (KP) Equation** (1970)
+Étienne-Louis Malus - **Malus's Law** (1809)
 > [!NOTE]
-> A partial differential equation to describe nonlinear wave motion, generalizing the KdV equation to two spatial dimensions. [Read more](https://en.wikipedia.org/wiki/Kadomtsev%E2%80%93Petviashvili_equation)
+> Gives the intensity of a plane-polarized light wave after passing through a polarizer. [Read more](https://en.wikipedia.org/wiki/Polarizer#Malus's_law)
 <!-- EQUATION_END -->
 
 <br>
