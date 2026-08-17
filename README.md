@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large I = I_0 \cos^2 \theta
+\large i\hbar \frac{\partial \Psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V_{ext} + g|\Psi|^2\right)\Psi
 $$
 
-Étienne-Louis Malus - **Malus's Law** (1809)
+Eugene Gross & Lev Pitaevskii - **Gross-Pitaevskii Equation** (1961)
 > [!NOTE]
-> Gives the intensity of a plane-polarized light wave after passing through a polarizer. [Read more](https://en.wikipedia.org/wiki/Polarizer#Malus's_law)
+> Describes the ground state of a quantum system of identical bosons using the Hartree-Fock approximation and the pseudopotential interaction model. [Read more](https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation)
 <!-- EQUATION_END -->
 
 <br>
