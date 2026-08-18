@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large i\hbar \frac{\partial \Psi}{\partial t} = \left(-\frac{\hbar^2}{2m}\nabla^2 + V_{ext} + g|\Psi|^2\right)\Psi
+\large R_K = \frac{h}{e^2}
 $$
 
-Eugene Gross & Lev Pitaevskii - **Gross-Pitaevskii Equation** (1961)
+Klaus von Klitzing - **Von Klitzing Constant** (1980)
 > [!NOTE]
-> Describes the ground state of a quantum system of identical bosons using the Hartree-Fock approximation and the pseudopotential interaction model. [Read more](https://en.wikipedia.org/wiki/Gross%E2%80%93Pitaevskii_equation)
+> The quantum of Hall resistance, a fundamental constant involving the Planck constant and the elementary charge. [Read more](https://en.wikipedia.org/wiki/Quantum_Hall_effect)
 <!-- EQUATION_END -->
 
 <br>
