@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large R_K = \frac{h}{e^2}
+\large P(h) = P_0 e^{-M g h / R T}
 $$
 
-Klaus von Klitzing - **Von Klitzing Constant** (1980)
+Edmond Halley - **Barometric Formula** (1686)
 > [!NOTE]
-> The quantum of Hall resistance, a fundamental constant involving the Planck constant and the elementary charge. [Read more](https://en.wikipedia.org/wiki/Quantum_Hall_effect)
+> Used to model how the pressure of the air changes with altitude under the assumption of constant temperature. [Read more](https://en.wikipedia.org/wiki/Barometric_formula)
 <!-- EQUATION_END -->
 
 <br>
