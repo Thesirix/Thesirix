@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P(h) = P_0 e^{-M g h / R T}
+\large a = 0.4 + 0.3 \times 2^m
 $$
 
-Edmond Halley - **Barometric Formula** (1686)
+Johann Titius & Johann Bode - **Titius-Bode Law** (1766)
 > [!NOTE]
-> Used to model how the pressure of the air changes with altitude under the assumption of constant temperature. [Read more](https://en.wikipedia.org/wiki/Barometric_formula)
+> A historic, empirical rule that predicted the spacing of the planets in the Solar System. [Read more](https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law)
 <!-- EQUATION_END -->
 
 <br>
