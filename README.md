@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large a = 0.4 + 0.3 \times 2^m
+\large \Gamma(p, P) = \int \frac{d^4k}{(2\pi)^4} K(p, k; P) S_1(k+\frac{P}{2}) \Gamma(k, P) S_2(k-\frac{P}{2})
 $$
 
-Johann Titius & Johann Bode - **Titius-Bode Law** (1766)
+Hans Bethe & Edwin Salpeter - **Bethe-Salpeter Equation** (1951)
 > [!NOTE]
-> A historic, empirical rule that predicted the spacing of the planets in the Solar System. [Read more](https://en.wikipedia.org/wiki/Titius%E2%80%93Bode_law)
+> Describes the bound states of a two-body quantum mechanical system in a relativistically covariant formalism. [Read more](https://en.wikipedia.org/wiki/Bethe%E2%80%93Salpeter_equation)
 <!-- EQUATION_END -->
 
 <br>
