@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \Gamma(p, P) = \int \frac{d^4k}{(2\pi)^4} K(p, k; P) S_1(k+\frac{P}{2}) \Gamma(k, P) S_2(k-\frac{P}{2})
+\large \frac{d^2 \hat{w}}{dz^2} + \left( \frac{N^2}{(U-c)^2} - \frac{U''}{U-c} - k^2 \right) \hat{w} = 0
 $$
 
-Hans Bethe & Edwin Salpeter - **Bethe-Salpeter Equation** (1951)
+G. I. Taylor & Sydney Goldstein - **Taylor-Goldstein Equation** (1931)
 > [!NOTE]
-> Describes the bound states of a two-body quantum mechanical system in a relativistically covariant formalism. [Read more](https://en.wikipedia.org/wiki/Bethe%E2%80%93Salpeter_equation)
+> Governs the linear dynamics of a stratified shear flow, crucial in understanding atmospheric and oceanic instabilities. [Read more](https://en.wikipedia.org/wiki/Taylor%E2%80%93Goldstein_equation)
 <!-- EQUATION_END -->
 
 <br>
