@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d^2 \hat{w}}{dz^2} + \left( \frac{N^2}{(U-c)^2} - \frac{U''}{U-c} - k^2 \right) \hat{w} = 0
+\large \Gamma(z) = \int_0^\infty x^{z-1} e^{-x} dx
 $$
 
-G. I. Taylor & Sydney Goldstein - **Taylor-Goldstein Equation** (1931)
+Leonhard Euler - **Gamma Function** (1729)
 > [!NOTE]
-> Governs the linear dynamics of a stratified shear flow, crucial in understanding atmospheric and oceanic instabilities. [Read more](https://en.wikipedia.org/wiki/Taylor%E2%80%93Goldstein_equation)
+> An extension of the factorial function, with its argument shifted down by 1, to real and complex numbers. [Read more](https://en.wikipedia.org/wiki/Gamma_function)
 <!-- EQUATION_END -->
 
 <br>
