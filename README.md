@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \Gamma(z) = \int_0^\infty x^{z-1} e^{-x} dx
+\large F_f \le \mu F_n
 $$
 
-Leonhard Euler - **Gamma Function** (1729)
+Charles-Augustin de Coulomb - **Coulomb's Law of Friction** (1785)
 > [!NOTE]
-> An extension of the factorial function, with its argument shifted down by 1, to real and complex numbers. [Read more](https://en.wikipedia.org/wiki/Gamma_function)
+> A model used to calculate the force of dry friction. [Read more](https://en.wikipedia.org/wiki/Friction#Dry_friction)
 <!-- EQUATION_END -->
 
 <br>
