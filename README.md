@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large F_f \le \mu F_n
+\large \hat{y} = \arg\max_y P(y) \prod_{i=1}^n P(x_i | y)
 $$
 
-Charles-Augustin de Coulomb - **Coulomb's Law of Friction** (1785)
+Thomas Bayes - **Naive Bayes Classifier** (1763)
 > [!NOTE]
-> A model used to calculate the force of dry friction. [Read more](https://en.wikipedia.org/wiki/Friction#Dry_friction)
+> A highly scalable probabilistic classifier based on applying Bayes' theorem with strong independence assumptions between features. [Read more](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 <!-- EQUATION_END -->
 
 <br>
