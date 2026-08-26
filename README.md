@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \hat{y} = \arg\max_y P(y) \prod_{i=1}^n P(x_i | y)
+\large \frac{1}{f} = (n - 1) \left[ \frac{1}{R_1} - \frac{1}{R_2} + \frac{(n-1)d}{n R_1 R_2} \right]
 $$
 
-Thomas Bayes - **Naive Bayes Classifier** (1763)
+Christiaan Huygens - **Lens Maker's Equation** (1690)
 > [!NOTE]
-> A highly scalable probabilistic classifier based on applying Bayes' theorem with strong independence assumptions between features. [Read more](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
+> Used to calculate the focal length of a lens based on its index of refraction and the radii of curvature of its surfaces. [Read more](https://en.wikipedia.org/wiki/Lens_(optics)#Lensmaker's_equation)
 <!-- EQUATION_END -->
 
 <br>
