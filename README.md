@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{1}{f} = (n - 1) \left[ \frac{1}{R_1} - \frac{1}{R_2} + \frac{(n-1)d}{n R_1 R_2} \right]
+\large EI \frac{d^4 w}{dx^4} = q(x)
 $$
 
-Christiaan Huygens - **Lens Maker's Equation** (1690)
+Leonhard Euler & Daniel Bernoulli - **Euler-Bernoulli Beam Equation** (1750)
 > [!NOTE]
-> Used to calculate the focal length of a lens based on its index of refraction and the radii of curvature of its surfaces. [Read more](https://en.wikipedia.org/wiki/Lens_(optics)#Lensmaker's_equation)
+> A simplification of the linear theory of elasticity which provides a means of calculating the load-carrying and deflection characteristics of beams. [Read more](https://en.wikipedia.org/wiki/Euler%E2%80%93Bernoulli_beam_theory)
 <!-- EQUATION_END -->
 
 <br>
