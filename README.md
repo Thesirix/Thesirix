@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large EI \frac{d^4 w}{dx^4} = q(x)
+\large x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
 $$
 
-Leonhard Euler & Daniel Bernoulli - **Euler-Bernoulli Beam Equation** (1750)
+Brahmagupta - **Quadratic Formula** (628)
 > [!NOTE]
-> A simplification of the linear theory of elasticity which provides a means of calculating the load-carrying and deflection characteristics of beams. [Read more](https://en.wikipedia.org/wiki/Euler%E2%80%93Bernoulli_beam_theory)
+> Provides the solution(s) to a quadratic equation, finding the roots of a parabola. [Read more](https://en.wikipedia.org/wiki/Quadratic_formula)
 <!-- EQUATION_END -->
 
 <br>
