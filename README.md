@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large x = \frac{-b \pm \sqrt{b^2 - 4ac}}{2a}
+\large \log_{10} N = a - bM
 $$
 
-Brahmagupta - **Quadratic Formula** (628)
+Beno Gutenberg & Charles Francis Richter - **Gutenberg-Richter Law** (1944)
 > [!NOTE]
-> Provides the solution(s) to a quadratic equation, finding the roots of a parabola. [Read more](https://en.wikipedia.org/wiki/Quadratic_formula)
+> Expresses the relationship between the magnitude and total number of earthquakes in any given region and time period. [Read more](https://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law)
 <!-- EQUATION_END -->
 
 <br>
