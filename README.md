@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \log_{10} N = a - bM
+\large S(P) = P - \alpha (P - 1)
 $$
 
-Beno Gutenberg & Charles Francis Richter - **Gutenberg-Richter Law** (1944)
+John L. Gustafson - **Gustafson's Law** (1988)
 > [!NOTE]
-> Expresses the relationship between the magnitude and total number of earthquakes in any given region and time period. [Read more](https://en.wikipedia.org/wiki/Gutenberg%E2%80%93Richter_law)
+> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
 <!-- EQUATION_END -->
 
 <br>
