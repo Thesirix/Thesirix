@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S(P) = P - \alpha (P - 1)
+\large f(k;s,N) = \frac{1/k^s}{\sum_{n=1}^N (1/n^s)}
 $$
 
-John L. Gustafson - **Gustafson's Law** (1988)
+George Kingsley Zipf - **Zipf's Law** (1935)
 > [!NOTE]
-> Gives the theoretical speedup in latency of the execution of a task at fixed execution time, addressing the limits of Amdahl's Law. [Read more](https://en.wikipedia.org/wiki/Gustafson%27s_law)
+> An empirical law formulated using mathematical statistics that refers to the fact that many types of data studied in the physical and social sciences can be approximated with a Zipfian distribution. [Read more](https://en.wikipedia.org/wiki/Zipf%27s_law)
 <!-- EQUATION_END -->
 
 <br>
