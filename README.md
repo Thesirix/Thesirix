@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f(k;s,N) = \frac{1/k^s}{\sum_{n=1}^N (1/n^s)}
+\large \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
 $$
 
-George Kingsley Zipf - **Zipf's Law** (1935)
+Johannes Martinus Burgers - **Burgers' Equation** (1915)
 > [!NOTE]
-> An empirical law formulated using mathematical statistics that refers to the fact that many types of data studied in the physical and social sciences can be approximated with a Zipfian distribution. [Read more](https://en.wikipedia.org/wiki/Zipf%27s_law)
+> A fundamental partial differential equation occurring in various areas of applied mathematics, such as fluid mechanics and nonlinear acoustics. [Read more](https://en.wikipedia.org/wiki/Burgers%27_equation)
 <!-- EQUATION_END -->
 
 <br>
