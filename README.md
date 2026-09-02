@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} = \nu \frac{\partial^2 u}{\partial x^2}
+\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
 $$
 
-Johannes Martinus Burgers - **Burgers' Equation** (1915)
+Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
 > [!NOTE]
-> A fundamental partial differential equation occurring in various areas of applied mathematics, such as fluid mechanics and nonlinear acoustics. [Read more](https://en.wikipedia.org/wiki/Burgers%27_equation)
+> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
 <!-- EQUATION_END -->
 
 <br>
