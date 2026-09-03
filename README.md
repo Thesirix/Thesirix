@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S = k_B N \left[ \ln\left( \frac{V}{N} \left(\frac{4\pi m E}{3h^2 N}\right)^{3/2} \right) + \frac{5}{2} \right]
+\large \lambda_{\max} T = b
 $$
 
-Otto Sackur & Hugo Tetrode - **Sackur-Tetrode Equation** (1912)
+Wilhelm Wien - **Wien's Displacement Law** (1893)
 > [!NOTE]
-> Expresses the entropy of a monatomic classical ideal gas, resolving the Gibbs paradox. [Read more](https://en.wikipedia.org/wiki/Sackur%E2%80%93Tetrode_equation)
+> States that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wien%27s_displacement_law)
 <!-- EQUATION_END -->
 
 <br>
