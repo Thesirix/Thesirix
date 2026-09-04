@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \lambda_{\max} T = b
+\large H = -\sum p_i \log p_i
 $$
 
-Wilhelm Wien - **Wien's Displacement Law** (1893)
+Claude Shannon - **The Shannon Entropy of English** (1951)
 > [!NOTE]
-> States that the black-body radiation curve for different temperatures will peak at different wavelengths that are inversely proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wien%27s_displacement_law)
+> Calculates the information density of the English language (about 0.6 to 1.3 bits per character). [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Entropy_of_English)
 <!-- EQUATION_END -->
 
 <br>
