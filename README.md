@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large H = -\sum p_i \log p_i
+\large \theta_B = \arctan\left(\frac{n_2}{n_1}\right)
 $$
 
-Claude Shannon - **The Shannon Entropy of English** (1951)
+David Brewster - **Brewster's Angle** (1815)
 > [!NOTE]
-> Calculates the information density of the English language (about 0.6 to 1.3 bits per character). [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Entropy_of_English)
+> An angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. [Read more](https://en.wikipedia.org/wiki/Brewster%27s_angle)
 <!-- EQUATION_END -->
 
 <br>
