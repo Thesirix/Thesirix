@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \theta_B = \arctan\left(\frac{n_2}{n_1}\right)
+\large W\% = \frac{\text{Runs Scored}^2}{\text{Runs Scored}^2 + \text{Runs Allowed}^2}
 $$
 
-David Brewster - **Brewster's Angle** (1815)
+Bill James - **Pythagorean Expectation** (1980)
 > [!NOTE]
-> An angle of incidence at which light with a particular polarization is perfectly transmitted through a transparent dielectric surface, with no reflection. [Read more](https://en.wikipedia.org/wiki/Brewster%27s_angle)
+> A sabermetric formula used to estimate how many games a baseball team 'should' have won based on the number of runs they scored and allowed. [Read more](https://en.wikipedia.org/wiki/Pythagorean_expectation)
 <!-- EQUATION_END -->
 
 <br>
