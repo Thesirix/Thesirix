@@ -204,11 +204,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`ec10732`](https://github.com/Thesirix/Thesirix/commit/ec10732c7fb1eaa8d6cb2792a5a96c7a8db61d8d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3d ago_
-2. 🔨 Pushed [`a044eed`](https://github.com/Thesirix/StreakMaster/commit/a044eed2c8b0c68dde9b1bedfc95c7f64e060983) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-3. 🔨 Pushed [`a5f1802`](https://github.com/Thesirix/StreakMaster/commit/a5f1802533eb7f3bfe4b2c292a0fa7dc579cb904) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3d ago_
-4. 🔨 Pushed [`6021f30`](https://github.com/Thesirix/Thesirix/commit/6021f3092a762af5f87ec90f1bc80bfd178d052f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4d ago_
-5. 🔨 Pushed [`27151e4`](https://github.com/Thesirix/StreakMaster/commit/27151e4651e5875f7229b95eee0fe13e1497aaff) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _4d ago_
+1. 🔨 Pushed [`6ec58b1`](https://github.com/Thesirix/StreakMaster/commit/6ec58b1ba5697310fd9a1d7af14f9d5dc700f4e0) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
+2. 🔨 Pushed [`ec10732`](https://github.com/Thesirix/Thesirix/commit/ec10732c7fb1eaa8d6cb2792a5a96c7a8db61d8d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3d ago_
+3. 🔨 Pushed [`a044eed`](https://github.com/Thesirix/StreakMaster/commit/a044eed2c8b0c68dde9b1bedfc95c7f64e060983) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
+4. 🔨 Pushed [`a5f1802`](https://github.com/Thesirix/StreakMaster/commit/a5f1802533eb7f3bfe4b2c292a0fa7dc579cb904) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3d ago_
+5. 🔨 Pushed [`6021f30`](https://github.com/Thesirix/Thesirix/commit/6021f3092a762af5f87ec90f1bc80bfd178d052f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _4d ago_
 <!-- ACTIVITY_END -->
 
 
