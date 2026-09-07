@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large W\% = \frac{\text{Runs Scored}^2}{\text{Runs Scored}^2 + \text{Runs Allowed}^2}
+\large v^2 = GM \left( \frac{2}{r} - \frac{1}{a} \right)
 $$
 
-Bill James - **Pythagorean Expectation** (1980)
+Gottfried Wilhelm Leibniz - **Vis-viva Equation** (1695)
 > [!NOTE]
-> A sabermetric formula used to estimate how many games a baseball team 'should' have won based on the number of runs they scored and allowed. [Read more](https://en.wikipedia.org/wiki/Pythagorean_expectation)
+> Models the velocity of any body traveling along an elliptic orbit about a central body. [Read more](https://en.wikipedia.org/wiki/Vis-viva_equation)
 <!-- EQUATION_END -->
 
 <br>
