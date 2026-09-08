@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large v^2 = GM \left( \frac{2}{r} - \frac{1}{a} \right)
+\large f_s \ge 2 B
 $$
 
-Gottfried Wilhelm Leibniz - **Vis-viva Equation** (1695)
+Harry Nyquist & Claude Shannon - **Nyquist-Shannon Sampling Theorem** (1928)
 > [!NOTE]
-> Models the velocity of any body traveling along an elliptic orbit about a central body. [Read more](https://en.wikipedia.org/wiki/Vis-viva_equation)
+> Establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal. [Read more](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
 <!-- EQUATION_END -->
 
 <br>
