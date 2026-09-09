@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f_s \ge 2 B
+\large S \le \frac{2\pi k_B E R}{\hbar c}
 $$
 
-Harry Nyquist & Claude Shannon - **Nyquist-Shannon Sampling Theorem** (1928)
+Jacob Bekenstein - **Bekenstein Bound** (1981)
 > [!NOTE]
-> Establishes a sufficient condition for a sample rate that permits a discrete sequence of samples to capture all the information from a continuous-time signal. [Read more](https://en.wikipedia.org/wiki/Nyquist%E2%80%93Shannon_sampling_theorem)
+> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
 <!-- EQUATION_END -->
 
 <br>
