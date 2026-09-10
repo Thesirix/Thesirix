@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S \le \frac{2\pi k_B E R}{\hbar c}
+\large x_i^{(k)} = \sum_{j : j \to i} y_j^{(k-1)}
 $$
 
-Jacob Bekenstein - **Bekenstein Bound** (1981)
+Jon Kleinberg - **HITS Authority Score** (1999)
 > [!NOTE]
-> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
+> Part of the Hyperlink-Induced Topic Search algorithm, identifying pages that provide valuable information (authorities). [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
 <!-- EQUATION_END -->
 
 <br>
