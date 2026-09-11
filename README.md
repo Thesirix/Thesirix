@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large x_i^{(k)} = \sum_{j : j \to i} y_j^{(k-1)}
+\large PV = nRT
 $$
 
-Jon Kleinberg - **HITS Authority Score** (1999)
+Benoît Paul Émile Clapeyron - **Ideal Gas Law** (1834)
 > [!NOTE]
-> Part of the Hyperlink-Induced Topic Search algorithm, identifying pages that provide valuable information (authorities). [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
+> The equation of state of a hypothetical ideal gas, combining several empirical gas laws. [Read more](https://en.wikipedia.org/wiki/Ideal_gas_law)
 <!-- EQUATION_END -->
 
 <br>
