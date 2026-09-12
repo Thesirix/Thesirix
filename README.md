@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\text{Rate}_1}{\text{Rate}_2} = \sqrt{\frac{M_2}{M_1}}
+\large d = 2.44 R_M \left( \frac{\rho_M}{\rho_m} \right)^{1/3}
 $$
 
-Thomas Graham - **Graham's Law** (1848)
+Édouard Roche - **Roche Limit** (1848)
 > [!NOTE]
-> States that the rate of effusion of a gas is inversely proportional to the square root of the mass of its particles. [Read more](https://en.wikipedia.org/wiki/Graham%27s_law)
+> The minimum distance to which a large satellite can approach its primary body without tidal forces overcoming the satellite's internal gravity. [Read more](https://en.wikipedia.org/wiki/Roche_limit)
 <!-- EQUATION_END -->
 
 <br>
