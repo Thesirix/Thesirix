@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large PV = nRT
+\large \frac{\text{Rate}_1}{\text{Rate}_2} = \sqrt{\frac{M_2}{M_1}}
 $$
 
-Benoît Paul Émile Clapeyron - **Ideal Gas Law** (1834)
+Thomas Graham - **Graham's Law** (1848)
 > [!NOTE]
-> The equation of state of a hypothetical ideal gas, combining several empirical gas laws. [Read more](https://en.wikipedia.org/wiki/Ideal_gas_law)
+> States that the rate of effusion of a gas is inversely proportional to the square root of the mass of its particles. [Read more](https://en.wikipedia.org/wiki/Graham%27s_law)
 <!-- EQUATION_END -->
 
 <br>
