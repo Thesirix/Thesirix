@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large d = 2.44 R_M \left( \frac{\rho_M}{\rho_m} \right)^{1/3}
+\large \frac{1}{\lambda} = R_Z \left( \frac{1}{n_1^2} - \frac{1}{n_2^2} \right)
 $$
 
-Édouard Roche - **Roche Limit** (1848)
+Johannes Rydberg - **Rydberg Formula** (1888)
 > [!NOTE]
-> The minimum distance to which a large satellite can approach its primary body without tidal forces overcoming the satellite's internal gravity. [Read more](https://en.wikipedia.org/wiki/Roche_limit)
+> Used in atomic physics to describe the wavelengths of spectral lines of many chemical elements. [Read more](https://en.wikipedia.org/wiki/Rydberg_formula)
 <!-- EQUATION_END -->
 
 <br>
