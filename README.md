@@ -204,11 +204,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`742f6ed`](https://github.com/Thesirix/StreakMaster/commit/742f6ed049d7c07472e0e22cefa3f8495084a1bb) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _11h ago_
-2. 🔨 Pushed [`678a689`](https://github.com/Thesirix/StreakMaster/commit/678a6890399580d7cb213d8089a649719b757542) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
-3. 🔨 Pushed [`a182608`](https://github.com/Thesirix/Thesirix/commit/a1826088c5c8d7b6ce01cfa75760debe837572d3) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
-4. 🔨 Pushed [`3c8c23c`](https://github.com/Thesirix/Thesirix/commit/3c8c23c03bdece2a99ac5ba5940ce0cc563d4f2b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-5. 🔨 Pushed [`d5044c8`](https://github.com/Thesirix/StreakMaster/commit/d5044c8a59917f2518205ab2907718103fddef59) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3d ago_
+1. 🔨 Pushed [`b91d519`](https://github.com/Thesirix/instafidz/commit/b91d519605f109ba3cb6cd2dfcd84c2b6d733bae) to [Thesirix/instafidz](https://github.com/Thesirix/instafidz) on `main` - _1h ago_
+2. 🔨 Pushed [`71a2b7c`](https://github.com/Thesirix/instafidz/commit/71a2b7caca91195aa07aa6482213c0b51e192c5f) to [Thesirix/instafidz](https://github.com/Thesirix/instafidz) on `main` - _1h ago_
+3. 🔨 Pushed [`635f8b5`](https://github.com/Thesirix/instafidz/commit/635f8b576bed340052c974b8ba90fb32e9b27517) to [Thesirix/instafidz](https://github.com/Thesirix/instafidz) on `main` - _1h ago_
+4. 🎉 Created branch `main` in [Thesirix/instafidz](https://github.com/Thesirix/instafidz) - _1h ago_
+5. 🔨 Pushed [`742f6ed`](https://github.com/Thesirix/StreakMaster/commit/742f6ed049d7c07472e0e22cefa3f8495084a1bb) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _13h ago_
 <!-- ACTIVITY_END -->
 
 
