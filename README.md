@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{1}{\lambda} = R_Z \left( \frac{1}{n_1^2} - \frac{1}{n_2^2} \right)
+\large \text{Fo} = \frac{\alpha t}{L^2}
 $$
 
-Johannes Rydberg - **Rydberg Formula** (1888)
+Joseph Fourier - **Fourier Number** (1822)
 > [!NOTE]
-> Used in atomic physics to describe the wavelengths of spectral lines of many chemical elements. [Read more](https://en.wikipedia.org/wiki/Rydberg_formula)
+> A dimensionless number that characterizes transient heat conduction. [Read more](https://en.wikipedia.org/wiki/Fourier_number)
 <!-- EQUATION_END -->
 
 <br>
