@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Fo} = \frac{\alpha t}{L^2}
+\large \text{Gr} = \frac{g \beta (T_s - T_\infty) L^3}{\nu^2}
 $$
 
-Joseph Fourier - **Fourier Number** (1822)
+Franz Grashof - **Grashof Number** (1883)
 > [!NOTE]
-> A dimensionless number that characterizes transient heat conduction. [Read more](https://en.wikipedia.org/wiki/Fourier_number)
+> A dimensionless number in fluid dynamics and heat transfer which approximates the ratio of the buoyancy to viscous force acting on a fluid. [Read more](https://en.wikipedia.org/wiki/Grashof_number)
 <!-- EQUATION_END -->
 
 <br>
