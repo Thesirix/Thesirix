@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Gr} = \frac{g \beta (T_s - T_\infty) L^3}{\nu^2}
+\large S \le \frac{2\pi k_B E R}{\hbar c}
 $$
 
-Franz Grashof - **Grashof Number** (1883)
+Jacob Bekenstein - **Bekenstein Bound** (1981)
 > [!NOTE]
-> A dimensionless number in fluid dynamics and heat transfer which approximates the ratio of the buoyancy to viscous force acting on a fluid. [Read more](https://en.wikipedia.org/wiki/Grashof_number)
+> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
 <!-- EQUATION_END -->
 
 <br>
