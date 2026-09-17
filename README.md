@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S \le \frac{2\pi k_B E R}{\hbar c}
+\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
 $$
 
-Jacob Bekenstein - **Bekenstein Bound** (1981)
+Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
 > [!NOTE]
-> An upper limit on the entropy, or information, that can be contained within a given finite region of space. [Read more](https://en.wikipedia.org/wiki/Bekenstein_bound)
+> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
 <!-- EQUATION_END -->
 
 <br>
