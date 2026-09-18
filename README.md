@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
+\large \text{score}(q, d) = \sum_{t \in q} \text{tfidf}_{t,d}
 $$
 
-Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
+Karen Spärck Jones - **TF-IDF Document Score** (1972)
 > [!NOTE]
-> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
+> Calculates the total relevance score of a document for a specific multi-term query in Information Retrieval. [Read more](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
 <!-- EQUATION_END -->
 
 <br>
