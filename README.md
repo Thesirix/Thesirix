@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{score}(q, d) = \sum_{t \in q} \text{tfidf}_{t,d}
+\large \mathcal{E} = -\frac{d\Phi_B}{dt}
 $$
 
-Karen Spärck Jones - **TF-IDF Document Score** (1972)
+Michael Faraday - **Faraday's Law of Induction** (1831)
 > [!NOTE]
-> Calculates the total relevance score of a document for a specific multi-term query in Information Retrieval. [Read more](https://en.wikipedia.org/wiki/Tf%E2%80%93idf)
+> Predicts how a magnetic field will interact with an electric circuit to produce an electromotive force. [Read more](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction)
 <!-- EQUATION_END -->
 
 <br>
