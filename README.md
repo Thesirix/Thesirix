@@ -511,8 +511,8 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.91 % 
-🌆 Daytime                2193 commits        █████████████░░░░░░░░░░░░   52.44 % 
+🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.90 % 
+🌆 Daytime                2194 commits        █████████████░░░░░░░░░░░░   52.45 % 
 🌃 Evening                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
 🌙 Night                  240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 ```
@@ -525,7 +525,7 @@ Wednesday                640 commits         ████░░░░░░░�
 Thursday                 673 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
 Friday                   383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 Saturday                 250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Sunday                   498 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
+Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
 ```
 
 
@@ -535,34 +535,33 @@ Sunday                   498 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   3 hrs 13 mins       █████████░░░░░░░░░░░░░░░░   35.79 % 
-HTML                     1 hr 54 mins        █████░░░░░░░░░░░░░░░░░░░░   21.25 % 
-Markdown                 1 hr 51 mins        █████░░░░░░░░░░░░░░░░░░░░   20.61 % 
-Text                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-JavaScript               29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.47 % 
+Python                   3 hrs 13 mins       ██████████░░░░░░░░░░░░░░░   38.42 % 
+Markdown                 1 hr 44 mins        █████░░░░░░░░░░░░░░░░░░░░   20.76 % 
+HTML                     1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   20.09 % 
+Text                     48 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.60 % 
+JavaScript               16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.31 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 8 hrs 41 mins (96.5%)
+⏱ AI Coding Time: 8 hrs 6 mins (96.73%)
 
-✍️ 9,501 lines written by AI, 21 lines written by hand (99.78% AI-written)
+✍️ 8,599 lines written by AI, 21 lines written by hand (99.76% AI-written)
 
-🔤 1,879,559 Input Tokens, 769,907 Output Tokens
+🔤 1,716,538 Input Tokens, 700,705 Output Tokens
 
-💵 $83.99 Estimated AI Cost This Week
+💵 $79.46 Estimated AI Cost This Week
 
-🧠 10 AI Sessions, 56 AI Prompts
+🧠 7 AI Sessions, 50 AI Prompts
 
-Opus                     10,091 lines        █████████████████████████   100.00 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     9,265 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.78% of written lines came from AI
-📄 Detailed Prompter — average 778 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
-🚀 High AI Trust — 0.39% of changed lines were hand-edited
+🤖 AI-Driven — 99.76% of written lines came from AI
+📄 Detailed Prompter — average 834 characters per prompt
+🔁 Iterative Prompter — average 7 prompts per session
+🚀 High AI Trust — 0.43% of changed lines were hand-edited
 ```
 
 
