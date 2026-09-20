@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathcal{E} = -\frac{d\Phi_B}{dt}
+\large Y = \frac{C}{X^n}
 $$
 
-Michael Faraday - **Faraday's Law of Induction** (1831)
+Alfred J. Lotka - **Lotka's Law** (1926)
 > [!NOTE]
-> Predicts how a magnetic field will interact with an electric circuit to produce an electromotive force. [Read more](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction)
+> Describes the frequency of publication by authors in any given field, stating that the number of authors making n contributions is about 1/n^2 of those making one. [Read more](https://en.wikipedia.org/wiki/Lotka%27s_law)
 <!-- EQUATION_END -->
 
 <br>
