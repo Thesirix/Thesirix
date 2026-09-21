@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Y = \frac{C}{X^n}
+\large (p_1 + p_2 + ... + p_n)^2 = 1
 $$
 
-Alfred J. Lotka - **Lotka's Law** (1926)
+G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Equilibrium (Multi-Allele)** (1908)
 > [!NOTE]
-> Describes the frequency of publication by authors in any given field, stating that the number of authors making n contributions is about 1/n^2 of those making one. [Read more](https://en.wikipedia.org/wiki/Lotka%27s_law)
+> The extension of the principle to multiple alleles, calculating genotype frequencies in population genetics. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
 <!-- EQUATION_END -->
 
 <br>
