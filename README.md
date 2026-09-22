@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large (p_1 + p_2 + ... + p_n)^2 = 1
+\large ds^2 = -c^2 dt^2 + (dx - v_s(t) f(r_s) dt)^2 + dy^2 + dz^2
 $$
 
-G. H. Hardy & Wilhelm Weinberg - **Hardy-Weinberg Equilibrium (Multi-Allele)** (1908)
+Miguel Alcubierre - **Alcubierre Warp Drive Metric** (1994)
 > [!NOTE]
-> The extension of the principle to multiple alleles, calculating genotype frequencies in population genetics. [Read more](https://en.wikipedia.org/wiki/Hardy%E2%80%93Weinberg_principle)
+> A theoretical solution in General Relativity that allows faster-than-light travel by contracting space in front of a spaceship and expanding it behind. [Read more](https://en.wikipedia.org/wiki/Alcubierre_drive)
 <!-- EQUATION_END -->
 
 <br>
