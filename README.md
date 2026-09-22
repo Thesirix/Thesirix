@@ -511,21 +511,21 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.89 % 
-🌆 Daytime                2195 commits        █████████████░░░░░░░░░░░░   52.46 % 
+🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+🌆 Daytime                2196 commits        █████████████░░░░░░░░░░░░   52.47 % 
 🌃 Evening                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-🌙 Night                  240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+🌙 Night                  240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
 Monday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
-Tuesday                  1016 commits        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
-Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Thursday                 673 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Tuesday                  1017 commits        ██████░░░░░░░░░░░░░░░░░░░   24.30 % 
+Wednesday                640 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Thursday                 673 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.08 % 
 Friday                   383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
-Saturday                 250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
+Saturday                 250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
+Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -535,33 +535,33 @@ Sunday                   499 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   2 hrs 39 mins       ███████████░░░░░░░░░░░░░░   43.41 % 
-HTML                     1 hr 19 mins        █████░░░░░░░░░░░░░░░░░░░░   21.55 % 
-Markdown                 58 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
-Text                     48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Other                    7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+Python                   1 hr 32 mins        ██████████░░░░░░░░░░░░░░░   41.57 % 
+HTML                     1 hr 15 mins        ████████░░░░░░░░░░░░░░░░░   33.84 % 
+Markdown                 36 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+Text                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+TSV                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 5 mins (99.54%)
+⏱ AI Coding Time: 3 hrs 40 mins (99.24%)
 
-✍️ 6,116 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 1,071 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 1,423,038 Input Tokens, 541,084 Output Tokens
+🔤 570,939 Input Tokens, 239,540 Output Tokens
 
-💵 $68.27 Estimated AI Cost This Week
+💵 $26.85 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 35 AI Prompts
+🧠 3 AI Sessions, 26 AI Prompts
 
-Opus                     6,149 lines         █████████████████████████   100.00 % 
+Opus                     1,077 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📄 Detailed Prompter — average 765 characters per prompt
+📝 Concise Prompter — average 380 characters per prompt
 🔁 Iterative Prompter — average 9 prompts per session
-🚀 High AI Trust — 0.03% of changed lines were hand-edited
+🚀 High AI Trust — 0.19% of changed lines were hand-edited
 ```
 
 
