@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large ds^2 = -c^2 dt^2 + (dx - v_s(t) f(r_s) dt)^2 + dy^2 + dz^2
+\large E = E^0 - \frac{RT}{zF} \ln Q
 $$
 
-Miguel Alcubierre - **Alcubierre Warp Drive Metric** (1994)
+Walther Nernst - **Nernst Equation** (1889)
 > [!NOTE]
-> A theoretical solution in General Relativity that allows faster-than-light travel by contracting space in front of a spaceship and expanding it behind. [Read more](https://en.wikipedia.org/wiki/Alcubierre_drive)
+> Relates the reduction potential of an electrochemical reaction to the standard electrode potential, temperature, and activities of the chemical species. [Read more](https://en.wikipedia.org/wiki/Nernst_equation)
 <!-- EQUATION_END -->
 
 <br>
