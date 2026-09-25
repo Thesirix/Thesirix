@@ -506,26 +506,26 @@ quadrantChart
 <br><br>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-180%20hrs%2038%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-184%20hrs%2024%20mins-blue?style=flat)
 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.87 % 
-🌆 Daytime                2198 commits        █████████████░░░░░░░░░░░░   52.50 % 
-🌃 Evening                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.86 % 
+🌆 Daytime                2199 commits        █████████████░░░░░░░░░░░░   52.51 % 
+🌃 Evening                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
 🌙 Night                  240 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.27 % 
-Tuesday                  1017 commits        ██████░░░░░░░░░░░░░░░░░░░   24.29 % 
+Monday                   723 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.26 % 
+Tuesday                  1017 commits        ██████░░░░░░░░░░░░░░░░░░░   24.28 % 
 Wednesday                641 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
-Thursday                 674 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-Friday                   383 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.15 % 
+Thursday                 674 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.09 % 
+Friday                   384 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
 Saturday                 250 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.97 % 
-Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+Sunday                   499 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
 ```
 
 
@@ -535,31 +535,30 @@ Sunday                   499 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-HTML                     1 hr 10 mins        ██████████░░░░░░░░░░░░░░░   41.65 % 
-Markdown                 54 mins             ████████░░░░░░░░░░░░░░░░░   31.92 % 
-Dart                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   24.72 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Dart                     2 hrs 57 mins       ██████████████░░░░░░░░░░░   54.78 % 
+Markdown                 2 hrs 16 mins       ███████████░░░░░░░░░░░░░░   42.05 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 49 mins (99.96%)
+⏱ AI Coding Time: 5 hrs 23 mins (99.98%)
 
-✍️ 5,099 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 6,699 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 384,986 Input Tokens, 246,196 Output Tokens
+🔤 412,435 Input Tokens, 242,505 Output Tokens
 
-💵 $19.86 Estimated AI Cost This Week
+💵 $31.11 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 11 AI Prompts
+🧠 8 AI Sessions, 31 AI Prompts
 
-Opus                     5,193 lines         █████████████████████████   100.00 % 
+Opus                     6,792 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 356 characters per prompt
-🔁 Iterative Prompter — average 6 prompts per session
+📝 Concise Prompter — average 303 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
