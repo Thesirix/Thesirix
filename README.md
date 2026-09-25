@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large H = -\sum p_i \log p_i
+\large f = \frac{qB}{2\pi m}
 $$
 
-Claude Shannon - **The Shannon Entropy of English** (1951)
+Ernest Lawrence - **Cyclotron Frequency** (1932)
 > [!NOTE]
-> Calculates the information density of the English language (about 0.6 to 1.3 bits per character). [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Entropy_of_English)
+> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
 <!-- EQUATION_END -->
 
 <br>
