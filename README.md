@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f = \frac{qB}{2\pi m}
+\large Q = I_3 + \frac{1}{2}(B + S)
 $$
 
-Ernest Lawrence - **Cyclotron Frequency** (1932)
+Murray Gell-Mann & Kazuhiko Nishijima - **Gell-Mann-Nishijima Formula** (1956)
 > [!NOTE]
-> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
+> Relates the baryon number, strangeness, and isospin of hadrons to their electric charge. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Nishijima_formula)
 <!-- EQUATION_END -->
 
 <br>
