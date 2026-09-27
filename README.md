@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Q = I_3 + \frac{1}{2}(B + S)
+\large C = B \log_2 \left(1 + \frac{S}{N}\right)
 $$
 
-Murray Gell-Mann & Kazuhiko Nishijima - **Gell-Mann-Nishijima Formula** (1956)
+Claude Shannon & Ralph Hartley - **Shannon-Hartley Theorem** (1948)
 > [!NOTE]
-> Relates the baryon number, strangeness, and isospin of hadrons to their electric charge. [Read more](https://en.wikipedia.org/wiki/Gell-Mann%E2%80%93Nishijima_formula)
+> Tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise. [Read more](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
 <!-- EQUATION_END -->
 
 <br>
