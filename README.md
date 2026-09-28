@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large C = B \log_2 \left(1 + \frac{S}{N}\right)
+\large H = -\sum p_i \log p_i
 $$
 
-Claude Shannon & Ralph Hartley - **Shannon-Hartley Theorem** (1948)
+Claude Shannon - **The Shannon Entropy of English** (1951)
 > [!NOTE]
-> Tells the maximum rate at which information can be transmitted over a communications channel of a specified bandwidth in the presence of noise. [Read more](https://en.wikipedia.org/wiki/Shannon%E2%80%93Hartley_theorem)
+> Calculates the information density of the English language (about 0.6 to 1.3 bits per character). [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Entropy_of_English)
 <!-- EQUATION_END -->
 
 <br>
