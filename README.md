@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large H = -\sum p_i \log p_i
+\large \text{Fr} = \frac{v}{\sqrt{g L}}
 $$
 
-Claude Shannon - **The Shannon Entropy of English** (1951)
+William Froude - **Froude Number** (1868)
 > [!NOTE]
-> Calculates the information density of the English language (about 0.6 to 1.3 bits per character). [Read more](https://en.wikipedia.org/wiki/Entropy_(information_theory)#Entropy_of_English)
+> A dimensionless number defined as the ratio of the flow inertia to the external field (the latter in many applications simply due to gravity). [Read more](https://en.wikipedia.org/wiki/Froude_number)
 <!-- EQUATION_END -->
 
 <br>
