@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Fr} = \frac{v}{\sqrt{g L}}
+\large \frac{\partial \mathbf{V}_g}{\partial z} = \frac{g}{f T} \mathbf{k} \times \nabla T
 $$
 
-William Froude - **Froude Number** (1868)
+Meteorological Standard - **Thermal Wind Equation** (1910)
 > [!NOTE]
-> A dimensionless number defined as the ratio of the flow inertia to the external field (the latter in many applications simply due to gravity). [Read more](https://en.wikipedia.org/wiki/Froude_number)
+> Relates the vertical shear of the geostrophic wind to the horizontal temperature gradient. [Read more](https://en.wikipedia.org/wiki/Thermal_wind)
 <!-- EQUATION_END -->
 
 <br>
