@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial \mathbf{V}_g}{\partial z} = \frac{g}{f T} \mathbf{k} \times \nabla T
+\large P_{cr} = \frac{\pi^2 E I}{(KL)^2}
 $$
 
-Meteorological Standard - **Thermal Wind Equation** (1910)
+Leonhard Euler - **Euler's Critical Load (Buckling)** (1757)
 > [!NOTE]
-> Relates the vertical shear of the geostrophic wind to the horizontal temperature gradient. [Read more](https://en.wikipedia.org/wiki/Thermal_wind)
+> The maximum axial load that a long, slender, ideal column can carry without buckling. [Read more](https://en.wikipedia.org/wiki/Euler%27s_critical_load)
 <!-- EQUATION_END -->
 
 <br>
