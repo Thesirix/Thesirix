@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large E^2 = (pc)^2 + (m_0 c^2)^2
+\large a^2 + b^2 = c^2
 $$
 
-Albert Einstein - **Energy-Momentum Relation** (1905)
+Pythagoras of Samos - **Pythagorean Theorem** (-500)
 > [!NOTE]
-> The relativistic equation relating the total energy, invariant mass, and momentum of a particle. [Read more](https://en.wikipedia.org/wiki/Energy%E2%80%93momentum_relation)
+> A fundamental relation in Euclidean geometry among the three sides of a right triangle. [Read more](https://en.wikipedia.org/wiki/Pythagorean_theorem)
 <!-- EQUATION_END -->
 
 <br>
