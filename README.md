@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large a^2 + b^2 = c^2
+\large P_{cr} = \frac{\pi^2 E I}{(KL)^2}
 $$
 
-Pythagoras of Samos - **Pythagorean Theorem** (-500)
+Leonhard Euler - **Euler's Critical Load (Buckling)** (1757)
 > [!NOTE]
-> A fundamental relation in Euclidean geometry among the three sides of a right triangle. [Read more](https://en.wikipedia.org/wiki/Pythagorean_theorem)
+> The maximum axial load that a long, slender, ideal column can carry without buckling. [Read more](https://en.wikipedia.org/wiki/Euler%27s_critical_load)
 <!-- EQUATION_END -->
 
 <br>
