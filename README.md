@@ -512,7 +512,7 @@ quadrantChart
 
 ```text
 🌞 Morning                1418 commits        ████████░░░░░░░░░░░░░░░░░   33.75 % 
-🌆 Daytime                2207 commits        █████████████░░░░░░░░░░░░   52.54 % 
+🌆 Daytime                2208 commits        █████████████░░░░░░░░░░░░   52.55 % 
 🌃 Evening                331 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 🌙 Night                  245 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
 ```
@@ -522,10 +522,10 @@ quadrantChart
 Monday                   729 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.35 % 
 Tuesday                  1018 commits        ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
 Wednesday                642 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.28 % 
-Thursday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Thursday                 675 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
 Friday                   385 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.16 % 
 Saturday                 252 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-Sunday                   500 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.90 % 
+Sunday                   501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
 ```
 
 
@@ -535,35 +535,35 @@ Sunday                   500 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   37.03 % 
-JavaScript               3 hrs 4 mins        █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
-Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   19.44 % 
-Dart                     1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 % 
-Svelte                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Python                   5 hrs               ██████████░░░░░░░░░░░░░░░   38.31 % 
+JavaScript               3 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
+Markdown                 2 hrs 26 mins       █████░░░░░░░░░░░░░░░░░░░░   18.61 % 
+Svelte                   38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Dart                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 49 mins (97.68%)
+⏱ AI Coding Time: 12 hrs 45 mins (97.49%)
 
-✍️ 13,602 lines written by AI, 62 lines written by hand (99.55% AI-written)
+✍️ 13,343 lines written by AI, 62 lines written by hand (99.54% AI-written)
 
-🔤 3,019,459 Input Tokens, 1,118,332 Output Tokens
+🔤 2,912,688 Input Tokens, 1,061,642 Output Tokens
 
-💵 $141.97 Estimated AI Cost This Week
+💵 $76.27 Estimated AI Cost This Week
 
-🧠 15 AI Sessions, 146 AI Prompts
+🧠 14 AI Sessions, 139 AI Prompts
 
-Opus                     14,214 lines        █████████████████████████   99.22 % 
-Sonnet                   112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
+Opus                     13,523 lines        █████████████████████████   99.18 % 
+Sonnet                   112 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.55% of written lines came from AI
-📝 Concise Prompter — average 255 characters per prompt
+🤖 AI-Driven — 99.54% of written lines came from AI
+📝 Concise Prompter — average 259 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 3.17% of changed lines were hand-edited
+🚀 High AI Trust — 3.24% of changed lines were hand-edited
 ```
 
 
