@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P_{cr} = \frac{\pi^2 E I}{(KL)^2}
+\large \mathbf{a}_i \cdot \Delta \mathbf{k} = 2\pi v_i
 $$
 
-Leonhard Euler - **Euler's Critical Load (Buckling)** (1757)
+Max von Laue - **Laue Equations** (1912)
 > [!NOTE]
-> The maximum axial load that a long, slender, ideal column can carry without buckling. [Read more](https://en.wikipedia.org/wiki/Euler%27s_critical_load)
+> A set of three equations for the scattering of waves by a crystal, equivalent to Bragg's law but in vector form. [Read more](https://en.wikipedia.org/wiki/Laue_equations)
 <!-- EQUATION_END -->
 
 <br>
