@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathbf{a}_i \cdot \Delta \mathbf{k} = 2\pi v_i
+\large Q = m c \Delta T
 $$
 
-Max von Laue - **Laue Equations** (1912)
+Joseph Black - **Specific Heat Equation** (1760)
 > [!NOTE]
-> A set of three equations for the scattering of waves by a crystal, equivalent to Bragg's law but in vector form. [Read more](https://en.wikipedia.org/wiki/Laue_equations)
+> Calculates the heat energy required to change the temperature of a substance. [Read more](https://en.wikipedia.org/wiki/Specific_heat_capacity)
 <!-- EQUATION_END -->
 
 <br>
