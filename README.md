@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Q = m c \Delta T
+\large \omega(k) = \sqrt{\frac{\hbar^2 k^2}{2m} \left( \frac{\hbar^2 k^2}{2m} + 2g n \right)}
 $$
 
-Joseph Black - **Specific Heat Equation** (1760)
+Nikolay Bogoliubov - **Bogoliubov Dispersion Relation** (1947)
 > [!NOTE]
-> Calculates the heat energy required to change the temperature of a substance. [Read more](https://en.wikipedia.org/wiki/Specific_heat_capacity)
+> Describes the elementary excitations of a weakly interacting Bose-Einstein condensate. [Read more](https://en.wikipedia.org/wiki/Bogoliubov_transformation)
 <!-- EQUATION_END -->
 
 <br>
