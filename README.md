@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \omega(k) = \sqrt{\frac{\hbar^2 k^2}{2m} \left( \frac{\hbar^2 k^2}{2m} + 2g n \right)}
+\large p = k \ln\left(\frac{S}{S_0}\right)
 $$
 
-Nikolay Bogoliubov - **Bogoliubov Dispersion Relation** (1947)
+Ernst Heinrich Weber & Gustav Fechner - **Weber-Fechner Law** (1860)
 > [!NOTE]
-> Describes the elementary excitations of a weakly interacting Bose-Einstein condensate. [Read more](https://en.wikipedia.org/wiki/Bogoliubov_transformation)
+> A fundamental law in psychophysics quantifying the perception of change in a given stimulus (sound, light, weight). [Read more](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
 <!-- EQUATION_END -->
 
 <br>
