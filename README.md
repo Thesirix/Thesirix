@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large p = k \ln\left(\frac{S}{S_0}\right)
+\large \theta = \frac{K p}{1 + K p}
 $$
 
-Ernst Heinrich Weber & Gustav Fechner - **Weber-Fechner Law** (1860)
+Irving Langmuir - **Langmuir Isotherm** (1918)
 > [!NOTE]
-> A fundamental law in psychophysics quantifying the perception of change in a given stimulus (sound, light, weight). [Read more](https://en.wikipedia.org/wiki/Weber%E2%80%93Fechner_law)
+> Relates the adsorption of molecules on a solid surface to gas pressure or concentration of a medium above the solid surface. [Read more](https://en.wikipedia.org/wiki/Langmuir_adsorption_model)
 <!-- EQUATION_END -->
 
 <br>
