@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \theta = \frac{K p}{1 + K p}
+\large i\frac{\partial \psi}{\partial t} + \frac{1}{2}\frac{\partial^2 \psi}{\partial x^2} + |\psi|^2\psi = 0
 $$
 
-Irving Langmuir - **Langmuir Isotherm** (1918)
+Akira Hasegawa - **Nonlinear Schrödinger Equation (Rogue Waves)** (1973)
 > [!NOTE]
-> Relates the adsorption of molecules on a solid surface to gas pressure or concentration of a medium above the solid surface. [Read more](https://en.wikipedia.org/wiki/Langmuir_adsorption_model)
+> Used to model 'Rogue Waves'—massive, spontaneous ocean waves that can sink large ships. [Read more](https://en.wikipedia.org/wiki/Rogue_wave)
 <!-- EQUATION_END -->
 
 <br>
