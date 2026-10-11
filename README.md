@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large i\frac{\partial \psi}{\partial t} + \frac{1}{2}\frac{\partial^2 \psi}{\partial x^2} + |\psi|^2\psi = 0
+\large \log \frac{k}{k_0} = \rho \sigma
 $$
 
-Akira Hasegawa - **Nonlinear Schrödinger Equation (Rogue Waves)** (1973)
+Louis Plack Hammett - **Hammett Equation** (1937)
 > [!NOTE]
-> Used to model 'Rogue Waves'—massive, spontaneous ocean waves that can sink large ships. [Read more](https://en.wikipedia.org/wiki/Rogue_wave)
+> A linear free-energy relationship relating reaction rates and equilibrium constants for many reactions involving benzoic acid derivatives. [Read more](https://en.wikipedia.org/wiki/Hammett_equation)
 <!-- EQUATION_END -->
 
 <br>
