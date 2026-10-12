@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \log \frac{k}{k_0} = \rho \sigma
+\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
 $$
 
-Louis Plack Hammett - **Hammett Equation** (1937)
+Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
 > [!NOTE]
-> A linear free-energy relationship relating reaction rates and equilibrium constants for many reactions involving benzoic acid derivatives. [Read more](https://en.wikipedia.org/wiki/Hammett_equation)
+> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 <!-- EQUATION_END -->
 
 <br>
