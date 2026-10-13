@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathbf{P} = \mathbf{NP}
+\large \text{pH} = \text{pK}_a + \log_{10} \left( \frac{[A^-]}{[HA]} \right)
 $$
 
-Stephen Cook & Leonid Levin - **P vs NP Formulation** (1971)
+Lawrence Joseph Henderson & Karl Albert Hasselbalch - **Henderson-Hasselbalch Equation** (1908)
 > [!NOTE]
-> The most famous unsolved problem in computer science. If true, it implies that every problem whose solution can be quickly verified can also be quickly solved. [Read more](https://en.wikipedia.org/wiki/P_versus_NP_problem)
+> Describes the derivation of pH as a measure of acidity in biological and chemical systems. [Read more](https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation)
 <!-- EQUATION_END -->
 
 <br>
