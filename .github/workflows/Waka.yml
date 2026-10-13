@@ -31,7 +31,7 @@ jobs:
           SHOW_LOC_CHART: "False"
           SHOW_LINES_OF_CODE: "False"
           SHOW_PROFILE_VIEWS: "False"
-          SHOW_TOTAL_CODE_TIME: "True"
+          SHOW_TOTAL_CODE_TIME: "False"
           SHOW_AI_CODE_TIME: "False"
           SHOW_AI_CODING: "False"
           SHOW_UPDATED_DATE: "False"
