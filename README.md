@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/thesirix?logo=GitHub&style=flat)](https://github.com/thesirix)
 [![GitHub stars](https://img.shields.io/github/stars/thesirix?logo=github&style=flat)](https://github.com/thesirix)
 ⠀![](https://komarev.com/ghpvc/?username=thesirix&color=00bbbb&label=crimes)
-<img src="https://komarev.com/ghpvc/?username=thesirix&label=Visitors&color=0eb45e&style=flat" alt="thesirix" />
+<img src="https://komarev.com/ghpvc/?username=thesirix-visitors&base=9822&label=Visitors&color=0eb45e&style=flat" alt="Visitors" />
 &nbsp;&nbsp;
 <a href="https://donate.stripe.com/bJe8wPgZf71W0kz6sSfw400" target="_blank">
 <img src="assets/coffee_soutien.png" height="20" alt="☕ Support">
@@ -120,6 +120,7 @@ For me, code is a creative playground. I love when things run smoothly, automate
 
 ### 🤝 Open for Collaboration On:
 
+<div align="center">
 <table>
 <tr>
 <td align="center" width="33%">
@@ -147,6 +148,7 @@ For me, code is a creative playground. I love when things run smoothly, automate
 </td>
 </tr>
 </table>
+</div>
 
 <br/>
 
@@ -486,8 +488,6 @@ quadrantChart
 
 <img alt="Thesirix's Top Languages WakaTime" src="assets/waka-card.svg" /><br>
 
-[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
-
 ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=thesirix&theme=tokyonight)
 ![Repos](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=thesirix&theme=tokyonight)
 ![Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thesirix&theme=tokyonight)
@@ -505,9 +505,9 @@ quadrantChart
 
 <br><br>
 
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-681%20hrs%2019%20mins-blue?style=flat)
+[![wakatime](https://wakatime.com/badge/user/1b0e9e4e-3016-40da-8b9f-8d2a0a391241.svg)](https://wakatime.com/@Thesirix)
 
+<!--START_SECTION:waka-->
 **I'm an Early 🐤** 
 
 ```text
