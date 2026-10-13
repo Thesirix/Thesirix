@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
+\large K = (\gamma - 1)m_0 c^2
 $$
 
-Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
+Albert Einstein - **Relativistic Kinetic Energy** (1905)
 > [!NOTE]
-> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
+> The kinetic energy of an object moving close to the speed of light. [Read more](https://en.wikipedia.org/wiki/Kinetic_energy#Relativistic_kinetic_energy_of_rigid_bodies)
 <!-- EQUATION_END -->
 
 <br>
