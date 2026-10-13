@@ -22,8 +22,8 @@
         "experimentalDecorators": true,
         "resolveJsonModule": true,
         "baseUrl": ".",
-        "types": ["jest"]
+        "types": ["node"]
     },
     "exclude": ["./node_modules/"],
-    "include": ["./src/", "__tests__"]
+    "include": ["./src/"]
 }
