@@ -434,7 +434,7 @@ quadrantChart
 
 <br><br>
 
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=thesirix&theme=tokyo-night)
+![Graph](assets/activity-graph.svg)
 
 <br><br>
 
