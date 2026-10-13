@@ -1,0 +1,55 @@
+{
+    "name": "github-readme-activity-graph",
+    "version": "1.0.0",
+    "description": "An activity graph to show you github activities (or contribution)",
+    "main": "main.ts",
+    "scripts": {
+        "dev:start": "nodemon src/main.ts",
+        "test": "jest",
+        "coverage": "npm test -- --coverage",
+        "build": "tsc",
+        "start": "node dist/main.js",
+        "lint": "eslint \"{src,styles,types,interfaces,__test__}/**/*.ts\" --fix",
+        "format": "prettier --write \"src/**/*.ts\" \"__test__/**/*.ts\" \"interfaces/**/*.ts\" \"styles/**/*.ts\" \"types/**/*.ts\""
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Ashutosh00710/github-readme-activity-graph.git"
+    },
+    "author": "Ashutosh Dwivedi",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/Ashutosh00710/github-readme-activity-graph/issues"
+    },
+    "homepage": "https://github.com/Ashutosh00710/github-readme-activity-graph#readme",
+    "dependencies": {
+        "@types/body-parser": "1.19.6",
+        "@types/cors": "2.8.19",
+        "@types/express": "5.0.3",
+        "@types/node": "24.3.0",
+        "axios": "1.11.0",
+        "cors": "2.8.5",
+        "dotenv": "17.2.1",
+        "express": "5.1.0",
+        "mime-db": "^1.54.0",
+        "mime-types": "^3.0.1",
+        "moment": "2.30.1",
+        "node-chartist": "^1.0.5",
+        "nodemon": "3.1.10",
+        "supertest": "7.1.4",
+        "ts-node": "10.9.2",
+        "typescript": "5.9.2"
+    },
+    "devDependencies": {
+        "@types/jest": "30.0.0",
+        "@types/supertest": "6.0.3",
+        "@typescript-eslint/eslint-plugin": "8.41.0",
+        "@typescript-eslint/parser": "8.41.0",
+        "eslint": "9.34.0",
+        "eslint-config-prettier": "10.1.8",
+        "eslint-plugin-prettier": "5.5.4",
+        "jest": "30.1.0",
+        "prettier": "3.6.2",
+        "ts-jest": "29.4.1"
+    }
+}
