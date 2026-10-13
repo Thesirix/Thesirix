@@ -204,11 +204,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`a13c51e`](https://github.com/Thesirix/StreakMaster/commit/a13c51e2cf3d21751bafa1dbf7f54088cb246e25) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3h ago_
-2. 🔨 Pushed [`9b293a4`](https://github.com/Thesirix/Thesirix/commit/9b293a42d8b6c7a76cc9c2a3c889fd9a3f9324f9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-3. 🔨 Pushed [`afee01d`](https://github.com/Thesirix/Mingle/commit/afee01d2847672c27d321170de11f9e17206f037) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _1d ago_
-4. 🔨 Pushed [`cf7ba92`](https://github.com/Thesirix/Mingle/commit/cf7ba9290dece0b8c68f6959b465caec20690b2f) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _1d ago_
-5. 🔨 Pushed [`ed391e2`](https://github.com/Thesirix/Thesirix/commit/ed391e2ec4bc9f59c1597378e71ead2b0d0e1a71) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _23h ago_
+1. 🔨 Pushed [`1466ce0`](https://github.com/Thesirix/Mingle/commit/1466ce0ed581bb75582fd2ba85384438f9dbfed5) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _1d ago_
+2. ⭐ Starred [bilawalsidhu/gods-eye-view](https://github.com/bilawalsidhu/gods-eye-view) - _4h ago_
+3. ⭐ Starred [morluto/rea](https://github.com/morluto/rea) - _4h ago_
+4. 🔨 Pushed [`a13c51e`](https://github.com/Thesirix/StreakMaster/commit/a13c51e2cf3d21751bafa1dbf7f54088cb246e25) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _10h ago_
+5. 🔨 Pushed [`9b293a4`](https://github.com/Thesirix/Thesirix/commit/9b293a42d8b6c7a76cc9c2a3c889fd9a3f9324f9) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
 <!-- ACTIVITY_END -->
 
 
