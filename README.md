@@ -228,12 +228,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large K = (\gamma - 1)m_0 c^2
+\large \mathbf{P} = \mathbf{NP}
 $$
 
-Albert Einstein - **Relativistic Kinetic Energy** (1905)
+Stephen Cook & Leonid Levin - **P vs NP Formulation** (1971)
 > [!NOTE]
-> The kinetic energy of an object moving close to the speed of light. [Read more](https://en.wikipedia.org/wiki/Kinetic_energy#Relativistic_kinetic_energy_of_rigid_bodies)
+> The most famous unsolved problem in computer science. If true, it implies that every problem whose solution can be quickly verified can also be quickly solved. [Read more](https://en.wikipedia.org/wiki/P_versus_NP_problem)
 <!-- EQUATION_END -->
 
 <br>
