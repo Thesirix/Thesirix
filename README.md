@@ -206,11 +206,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`a9fb682`](https://github.com/Thesirix/Thesirix/commit/a9fb682d019d838c06e086ce8e3fe9eff25c2c74) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-2. 🔨 Pushed [`a9fb682`](https://github.com/Thesirix/Thesirix/commit/a9fb682d019d838c06e086ce8e3fe9eff25c2c74) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _just now_
-3. 🔨 Pushed [`79f848d`](https://github.com/Thesirix/Thesirix/commit/79f848d4d12b3483899f27473205a71ac8511f7b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _8h ago_
-4. 🔨 Pushed [`8603e8a`](https://github.com/Thesirix/Thesirix/commit/8603e8a2a3db778b7edfc99b674db7855620159f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _9h ago_
-5. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - _9h ago_
+1. 🔨 Pushed [`a9fb682`](https://github.com/Thesirix/Thesirix/commit/a9fb682d019d838c06e086ce8e3fe9eff25c2c74) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+2. 🔨 Pushed [`a9fb682`](https://github.com/Thesirix/Thesirix/commit/a9fb682d019d838c06e086ce8e3fe9eff25c2c74) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _3h ago_
+3. 🔨 Pushed [`79f848d`](https://github.com/Thesirix/Thesirix/commit/79f848d4d12b3483899f27473205a71ac8511f7b) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _11h ago_
+4. 🔨 Pushed [`8603e8a`](https://github.com/Thesirix/Thesirix/commit/8603e8a2a3db778b7edfc99b674db7855620159f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _12h ago_
+5. ⭐ Starred [666ghj/MiroFish](https://github.com/666ghj/MiroFish) - _12h ago_
 <!-- ACTIVITY_END -->
 
 
