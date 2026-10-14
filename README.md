@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{pH} = \text{pK}_a + \log_{10} \left( \frac{[A^-]}{[HA]} \right)
+\large D_{KL}(P || Q) = \sum_{x\in\mathcal{X}} P(x) \log\left(\frac{P(x)}{Q(x)}\right)
 $$
 
-Lawrence Joseph Henderson & Karl Albert Hasselbalch - **Henderson-Hasselbalch Equation** (1908)
+Solomon Kullback & Richard Leibler - **Kullback-Leibler Divergence** (1951)
 > [!NOTE]
-> Describes the derivation of pH as a measure of acidity in biological and chemical systems. [Read more](https://en.wikipedia.org/wiki/Henderson%E2%80%93Hasselbalch_equation)
+> A measure of how one probability distribution diverges from a second, expected probability distribution. [Read more](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
 <!-- EQUATION_END -->
 
 <br>
