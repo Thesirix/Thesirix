@@ -154,4 +154,4 @@ updated = re.sub(
 
 with open("README.md", "w", encoding="utf-8") as f:
     f.write(updated)
-print("README.md updated with recent activity ✓")
+print("README.md updated with recent activity ✓ ")
