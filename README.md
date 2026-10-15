@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large D_{KL}(P || Q) = \sum_{x\in\mathcal{X}} P(x) \log\left(\frac{P(x)}{Q(x)}\right)
+\large Utility = \frac{E \times V}{\Gamma \times D}
 $$
 
-Solomon Kullback & Richard Leibler - **Kullback-Leibler Divergence** (1951)
+Piers Steel - **Procrastination Equation** (2007)
 > [!NOTE]
-> A measure of how one probability distribution diverges from a second, expected probability distribution. [Read more](https://en.wikipedia.org/wiki/Kullback%E2%80%93Leibler_divergence)
+> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
 <!-- EQUATION_END -->
 
 <br>
