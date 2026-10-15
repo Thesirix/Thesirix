@@ -206,11 +206,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`e2ec969`](https://github.com/Thesirix/Thesirix/commit/e2ec969dc30a4d3f97cae2ca8e70263109d1aecd) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `activity_graph` - _1d ago_
-2. 🎉 Created branch `activity_graph` in [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _1d ago_
-3. 🔨 Pushed [`d8ee0c3`](https://github.com/Thesirix/Template-Travel-Company/commit/d8ee0c38c46ffc56db42d7cfd10e5c7c6015590b) to [Thesirix/Template-Travel-Company](https://github.com/Thesirix/Template-Travel-Company) on `main` - _5h ago_
-4. 🔨 Pushed [`1a1a2fc`](https://github.com/Thesirix/Thesirix/commit/1a1a2fca995f38957b8f945e9f71d5ac56b1bd77) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-5. 🔨 Pushed [`6d52193`](https://github.com/Thesirix/Thesirix/commit/6d52193886d45a4419aee9bc071973f9dafa6077) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+1. 🔨 Pushed [`56b6c5f`](https://github.com/Thesirix/StreakMaster/commit/56b6c5f1307f1c9d35b41e4cd624e51625c89c1e) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
+2. 🔨 Pushed [`ac31a91`](https://github.com/Thesirix/Thesirix/commit/ac31a911cf68b94ce40132a3b7b995595b22e69d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+3. 🔨 Pushed [`e2ec969`](https://github.com/Thesirix/Thesirix/commit/e2ec969dc30a4d3f97cae2ca8e70263109d1aecd) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `activity_graph` - _1d ago_
+4. 🎉 Created branch `activity_graph` in [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _1d ago_
+5. 🔨 Pushed [`d8ee0c3`](https://github.com/Thesirix/Template-Travel-Company/commit/d8ee0c38c46ffc56db42d7cfd10e5c7c6015590b) to [Thesirix/Template-Travel-Company](https://github.com/Thesirix/Template-Travel-Company) on `main` - _10h ago_
 <!-- ACTIVITY_END -->
 
 
