@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Utility = \frac{E \times V}{\Gamma \times D}
+\large \mathcal{E} = -\frac{d\Phi_B}{dt}
 $$
 
-Piers Steel - **Procrastination Equation** (2007)
+Michael Faraday - **Faraday's Law of Induction** (1831)
 > [!NOTE]
-> A mathematical model of motivation that explains why we delay tasks based on expectancy, value, impulsiveness, and delay. [Read more](https://en.wikipedia.org/wiki/Procrastination)
+> Predicts how a magnetic field will interact with an electric circuit to produce an electromotive force. [Read more](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction)
 <!-- EQUATION_END -->
 
 <br>
