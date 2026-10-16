@@ -511,8 +511,8 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.44 % 
-🌆 Daytime                3760 commits        ███████████████░░░░░░░░░░   59.77 % 
+🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
+🌆 Daytime                3761 commits        ███████████████░░░░░░░░░░   59.77 % 
 🌃 Evening                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
 🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
 ```
@@ -523,7 +523,7 @@ Monday                   1054 commits        ████░░░░░░░�
 Tuesday                  1666 commits        ███████░░░░░░░░░░░░░░░░░░   26.48 % 
 Wednesday                936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
 Thursday                 1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
-Friday                   547 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+Friday                   548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 Saturday                 316 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
 Sunday                   730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
@@ -535,11 +535,11 @@ Sunday                   730 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
-Markdown                 6 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   20.82 % 
-PHP                      4 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Other                    4 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-JavaScript               2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.06 % 
+Python                   7 hrs 30 mins       ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Markdown                 6 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   18.20 % 
+Other                    4 hrs 26 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
+PHP                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
+Java                     3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
 ```
 
 
