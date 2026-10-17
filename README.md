@@ -206,11 +206,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`7e9156b`](https://github.com/Thesirix/Thesirix/commit/7e9156b7daaddd2ea53037b3a3bd3f055895461c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-2. 🔨 Pushed [`a71010c`](https://github.com/Thesirix/Template-Travel-Company/commit/a71010ccfd9a722f1cc8f0f6109805c754722e1f) to [Thesirix/Template-Travel-Company](https://github.com/Thesirix/Template-Travel-Company) on `main` - _2d ago_
-3. 🔨 Pushed [`32d8860`](https://github.com/Thesirix/Thesirix/commit/32d88600010fecc0f8b3a4182b316d02987d733c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
-4. 🔨 Pushed [`4426219`](https://github.com/Thesirix/StreakMaster/commit/442621957fa527f97ead33e190b7f74205403a08) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-5. 🔨 Pushed [`4de685a`](https://github.com/Thesirix/Template-Travel-Company/commit/4de685a25b60e486f4b899884ca82a35d589bb8f) to [Thesirix/Template-Travel-Company](https://github.com/Thesirix/Template-Travel-Company) on `main` - _2d ago_
+1. 🔨 Pushed [`da40f5a`](https://github.com/Thesirix/Thesirix/commit/da40f5a7dc62aed9bc537c22f678b823b1d00701) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _18h ago_
+2. 🔨 Pushed [`7e9156b`](https://github.com/Thesirix/Thesirix/commit/7e9156b7daaddd2ea53037b3a3bd3f055895461c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+3. 🔨 Pushed [`a71010c`](https://github.com/Thesirix/Template-Travel-Company/commit/a71010ccfd9a722f1cc8f0f6109805c754722e1f) to [Thesirix/Template-Travel-Company](https://github.com/Thesirix/Template-Travel-Company) on `main` - _2d ago_
+4. 🔨 Pushed [`32d8860`](https://github.com/Thesirix/Thesirix/commit/32d88600010fecc0f8b3a4182b316d02987d733c) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
+5. 🔨 Pushed [`4426219`](https://github.com/Thesirix/StreakMaster/commit/442621957fa527f97ead33e190b7f74205403a08) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
 <!-- ACTIVITY_END -->
 
 
