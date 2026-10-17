@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \mathcal{E} = -\frac{d\Phi_B}{dt}
+\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
 $$
 
-Michael Faraday - **Faraday's Law of Induction** (1831)
+Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
 > [!NOTE]
-> Predicts how a magnetic field will interact with an electric circuit to produce an electromotive force. [Read more](https://en.wikipedia.org/wiki/Faraday%27s_law_of_induction)
+> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
 <!-- EQUATION_END -->
 
 <br>
