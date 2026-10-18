@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{n_+}{n_0} = \frac{g_+}{g_0} \exp\left(\frac{W - I}{k_B T}\right)
+\large h_f = f_D \frac{L}{D} \frac{v^2}{2g}
 $$
 
-Meghnad Saha & Irving Langmuir - **Saha-Langmuir Equation** (1925)
+Julius Weisbach - **Darcy-Weisbach Equation** (1845)
 > [!NOTE]
-> Calculates the ratio of ionized to neutral atoms hitting a hot surface. [Read more](https://en.wikipedia.org/wiki/Saha%E2%80%93Langmuir_equation)
+> Relates the head loss, or pressure loss, due to friction along a given length of pipe to the average velocity of the fluid flow for an incompressible fluid. [Read more](https://en.wikipedia.org/wiki/Darcy%E2%80%93Weisbach_equation)
 <!-- EQUATION_END -->
 
 <br>
