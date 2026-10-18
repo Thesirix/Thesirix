@@ -511,10 +511,10 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.43 % 
-🌆 Daytime                3762 commits        ███████████████░░░░░░░░░░   59.78 % 
-🌃 Evening                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.52 % 
-🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.42 % 
+🌆 Daytime                3763 commits        ███████████████░░░░░░░░░░   59.79 % 
+🌃 Evening                410 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -525,7 +525,7 @@ Wednesday                936 commits         ████░░░░░░░�
 Thursday                 1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Friday                   548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 Saturday                 317 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-Sunday                   730 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
 
@@ -535,11 +535,11 @@ Sunday                   730 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   7 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.33 % 
-Markdown                 6 hrs 44 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.59 % 
-Java                     5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-PHP                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.35 % 
-Other                    3 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.01 % 
+Python                   7 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+Markdown                 5 hrs 57 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.46 % 
+Java                     5 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
+PHP                      4 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Other                    3 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
 ```
 
 
