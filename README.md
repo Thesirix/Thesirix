@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large h_f = f_D \frac{L}{D} \frac{v^2}{2g}
+\large \dot{M} = \frac{4\pi G^2 M^2 \rho_\infty}{c_s^3}
 $$
 
-Julius Weisbach - **Darcy-Weisbach Equation** (1845)
+Hermann Bondi - **Bondi Accretion Rate** (1952)
 > [!NOTE]
-> Relates the head loss, or pressure loss, due to friction along a given length of pipe to the average velocity of the fluid flow for an incompressible fluid. [Read more](https://en.wikipedia.org/wiki/Darcy%E2%80%93Weisbach_equation)
+> Calculates the rate at which a compact object (like a black hole) accretes surrounding matter from a uniform gas cloud. [Read more](https://en.wikipedia.org/wiki/Bondi_accretion)
 <!-- EQUATION_END -->
 
 <br>
