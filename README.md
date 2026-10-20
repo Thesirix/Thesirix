@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \dot{M} = \frac{4\pi G^2 M^2 \rho_\infty}{c_s^3}
+\large y(t) = a e^{-b e^{-ct}}
 $$
 
-Hermann Bondi - **Bondi Accretion Rate** (1952)
+Benjamin Gompertz - **Gompertz Curve** (1825)
 > [!NOTE]
-> Calculates the rate at which a compact object (like a black hole) accretes surrounding matter from a uniform gas cloud. [Read more](https://en.wikipedia.org/wiki/Bondi_accretion)
+> A type of mathematical model for a time series, where growth is slowest at the start and end of a time period. [Read more](https://en.wikipedia.org/wiki/Gompertz_function)
 <!-- EQUATION_END -->
 
 <br>
