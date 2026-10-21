@@ -230,12 +230,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large y(t) = a e^{-b e^{-ct}}
+\large L = - \frac{u_*^3 \bar{\theta}_v}{k g (\overline{w'\theta_v'})_s}
 $$
 
-Benjamin Gompertz - **Gompertz Curve** (1825)
+Alexander Obukhov - **Obukhov Length** (1946)
 > [!NOTE]
-> A type of mathematical model for a time series, where growth is slowest at the start and end of a time period. [Read more](https://en.wikipedia.org/wiki/Gompertz_function)
+> A parameter in boundary layer meteorology that compares the effects of buoyant production of turbulent kinetic energy to shear production. [Read more](https://en.wikipedia.org/wiki/Obukhov_length)
 <!-- EQUATION_END -->
 
 <br>
