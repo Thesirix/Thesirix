@@ -55,6 +55,7 @@ My technological arsenal revolves around performance and mobility:
   <img src="assets/Techstack/javascript.svg" alt="JavaScript" width="50" height="50" />
   <img src="assets/Techstack/typescript.svg" alt="TypeScript" width="50" height="50" />
   <img src="assets/Techstack/react.svg" alt="React" width="50" height="50" />
+  <img src="assets/Techstack/java.svg" alt="Java" width="50" height="50" />
   <img src="assets/Techstack/jest.svg" alt="Jest" width="50" height="50" />
   <img src="assets/Techstack/docker.svg" alt="Docker" width="50" height="50" />
   <img src="assets/Techstack/mysql.svg" alt="MySQL" width="50" height="50" />
@@ -115,6 +116,7 @@ For me, code is a creative playground. I love when things run smoothly, automate
 
 - 📱 **Mobile & Cloud** : Flutter apps connected to robust APIs.
 - 🌐 **Fullstack Web** : React + Node.js / PHP for performant web tools.
+- ☕ **Backend Java** : Java + Spring Boot for scalable REST APIs.
 - ⚙️ **Architecture & DevOps** : CI/CD + Docker for stable deployments.
 - 📊 **Data & Tools** : Python for automation and data.
 
