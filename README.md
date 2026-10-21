@@ -115,8 +115,7 @@ My technological arsenal revolves around performance and mobility:
 For me, code is a creative playground. I love when things run smoothly, automated, and fluid.
 
 - 📱 **Mobile & Cloud** : Flutter apps connected to robust APIs.
-- 🌐 **Fullstack Web** : React + Node.js / PHP for performant web tools.
-- ☕ **Backend Java** : Java + Spring Boot for scalable REST APIs.
+- 🌐 **Fullstack Web** : React + Node.js / PHP / Java + Spring Boot for performant web tools.
 - ⚙️ **Architecture & DevOps** : CI/CD + Docker for stable deployments.
 - 📊 **Data & Tools** : Python for automation and data.
 
