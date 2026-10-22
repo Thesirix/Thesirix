@@ -513,9 +513,9 @@ quadrantChart
 
 ```text
 🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌆 Daytime                3766 commits        ███████████████░░░░░░░░░░   59.73 % 
+🌆 Daytime                3767 commits        ███████████████░░░░░░░░░░   59.74 % 
 🌃 Evening                418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
@@ -523,7 +523,7 @@ quadrantChart
 Monday                   1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 Tuesday                  1667 commits        ███████░░░░░░░░░░░░░░░░░░   26.44 % 
 Wednesday                939 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 1042 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.53 % 
+Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
 Friday                   548 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
 Saturday                 317 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
 Sunday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
@@ -536,11 +536,11 @@ Sunday                   731 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     8 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   24.81 % 
-Markdown                 3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
-Python                   3 hrs 14 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-JavaScript               2 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-Other                    2 hrs 21 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+Java                     7 hrs 9 mins        ███████░░░░░░░░░░░░░░░░░░   29.74 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Markdown                 2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.71 % 
+Python                   2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
+Vue                      1 hr 40 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 ```
 
 
