@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large L = - \frac{u_*^3 \bar{\theta}_v}{k g (\overline{w'\theta_v'})_s}
+\large V_{bad} > V_{good} \implies \text{hoarding}
 $$
 
-Alexander Obukhov - **Obukhov Length** (1946)
+Sir Thomas Gresham - **Gresham's Law** (1560)
 > [!NOTE]
-> A parameter in boundary layer meteorology that compares the effects of buoyant production of turbulent kinetic energy to shear production. [Read more](https://en.wikipedia.org/wiki/Obukhov_length)
+> The principle that 'bad money drives out good' in a system where two types of currency are in circulation. [Read more](https://en.wikipedia.org/wiki/Gresham%27s_law)
 <!-- EQUATION_END -->
 
 <br>
