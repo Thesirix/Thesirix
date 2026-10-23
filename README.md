@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large V_{bad} > V_{good} \implies \text{hoarding}
+\large \text{Bo} = \frac{\Delta \rho g L^2}{\sigma}
 $$
 
-Sir Thomas Gresham - **Gresham's Law** (1560)
+Wilfrid Noel Bond - **Bond Number (Eötvös Number)** (1927)
 > [!NOTE]
-> The principle that 'bad money drives out good' in a system where two types of currency are in circulation. [Read more](https://en.wikipedia.org/wiki/Gresham%27s_law)
+> A dimensionless number measuring the importance of gravitational forces compared to surface tension forces. [Read more](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_number)
 <!-- EQUATION_END -->
 
 <br>
