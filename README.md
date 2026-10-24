@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Bo} = \frac{\Delta \rho g L^2}{\sigma}
+\large \gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
 $$
 
-Wilfrid Noel Bond - **Bond Number (Eötvös Number)** (1927)
+Hendrik Lorentz - **Lorentz Factor** (1892)
 > [!NOTE]
-> A dimensionless number measuring the importance of gravitational forces compared to surface tension forces. [Read more](https://en.wikipedia.org/wiki/E%C3%B6tv%C3%B6s_number)
+> The factor by which time, length, and relativistic mass change for an object while that object is moving. [Read more](https://en.wikipedia.org/wiki/Lorentz_factor)
 <!-- EQUATION_END -->
 
 <br>
