@@ -512,21 +512,21 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1789 commits        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
-🌆 Daytime                3768 commits        ███████████████░░░░░░░░░░   59.74 % 
-🌃 Evening                418 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.63 % 
-🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+🌆 Daytime                3759 commits        ███████████████░░░░░░░░░░   59.72 % 
+🌃 Evening                415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1061 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
-Tuesday                  1667 commits        ███████░░░░░░░░░░░░░░░░░░   26.43 % 
-Wednesday                939 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.89 % 
-Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.54 % 
-Friday                   549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Saturday                 317 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.03 % 
-Sunday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+Tuesday                  1667 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
+Wednesday                935 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Friday                   549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
+Saturday                 318 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Sunday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
 
@@ -536,11 +536,11 @@ Sunday                   731 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Java                     4 hrs 46 mins       █████░░░░░░░░░░░░░░░░░░░░   20.42 % 
-Python                   3 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JavaScript               2 hrs 52 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Other                    2 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.08 % 
-Markdown                 2 hrs 16 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Python                   5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
+Java                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
+Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
+JavaScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
 ```
 
 
