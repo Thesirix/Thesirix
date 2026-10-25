@@ -207,11 +207,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`4d7fff5`](https://github.com/Thesirix/FleetPilot/commit/4d7fff58f48b9477508e08b967ba13e79f611d1e) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _4h ago_
-2. 🔨 Pushed [`00a96c7`](https://github.com/Thesirix/FleetPilot/commit/00a96c72cc1ea4c84539a142afd91e236c611b99) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _5h ago_
-3. 🔨 Pushed [`ce34f1e`](https://github.com/Thesirix/FleetPilot/commit/ce34f1e1d831863e8c2785b623623ac6c007313c) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _5h ago_
-4. 🔨 Pushed [`22b803b`](https://github.com/Thesirix/StreakMaster/commit/22b803b1abfc59c880ef31019e86b985183f1e9b) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _14h ago_
-5. 🔨 Pushed [`c140a1d`](https://github.com/Thesirix/StreakMaster/commit/c140a1def30d5859fba635fb55a8bdf0db9a91e5) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
+1. 🔨 Pushed [`25c01c0`](https://github.com/Thesirix/FleetPilot/commit/25c01c046995bd6d784bd4a63747f98d4572f64b) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _10h ago_
+2. 🔨 Pushed [`53c7f59`](https://github.com/Thesirix/Thesirix/commit/53c7f59da9c2fb81405842670aa7f151c2d4e047) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _12h ago_
+3. 🔨 Pushed [`4d7fff5`](https://github.com/Thesirix/FleetPilot/commit/4d7fff58f48b9477508e08b967ba13e79f611d1e) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _9h ago_
+4. 🔨 Pushed [`00a96c7`](https://github.com/Thesirix/FleetPilot/commit/00a96c72cc1ea4c84539a142afd91e236c611b99) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _10h ago_
+5. 🔨 Pushed [`ce34f1e`](https://github.com/Thesirix/FleetPilot/commit/ce34f1e1d831863e8c2785b623623ac6c007313c) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _10h ago_
 <!-- ACTIVITY_END -->
 
 
