@@ -512,21 +512,21 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.41 % 
-🌆 Daytime                3759 commits        ███████████████░░░░░░░░░░   59.72 % 
-🌃 Evening                415 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.39 % 
+🌆 Daytime                3760 commits        ███████████████░░░░░░░░░░   59.69 % 
+🌃 Evening                419 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
-Tuesday                  1667 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
-Wednesday                935 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Monday                   1051 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+Tuesday                  1667 commits        ███████░░░░░░░░░░░░░░░░░░   26.46 % 
+Wednesday                935 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
+Thursday                 1043 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
 Friday                   549 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-Saturday                 318 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Sunday                   731 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+Saturday                 322 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+Sunday                   732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 ```
 
 
@@ -536,11 +536,11 @@ Sunday                   731 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   5 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   24.39 % 
-Java                     2 hrs 55 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Other                    2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.49 % 
-JavaScript               2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
-Markdown                 1 hr 56 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+Python                   7 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   25.90 % 
+Markdown                 3 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Other                    3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Java                     3 hrs 1 min         ███░░░░░░░░░░░░░░░░░░░░░░   10.18 % 
+JavaScript               2 hrs 28 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 % 
 ```
 
 
