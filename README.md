@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \gamma = \frac{1}{\sqrt{1 - \frac{v^2}{c^2}}}
+\large \left(P + \frac{a n^2}{V^2}\right)(V - nb) = nRT
 $$
 
-Hendrik Lorentz - **Lorentz Factor** (1892)
+Johannes Diderik van der Waals - **Van der Waals Equation** (1873)
 > [!NOTE]
-> The factor by which time, length, and relativistic mass change for an object while that object is moving. [Read more](https://en.wikipedia.org/wiki/Lorentz_factor)
+> An equation of state that extends the ideal gas law to include the effects of non-zero molecular volume and intermolecular attractive forces. [Read more](https://en.wikipedia.org/wiki/Van_der_Waals_equation)
 <!-- EQUATION_END -->
 
 <br>
