@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \left(P + \frac{a n^2}{V^2}\right)(V - nb) = nRT
+\large f = \frac{qB}{2\pi m}
 $$
 
-Johannes Diderik van der Waals - **Van der Waals Equation** (1873)
+Ernest Lawrence - **Cyclotron Frequency** (1932)
 > [!NOTE]
-> An equation of state that extends the ideal gas law to include the effects of non-zero molecular volume and intermolecular attractive forces. [Read more](https://en.wikipedia.org/wiki/Van_der_Waals_equation)
+> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
 <!-- EQUATION_END -->
 
 <br>
