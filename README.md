@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large f = \frac{qB}{2\pi m}
+\large \partial_t \phi + \partial_x^3 \phi + 6 \phi \partial_x \phi = 0
 $$
 
-Ernest Lawrence - **Cyclotron Frequency** (1932)
+Diederik Korteweg & Gustav de Vries - **Korteweg-De Vries Equation** (1895)
 > [!NOTE]
-> The frequency of a charged particle moving perpendicular to the direction of a uniform magnetic field. [Read more](https://en.wikipedia.org/wiki/Cyclotron_resonance)
+> A mathematical model of waves on shallow water surfaces, famous for its solitary wave (soliton) solutions. [Read more](https://en.wikipedia.org/wiki/Korteweg%E2%80%93De_Vries_equation)
 <!-- EQUATION_END -->
 
 <br>
