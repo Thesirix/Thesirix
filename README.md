@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \partial_t \phi + \partial_x^3 \phi + 6 \phi \partial_x \phi = 0
+\large T_H = \frac{\hbar c^3}{8\pi G M k_B}
 $$
 
-Diederik Korteweg & Gustav de Vries - **Korteweg-De Vries Equation** (1895)
+Stephen Hawking - **Hawking Radiation Temperature** (1974)
 > [!NOTE]
-> A mathematical model of waves on shallow water surfaces, famous for its solitary wave (soliton) solutions. [Read more](https://en.wikipedia.org/wiki/Korteweg%E2%80%93De_Vries_equation)
+> Predicts that black holes emit black-body radiation due to quantum effects near the event horizon. [Read more](https://en.wikipedia.org/wiki/Hawking_radiation)
 <!-- EQUATION_END -->
 
 <br>
