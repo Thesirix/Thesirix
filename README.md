@@ -208,9 +208,9 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- ACTIVITY_START -->
 1. 🔨 Pushed [`b61c739`](https://github.com/Thesirix/StreakMaster/commit/b61c7396501024fe363ae9447abeaae1eccf8d65) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-2. 🔨 Pushed [`61a49d4`](https://github.com/Thesirix/Smashing-Pumpkins/commit/61a49d49ae8c6a831617a75fe83aa969a34592c6) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _1d ago_
-3. 🔨 Pushed [`f541372`](https://github.com/Thesirix/Smashing-Pumpkins/commit/f54137254f85c4e580461b4f1abcecdd3a0c1b0e) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _1d ago_
-4. 🎉 Created branch `main` in [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) - _1d ago_
+2. 🔨 Pushed [`61a49d4`](https://github.com/Thesirix/Smashing-Pumpkins/commit/61a49d49ae8c6a831617a75fe83aa969a34592c6) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _2d ago_
+3. 🔨 Pushed [`f541372`](https://github.com/Thesirix/Smashing-Pumpkins/commit/f54137254f85c4e580461b4f1abcecdd3a0c1b0e) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _2d ago_
+4. 🎉 Created branch `main` in [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) - _2d ago_
 5. 🔨 Pushed [`8b8a911`](https://github.com/Thesirix/Thesirix/commit/8b8a9113c6c316ac63a60561b43f1001d95ef557) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
 <!-- ACTIVITY_END -->
 
