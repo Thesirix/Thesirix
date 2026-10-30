@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\kappa}{\sigma} = L T
+\large K = \frac{R_{1212}}{g_{11}g_{22} - g_{12}^2}
 $$
 
-Gustav Wiedemann & Rudolph Franz - **Wiedemann-Franz Law** (1853)
+Carl Friedrich Gauss - **Theorema Egregium** (1827)
 > [!NOTE]
-> States that the ratio of the thermal conductivity to the electrical conductivity of a metal is proportional to the temperature. [Read more](https://en.wikipedia.org/wiki/Wiedemann%E2%80%93Franz_law)
+> Proves that the Gaussian curvature of a surface can be determined entirely by measuring angles and distances on the surface itself. [Read more](https://en.wikipedia.org/wiki/Theorema_Egregium)
 <!-- EQUATION_END -->
 
 <br>
