@@ -207,11 +207,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`4ef36c1`](https://github.com/Thesirix/StreakMaster/commit/4ef36c1e6372c5057b86b49d38e9258cc8b2695c) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-2. 🔨 Pushed [`b61c739`](https://github.com/Thesirix/StreakMaster/commit/b61c7396501024fe363ae9447abeaae1eccf8d65) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
-3. 🔨 Pushed [`61a49d4`](https://github.com/Thesirix/Smashing-Pumpkins/commit/61a49d49ae8c6a831617a75fe83aa969a34592c6) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _3d ago_
-4. 🔨 Pushed [`f541372`](https://github.com/Thesirix/Smashing-Pumpkins/commit/f54137254f85c4e580461b4f1abcecdd3a0c1b0e) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _3d ago_
-5. 🎉 Created branch `main` in [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) - _3d ago_
+1. 🔨 Pushed [`9cdd5b2`](https://github.com/Thesirix/Thesirix/commit/9cdd5b27f8437b174ad58a11bd77b44df3fc0a14) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
+2. 🔨 Pushed [`4ef36c1`](https://github.com/Thesirix/StreakMaster/commit/4ef36c1e6372c5057b86b49d38e9258cc8b2695c) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
+3. 🔨 Pushed [`b61c739`](https://github.com/Thesirix/StreakMaster/commit/b61c7396501024fe363ae9447abeaae1eccf8d65) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
+4. 🔨 Pushed [`61a49d4`](https://github.com/Thesirix/Smashing-Pumpkins/commit/61a49d49ae8c6a831617a75fe83aa969a34592c6) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _3d ago_
+5. 🔨 Pushed [`f541372`](https://github.com/Thesirix/Smashing-Pumpkins/commit/f54137254f85c4e580461b4f1abcecdd3a0c1b0e) to [Thesirix/Smashing-Pumpkins](https://github.com/Thesirix/Smashing-Pumpkins) on `main` - _3d ago_
 <!-- ACTIVITY_END -->
 
 
