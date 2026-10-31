@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large K = \frac{R_{1212}}{g_{11}g_{22} - g_{12}^2}
+\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
 $$
 
-Carl Friedrich Gauss - **Theorema Egregium** (1827)
+Jon Kleinberg - **HITS Hub Score** (1999)
 > [!NOTE]
-> Proves that the Gaussian curvature of a surface can be determined entirely by measuring angles and distances on the surface itself. [Read more](https://en.wikipedia.org/wiki/Theorema_Egregium)
+> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
 <!-- EQUATION_END -->
 
 <br>
