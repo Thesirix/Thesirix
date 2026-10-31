@@ -513,7 +513,7 @@ quadrantChart
 
 ```text
 🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌆 Daytime                3765 commits        ███████████████░░░░░░░░░░   59.66 % 
+🌆 Daytime                3766 commits        ███████████████░░░░░░░░░░   59.66 % 
 🌃 Evening                426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
@@ -525,7 +525,7 @@ Tuesday                  1672 commits        ███████░░░░�
 Wednesday                936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
 Thursday                 1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
 Friday                   550 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
-Saturday                 322 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.10 % 
+Saturday                 323 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
 Sunday                   732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
 ```
 
@@ -536,11 +536,11 @@ Sunday                   732 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Python                   6 hrs 3 mins        ███████░░░░░░░░░░░░░░░░░░   29.56 % 
-Markdown                 2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Other                    2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
-Text                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Markdown                 9 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.37 % 
+Python                   3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
+Other                    2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
+HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 
 
