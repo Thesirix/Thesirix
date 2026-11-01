@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large y_i^{(k)} = \sum_{j : i \to j} x_j^{(k)}
+\large \frac{d}{dt} \langle A \rangle = \frac{1}{i\hbar} \langle [A, H] \rangle + \left\langle \frac{\partial A}{\partial t} \right\rangle
 $$
 
-Jon Kleinberg - **HITS Hub Score** (1999)
+Paul Ehrenfest - **Ehrenfest Theorem** (1927)
 > [!NOTE]
-> Identifies pages that link to many high-quality authorities. [Read more](https://en.wikipedia.org/wiki/HITS_algorithm)
+> Relates the time derivative of the expectation values of the position and momentum operators to the expectation value of the force. [Read more](https://en.wikipedia.org/wiki/Ehrenfest_theorem)
 <!-- EQUATION_END -->
 
 <br>
