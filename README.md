@@ -512,21 +512,21 @@ quadrantChart
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.33 % 
-🌆 Daytime                3766 commits        ███████████████░░░░░░░░░░   59.66 % 
+🌞 Morning                1788 commits        ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+🌆 Daytime                3767 commits        ███████████████░░░░░░░░░░   59.67 % 
 🌃 Evening                426 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
 🌙 Night                  332 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 ```
 📅 **I'm Most Productive on Tuesday** 
 
 ```text
-Monday                   1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Monday                   1052 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 Tuesday                  1672 commits        ███████░░░░░░░░░░░░░░░░░░   26.49 % 
 Wednesday                936 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
-Thursday                 1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.59 % 
+Thursday                 1047 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.58 % 
 Friday                   550 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.71 % 
 Saturday                 323 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.12 % 
-Sunday                   732 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
+Sunday                   733 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
 ```
 
 
@@ -536,11 +536,11 @@ Sunday                   732 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Europe/Paris
 
 💬 Programming Languages: 
-Markdown                 9 hrs 7 mins        █████████░░░░░░░░░░░░░░░░   37.37 % 
-Python                   3 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Other                    2 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.59 % 
-HTML                     1 hr 18 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-Bash                     1 hr 7 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+Markdown                 8 hrs 36 mins       ██████████████░░░░░░░░░░░   55.13 % 
+Other                    1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.53 % 
+Python                   1 hr 36 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+HTML                     1 hr 11 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+Dart                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 ```
 
 
