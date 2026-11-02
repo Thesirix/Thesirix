@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d}{dt} \langle A \rangle = \frac{1}{i\hbar} \langle [A, H] \rangle + \left\langle \frac{\partial A}{\partial t} \right\rangle
+\large \frac{\partial}{\partial x} \left( \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} + \frac{\partial^3 u}{\partial x^3} \right) + \pm \frac{\partial^2 u}{\partial y^2} = 0
 $$
 
-Paul Ehrenfest - **Ehrenfest Theorem** (1927)
+Boris Kadomtsev & Vladimir Petviashvili - **Kadomtsev-Petviashvili (KP) Equation** (1970)
 > [!NOTE]
-> Relates the time derivative of the expectation values of the position and momentum operators to the expectation value of the force. [Read more](https://en.wikipedia.org/wiki/Ehrenfest_theorem)
+> A partial differential equation to describe nonlinear wave motion, generalizing the KdV equation to two spatial dimensions. [Read more](https://en.wikipedia.org/wiki/Kadomtsev%E2%80%93Petviashvili_equation)
 <!-- EQUATION_END -->
 
 <br>
