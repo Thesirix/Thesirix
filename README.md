@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial}{\partial x} \left( \frac{\partial u}{\partial t} + u \frac{\partial u}{\partial x} + \frac{\partial^3 u}{\partial x^3} \right) + \pm \frac{\partial^2 u}{\partial y^2} = 0
+\large \oint_C (L dx + M dy) = \iint_D \left(\frac{\partial M}{\partial x} - \frac{\partial L}{\partial y}\right) dx dy
 $$
 
-Boris Kadomtsev & Vladimir Petviashvili - **Kadomtsev-Petviashvili (KP) Equation** (1970)
+George Green - **Green's Theorem** (1828)
 > [!NOTE]
-> A partial differential equation to describe nonlinear wave motion, generalizing the KdV equation to two spatial dimensions. [Read more](https://en.wikipedia.org/wiki/Kadomtsev%E2%80%93Petviashvili_equation)
+> Relates a line integral around a simple closed curve C to a double integral over the plane region D bounded by C. [Read more](https://en.wikipedia.org/wiki/Green%27s_theorem)
 <!-- EQUATION_END -->
 
 <br>
