@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \oint_C (L dx + M dy) = \iint_D \left(\frac{\partial M}{\partial x} - \frac{\partial L}{\partial y}\right) dx dy
+\large \frac{d\theta}{d\tau} = -\frac{1}{3}\theta^2 - \sigma_{\mu\nu}\sigma^{\mu\nu} + \omega_{\mu\nu}\omega^{\mu\nu} - R_{\mu\nu}u^\mu u^\nu
 $$
 
-George Green - **Green's Theorem** (1828)
+Amal Kumar Raychaudhuri - **Raychaudhuri Equation** (1955)
 > [!NOTE]
-> Relates a line integral around a simple closed curve C to a double integral over the plane region D bounded by C. [Read more](https://en.wikipedia.org/wiki/Green%27s_theorem)
+> A fundamental result in general relativity which describes how nearby bits of matter move. [Read more](https://en.wikipedia.org/wiki/Raychaudhuri_equation)
 <!-- EQUATION_END -->
 
 <br>
