@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{d\theta}{d\tau} = -\frac{1}{3}\theta^2 - \sigma_{\mu\nu}\sigma^{\mu\nu} + \omega_{\mu\nu}\omega^{\mu\nu} - R_{\mu\nu}u^\mu u^\nu
+\large \psi_{\mathbf{k}}(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} u_{\mathbf{k}}(\mathbf{r})
 $$
 
-Amal Kumar Raychaudhuri - **Raychaudhuri Equation** (1955)
+Felix Bloch - **Bloch's Theorem** (1929)
 > [!NOTE]
-> A fundamental result in general relativity which describes how nearby bits of matter move. [Read more](https://en.wikipedia.org/wiki/Raychaudhuri_equation)
+> Describes the energy eigenstates for an electron in a crystal lattice. [Read more](https://en.wikipedia.org/wiki/Bloch%27s_theorem)
 <!-- EQUATION_END -->
 
 <br>
