@@ -642,6 +642,7 @@ jobs:
   waka-card:
     name: "⏱️ Waka Card"
     needs: [waka]
+    if: ${{ !cancelled() }}
     uses: ./.github/workflows/Waka_Card.yml
     secrets: inherit
 

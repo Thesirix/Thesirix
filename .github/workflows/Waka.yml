@@ -19,7 +19,10 @@ jobs:
     permissions: write-all
     runs-on: ubuntu-latest
     steps:
+      # WakaTime refuse les clés API hors plugins (403) depuis novembre 2026 :
+      # on n'échoue pas tant que l'action ne gère pas le token OAuth.
       - uses: anmol098/waka-readme-stats@master
+        continue-on-error: true
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           GH_TOKEN: ${{ secrets.GH_TOKEN }}
