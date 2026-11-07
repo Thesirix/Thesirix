@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \psi_{\mathbf{k}}(\mathbf{r}) = e^{i\mathbf{k}\cdot\mathbf{r}} u_{\mathbf{k}}(\mathbf{r})
+\large W = \frac{[b + m] \times s_{total}}{v \times p}
 $$
 
-Felix Bloch - **Bloch's Theorem** (1929)
+Mark Hadley - **The Perfect Sandwich Formula** (2003)
 > [!NOTE]
-> Describes the energy eigenstates for an electron in a crystal lattice. [Read more](https://en.wikipedia.org/wiki/Bloch%27s_theorem)
+> An actual formula commissioned to find the mathematical balance of bread, filling, and condiments. [Read more](https://en.wikipedia.org/wiki/Sandwich)
 <!-- EQUATION_END -->
 
 <br>
