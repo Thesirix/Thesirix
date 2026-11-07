@@ -41,14 +41,21 @@ jobs:
         working-directory: waka-card
 
       - name: Generate SVG
+        # Pas de clé API : WakaTime les refuse hors plugins (403) depuis novembre 2026.
+        # La carte lit les stats publiques du profil.
         env:
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           WAKATIME_USERNAME: ${{ github.repository_owner }}
         run: node generate.js
         working-directory: waka-card
 
       - name: Move SVG to assets
-        run: cp waka-card/waka-card.svg assets/waka-card.svg
+        run: |
+          # Si le temps de code n'est pas public sur WakaTime, on garde l'ancienne carte.
+          if grep -q "not public" waka-card/waka-card.svg; then
+            echo "::warning::Temps de code privé sur WakaTime : carte non mise à jour."
+          else
+            cp waka-card/waka-card.svg assets/waka-card.svg
+          fi
 
       - name: Commit & push to main
         run: |
