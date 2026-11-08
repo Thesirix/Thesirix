@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large W = \frac{[b + m] \times s_{total}}{v \times p}
+\large \chi = \frac{C}{T - T_c}
 $$
 
-Mark Hadley - **The Perfect Sandwich Formula** (2003)
+Pierre Curie & Pierre-Ernest Weiss - **Curie-Weiss Law** (1907)
 > [!NOTE]
-> An actual formula commissioned to find the mathematical balance of bread, filling, and condiments. [Read more](https://en.wikipedia.org/wiki/Sandwich)
+> Describes the magnetic susceptibility of a ferromagnet in the paramagnetic region above the Curie point. [Read more](https://en.wikipedia.org/wiki/Curie%E2%80%93Weiss_law)
 <!-- EQUATION_END -->
 
 <br>
