@@ -207,11 +207,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`083cbab`](https://github.com/Thesirix/Thesirix/commit/083cbab32ece9f3fd6cbe740b2c88352b51711e7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _17h ago_
-2. 🔨 Pushed [`b5bc8df`](https://github.com/Thesirix/StreakMaster/commit/b5bc8dfd61f6adab82f9b58ad9c00d24d786da0a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-3. 🔨 Pushed [`ef53452`](https://github.com/Thesirix/StreakMaster/commit/ef534523ae044df83d9507115191e2d8308d7414) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-4. 🔨 Pushed [`804ef20`](https://github.com/Thesirix/StreakMaster/commit/804ef20f81f888c1db950cc4bc497eb22af1eff8) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _3d ago_
-5. 🔨 Pushed [`4d4612e`](https://github.com/Thesirix/Thesirix/commit/4d4612ee9995529dabc6ca551a180c33214e8e7f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _7d ago_
+1. ⭐ Starred [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - _1h ago_
+2. 🔨 Pushed [`734a421`](https://github.com/Thesirix/StreakMaster/commit/734a421441c53ccb4e2e5b63e8dfca1e06093063) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _5h ago_
+3. 🔨 Pushed [`083cbab`](https://github.com/Thesirix/Thesirix/commit/083cbab32ece9f3fd6cbe740b2c88352b51711e7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _23h ago_
+4. 🔨 Pushed [`b5bc8df`](https://github.com/Thesirix/StreakMaster/commit/b5bc8dfd61f6adab82f9b58ad9c00d24d786da0a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
+5. 🔨 Pushed [`ef53452`](https://github.com/Thesirix/StreakMaster/commit/ef534523ae044df83d9507115191e2d8308d7414) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
 <!-- ACTIVITY_END -->
 
 
