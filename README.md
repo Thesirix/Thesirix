@@ -39,8 +39,8 @@ Together, let's turn your technical ambitions into concrete, scalable, and susta
 My technological arsenal revolves around performance and mobility:
 <br><br>
 
-- ☕ **Java & Spring Boot** : My foundation for enterprise backends and microservices, with Hibernate, Apache Camel and Kafka.
 - 🐘 **PHP & Laravel** : A solid tool for structuring rigorous backends.
+- ☕ **Java & Spring Boot** : My foundation for enterprise backends and microservices, with Hibernate, Apache Camel and Kafka.
 - 🚀 **Node.js & Express** : To build fast and scalable APIs and real-time services.
 - ⚛️ **JavaScript, React & Vue/Nuxt** : The key ingredients to make my web interfaces interactive and dynamic.
 - 📱 **Flutter & Dart** : My solution for deploying native mobile applications on all screens.
