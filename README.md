@@ -1590,7 +1590,7 @@ kanban
 This is a shared game, all visitors play together. Click a button, then the page will refresh and the anchor will bring you back to see the result!
 
 <br>
-<div align="center"><img src="assets/Gameboy/haut_screen.png" width="340"><br><img src="assets/Gameboy/gauche_screen.png" width="91"><a href="https://gameboy.renaudmercier.com/RIGHT"><img src="https://pokemon.farlow.dev/game" width="173"></a><img src="assets/Gameboy/droite_screen.png" width="76"><br><img src="assets/Gameboy/bas_screen.png" width="340"></div>
+<div align="center"><img src="assets/Gameboy/haut_screen.png" width="340"><br><img src="assets/Gameboy/gauche_screen.png" width="91"><a href="https://gameboy.renaudmercier.com/RIGHT"><img src="https://gameboy.renaudmercier.com/game" width="173"></a><img src="assets/Gameboy/droite_screen.png" width="76"><br><img src="assets/Gameboy/bas_screen.png" width="340"></div>
 
 <div align="center">
 
