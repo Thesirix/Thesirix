@@ -207,11 +207,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. ⭐ Starred [xanderfrangos/twinkle-tray](https://github.com/xanderfrangos/twinkle-tray) - _16h ago_
-2. 🔨 Pushed [`734a421`](https://github.com/Thesirix/StreakMaster/commit/734a421441c53ccb4e2e5b63e8dfca1e06093063) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _20h ago_
-3. 🔨 Pushed [`083cbab`](https://github.com/Thesirix/Thesirix/commit/083cbab32ece9f3fd6cbe740b2c88352b51711e7) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
-4. 🔨 Pushed [`b5bc8df`](https://github.com/Thesirix/StreakMaster/commit/b5bc8dfd61f6adab82f9b58ad9c00d24d786da0a) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-5. 🔨 Pushed [`ef53452`](https://github.com/Thesirix/StreakMaster/commit/ef534523ae044df83d9507115191e2d8308d7414) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
+1. 🔨 Pushed [`9770b9a`](https://github.com/Thesirix/EZ-Bike/commit/9770b9a56bc06f3b6df7893f1e0a78626b01c521) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _7h ago_
+2. 🔨 Pushed [`bd81f91`](https://github.com/Thesirix/UserQuizz/commit/bd81f9132b0524e7ea0ee27f5be989dc5ea30383) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/questions-by-categogy` - _7h ago_
+3. 🔨 Pushed [`33045e6`](https://github.com/Thesirix/Assembly_jump/commit/33045e65e3fd96626ff0e2ca197f837bf04caa4b) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _6h ago_
+4. 🔨 Pushed [`795cc22`](https://github.com/Thesirix/CodeShelf/commit/795cc2242f42977e789c2ad2607458a48eb37710) to [Thesirix/CodeShelf](https://github.com/Thesirix/CodeShelf) on `main` - _6h ago_
+5. 🔨 Pushed [`63f26ba`](https://github.com/Thesirix/UserQuizz/commit/63f26bac1993f15fdad849d5c40fa5868d708c4e) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/tokendynamic` - _7h ago_
 <!-- ACTIVITY_END -->
 
 
