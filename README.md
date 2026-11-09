@@ -231,12 +231,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \chi = \frac{C}{T - T_c}
+\large \boldsymbol{\tau} = \boldsymbol{\mu} \times \mathbf{B}
 $$
 
-Pierre Curie & Pierre-Ernest Weiss - **Curie-Weiss Law** (1907)
+André-Marie Ampère - **Magnetic Dipole Torque** (1820)
 > [!NOTE]
-> Describes the magnetic susceptibility of a ferromagnet in the paramagnetic region above the Curie point. [Read more](https://en.wikipedia.org/wiki/Curie%E2%80%93Weiss_law)
+> Calculates the torque experienced by a magnetic dipole when placed in a magnetic field. [Read more](https://en.wikipedia.org/wiki/Magnetic_dipole#External_magnetic_field_produced_by_a_magnetic_dipole_moment)
 <!-- EQUATION_END -->
 
 <br>
