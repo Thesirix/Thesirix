@@ -14,7 +14,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Pacifico&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+%F0%9F%91%8B;+I%27m+Thesirix!;Software+Engineer+%7C+DevOps;Java+%7C+Spring+Boot+%7C+Kafka;Python+%7C+Flutter+%7C+PHP+%7C+JS;React+%7C+Laravel+%7C+Express+%7C+Docker;" />
 </h1>
 
 ![chat](assets/chat.svg)
@@ -39,11 +39,12 @@ Together, let's turn your technical ambitions into concrete, scalable, and susta
 My technological arsenal revolves around performance and mobility:
 <br><br>
 
-- 🐍 **Python** : My ally for developing powerful, robust applications and automation.
-- 📱 **Flutter & Dart** : My solution for deploying native mobile applications on all screens.
-- ⚛️ **JavaScript & React** : The key ingredient to make my web interfaces interactive and dynamic.
+- ☕ **Java & Spring Boot** : My foundation for enterprise backends and microservices, with Hibernate, Apache Camel and Kafka.
 - 🐘 **PHP & Laravel** : A solid tool for structuring rigorous backends.
-- 🚀 **Node.js & Express** : To build fast and scalable microservices.
+- 🚀 **Node.js & Express** : To build fast and scalable APIs and real-time services.
+- ⚛️ **JavaScript, React & Vue/Nuxt** : The key ingredients to make my web interfaces interactive and dynamic.
+- 📱 **Flutter & Dart** : My solution for deploying native mobile applications on all screens.
+- 🐍 **Python** : My ally for developing powerful, robust applications, bots and automation.
 - 🐳 **Docker & CI/CD** : The infrastructure for reliable and automated deployments.
 - 🎨 **Adobe** : To maintain strong visual and ergonomic standards.
 
