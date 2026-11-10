@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \boldsymbol{\tau} = \boldsymbol{\mu} \times \mathbf{B}
+\large P \approx 100 \text{ kW}
 $$
 
-André-Marie Ampère - **Magnetic Dipole Torque** (1820)
+Francis Perrin - **Oklo Natural Reactor Power** (1972)
 > [!NOTE]
-> Calculates the torque experienced by a magnetic dipole when placed in a magnetic field. [Read more](https://en.wikipedia.org/wiki/Magnetic_dipole#External_magnetic_field_produced_by_a_magnetic_dipole_moment)
+> The formula used to calculate the power output of the only known natural nuclear fission reactor on Earth (in Gabon). [Read more](https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor)
 <!-- EQUATION_END -->
 
 <br>
