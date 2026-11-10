@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`9770b9a`](https://github.com/Thesirix/EZ-Bike/commit/9770b9a56bc06f3b6df7893f1e0a78626b01c521) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _7h ago_
-2. 🔨 Pushed [`bd81f91`](https://github.com/Thesirix/UserQuizz/commit/bd81f9132b0524e7ea0ee27f5be989dc5ea30383) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/questions-by-categogy` - _7h ago_
-3. 🔨 Pushed [`33045e6`](https://github.com/Thesirix/Assembly_jump/commit/33045e65e3fd96626ff0e2ca197f837bf04caa4b) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _6h ago_
-4. 🔨 Pushed [`795cc22`](https://github.com/Thesirix/CodeShelf/commit/795cc2242f42977e789c2ad2607458a48eb37710) to [Thesirix/CodeShelf](https://github.com/Thesirix/CodeShelf) on `main` - _6h ago_
-5. 🔨 Pushed [`63f26ba`](https://github.com/Thesirix/UserQuizz/commit/63f26bac1993f15fdad849d5c40fa5868d708c4e) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/tokendynamic` - _7h ago_
+1. 🔨 Pushed [`30df141`](https://github.com/Thesirix/Korgex/commit/30df1418333f743a4c4677024dc7d49f2ac00d20) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _13h ago_
+2. 🔨 Pushed [`44488db`](https://github.com/Thesirix/EZ-Bike/commit/44488dbdde85c8992fa363011d60c58439cb1cd7) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _13h ago_
+3. 🔨 Pushed [`67b9ad9`](https://github.com/Thesirix/EZ-Bike/commit/67b9ad956c04f75d6f1a0d52fa46c70dfc8550b6) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _14h ago_
+4. 🎉 Created branch `main` in [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) - _14h ago_
+5. 🔨 Pushed [`58057d0`](https://github.com/Thesirix/github-readme-animated-chat-bubbles/commit/58057d034a63796a356c655a7190835fa74f1ec1) to [Thesirix/github-readme-animated-chat-bubbles](https://github.com/Thesirix/github-readme-animated-chat-bubbles) on `main` - _13h ago_
 <!-- ACTIVITY_END -->
 
 
