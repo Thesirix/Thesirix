@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`30df141`](https://github.com/Thesirix/Korgex/commit/30df1418333f743a4c4677024dc7d49f2ac00d20) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _13h ago_
-2. 🔨 Pushed [`44488db`](https://github.com/Thesirix/EZ-Bike/commit/44488dbdde85c8992fa363011d60c58439cb1cd7) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _13h ago_
-3. 🔨 Pushed [`67b9ad9`](https://github.com/Thesirix/EZ-Bike/commit/67b9ad956c04f75d6f1a0d52fa46c70dfc8550b6) to [Thesirix/EZ-Bike](https://github.com/Thesirix/EZ-Bike) on `main` - _14h ago_
-4. 🎉 Created branch `main` in [Thesirix/pagepresentation](https://github.com/Thesirix/pagepresentation) - _14h ago_
-5. 🔨 Pushed [`58057d0`](https://github.com/Thesirix/github-readme-animated-chat-bubbles/commit/58057d034a63796a356c655a7190835fa74f1ec1) to [Thesirix/github-readme-animated-chat-bubbles](https://github.com/Thesirix/github-readme-animated-chat-bubbles) on `main` - _13h ago_
+1. 🔨 Pushed [`c86ef7c`](https://github.com/Thesirix/AlgoBuddy/commit/c86ef7c0562cbdf21212c4f88aed53abd25802e1) to [Thesirix/AlgoBuddy](https://github.com/Thesirix/AlgoBuddy) on `main` - _21h ago_
+2. 🔨 Pushed [`c817022`](https://github.com/Thesirix/Candle/commit/c81702228103b01fcb05ff043ce96bd0dc374afc) to [Thesirix/Candle](https://github.com/Thesirix/Candle) on `pair-dos` - _22h ago_
+3. 🔨 Pushed [`21ca149`](https://github.com/Thesirix/UserQuizz/commit/21ca149ab61cef8d6ee8a379faa94d5f53d6f7ea) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _22h ago_
+4. 🔨 Pushed [`587e91d`](https://github.com/Thesirix/BackDoor/commit/587e91d8f5ee65409d50e50e6708ac5fe0c1d106) to [Thesirix/BackDoor](https://github.com/Thesirix/BackDoor) on `main` - _22h ago_
+5. 🔨 Pushed [`63e6cf0`](https://github.com/Thesirix/Color-Palette/commit/63e6cf0c701dea314dba0adefd97ac8d0b9a9101) to [Thesirix/Color-Palette](https://github.com/Thesirix/Color-Palette) on `main` - _22h ago_
 <!-- ACTIVITY_END -->
 
 
