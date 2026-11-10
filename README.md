@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`c86ef7c`](https://github.com/Thesirix/AlgoBuddy/commit/c86ef7c0562cbdf21212c4f88aed53abd25802e1) to [Thesirix/AlgoBuddy](https://github.com/Thesirix/AlgoBuddy) on `main` - _21h ago_
-2. 🔨 Pushed [`c817022`](https://github.com/Thesirix/Candle/commit/c81702228103b01fcb05ff043ce96bd0dc374afc) to [Thesirix/Candle](https://github.com/Thesirix/Candle) on `pair-dos` - _22h ago_
-3. 🔨 Pushed [`21ca149`](https://github.com/Thesirix/UserQuizz/commit/21ca149ab61cef8d6ee8a379faa94d5f53d6f7ea) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _22h ago_
-4. 🔨 Pushed [`587e91d`](https://github.com/Thesirix/BackDoor/commit/587e91d8f5ee65409d50e50e6708ac5fe0c1d106) to [Thesirix/BackDoor](https://github.com/Thesirix/BackDoor) on `main` - _22h ago_
-5. 🔨 Pushed [`63e6cf0`](https://github.com/Thesirix/Color-Palette/commit/63e6cf0c701dea314dba0adefd97ac8d0b9a9101) to [Thesirix/Color-Palette](https://github.com/Thesirix/Color-Palette) on `main` - _22h ago_
+1. 🔨 Pushed [`c358430`](https://github.com/Thesirix/Flutter_Bird/commit/c358430ce8293d4796df57dfa35238565b7b35cc) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _1d ago_
+2. 🔨 Pushed [`aebfca4`](https://github.com/Thesirix/FleetPilot/commit/aebfca4e1df4bf3d939c01fc5885ae03611e8997) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _18h ago_
+3. 🔨 Pushed [`18230ec`](https://github.com/Thesirix/SNPB/commit/18230ecc524f9512001f71f667861673678a9acc) to [Thesirix/SNPB](https://github.com/Thesirix/SNPB) on `main` - _18h ago_
+4. 🔨 Pushed [`3fbf8fa`](https://github.com/Thesirix/Korgex/commit/3fbf8fa1ae60f561eb33618fad4cac39ab450142) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _18h ago_
+5. 🔨 Pushed [`2cac8fb`](https://github.com/Thesirix/Cook2/commit/2cac8fba854965d7da7069fda6abbba3a737fad5) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _1d ago_
 <!-- ACTIVITY_END -->
 
 
