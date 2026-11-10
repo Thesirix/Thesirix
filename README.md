@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`c358430`](https://github.com/Thesirix/Flutter_Bird/commit/c358430ce8293d4796df57dfa35238565b7b35cc) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _1d ago_
-2. 🔨 Pushed [`aebfca4`](https://github.com/Thesirix/FleetPilot/commit/aebfca4e1df4bf3d939c01fc5885ae03611e8997) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _18h ago_
-3. 🔨 Pushed [`18230ec`](https://github.com/Thesirix/SNPB/commit/18230ecc524f9512001f71f667861673678a9acc) to [Thesirix/SNPB](https://github.com/Thesirix/SNPB) on `main` - _18h ago_
-4. 🔨 Pushed [`3fbf8fa`](https://github.com/Thesirix/Korgex/commit/3fbf8fa1ae60f561eb33618fad4cac39ab450142) to [Thesirix/Korgex](https://github.com/Thesirix/Korgex) on `main` - _18h ago_
-5. 🔨 Pushed [`2cac8fb`](https://github.com/Thesirix/Cook2/commit/2cac8fba854965d7da7069fda6abbba3a737fad5) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _1d ago_
+1. 🔨 Pushed [`e0d5df9`](https://github.com/Thesirix/instafidz/commit/e0d5df901c21c2e21af3faa608d0e1f1eb15b430) to [Thesirix/instafidz](https://github.com/Thesirix/instafidz) on `main` - _23h ago_
+2. 🔨 Pushed [`dd52732`](https://github.com/Thesirix/Flutter_Bird/commit/dd52732374a10ff9eb9c5410ffcad56263e42615) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _23h ago_
+3. 🔨 Pushed [`c358430`](https://github.com/Thesirix/Flutter_Bird/commit/c358430ce8293d4796df57dfa35238565b7b35cc) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _1d ago_
+4. 🔨 Pushed [`aebfca4`](https://github.com/Thesirix/FleetPilot/commit/aebfca4e1df4bf3d939c01fc5885ae03611e8997) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _23h ago_
+5. 🔨 Pushed [`18230ec`](https://github.com/Thesirix/SNPB/commit/18230ecc524f9512001f71f667861673678a9acc) to [Thesirix/SNPB](https://github.com/Thesirix/SNPB) on `main` - _23h ago_
 <!-- ACTIVITY_END -->
 
 
