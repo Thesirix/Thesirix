@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`e0d5df9`](https://github.com/Thesirix/instafidz/commit/e0d5df901c21c2e21af3faa608d0e1f1eb15b430) to [Thesirix/instafidz](https://github.com/Thesirix/instafidz) on `main` - _23h ago_
-2. 🔨 Pushed [`dd52732`](https://github.com/Thesirix/Flutter_Bird/commit/dd52732374a10ff9eb9c5410ffcad56263e42615) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _23h ago_
-3. 🔨 Pushed [`c358430`](https://github.com/Thesirix/Flutter_Bird/commit/c358430ce8293d4796df57dfa35238565b7b35cc) to [Thesirix/Flutter_Bird](https://github.com/Thesirix/Flutter_Bird) on `main` - _1d ago_
-4. 🔨 Pushed [`aebfca4`](https://github.com/Thesirix/FleetPilot/commit/aebfca4e1df4bf3d939c01fc5885ae03611e8997) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _23h ago_
-5. 🔨 Pushed [`18230ec`](https://github.com/Thesirix/SNPB/commit/18230ecc524f9512001f71f667861673678a9acc) to [Thesirix/SNPB](https://github.com/Thesirix/SNPB) on `main` - _23h ago_
+1. 🔨 Pushed [`54d5d5a`](https://github.com/Thesirix/FleetPilot/commit/54d5d5afd2b49e5db0541f8e87aa9397d2214083) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _1d ago_
+2. 🔨 Pushed [`c750ef4`](https://github.com/Thesirix/Galaxy/commit/c750ef45d975d9152be70791fdfab8de6d41be77) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _1d ago_
+3. 🔨 Pushed [`37d3492`](https://github.com/Thesirix/UserQuizz/commit/37d3492e92a8fd069a53bbbd1dc098a7b0d5abca) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/questiondatacss` - _1d ago_
+4. 🔨 Pushed [`dcfc08f`](https://github.com/Thesirix/Cook2/commit/dcfc08f0615f4376707c641e5dfe19944cd0a223) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _1d ago_
+5. 🔨 Pushed [`715aacf`](https://github.com/Thesirix/Pizza-Mama/commit/715aacf5d9f60d068af432a22e888117688bb251) to [Thesirix/Pizza-Mama](https://github.com/Thesirix/Pizza-Mama) on `main` - _1d ago_
 <!-- ACTIVITY_END -->
 
 
