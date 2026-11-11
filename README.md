@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`54d5d5a`](https://github.com/Thesirix/FleetPilot/commit/54d5d5afd2b49e5db0541f8e87aa9397d2214083) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _1d ago_
-2. 🔨 Pushed [`c750ef4`](https://github.com/Thesirix/Galaxy/commit/c750ef45d975d9152be70791fdfab8de6d41be77) to [Thesirix/Galaxy](https://github.com/Thesirix/Galaxy) on `main` - _1d ago_
-3. 🔨 Pushed [`37d3492`](https://github.com/Thesirix/UserQuizz/commit/37d3492e92a8fd069a53bbbd1dc098a7b0d5abca) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `feat/questiondatacss` - _1d ago_
-4. 🔨 Pushed [`dcfc08f`](https://github.com/Thesirix/Cook2/commit/dcfc08f0615f4376707c641e5dfe19944cd0a223) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _1d ago_
-5. 🔨 Pushed [`715aacf`](https://github.com/Thesirix/Pizza-Mama/commit/715aacf5d9f60d068af432a22e888117688bb251) to [Thesirix/Pizza-Mama](https://github.com/Thesirix/Pizza-Mama) on `main` - _1d ago_
+1. 🔨 Pushed [`c65f18b`](https://github.com/Thesirix/Assembly_jump/commit/c65f18be1b83fc608c2b2696fec289c22efddfd9) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _1d ago_
+2. 🔨 Pushed [`79f0948`](https://github.com/Thesirix/Thesirix/commit/79f0948c9809730d8693204bb755ff78aff4555f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+3. 🔨 Pushed [`6d05dee`](https://github.com/Thesirix/StreakMaster/commit/6d05dee8fd95cfae31fa399d03b1b448ab8aad2d) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _23h ago_
+4. 🔨 Pushed [`e880b64`](https://github.com/Thesirix/UserQuizz/commit/e880b644b3ebc8e54cd67edcd508e130dd779f18) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _2d ago_
+5. 🔨 Pushed [`ebc817f`](https://github.com/Thesirix/Color-Palette/commit/ebc817f3f6903f59304356b922e2a0a24aacbeaf) to [Thesirix/Color-Palette](https://github.com/Thesirix/Color-Palette) on `main` - _2d ago_
 <!-- ACTIVITY_END -->
 
 
