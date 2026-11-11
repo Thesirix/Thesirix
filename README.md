@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large P \approx 100 \text{ kW}
+\large v \approx \sqrt{\frac{GM}{r}}
 $$
 
-Francis Perrin - **Oklo Natural Reactor Power** (1972)
+Johannes Kepler - **Orbital Velocity** (1619)
 > [!NOTE]
-> The formula used to calculate the power output of the only known natural nuclear fission reactor on Earth (in Gabon). [Read more](https://en.wikipedia.org/wiki/Natural_nuclear_fission_reactor)
+> The speed at which an object orbits around the barycenter of a system, usually around a much more massive body. [Read more](https://en.wikipedia.org/wiki/Orbital_speed)
 <!-- EQUATION_END -->
 
 <br>
