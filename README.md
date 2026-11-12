@@ -208,8 +208,8 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`c65f18b`](https://github.com/Thesirix/Assembly_jump/commit/c65f18be1b83fc608c2b2696fec289c22efddfd9) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _1d ago_
-2. 🔨 Pushed [`79f0948`](https://github.com/Thesirix/Thesirix/commit/79f0948c9809730d8693204bb755ff78aff4555f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+1. 🔨 Pushed [`c65f18b`](https://github.com/Thesirix/Assembly_jump/commit/c65f18be1b83fc608c2b2696fec289c22efddfd9) to [Thesirix/Assembly_jump](https://github.com/Thesirix/Assembly_jump) on `main` - _2d ago_
+2. 🔨 Pushed [`79f0948`](https://github.com/Thesirix/Thesirix/commit/79f0948c9809730d8693204bb755ff78aff4555f) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _2d ago_
 3. 🔨 Pushed [`6d05dee`](https://github.com/Thesirix/StreakMaster/commit/6d05dee8fd95cfae31fa399d03b1b448ab8aad2d) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
 4. 🔨 Pushed [`e880b64`](https://github.com/Thesirix/UserQuizz/commit/e880b644b3ebc8e54cd67edcd508e130dd779f18) to [Thesirix/UserQuizz](https://github.com/Thesirix/UserQuizz) on `main` - _2d ago_
 5. 🔨 Pushed [`ebc817f`](https://github.com/Thesirix/Color-Palette/commit/ebc817f3f6903f59304356b922e2a0a24aacbeaf) to [Thesirix/Color-Palette](https://github.com/Thesirix/Color-Palette) on `main` - _2d ago_
