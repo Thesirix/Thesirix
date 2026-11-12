@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large v \approx \sqrt{\frac{GM}{r}}
+\large \text{Ra} = \frac{g \beta (T_s - T_\infty) L^3}{\nu \alpha}
 $$
 
-Johannes Kepler - **Orbital Velocity** (1619)
+Lord Rayleigh - **Rayleigh Number** (1916)
 > [!NOTE]
-> The speed at which an object orbits around the barycenter of a system, usually around a much more massive body. [Read more](https://en.wikipedia.org/wiki/Orbital_speed)
+> A dimensionless number associated with buoyancy-driven flow, determining if heat transfer is primarily in the form of conduction or convection. [Read more](https://en.wikipedia.org/wiki/Rayleigh_number)
 <!-- EQUATION_END -->
 
 <br>
