@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Ra} = \frac{g \beta (T_s - T_\infty) L^3}{\nu \alpha}
+\large M_J = \left( \frac{5 k_B T}{G m} \right)^{3/2} \left( \frac{3}{4 \pi \rho} \right)^{1/2}
 $$
 
-Lord Rayleigh - **Rayleigh Number** (1916)
+James Jeans - **Jeans Mass** (1902)
 > [!NOTE]
-> A dimensionless number associated with buoyancy-driven flow, determining if heat transfer is primarily in the form of conduction or convection. [Read more](https://en.wikipedia.org/wiki/Rayleigh_number)
+> The critical mass that an interstellar cloud must have to undergo gravitational collapse and form a star. [Read more](https://en.wikipedia.org/wiki/Jeans_instability)
 <!-- EQUATION_END -->
 
 <br>
