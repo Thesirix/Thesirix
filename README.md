@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large M_J = \left( \frac{5 k_B T}{G m} \right)^{3/2} \left( \frac{3}{4 \pi \rho} \right)^{1/2}
+\large \sigma_c = \sqrt{\frac{2E\gamma}{\pi a}}
 $$
 
-James Jeans - **Jeans Mass** (1902)
+Alan Arnold Griffith - **Griffith Criterion** (1920)
 > [!NOTE]
-> The critical mass that an interstellar cloud must have to undergo gravitational collapse and form a star. [Read more](https://en.wikipedia.org/wiki/Jeans_instability)
+> The fundamental thermodynamic condition for crack propagation in fracture mechanics. [Read more](https://en.wikipedia.org/wiki/Fracture_mechanics#Griffith's_criterion)
 <!-- EQUATION_END -->
 
 <br>
