@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \sigma_c = \sqrt{\frac{2E\gamma}{\pi a}}
+\large e^{ix} = \cos x + i \sin x
 $$
 
-Alan Arnold Griffith - **Griffith Criterion** (1920)
+Leonhard Euler - **Euler's Formula for Complex Numbers** (1748)
 > [!NOTE]
-> The fundamental thermodynamic condition for crack propagation in fracture mechanics. [Read more](https://en.wikipedia.org/wiki/Fracture_mechanics#Griffith's_criterion)
+> Establishes the fundamental relationship between the trigonometric functions and the complex exponential function. [Read more](https://en.wikipedia.org/wiki/Euler%27s_formula)
 <!-- EQUATION_END -->
 
 <br>
