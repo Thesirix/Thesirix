@@ -208,10 +208,10 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`66e0387`](https://github.com/Thesirix/Thesirix/commit/66e0387b0fbe7ac12eb79e1794c4de14c78b692d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _14h ago_
-2. 🔨 Pushed [`3e92e86`](https://github.com/Thesirix/Thesirix/commit/3e92e86648557e3503565fae6e92445462a48fc4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _14h ago_
-3. 🔨 Pushed [`b642a58`](https://github.com/Thesirix/Thesirix/commit/b642a58e3dbd1f7323b17cbfe0e781819174ff64) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _14h ago_
-4. 🔨 Pushed [`d9dad42`](https://github.com/Thesirix/Mingle/commit/d9dad42d3a43c41883e78be55b1ebf09091cc6e1) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _15h ago_
+1. 🔨 Pushed [`66e0387`](https://github.com/Thesirix/Thesirix/commit/66e0387b0fbe7ac12eb79e1794c4de14c78b692d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _20h ago_
+2. 🔨 Pushed [`3e92e86`](https://github.com/Thesirix/Thesirix/commit/3e92e86648557e3503565fae6e92445462a48fc4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _20h ago_
+3. 🔨 Pushed [`b642a58`](https://github.com/Thesirix/Thesirix/commit/b642a58e3dbd1f7323b17cbfe0e781819174ff64) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _20h ago_
+4. 🔨 Pushed [`d9dad42`](https://github.com/Thesirix/Mingle/commit/d9dad42d3a43c41883e78be55b1ebf09091cc6e1) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _20h ago_
 5. 🔨 Pushed [`eaf5285`](https://github.com/Thesirix/FleetPilot/commit/eaf5285b0dad1ff7982f320c4c4d012cffbda626) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _4d ago_
 <!-- ACTIVITY_END -->
 
