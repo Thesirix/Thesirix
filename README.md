@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large e^{ix} = \cos x + i \sin x
+\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
 $$
 
-Leonhard Euler - **Euler's Formula for Complex Numbers** (1748)
+Henry Darcy - **Darcy's Law** (1856)
 > [!NOTE]
-> Establishes the fundamental relationship between the trigonometric functions and the complex exponential function. [Read more](https://en.wikipedia.org/wiki/Euler%27s_formula)
+> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
 <!-- EQUATION_END -->
 
 <br>
