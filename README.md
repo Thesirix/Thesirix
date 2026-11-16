@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`1ea1334`](https://github.com/Thesirix/StreakMaster/commit/1ea133476fec6469e3ba009c0c94d94363fee81e) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
-2. 🔨 Pushed [`66e0387`](https://github.com/Thesirix/Thesirix/commit/66e0387b0fbe7ac12eb79e1794c4de14c78b692d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _1d ago_
-3. 🔨 Pushed [`3e92e86`](https://github.com/Thesirix/Thesirix/commit/3e92e86648557e3503565fae6e92445462a48fc4) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _1d ago_
-4. 🔨 Pushed [`b642a58`](https://github.com/Thesirix/Thesirix/commit/b642a58e3dbd1f7323b17cbfe0e781819174ff64) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _1d ago_
-5. 🔨 Pushed [`d9dad42`](https://github.com/Thesirix/Mingle/commit/d9dad42d3a43c41883e78be55b1ebf09091cc6e1) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _1d ago_
+1. 🗑️ Deleted branch `tmp-rewrite` in [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) - _1d ago_
+2. 🔨 Pushed [`66e0387`](https://github.com/Thesirix/Thesirix/commit/66e0387b0fbe7ac12eb79e1794c4de14c78b692d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `main` - _1d ago_
+3. 🔨 Pushed [`346860f`](https://github.com/Thesirix/Thesirix/commit/346860fe1b38aed3177561c92052c65cf44bee86) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _1d ago_
+4. 🔨 Pushed [`1ea1334`](https://github.com/Thesirix/StreakMaster/commit/1ea133476fec6469e3ba009c0c94d94363fee81e) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _2d ago_
+5. 🔨 Pushed [`66e0387`](https://github.com/Thesirix/Thesirix/commit/66e0387b0fbe7ac12eb79e1794c4de14c78b692d) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _1d ago_
 <!-- ACTIVITY_END -->
 
 
