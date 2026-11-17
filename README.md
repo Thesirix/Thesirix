@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large Q = -\frac{kA}{\mu} \frac{\Delta P}{L}
+\large S(x) = \frac{1}{1 + e^{-x}}
 $$
 
-Henry Darcy - **Darcy's Law** (1856)
+Pierre François Verhulst - **Sigmoid Activation Function** (1838)
 > [!NOTE]
-> Describes the flow of a fluid through a porous medium. [Read more](https://en.wikipedia.org/wiki/Darcy%27s_law)
+> An activation function used in artificial neural networks to introduce non-linearity, mapping values between 0 and 1. [Read more](https://en.wikipedia.org/wiki/Sigmoid_function)
 <!-- EQUATION_END -->
 
 <br>
