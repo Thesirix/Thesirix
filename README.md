@@ -208,11 +208,11 @@ Do you have a technical challenge or an app idea? Let's talk.
 <h2 align="center">⚡ Recent Activity</h2>
 
 <!-- ACTIVITY_START -->
-1. 🔨 Pushed [`d962d68`](https://github.com/Thesirix/StreakMaster/commit/d962d68d86ac67cda99f9a9630a56d72b4298c5f) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _1d ago_
-2. 🔨 Pushed [`8df5e03`](https://github.com/Thesirix/Pizza-Mama/commit/8df5e03f107085f769dbad12accf86aa54a41b0a) to [Thesirix/Pizza-Mama](https://github.com/Thesirix/Pizza-Mama) on `main` - _12h ago_
-3. 🔨 Pushed [`7dea91b`](https://github.com/Thesirix/Pizza-Mama/commit/7dea91baed3616e74f4d85486592e5571aa39e8b) to [Thesirix/Pizza-Mama](https://github.com/Thesirix/Pizza-Mama) on `main` - _12h ago_
-4. 🔨 Pushed [`dd38b65`](https://github.com/Thesirix/Mingle/commit/dd38b654d22040bc6e439568ca408323868a56af) to [Thesirix/Mingle](https://github.com/Thesirix/Mingle) on `main` - _14h ago_
-5. 🔨 Pushed [`6dfd3e9`](https://github.com/Thesirix/StreakMaster/commit/6dfd3e919228013885e879244d128eb8d1d9cba2) to [Thesirix/StreakMaster](https://github.com/Thesirix/StreakMaster) on `main` - _8h ago_
+1. 🔨 Pushed [`5dae19d`](https://github.com/Thesirix/Portfolio-3D/commit/5dae19dcfb2d6991da8338778747f73b488ee36f) to [Thesirix/Portfolio-3D](https://github.com/Thesirix/Portfolio-3D) on `main` - _10h ago_
+2. 🔨 Pushed [`326c2e9`](https://github.com/Thesirix/Cook2/commit/326c2e9b11e23da34a409b4c702f5032e8e3138e) to [Thesirix/Cook2](https://github.com/Thesirix/Cook2) on `main` - _2d ago_
+3. 🔨 Pushed [`89cd452`](https://github.com/Thesirix/FleetPilot/commit/89cd45254a0985fc2b93a6fcc5bf7b22ddbfea40) to [Thesirix/FleetPilot](https://github.com/Thesirix/FleetPilot) on `main` - _2d ago_
+4. 🔨 Pushed [`f978d6c`](https://github.com/Thesirix/Thesirix/commit/f978d6ca25baef690cd4752343efd079bf60c977) to [Thesirix/Thesirix](https://github.com/Thesirix/Thesirix) on `tmp-rewrite` - _2d ago_
+5. 🎉 Created branch `main` in [Thesirix/Mingle](https://github.com/Thesirix/Mingle) - _2d ago_
 <!-- ACTIVITY_END -->
 
 
