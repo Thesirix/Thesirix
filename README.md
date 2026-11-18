@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large S(x) = \frac{1}{1 + e^{-x}}
+\large \text{Nu} = \frac{h L}{k}
 $$
 
-Pierre François Verhulst - **Sigmoid Activation Function** (1838)
+Wilhelm Nusselt - **Nusselt Number** (1915)
 > [!NOTE]
-> An activation function used in artificial neural networks to introduce non-linearity, mapping values between 0 and 1. [Read more](https://en.wikipedia.org/wiki/Sigmoid_function)
+> The ratio of convective to conductive heat transfer across a boundary. [Read more](https://en.wikipedia.org/wiki/Nusselt_number)
 <!-- EQUATION_END -->
 
 <br>
