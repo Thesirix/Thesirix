@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \text{Nu} = \frac{h L}{k}
+\large \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
 $$
 
-Wilhelm Nusselt - **Nusselt Number** (1915)
+Bernhard Riemann - **Riemann Zeta Function** (1859)
 > [!NOTE]
-> The ratio of convective to conductive heat transfer across a boundary. [Read more](https://en.wikipedia.org/wiki/Nusselt_number)
+> A function of a complex variable that analytically continues the sum of the Dirichlet series, central to number theory. [Read more](https://en.wikipedia.org/wiki/Riemann_zeta_function)
 <!-- EQUATION_END -->
 
 <br>
