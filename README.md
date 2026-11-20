@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \zeta(s) = \sum_{n=1}^{\infty} \frac{1}{n^s}
+\large \frac{1}{\lambda} = R_H \left( \frac{1}{2^2} - \frac{1}{n^2} \right)
 $$
 
-Bernhard Riemann - **Riemann Zeta Function** (1859)
+Johann Balmer - **Balmer Series** (1885)
 > [!NOTE]
-> A function of a complex variable that analytically continues the sum of the Dirichlet series, central to number theory. [Read more](https://en.wikipedia.org/wiki/Riemann_zeta_function)
+> An empirical formula for the visible spectral line emissions of the hydrogen atom. [Read more](https://en.wikipedia.org/wiki/Balmer_series)
 <!-- EQUATION_END -->
 
 <br>
