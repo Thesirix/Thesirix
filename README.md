@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{1}{\lambda} = R_H \left( \frac{1}{2^2} - \frac{1}{n^2} \right)
+\large \lambda_T = \sqrt{\frac{15 \nu u'^2}{\varepsilon}}
 $$
 
-Johann Balmer - **Balmer Series** (1885)
+G. I. Taylor - **Taylor Microscale** (1935)
 > [!NOTE]
-> An empirical formula for the visible spectral line emissions of the hydrogen atom. [Read more](https://en.wikipedia.org/wiki/Balmer_series)
+> An intermediate length scale in fluid turbulence, representing the scale at which fluid viscosity significantly affects the dynamics. [Read more](https://en.wikipedia.org/wiki/Taylor_microscale)
 <!-- EQUATION_END -->
 
 <br>
