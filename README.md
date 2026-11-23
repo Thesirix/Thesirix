@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large J = \frac{4}{9} \varepsilon_0 \sqrt{\frac{2e}{m}} \frac{V^{3/2}}{d^2}
+\large t \propto V^{5/6}
 $$
 
-Clement Dixon Child & Irving Langmuir - **Child-Langmuir Law** (1911)
+Johann Gottlob Leidenfrost - **The Leidenfrost Effect Time** (1756)
 > [!NOTE]
-> Gives the maximum space-charge-limited current in a vacuum diode. [Read more](https://en.wikipedia.org/wiki/Space_charge#Child's_law)
+> Predicts the lifetime of a water droplet floating on a cushion of its own vapor on a very hot surface. [Read more](https://en.wikipedia.org/wiki/Leidenfrost_effect)
 <!-- EQUATION_END -->
 
 <br>
