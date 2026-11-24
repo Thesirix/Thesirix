@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large t \propto V^{5/6}
+\large \frac{1}{v[(P_0/P)-1]} = \frac{c-1}{v_m c} \left(\frac{P}{P_0}\right) + \frac{1}{v_m c}
 $$
 
-Johann Gottlob Leidenfrost - **The Leidenfrost Effect Time** (1756)
+Stephen Brunauer, Paul Hugh Emmett, & Edward Teller - **BET Isotherm** (1938)
 > [!NOTE]
-> Predicts the lifetime of a water droplet floating on a cushion of its own vapor on a very hot surface. [Read more](https://en.wikipedia.org/wiki/Leidenfrost_effect)
+> Explains the physical adsorption of gas molecules on a solid surface, extending the Langmuir theory to multilayer adsorption. [Read more](https://en.wikipedia.org/wiki/BET_theory)
 <!-- EQUATION_END -->
 
 <br>
