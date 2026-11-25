@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{1}{v[(P_0/P)-1]} = \frac{c-1}{v_m c} \left(\frac{P}{P_0}\right) + \frac{1}{v_m c}
+\large F_d = 6\pi \mu R v
 $$
 
-Stephen Brunauer, Paul Hugh Emmett, & Edward Teller - **BET Isotherm** (1938)
+George Gabriel Stokes - **Stokes' Law** (1851)
 > [!NOTE]
-> Explains the physical adsorption of gas molecules on a solid surface, extending the Langmuir theory to multilayer adsorption. [Read more](https://en.wikipedia.org/wiki/BET_theory)
+> Calculates the frictional force acting on spherical objects with very small Reynolds numbers in a viscous fluid. [Read more](https://en.wikipedia.org/wiki/Stokes%27_law)
 <!-- EQUATION_END -->
 
 <br>
