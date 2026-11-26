@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large F_d = 6\pi \mu R v
+\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
 $$
 
-George Gabriel Stokes - **Stokes' Law** (1851)
+Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
 > [!NOTE]
-> Calculates the frictional force acting on spherical objects with very small Reynolds numbers in a viscous fluid. [Read more](https://en.wikipedia.org/wiki/Stokes%27_law)
+> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
 <!-- EQUATION_END -->
 
 <br>
