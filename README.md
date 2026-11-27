@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \rho \left( \frac{\partial \mathbf{v}}{\partial t} + \mathbf{v} \cdot \nabla \mathbf{v} \right) = -\nabla p + \mu \nabla^2 \mathbf{v} + \mathbf{f}
+\large \frac{\partial g_{ij}}{\partial t} = -2 R_{ij}
 $$
 
-Claude-Louis Navier & George Stokes - **Navier-Stokes Equation (Incompressible)** (1822)
+Richard Hamilton - **Ricci Flow Equation** (1982)
 > [!NOTE]
-> Describes the motion of viscous fluid substances, foundational for aerodynamics and weather forecasting. [Read more](https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_equations)
+> A differential equation describing the deformation of the metric of a Riemannian manifold, famously used by Grigori Perelman to prove the Poincaré conjecture. [Read more](https://en.wikipedia.org/wiki/Ricci_flow)
 <!-- EQUATION_END -->
 
 <br>
