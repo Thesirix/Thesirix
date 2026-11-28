@@ -232,12 +232,12 @@ Do you have a technical challenge or an app idea? Let's talk.
 
 <!-- EQUATION_START -->
 $$
-\large \frac{\partial g_{ij}}{\partial t} = -2 R_{ij}
+\large E_A = \frac{1}{1 + 10^{(R_B - R_A)/400}}
 $$
 
-Richard Hamilton - **Ricci Flow Equation** (1982)
+Arpad Elo - **Elo Expected Score** (1960)
 > [!NOTE]
-> A differential equation describing the deformation of the metric of a Riemannian manifold, famously used by Grigori Perelman to prove the Poincaré conjecture. [Read more](https://en.wikipedia.org/wiki/Ricci_flow)
+> Calculates the expected probability of player A winning against player B based on their respective ratings, widely used in chess and video games. [Read more](https://en.wikipedia.org/wiki/Elo_rating_system)
 <!-- EQUATION_END -->
 
 <br>
